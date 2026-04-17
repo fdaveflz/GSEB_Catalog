@@ -8,12 +8,17 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet">
     <style>
         :root {
-            --primary: #cc0000;
-            --dark:    #1a1a1a;
-            --light-bg:#f5f5f5;
+            --primary:  #cc0000;
+            --dark:     #1a1a1a;
+            --light-bg: #f5f5f5;
+
+            /* Colores por país */
+            --col-colombia: #003893;
+            --col-mexico:   #006847;
+            --col-chile:    #d52b1e;
         }
 
-        body { background: var(--light-bg); font-family: 'Segoe UI', sans-serif; }
+        body { background: var(--light-bg); font-family: 'Segoe UI', sans-serif; margin: 0; }
 
         /* ── COUNTRY BAR ── */
         .country-bar {
@@ -37,12 +42,16 @@
             white-space: nowrap;
             transition: all 0.2s;
         }
-        .country-btn:hover,
-        .country-btn.active {
-            background: var(--primary);
-            border-color: var(--primary);
-            color: white;
-        }
+
+        /* Colores activos por país */
+        .country-btn[data-country=""].active,
+        .country-btn[data-country=""]:hover           { background:#555; border-color:#555; color:white; }
+        .country-btn[data-country="Colombia"].active,
+        .country-btn[data-country="Colombia"]:hover   { background:var(--col-colombia); border-color:var(--col-colombia); color:white; }
+        .country-btn[data-country="México"].active,
+        .country-btn[data-country="México"]:hover     { background:var(--col-mexico); border-color:var(--col-mexico); color:white; }
+        .country-btn[data-country="Chile"].active,
+        .country-btn[data-country="Chile"]:hover      { background:var(--col-chile); border-color:var(--col-chile); color:white; }
 
         /* ── HEADER ── */
         .navbar-custom {
@@ -52,18 +61,10 @@
             justify-content: space-between;
             align-items: center;
         }
-        .navbar-custom h1 {
-            color: white;
-            font-size: 1.3rem;
-            font-weight: 700;
-            margin: 0;
-        }
-        .navbar-custom span {
-            color: rgba(255,255,255,0.75);
-            font-size: 0.82rem;
-        }
+        .navbar-custom h1 { color:white; font-size:1.3rem; font-weight:700; margin:0; }
+        .navbar-custom span { color:rgba(255,255,255,0.75); font-size:0.82rem; }
 
-        /* ── FILTER BAR ── */
+        /* ── FILTER BAR — corregido sin saltos ── */
         .filter-bar {
             background: white;
             border-bottom: 1px solid #e0e0e0;
@@ -74,61 +75,74 @@
             box-shadow: 0 2px 8px rgba(0,0,0,0.06);
         }
 
-        .search-input {
-            border: 2px solid #e0e0e0;
-            border-radius: 8px;
-            padding: 9px 14px;
-            font-size: 0.92rem;
-            transition: border-color 0.2s;
-            width: 100%;
-        }
-        .search-input:focus {
-            border-color: var(--primary);
-            outline: none;
-            box-shadow: none;
+        .filter-row {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            flex-wrap: nowrap;        /* ← evita el salto */
         }
 
+        /* Buscador — ocupa el espacio disponible */
+        .search-wrap {
+            flex: 1 1 auto;
+            min-width: 0;             /* ← clave para que no empuje */
+            display: flex;
+            align-items: center;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            overflow: hidden;
+            background: white;
+            transition: border-color 0.2s;
+        }
+        .search-wrap:focus-within { border-color: var(--primary); }
+
+        .search-wrap .search-icon {
+            padding: 0 10px 0 12px;
+            color: #aaa;
+            font-size: 1rem;
+            flex-shrink: 0;
+        }
+        .search-wrap input {
+            border: none;
+            outline: none;
+            padding: 9px 10px 9px 0;
+            font-size: 0.9rem;
+            width: 100%;
+            background: transparent;
+        }
+
+        /* Selects */
         .filter-select {
+            flex: 0 0 180px;          /* ancho fijo, no crece */
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 9px 10px;
+            font-size: 0.83rem;
+            color: #555;
+            cursor: pointer;
+            transition: border-color 0.2s;
+            background: white;
+        }
+        .filter-select:focus { border-color: var(--primary); outline: none; }
+
+        /* Botón reset */
+        .btn-reset {
+            flex: 0 0 auto;
             border: 2px solid #e0e0e0;
             border-radius: 8px;
             padding: 8px 12px;
-            font-size: 0.85rem;
-            color: #555;
-            cursor: pointer;
-            transition: border-color 0.2s;
-        }
-        .filter-select:focus {
-            border-color: var(--primary);
-            outline: none;
-            box-shadow: none;
-        }
-
-        .chip-scroll {
-            display: flex;
-            gap: 8px;
-            overflow-x: auto;
-            padding-bottom: 2px;
-            scrollbar-width: none;
-            margin-top: 10px;
-        }
-        .chip-scroll::-webkit-scrollbar { display: none; }
-
-        .chip-btn {
-            border: 2px solid #e0e0e0;
-            border-radius: 20px;
-            padding: 5px 14px;
-            font-size: 0.78rem;
             background: white;
-            color: #555;
+            color: #888;
             cursor: pointer;
-            white-space: nowrap;
             transition: all 0.2s;
+            font-size: 0.9rem;
         }
-        .chip-btn:hover,
-        .chip-btn.active {
-            background: var(--primary);
-            border-color: var(--primary);
-            color: white;
+        .btn-reset:hover { border-color: var(--primary); color: var(--primary); }
+
+        /* Responsive: en móvil sí permite wrap */
+        @media (max-width: 640px) {
+            .filter-row { flex-wrap: wrap; }
+            .filter-select { flex: 1 1 calc(50% - 5px); }
         }
 
         /* ── STATS ── */
@@ -173,126 +187,97 @@
             object-fit: contain;
         }
 
+        /* Badge OFERTA */
         .badge-sale {
             position: absolute;
-            top: 10px;
-            left: 10px;
+            top: 10px; left: 10px;
             background: var(--primary);
             color: white;
-            font-size: 0.68rem;
+            font-size: 0.65rem;
+            padding: 3px 8px;
+            border-radius: 10px;
+            font-weight: 700;
+        }
+
+        /* Badge país — color dinámico via JS */
+        .badge-country {
+            position: absolute;
+            top: 10px; right: 10px;
+            color: white;
+            font-size: 0.65rem;
             padding: 3px 8px;
             border-radius: 10px;
             font-weight: 600;
         }
+        .badge-country.co { background: var(--col-colombia); }
+        .badge-country.mx { background: var(--col-mexico); }
+        .badge-country.cl { background: var(--col-chile); }
 
-        .badge-country {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            background: rgba(0,0,0,0.55);
-            color: white;
-            font-size: 0.65rem;
-            padding: 2px 7px;
-            border-radius: 10px;
+        /* Dot indicador de país en card */
+        .country-dot {
+            display: inline-block;
+            width: 8px; height: 8px;
+            border-radius: 50%;
+            margin-right: 4px;
+            vertical-align: middle;
         }
+        .dot-co { background: var(--col-colombia); }
+        .dot-mx { background: var(--col-mexico); }
+        .dot-cl { background: var(--col-chile); }
 
         .product-body { padding: 12px; }
-
         .product-name {
-            font-size: 0.85rem;
-            font-weight: 600;
-            color: var(--dark);
-            margin-bottom: 4px;
-            line-height: 1.3;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            min-height: 36px;
+            font-size: 0.85rem; font-weight: 600; color: var(--dark);
+            margin-bottom: 4px; line-height: 1.3;
+            display: -webkit-box; -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical; overflow: hidden; min-height: 36px;
         }
+        .product-ref   { font-size: 0.72rem; color: #aaa; margin-bottom: 2px; }
+        .product-brand { font-size: 0.75rem; font-weight: 700; color: var(--primary); }
 
-        .product-ref  { font-size: 0.72rem; color: #aaa; margin-bottom: 2px; }
-        .product-brand{ font-size: 0.75rem; font-weight: 700; color: var(--primary); }
-
-        .product-price {
-            font-size: 0.92rem;
-            font-weight: 700;
-            color: var(--dark);
-            margin-top: 6px;
-        }
-        .product-list-price {
-            font-size: 0.75rem;
-            color: #aaa;
-            text-decoration: line-through;
-        }
-        .no-price { font-size: 0.78rem; color: #ccc; margin-top: 6px; }
+        .product-price      { font-size: 0.92rem; font-weight: 700; color: var(--dark); margin-top: 2px; }
+        .product-list-price { font-size: 0.75rem; color: #bbb; text-decoration: line-through; }
+        .product-currency   { font-size: 0.68rem; color: #999; font-weight: 600; margin-left: 3px; }
+        .no-price           { font-size: 0.75rem; color: #ccc; margin-top: 6px; }
 
         .tag-category {
-            display: inline-block;
-            background: #f0f0f0;
-            color: #777;
-            font-size: 0.68rem;
-            padding: 2px 8px;
-            border-radius: 10px;
-            margin-top: 5px;
+            display: inline-block; background: #f0f0f0; color: #777;
+            font-size: 0.68rem; padding: 2px 8px; border-radius: 10px; margin-top: 5px;
         }
 
         /* ── MODAL ── */
         .modal-img {
-            max-height: 260px;
-            object-fit: contain;
-            background: #f9f9f9;
-            border-radius: 10px;
-            padding: 14px;
-            width: 100%;
+            max-height: 260px; object-fit: contain;
+            background: #f9f9f9; border-radius: 10px; padding: 14px; width: 100%;
         }
         .modal-ref-badge {
-            background: #f0f0f0;
-            color: #555;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.8rem;
+            background: #f0f0f0; color: #555;
+            padding: 4px 12px; border-radius: 20px; font-size: 0.8rem;
         }
         .modal-country-badge {
-            background: var(--dark);
-            color: white;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.8rem;
+            color: white; padding: 4px 12px;
+            border-radius: 20px; font-size: 0.8rem; font-weight: 600;
         }
-        .sku-chip {
-            background: #f5f5f5;
-            border: 1px solid #e0e0e0;
-            border-radius: 8px;
-            padding: 6px 10px;
-            font-size: 0.78rem;
-            color: #444;
-        }
+        .modal-country-badge.co { background: var(--col-colombia); }
+        .modal-country-badge.mx { background: var(--col-mexico); }
+        .modal-country-badge.cl { background: var(--col-chile); }
 
+        .sku-chip {
+            background: #f5f5f5; border: 1px solid #e0e0e0;
+            border-radius: 8px; padding: 6px 10px; font-size: 0.78rem; color: #444;
+        }
         .btn-ver {
-            background: var(--primary);
-            color: white;
-            border: none;
-            border-radius: 8px;
-            padding: 10px;
-            font-size: 0.85rem;
-            width: 100%;
-            text-align: center;
-            text-decoration: none;
-            display: block;
-            margin-top: 14px;
-            transition: background 0.2s;
+            background: var(--primary); color: white; border: none;
+            border-radius: 8px; padding: 10px; font-size: 0.85rem;
+            width: 100%; text-align: center; text-decoration: none;
+            display: block; margin-top: 14px; transition: background 0.2s;
         }
         .btn-ver:hover { background: #a80000; color: white; }
 
         /* ── EMPTY / LOADING ── */
         .empty-state { text-align: center; padding: 70px 20px; color: #bbb; }
         .empty-state i { font-size: 3rem; display: block; margin-bottom: 14px; }
-
         .loading-wrap { text-align: center; padding: 80px; color: var(--primary); }
-
-        /* ── PRICE FORMAT ── */
-        .price-block { margin-top: 6px; }
     </style>
 </head>
 <body>
@@ -315,37 +300,24 @@
 
 <!-- FILTER BAR -->
 <div class="filter-bar">
-    <div class="row g-2 align-items-center">
-        <!-- Búsqueda -->
-        <div class="col-12 col-md-5">
-            <div class="input-group">
-                <span class="input-group-text bg-white"
-                      style="border:2px solid #e0e0e0;border-right:none;border-radius:8px 0 0 8px;">
-                    <i class="bi bi-search text-muted"></i>
-                </span>
-                <input type="text" id="searchInput" class="search-input"
-                       placeholder="Buscar por nombre o referencia..."
-                       style="border-left:none;border-radius:0 8px 8px 0;">
-            </div>
+    <div class="filter-row">
+        <!-- Buscador -->
+        <div class="search-wrap">
+            <span class="search-icon"><i class="bi bi-search"></i></span>
+            <input type="text" id="searchInput" placeholder="Buscar por nombre o referencia...">
         </div>
         <!-- Marca -->
-        <div class="col-6 col-md-3">
-            <select id="brandFilter" class="filter-select w-100">
-                <option value="">🏷️ Todas las marcas</option>
-            </select>
-        </div>
+        <select id="brandFilter" class="filter-select">
+            <option value="">🏷️ Todas las marcas</option>
+        </select>
         <!-- Categoría -->
-        <div class="col-6 col-md-3">
-            <select id="categoryFilter" class="filter-select w-100">
-                <option value="">🗂️ Todas las categorías</option>
-            </select>
-        </div>
+        <select id="categoryFilter" class="filter-select">
+            <option value="">🗂️ Todas las categorías</option>
+        </select>
         <!-- Reset -->
-        <div class="col-12 col-md-1 text-end">
-            <button id="resetBtn" class="btn btn-sm btn-outline-secondary w-100" title="Limpiar filtros">
-                <i class="bi bi-x-circle"></i>
-            </button>
-        </div>
+        <button id="resetBtn" class="btn-reset" title="Limpiar filtros">
+            <i class="bi bi-x-circle"></i>
+        </button>
     </div>
 </div>
 
@@ -361,10 +333,8 @@
         <div class="spinner-border" style="width:3rem;height:3rem;" role="status"></div>
         <p class="mt-3 fw-bold">Cargando catálogo...</p>
     </div>
-
     <div id="productGrid" class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-xl-5 g-3"
          style="display:none"></div>
-
     <div id="emptyState" class="empty-state" style="display:none">
         <i class="bi bi-search"></i>
         <h5>Sin resultados</h5>
@@ -372,7 +342,7 @@
     </div>
 </div>
 
-<!-- MODAL DETALLE -->
+<!-- MODAL -->
 <div class="modal fade" id="productModal" tabindex="-1">
     <div class="modal-dialog modal-lg modal-dialog-centered">
         <div class="modal-content border-0 shadow-lg">
@@ -393,12 +363,10 @@
                         </div>
                         <p class="small mb-1">
                             <span class="text-danger fw-bold" id="modalBrand"></span>
-                            <span class="text-muted ms-2" id="modalCategory"></span>
+                            <span class="text-muted ms-2"     id="modalCategory"></span>
                         </p>
                         <p id="modalDescription" class="small text-secondary mt-3 mb-0"></p>
-
                         <div id="modalSkus" class="mt-3"></div>
-
                         <a id="modalLink" href="#" target="_blank" class="btn-ver">
                             <i class="bi bi-box-arrow-up-right me-2"></i>Ver en sitio oficial
                         </a>
@@ -411,269 +379,273 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script>
-    // ── ESTADO GLOBAL ─────────────────────────────────────────
-    let allProducts     = [];
-    let activeCountry   = "";
-    let activeBrand     = "";
-    let activeCategory  = "";
-    let searchQuery     = "";
+// ── CONFIG ────────────────────────────────────────────────────
+const FLAGS = { "Colombia":"🇨🇴", "México":"🇲🇽", "Chile":"🇨🇱" };
 
-    // ── BANDERAS POR PAÍS ─────────────────────────────────────
-    const FLAGS = {
-        "Colombia": "🇨🇴",
-        "México":   "🇲🇽",
-        "Chile":    "🇨🇱",
-    };
+const COUNTRY_CODE = { "Colombia":"co", "México":"mx", "Chile":"cl" };
 
-    // ── FORMATO DE PRECIO ─────────────────────────────────────
-    const CURRENCY = {
-        "Colombia": { locale: "es-CO", currency: "COP" },
-        "México":   { locale: "es-MX", currency: "MXN" },
-        "Chile":    { locale: "es-CL", currency: "CLP" },
-    };
+const CURRENCY_CFG = {
+    "Colombia": { locale:"es-CO", currency:"COP", symbol:"COP" },
+    "México":   { locale:"es-MX", currency:"MXN", symbol:"MXN" },
+    "Chile":    { locale:"es-CL", currency:"CLP", symbol:"CLP" },
+};
 
-    function formatPrice(amount, country) {
-        if (!amount) return null;
-        const cfg = CURRENCY[country] || { locale: "es", currency: "USD" };
-        return new Intl.NumberFormat(cfg.locale, {
-            style: "currency", currency: cfg.currency, maximumFractionDigits: 0
-        }).format(amount);
-    }
+// ── ESTADO ────────────────────────────────────────────────────
+let allProducts    = [];
+let activeCountry  = "";
+let activeBrand    = "";
+let activeCategory = "";
+let searchQuery    = "";
 
-    // ── CARGAR JSON ───────────────────────────────────────────
-    fetch("all_products.json")
-        .then(r => r.json())
-        .then(data => {
-            allProducts = data;
-            buildCountryBar(data);
-            buildSelects(data);
-            renderProducts(data);
-            document.getElementById("loadingWrap").style.display  = "none";
-            document.getElementById("productGrid").style.display  = "";
-        })
-        .catch(() => {
-            document.getElementById("loadingWrap").innerHTML = `
-                <i class="bi bi-exclamation-triangle text-danger" style="font-size:3rem"></i>
-                <p class="mt-3 text-danger fw-bold">No se pudo cargar all_products.json</p>
-                <p class="small text-muted">Asegúrate de correr primero el scraper Python<br>
-                y que el archivo esté en la misma carpeta.</p>`;
+// ── PRECIO ────────────────────────────────────────────────────
+function formatPrice(amount, country) {
+    if (!amount) return null;
+    const cfg = CURRENCY_CFG[country] || { locale:"es", currency:"USD", symbol:"USD" };
+    return new Intl.NumberFormat(cfg.locale, {
+        style:"currency", currency:cfg.currency, maximumFractionDigits:0
+    }).format(amount);
+}
+
+function getCurrencySymbol(country) {
+    return CURRENCY_CFG[country]?.symbol || "";
+}
+
+// ── CARGAR JSON ───────────────────────────────────────────────
+fetch("all_products.json")
+    .then(r => r.json())
+    .then(data => {
+        allProducts = data;
+        buildCountryBar(data);
+        buildSelects(data);
+        renderProducts(data);
+        document.getElementById("loadingWrap").style.display = "none";
+        document.getElementById("productGrid").style.display = "";
+    })
+    .catch(() => {
+        document.getElementById("loadingWrap").innerHTML = `
+            <i class="bi bi-exclamation-triangle text-danger" style="font-size:3rem"></i>
+            <p class="mt-3 text-danger fw-bold">No se pudo cargar all_products.json</p>
+            <p class="small text-muted">Asegúrate de correr primero el scraper Python<br>
+            y que el archivo esté en la misma carpeta.</p>`;
+    });
+
+// ── COUNTRY BAR ───────────────────────────────────────────────
+function buildCountryBar(products) {
+    const countries = [...new Set(products.map(p => p.country).filter(Boolean))].sort();
+    const bar = document.getElementById("countryBar");
+    countries.forEach(c => {
+        const btn = document.createElement("button");
+        btn.className       = "country-btn";
+        btn.dataset.country = c;
+        btn.textContent     = `${FLAGS[c] || "🌐"} ${c}`;
+        btn.addEventListener("click", () => {
+            activeCountry = c;
+            document.querySelectorAll(".country-btn").forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+            rebuildSelects();
+            applyFilters();
         });
-
-    // ── COUNTRY BAR ───────────────────────────────────────────
-    function buildCountryBar(products) {
-        const countries = [...new Set(products.map(p => p.country).filter(Boolean))].sort();
-        const bar = document.getElementById("countryBar");
-        countries.forEach(c => {
-            const btn = document.createElement("button");
-            btn.className       = "country-btn";
-            btn.dataset.country = c;
-            btn.textContent     = `${FLAGS[c] || "🌐"} ${c}`;
-            btn.addEventListener("click", () => {
-                activeCountry = c;
-                document.querySelectorAll(".country-btn").forEach(b => b.classList.remove("active"));
-                btn.classList.add("active");
-                rebuildSelects();
-                applyFilters();
-            });
-            bar.appendChild(btn);
-        });
-    }
-
-    // ── SELECTS MARCA / CATEGORÍA ─────────────────────────────
-    function buildSelects(products) {
-        const brands = [...new Set(products.map(p => p.brand).filter(Boolean))].sort();
-        const cats   = [...new Set(products.map(p => p.category).filter(Boolean))].sort();
-
-        fillSelect("brandFilter",    brands, "🏷️ Todas las marcas");
-        fillSelect("categoryFilter", cats,   "🗂️ Todas las categorías");
-    }
-
-    function rebuildSelects() {
-        let filtered = allProducts;
-        if (activeCountry) filtered = filtered.filter(p => p.country === activeCountry);
-
-        const brands = [...new Set(filtered.map(p => p.brand).filter(Boolean))].sort();
-        const cats   = [...new Set(filtered.map(p => p.category).filter(Boolean))].sort();
-
-        fillSelect("brandFilter",    brands, "🏷️ Todas las marcas");
-        fillSelect("categoryFilter", cats,   "🗂️ Todas las categorías");
-
-        // Reset selects si ya no aplican
-        activeBrand    = "";
-        activeCategory = "";
-    }
-
-    function fillSelect(id, options, placeholder) {
-        const sel = document.getElementById(id);
-        sel.innerHTML = `<option value="">${placeholder}</option>`;
-        options.forEach(o => {
-            const opt = document.createElement("option");
-            opt.value       = o;
-            opt.textContent = o;
-            sel.appendChild(opt);
-        });
-    }
-
-    // ── EVENTOS FILTROS ───────────────────────────────────────
-    document.getElementById("searchInput").addEventListener("input", function () {
-        searchQuery = this.value.toLowerCase().trim();
-        applyFilters();
+        bar.appendChild(btn);
     });
+}
 
-    document.getElementById("brandFilter").addEventListener("change", function () {
-        activeBrand = this.value;
-        applyFilters();
+// ── SELECTS ───────────────────────────────────────────────────
+function buildSelects(products) {
+    const brands = [...new Set(products.map(p => p.brand).filter(Boolean))].sort();
+    const cats   = [...new Set(products.map(p => p.category).filter(Boolean))].sort();
+    fillSelect("brandFilter",    brands, "🏷️ Todas las marcas");
+    fillSelect("categoryFilter", cats,   "🗂️ Todas las categorías");
+}
+
+function rebuildSelects() {
+    let f = allProducts;
+    if (activeCountry) f = f.filter(p => p.country === activeCountry);
+    const brands = [...new Set(f.map(p => p.brand).filter(Boolean))].sort();
+    const cats   = [...new Set(f.map(p => p.category).filter(Boolean))].sort();
+    fillSelect("brandFilter",    brands, "🏷️ Todas las marcas");
+    fillSelect("categoryFilter", cats,   "🗂️ Todas las categorías");
+    activeBrand = ""; activeCategory = "";
+    document.getElementById("brandFilter").value    = "";
+    document.getElementById("categoryFilter").value = "";
+}
+
+function fillSelect(id, options, placeholder) {
+    const sel = document.getElementById(id);
+    sel.innerHTML = `<option value="">${placeholder}</option>`;
+    options.forEach(o => {
+        const opt = document.createElement("option");
+        opt.value = o; opt.textContent = o;
+        sel.appendChild(opt);
     });
+}
 
-    document.getElementById("categoryFilter").addEventListener("change", function () {
-        activeCategory = this.value;
-        applyFilters();
-    });
+// ── EVENTOS ───────────────────────────────────────────────────
+document.getElementById("searchInput").addEventListener("input", function () {
+    searchQuery = this.value.toLowerCase().trim();
+    applyFilters();
+});
+document.getElementById("brandFilter").addEventListener("change", function () {
+    activeBrand = this.value; applyFilters();
+});
+document.getElementById("categoryFilter").addEventListener("change", function () {
+    activeCategory = this.value; applyFilters();
+});
+document.querySelector('[data-country=""]').addEventListener("click", function () {
+    activeCountry = "";
+    document.querySelectorAll(".country-btn").forEach(b => b.classList.remove("active"));
+    this.classList.add("active");
+    buildSelects(allProducts);
+    activeBrand = ""; activeCategory = "";
+    applyFilters();
+});
+document.getElementById("resetBtn").addEventListener("click", () => {
+    activeCountry = ""; activeBrand = ""; activeCategory = ""; searchQuery = "";
+    document.getElementById("searchInput").value    = "";
+    document.getElementById("brandFilter").value    = "";
+    document.getElementById("categoryFilter").value = "";
+    document.querySelectorAll(".country-btn").forEach(b => b.classList.remove("active"));
+    document.querySelector('[data-country=""]').classList.add("active");
+    buildSelects(allProducts);
+    applyFilters();
+});
 
-    // Reset todos los países
-    document.querySelector('[data-country=""]').addEventListener("click", function () {
-        activeCountry = "";
-        document.querySelectorAll(".country-btn").forEach(b => b.classList.remove("active"));
-        this.classList.add("active");
-        buildSelects(allProducts);
-        activeBrand    = "";
-        activeCategory = "";
-        applyFilters();
-    });
+// ── FILTROS ───────────────────────────────────────────────────
+function applyFilters() {
+    let f = allProducts;
+    if (activeCountry)  f = f.filter(p => p.country  === activeCountry);
+    if (activeBrand)    f = f.filter(p => p.brand    === activeBrand);
+    if (activeCategory) f = f.filter(p => p.category === activeCategory);
+    if (searchQuery)    f = f.filter(p =>
+        p.name?.toLowerCase().includes(searchQuery) ||
+        p.reference?.toLowerCase().includes(searchQuery)
+    );
+    const active = [activeCountry, activeBrand, activeCategory, searchQuery].filter(Boolean);
+    document.getElementById("activeFilters").textContent =
+        active.length ? `${active.length} filtro(s) activo(s)` : "";
+    renderProducts(f);
+}
 
-    // Botón reset
-    document.getElementById("resetBtn").addEventListener("click", () => {
-        activeCountry  = "";
-        activeBrand    = "";
-        activeCategory = "";
-        searchQuery    = "";
-        document.getElementById("searchInput").value   = "";
-        document.getElementById("brandFilter").value   = "";
-        document.getElementById("categoryFilter").value= "";
-        document.querySelectorAll(".country-btn").forEach(b => b.classList.remove("active"));
-        document.querySelector('[data-country=""]').classList.add("active");
-        buildSelects(allProducts);
-        applyFilters();
-    });
+// ── RENDER ────────────────────────────────────────────────────
+function renderProducts(products) {
+    const grid  = document.getElementById("productGrid");
+    const empty = document.getElementById("emptyState");
+    const stats = document.getElementById("statsText");
 
-    // ── APLICAR FILTROS ───────────────────────────────────────
-    function applyFilters() {
-        let filtered = allProducts;
+    grid.innerHTML = "";
+    stats.textContent = `Mostrando ${products.length} de ${allProducts.length} productos`;
 
-        if (activeCountry)  filtered = filtered.filter(p => p.country  === activeCountry);
-        if (activeBrand)    filtered = filtered.filter(p => p.brand    === activeBrand);
-        if (activeCategory) filtered = filtered.filter(p => p.category === activeCategory);
-        if (searchQuery)    filtered = filtered.filter(p =>
-            p.name?.toLowerCase().includes(searchQuery) ||
-            p.reference?.toLowerCase().includes(searchQuery)
-        );
-
-        // Info de filtros activos
-        const active = [activeCountry, activeBrand, activeCategory, searchQuery].filter(Boolean);
-        document.getElementById("activeFilters").textContent =
-            active.length ? `${active.length} filtro(s) activo(s)` : "";
-
-        renderProducts(filtered);
+    if (products.length === 0) {
+        grid.style.display  = "none";
+        empty.style.display = "block";
+        return;
     }
+    grid.style.display  = "";
+    empty.style.display = "none";
 
-    // ── RENDER CARDS ──────────────────────────────────────────
-    function renderProducts(products) {
-        const grid  = document.getElementById("productGrid");
-        const empty = document.getElementById("emptyState");
-        const stats = document.getElementById("statsText");
+    products.forEach(p => {
+        const col  = document.createElement("div");
+        col.className = "col";
 
-        grid.innerHTML = "";
-        stats.textContent = `Mostrando ${products.length} de ${allProducts.length} productos`;
+        const code    = COUNTRY_CODE[p.country] || "co";
+        const flag    = FLAGS[p.country] || "🌐";
+        const curr    = getCurrencySymbol(p.country);
 
-        if (products.length === 0) {
-            grid.style.display  = "none";
-            empty.style.display = "block";
-            return;
-        }
-
-        grid.style.display  = "";
-        empty.style.display = "none";
-
-        products.forEach(p => {
-            const col = document.createElement("div");
-            col.className = "col";
-
-            const priceHtml = p.price
-                ? `<div class="price-block">
-                     ${p.on_sale && p.list_price
-                        ? `<div class="product-list-price">${formatPrice(p.list_price, p.country)}</div>`
-                        : ""}
-                     <div class="product-price">${formatPrice(p.price, p.country)}</div>
-                   </div>`
-                : `<div class="no-price">Precio no disponible</div>`;
-
-            const flag    = FLAGS[p.country] || "🌐";
-            const safeP   = JSON.stringify(p).replace(/"/g, "&quot;");
-
-            col.innerHTML = `
-                <div class="product-card" onclick='openModal(${safeP})'>
-                    <div class="product-img-wrap">
-                        ${p.on_sale ? '<span class="badge-sale">OFERTA</span>' : ""}
-                        <span class="badge-country">${flag} ${p.country}</span>
-                        <img src="${p.image || 'https://via.placeholder.com/150?text=Sin+imagen'}"
-                             alt="${p.name}"
-                             onerror="this.src='https://via.placeholder.com/150?text=Sin+imagen'">
-                    </div>
-                    <div class="product-body">
-                        <p class="product-name">${p.name}</p>
-                        <p class="product-ref"><i class="bi bi-upc me-1"></i>${p.reference || "N/A"}</p>
-                        <p class="product-brand">${p.brand || ""}</p>
-                        <span class="tag-category">${p.category || "General"}</span>
-                        ${priceHtml}
-                    </div>
-                </div>`;
-            grid.appendChild(col);
-        });
-    }
-
-    // ── MODAL ─────────────────────────────────────────────────
-    function openModal(p) {
-        document.getElementById("modalImage").src         = p.image || "https://via.placeholder.com/300";
-        document.getElementById("modalName").textContent  = p.name;
-        document.getElementById("modalRef").textContent   = "Ref: " + (p.reference || "N/A");
-        document.getElementById("modalCountry").textContent = `${FLAGS[p.country] || "🌐"} ${p.country}`;
-        document.getElementById("modalBrand").textContent = p.brand || "";
-        document.getElementById("modalCategory").textContent = `· ${p.category || "General"}`;
-        document.getElementById("modalDescription").textContent = p.description || "Sin descripción disponible.";
-        document.getElementById("modalLink").href = p.url || "#";
-
-        // Precio en modal
-        const priceBlock = document.getElementById("modalPriceBlock");
+        // Precio en card
+        let priceHtml = `<div class="no-price">Precio no disponible</div>`;
         if (p.price) {
-            priceBlock.innerHTML = `
-                ${p.on_sale && p.list_price
-                    ? `<div style="text-decoration:line-through;color:#aaa;font-size:0.85rem">
-                         ${formatPrice(p.list_price, p.country)}</div>`
-                    : ""}
-                <div style="font-size:1.4rem;font-weight:700;color:var(--primary)">
-                    ${formatPrice(p.price, p.country)}
-                </div>
-                ${p.on_sale ? '<span class="badge bg-danger">OFERTA</span>' : ""}`;
-        } else {
-            priceBlock.innerHTML = `<span class="text-muted small">Precio no disponible</span>`;
-        }
-
-        // SKUs
-        const skuContainer = document.getElementById("modalSkus");
-        if (p.skus && p.skus.length > 1) {
-            skuContainer.innerHTML = `
-                <p class="small fw-bold text-muted mb-2">
-                    <i class="bi bi-boxes me-1"></i>Variantes (${p.skus.length})
-                </p>
-                <div class="d-flex flex-wrap gap-2">
-                    ${p.skus.map(s => `<span class="sku-chip">${s.sku_name}</span>`).join("")}
+            priceHtml = `
+                <div class="price-block mt-1">
+                    ${p.on_sale && p.list_price
+                        ? `<div class="product-list-price">
+                               ${formatPrice(p.list_price, p.country)}
+                               <span class="product-currency">${curr}</span>
+                           </div>`
+                        : ""}
+                    <div class="product-price">
+                        ${formatPrice(p.price, p.country)}
+                        <span class="product-currency">${curr}</span>
+                    </div>
                 </div>`;
-        } else {
-            skuContainer.innerHTML = "";
         }
 
-        new bootstrap.Modal(document.getElementById("productModal")).show();
+        const safeP = JSON.stringify(p).replace(/"/g, "&quot;");
+
+        col.innerHTML = `
+            <div class="product-card" onclick='openModal(${safeP})'>
+                <div class="product-img-wrap">
+                    ${p.on_sale ? '<span class="badge-sale">OFERTA</span>' : ""}
+                    <span class="badge-country ${code}">${flag} ${p.country}</span>
+                    <img src="${p.image || 'https://via.placeholder.com/150?text=Sin+imagen'}"
+                         alt="${p.name}"
+                         onerror="this.src='https://via.placeholder.com/150?text=Sin+imagen'">
+                </div>
+                <div class="product-body">
+                    <p class="product-name">${p.name}</p>
+                    <p class="product-ref"><i class="bi bi-upc me-1"></i>${p.reference || "N/A"}</p>
+                    <p class="product-brand">
+                        <span class="country-dot dot-${code}"></span>${p.brand || ""}
+                    </p>
+                    <span class="tag-category">${p.category || "General"}</span>
+                    ${priceHtml}
+                </div>
+            </div>`;
+        grid.appendChild(col);
+    });
+}
+
+// ── MODAL ─────────────────────────────────────────────────────
+function openModal(p) {
+    const code = COUNTRY_CODE[p.country] || "co";
+    const curr = getCurrencySymbol(p.country);
+
+    document.getElementById("modalImage").src = p.image || "https://via.placeholder.com/300";
+    document.getElementById("modalName").textContent = p.name;
+    document.getElementById("modalRef").textContent  = "Ref: " + (p.reference || "N/A");
+
+    const countryBadge = document.getElementById("modalCountry");
+    countryBadge.textContent  = `${FLAGS[p.country] || "🌐"} ${p.country}`;
+    countryBadge.className    = `modal-country-badge ${code}`;
+
+    document.getElementById("modalBrand").textContent    = p.brand || "";
+    document.getElementById("modalCategory").textContent = `· ${p.category || "General"}`;
+    document.getElementById("modalDescription").textContent = p.description || "Sin descripción disponible.";
+    document.getElementById("modalLink").href = p.url || "#";
+
+    // Precio modal
+    const pb = document.getElementById("modalPriceBlock");
+    if (p.price) {
+        pb.innerHTML = `
+            ${p.on_sale && p.list_price
+                ? `<div style="text-decoration:line-through;color:#bbb;font-size:0.85rem">
+                       ${formatPrice(p.list_price, p.country)}
+                       <span style="font-size:0.72rem">${curr}</span>
+                   </div>`
+                : ""}
+            <div style="font-size:1.4rem;font-weight:700;color:var(--primary)">
+                ${formatPrice(p.price, p.country)}
+                <span style="font-size:0.85rem;color:#999">${curr}</span>
+            </div>
+            ${p.on_sale ? '<span class="badge bg-danger mt-1">OFERTA</span>' : ""}`;
+    } else {
+        pb.innerHTML = `<span class="text-muted small">Precio no disponible</span>`;
     }
+
+    // SKUs
+    const skuC = document.getElementById("modalSkus");
+    if (p.skus && p.skus.length > 1) {
+        skuC.innerHTML = `
+            <p class="small fw-bold text-muted mb-2">
+                <i class="bi bi-boxes me-1"></i>Variantes (${p.skus.length})
+            </p>
+            <div class="d-flex flex-wrap gap-2">
+                ${p.skus.map(s => `<span class="sku-chip">${s.sku_name}</span>`).join("")}
+            </div>`;
+    } else {
+        skuC.innerHTML = "";
+    }
+
+    new bootstrap.Modal(document.getElementById("productModal")).show();
+}
 </script>
 </body>
 </html>
