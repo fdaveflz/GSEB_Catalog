@@ -2,6 +2,8 @@ import requests
 import json
 import time
 from urllib.parse import urljoin
+from datetime import datetime, timezone
+
 
 SITES = [
     {
@@ -246,3 +248,14 @@ for s in summary:
 print(f"{'─'*55}")
 print(f"  {'TOTAL':<30} → {len(all_sites_products):>4} productos")
 print(f"\n✅ all_products.json listo!")
+
+update_info = {
+    "last_update": datetime.now(timezone.utc).isoformat(),
+    "total_products": len(all_sites_products),
+    "by_site": summary
+}
+
+with open("last_update.json", "w", encoding="utf-8") as f:
+    json.dump(update_info, f, ensure_ascii=False, indent=2)
+
+print("✅ last_update.json guardado")
