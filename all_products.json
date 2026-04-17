@@ -3633,27 +3633,6 @@
     "on_sale": false
   },
   {
-    "name": "Plancha para Asar  IMUSA  Antiadherente Talent",
-    "reference": "5861029294",
-    "brand": "IMUSA",
-    "category": "Planchas para asar",
-    "description": "Plancha para Asar Cuadrada con revestimiento Antiadherente Triforce, 3 veces más durable.| Espesor de 1,7mm, grosor ideal para obetener resultados perfectos.| Base difusora especial para distribuir de manera uniforme el calor e i deal para estufa vitrocerámica, gas y eléctrica| Mangos ergonómicos para asegurar tu agarre.",
-    "url": "https://www.imusa.com.co/plancha-para-asar-imusa-antiadherente-talent/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164190/5861029294-1.jpg?v=637955723905670000",
-    "skus": [
-      {
-        "sku_id": "678",
-        "sku_name": "Plancha para Asar  IMUSA  Antiadherente Talent",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164190/5861029294-1.jpg?v=637955723905670000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 108900.0,
-    "list_price": 108900.0,
-    "on_sale": false
-  },
-  {
     "name": "Set Sartén Jumbo 24cm + Perol 16cm IMUSA Smart con tapa de vidrio",
     "reference": "5861030816",
     "brand": "IMUSA",
@@ -4114,6 +4093,27 @@
     "price": 199900.0,
     "list_price": 326500.0,
     "on_sale": true
+  },
+  {
+    "name": "Plancha para Asar  IMUSA  Antiadherente Talent",
+    "reference": "5861029294",
+    "brand": "IMUSA",
+    "category": "Planchas para asar",
+    "description": "Plancha para Asar Cuadrada con revestimiento Antiadherente Triforce, 3 veces más durable.| Espesor de 1,7mm, grosor ideal para obetener resultados perfectos.| Base difusora especial para distribuir de manera uniforme el calor e i deal para estufa vitrocerámica, gas y eléctrica| Mangos ergonómicos para asegurar tu agarre.",
+    "url": "https://www.imusa.com.co/plancha-para-asar-imusa-antiadherente-talent/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164190/5861029294-1.jpg?v=637955723905670000",
+    "skus": [
+      {
+        "sku_id": "678",
+        "sku_name": "Plancha para Asar  IMUSA  Antiadherente Talent",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164190/5861029294-1.jpg?v=637955723905670000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 108900.0,
+    "list_price": 108900.0,
+    "on_sale": false
   },
   {
     "name": "Ventilador SAMURAI Ultra Silence Force Pared negro",
@@ -9214,8 +9214,8 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 260500.0,
-    "list_price": 260500.0,
+    "price": 180900.0,
+    "list_price": 180900.0,
     "on_sale": false
   },
   {
@@ -10096,8 +10096,8 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 234900.0,
-    "list_price": 234900.0,
+    "price": 226899.0,
+    "list_price": 226899.0,
     "on_sale": false
   },
   {
@@ -10348,8 +10348,8 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 369899.0,
-    "list_price": 369899.0,
+    "price": 299900.0,
+    "list_price": 299900.0,
     "on_sale": false
   },
   {
