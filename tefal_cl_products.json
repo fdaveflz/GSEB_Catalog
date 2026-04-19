@@ -1176,27 +1176,6 @@
     "on_sale": true
   },
   {
-    "name": "Aspiradora Ciclónica Greenforce Max Classic Rowenta",
-    "reference": "2211401251",
-    "brand": "Rowenta",
-    "category": "Aspiradoras de Arrastre",
-    "description": "\"Tecnología ciclónica avanzada que separa de forma óptima la suciedad y el aire, lo cual, incide en la baja reemisión de partículas de polvo durante el aspirado. |\nTecnologia effiwatts que permite un ahorro de hasta un 40%  al consumir hasta 900W mientras aspira a una potencia de hasta 2100W.|\nFiltro HEPA, retiene el máximo de partículas de polvo para un ambiente hogareño limpio y libre de suciedad*.|\nContenedor de polvo de 2,5L. |\nDiseño ecológico, fabricado con 67% de plástico reciclado",
-    "url": "https://www.tefalstore.cl/aspiradora-ciclonica-green-force-max/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199891/label-0.jpg?v=638429209692830000",
-    "skus": [
-      {
-        "sku_id": "266",
-        "sku_name": "Aspiradora Trineo Ciclónica Greenforce Max Classic Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199891/label-0.jpg?v=638429209692830000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 149990.0,
-    "list_price": 219990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Antiadherente Easy Care 20 Piezas Negro Tefal",
     "reference": "2100124692",
     "brand": "Tefal",
@@ -1425,6 +1404,27 @@
     "country": "Chile",
     "price": 79990.0,
     "list_price": 129990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Freidora de Aire Easy Fry & Grill Digital 4,2L Moulinex",
+    "reference": "1510002176",
+    "brand": "Moulinex",
+    "category": "Freidoras de Aire",
+    "description": "Freidora saludable 2 en 1! Una freidora y una parrilla, todo en uno! Más que una simple freidora, su exclusiva tecnología dual también ofrece una rejilla para parrilla de aluminio fundido a presión, para carnes o verduras tiernas y jugosas cocinadas a la perfección. |Por supuesto, la función clásica de freidora de aire promete todos sus resultados dorados y crujientes con poco o ningún aceite agregado.| Con 8 programas automáticos, un control de temperatura desde 80°C a 200°C, un panel de control digital intuitivo y una conveniente función de temporizador, lograr resultados perfectos es fácil. |Incluso es posible deshidratar los alimentos para hacer deliciosos bocadillos saludables  como frutas o verduras secas.| Posee una capacidad XL 4,2L hasta 6 personas, Easy Fry & Grill Precisión para  toda la familia. |¡Es la alternativa perfecta a un horno clásico, para obtener resultados rápidos y un menor consumo de energía! ¿Qué esperas para tener la tuya?",
+    "url": "https://www.tefalstore.cl/freidora-de-aire-easy-fry---grill-digital/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000",
+    "skus": [
+      {
+        "sku_id": "159",
+        "sku_name": "Freidora de Aire Easy Fry & Grill Digital 4,2L",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 69990.0,
+    "list_price": 109990.0,
     "on_sale": true
   },
   {
@@ -1932,6 +1932,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora Ciclónica Greenforce Max Classic Rowenta",
+    "reference": "2211401251",
+    "brand": "Rowenta",
+    "category": "Aspiradoras de Arrastre",
+    "description": "\"Tecnología ciclónica avanzada que separa de forma óptima la suciedad y el aire, lo cual, incide en la baja reemisión de partículas de polvo durante el aspirado. |\nTecnologia effiwatts que permite un ahorro de hasta un 40%  al consumir hasta 900W mientras aspira a una potencia de hasta 2100W.|\nFiltro HEPA, retiene el máximo de partículas de polvo para un ambiente hogareño limpio y libre de suciedad*.|\nContenedor de polvo de 2,5L. |\nDiseño ecológico, fabricado con 67% de plástico reciclado",
+    "url": "https://www.tefalstore.cl/aspiradora-ciclonica-green-force-max/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199891/label-0.jpg?v=638429209692830000",
+    "skus": [
+      {
+        "sku_id": "266",
+        "sku_name": "Aspiradora Trineo Ciclónica Greenforce Max Classic Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199891/label-0.jpg?v=638429209692830000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 149990.0,
+    "list_price": 219990.0,
+    "on_sale": true
+  },
+  {
     "name": "Aspiradora Ciclónica Swift Power Azul 1.5L Rowenta",
     "reference": "7211004084",
     "brand": "Rowenta",
@@ -2097,27 +2118,6 @@
     "country": "Chile",
     "price": 29990.0,
     "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Freidora de Aire Easy Fry & Grill Digital 4,2L Moulinex",
-    "reference": "1510002176",
-    "brand": "Moulinex",
-    "category": "Freidoras de Aire",
-    "description": "Freidora saludable 2 en 1! Una freidora y una parrilla, todo en uno! Más que una simple freidora, su exclusiva tecnología dual también ofrece una rejilla para parrilla de aluminio fundido a presión, para carnes o verduras tiernas y jugosas cocinadas a la perfección. |Por supuesto, la función clásica de freidora de aire promete todos sus resultados dorados y crujientes con poco o ningún aceite agregado.| Con 8 programas automáticos, un control de temperatura desde 80°C a 200°C, un panel de control digital intuitivo y una conveniente función de temporizador, lograr resultados perfectos es fácil. |Incluso es posible deshidratar los alimentos para hacer deliciosos bocadillos saludables  como frutas o verduras secas.| Posee una capacidad XL 4,2L hasta 6 personas, Easy Fry & Grill Precisión para  toda la familia. |¡Es la alternativa perfecta a un horno clásico, para obtener resultados rápidos y un menor consumo de energía! ¿Qué esperas para tener la tuya?",
-    "url": "https://www.tefalstore.cl/freidora-de-aire-easy-fry---grill-digital/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000",
-    "skus": [
-      {
-        "sku_id": "159",
-        "sku_name": "Freidora de Aire Easy Fry & Grill Digital 4,2L",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 109990.0,
     "on_sale": true
   },
   {
