@@ -63,24 +63,24 @@
     "on_sale": true
   },
   {
-    "name": "Set sartenes 24/28cm Daily Cook",
-    "reference": "2100123828",
+    "name": "Sartén de cerámica 24 cm Reinvent Tefal",
+    "reference": "2100128280",
     "brand": "Tefal",
     "category": "Ollas, Sartenes y Woks",
-    "description": "Disfruta de una cocina rica y saludable con el set de sartenes 24/28 cm Daily Cook de Tefal.|\nFabricados en acero inoxidable 18/10 de primera calidad con antiadherente de titanio reforzado.| Gracias a su base de difusión que garantiza una distribución uniforme del calor para obtener resultados homogéneos. Apto para todas las cocinas, incluida las de inducción.|\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.",
-    "url": "https://www.tefalstore.cl/0/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000",
+    "description": "Prepara tus recetas favoritas con la línea de cerámica Reinvent de Tefal|\nCuentan con un nuevo revestimiento antiadherente de cerámica Inoceram, para que tus comidas queden deliciosas sin agregar una gota de aceite a tus preparaciones.|\nEco diseñado, con materiales de menor impacto para el medio ambiente.| Cuerpo de aluminio fabricado con materiales reciclados*|\nTecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.| Todos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluida las de inducción.|\nDiseñado y fabricado en Francia.",
+    "url": "https://www.tefalstore.cl/sarten-24-reinvent/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204833/sarten-24-cm-reinvent-1.jpg?v=638905439611730000",
     "skus": [
       {
-        "sku_id": "272",
-        "sku_name": "Set sartenes 24/28cm Daily Cook",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000"
+        "sku_id": "281",
+        "sku_name": "Sartén 24 CM Reinvent Ceramica Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204833/sarten-24-cm-reinvent-1.jpg?v=638905439611730000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 29990.0,
-    "list_price": 42990.0,
+    "price": 26990.0,
+    "list_price": 36990.0,
     "on_sale": true
   },
   {
@@ -357,27 +357,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén de cerámica 24 cm Reinvent Tefal",
-    "reference": "2100128280",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "Prepara tus recetas favoritas con la línea de cerámica Reinvent de Tefal|\nCuentan con un nuevo revestimiento antiadherente de cerámica Inoceram, para que tus comidas queden deliciosas sin agregar una gota de aceite a tus preparaciones.|\nEco diseñado, con materiales de menor impacto para el medio ambiente.| Cuerpo de aluminio fabricado con materiales reciclados*|\nTecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.| Todos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluida las de inducción.|\nDiseñado y fabricado en Francia.",
-    "url": "https://www.tefalstore.cl/sarten-24-reinvent/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204833/sarten-24-cm-reinvent-1.jpg?v=638905439611730000",
-    "skus": [
-      {
-        "sku_id": "281",
-        "sku_name": "Sartén 24 CM Reinvent Ceramica Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204833/sarten-24-cm-reinvent-1.jpg?v=638905439611730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 26990.0,
-    "list_price": 36990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sartén de cerámica 20 cm Reinvent Tefal",
     "reference": "2100128282",
     "brand": "Tefal",
@@ -501,6 +480,27 @@
     "country": "Chile",
     "price": 26990.0,
     "list_price": 34990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Mango Ingenio",
+    "reference": "2100125708",
+    "brand": "Tefal",
+    "category": "Ingenio",
+    "description": "¡Mango Ingenio, simplifica tu vida! Mango removible ingenio, perfecto para tus ollas y sartenes ingenio y  pasar facilmente de la cocina a la mesa y al refrigerador. | Mecanismo simple de un clic para fijar y con un sistema de seguridad de 3 puntos.",
+    "url": "https://www.tefalstore.cl/mango-ingenio/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201429/proyecto-nuevo.jpg?v=638683331815400000",
+    "skus": [
+      {
+        "sku_id": "210",
+        "sku_name": "Mango Ingenio",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201429/proyecto-nuevo.jpg?v=638683331815400000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 14990.0,
+    "list_price": 19990.0,
     "on_sale": true
   },
   {
@@ -1134,27 +1134,6 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Acero Inoxidable Elementary 7 PCS Tefal",
-    "reference": "2100102570",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "\"Disfruta de tus recetas favoritas con el set de 7 piezas Elementary de Tefal.|\nFabricado en acero inoxidable de primera calidad, marcas medidoras interiores para que tus recetas queden a la perfección. Mangos ergonómicos y tapa de vidrio.|\nSartenes con antiadherente Power Glide y con tecnología Thermo-Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. \nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluidas las de inducción.|\nEste set de 7 piezas está compuesto por: Cacerola 18/16 cm + tapas, Cacerola 14 cm, Sartenes 24/20 cm\"",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-7-piezas-elementary/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200885/label-0.jpg?v=638605466741000000",
-    "skus": [
-      {
-        "sku_id": "279",
-        "sku_name": "Bateria de cocina Acero Inoxidable Elementary 7 Piezas",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200885/label-0.jpg?v=638605466741000000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 59990.0,
-    "list_price": 79990.0,
-    "on_sale": true
-  },
-  {
     "name": "Olla 22 cm  + tapa Super Cook",
     "reference": "2100123980",
     "brand": "Tefal",
@@ -1278,27 +1257,6 @@
     "country": "Chile",
     "price": 22990.0,
     "list_price": 29990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Mango Ingenio",
-    "reference": "2100125708",
-    "brand": "Tefal",
-    "category": "Ingenio",
-    "description": "¡Mango Ingenio, simplifica tu vida! Mango removible ingenio, perfecto para tus ollas y sartenes ingenio y  pasar facilmente de la cocina a la mesa y al refrigerador. | Mecanismo simple de un clic para fijar y con un sistema de seguridad de 3 puntos.",
-    "url": "https://www.tefalstore.cl/mango-ingenio/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201429/proyecto-nuevo.jpg?v=638683331815400000",
-    "skus": [
-      {
-        "sku_id": "210",
-        "sku_name": "Mango Ingenio",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201429/proyecto-nuevo.jpg?v=638683331815400000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 14990.0,
-    "list_price": 19990.0,
     "on_sale": true
   },
   {
@@ -1908,6 +1866,27 @@
     "country": "Chile",
     "price": 49990.0,
     "list_price": 62990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Bateria de cocina Acero Inoxidable Elementary 7 PCS Tefal",
+    "reference": "2100102570",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "\"Disfruta de tus recetas favoritas con el set de 7 piezas Elementary de Tefal.|\nFabricado en acero inoxidable de primera calidad, marcas medidoras interiores para que tus recetas queden a la perfección. Mangos ergonómicos y tapa de vidrio.|\nSartenes con antiadherente Power Glide y con tecnología Thermo-Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. \nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluidas las de inducción.|\nEste set de 7 piezas está compuesto por: Cacerola 18/16 cm + tapas, Cacerola 14 cm, Sartenes 24/20 cm\"",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-7-piezas-elementary/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200885/label-0.jpg?v=638605466741000000",
+    "skus": [
+      {
+        "sku_id": "279",
+        "sku_name": "Bateria de cocina Acero Inoxidable Elementary 7 Piezas",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200885/label-0.jpg?v=638605466741000000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 59990.0,
+    "list_price": 79990.0,
     "on_sale": true
   },
   {
@@ -2622,6 +2601,27 @@
     "country": "Chile",
     "price": 499990.0,
     "list_price": 599990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Rizador de Pelo flex Curl 3 Ajustes con tecnologia sensor Rowenta",
+    "reference": "1830009371",
+    "brand": "Rowenta",
+    "category": "Personal Care",
+    "description": "Rizador 3 en 1: ofrece total versatilidad y resultados perfectos en todo momento gracias a un barril ajustable que permite tres tamaños diferentes de rizos.|\nLooks para cada estilo o momento: barril ajustable (27/32/38 mm) para crear rizos definidos, con rebote o ondas sueltas con solo girar el anillo selector de rizos.|\nRizos que duran hasta 48 horas: nuestra avanzada tecnología de triple sensor garantiza una temperatura constante para lograr resultados increíbles y rizos duraderos.|\nCambio fácil: el anillo selector de rizos permite ajustar el tamaño del barril de forma suave y sencilla para un peinado perfecto y sin esfuerzo.|\n15 años de reparabilidad a un precio justo: recomendamos reparar su producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nPeinado rápido: rizos perfectos tanto para mañanas con prisa como para salidas nocturnas; un peinado fácil para lucir su mejor look en poco tiempo.|\nPeinado sin esfuerzo: experiencia de uso intuitiva con un diseño fácil de manejar y características ergonómicas que permiten un peinado preciso con total facilidad.|\nCuidado total y precisión: 4 ajustes de temperatura precisos (150-210 °C) para adaptarse a todos los tipos de cabello, incluyendo un modo de cuidado a 170 °C para obtener rizos protegidos y saludables.|\nBrillo radiante: el revestimiento cerámico reduce la electricidad estática y el frizz, dejando el cabello suave, manejable y con un brillo luminoso.",
+    "url": "https://www.tefalstore.cl/rizador-de-pelo-flex-curl-3-en-1-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205806/proyecto-nuevo-3.jpg?v=639098877607400000",
+    "skus": [
+      {
+        "sku_id": "383",
+        "sku_name": "Rizador de Pelo flex Curl 3 Ajustes con tecnologia sensor Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205806/proyecto-nuevo-3.jpg?v=639098877607400000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 99990.0,
+    "list_price": 129990.0,
     "on_sale": true
   },
   {
@@ -3444,27 +3444,6 @@
     "on_sale": false
   },
   {
-    "name": "Rizador de Pelo Flex Curl 3 en 1 Rowenta",
-    "reference": "1830009371",
-    "brand": "Rowenta",
-    "category": "Personal Care",
-    "description": "Rizador 3 en 1: ofrece total versatilidad y resultados perfectos en todo momento gracias a un barril ajustable que permite tres tamaños diferentes de rizos.|\nLooks para cada estilo o momento: barril ajustable (27/32/38 mm) para crear rizos definidos, con rebote o ondas sueltas con solo girar el anillo selector de rizos.|\nRizos que duran hasta 48 horas: nuestra avanzada tecnología de triple sensor garantiza una temperatura constante para lograr resultados increíbles y rizos duraderos.|\nCambio fácil: el anillo selector de rizos permite ajustar el tamaño del barril de forma suave y sencilla para un peinado perfecto y sin esfuerzo.|\n15 años de reparabilidad a un precio justo: recomendamos reparar su producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nPeinado rápido: rizos perfectos tanto para mañanas con prisa como para salidas nocturnas; un peinado fácil para lucir su mejor look en poco tiempo.|\nPeinado sin esfuerzo: experiencia de uso intuitiva con un diseño fácil de manejar y características ergonómicas que permiten un peinado preciso con total facilidad.|\nCuidado total y precisión: 4 ajustes de temperatura precisos (150-210 °C) para adaptarse a todos los tipos de cabello, incluyendo un modo de cuidado a 170 °C para obtener rizos protegidos y saludables.|\nBrillo radiante: el revestimiento cerámico reduce la electricidad estática y el frizz, dejando el cabello suave, manejable y con un brillo luminoso.",
-    "url": "https://www.tefalstore.cl/rizador-de-pelo-flex-curl-3-en-1-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205806/proyecto-nuevo-3.jpg?v=639098877607400000",
-    "skus": [
-      {
-        "sku_id": "383",
-        "sku_name": "Rizador de Pelo Flex Curl 3 en 1 Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205806/proyecto-nuevo-3.jpg?v=639098877607400000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": null,
-    "list_price": null,
-    "on_sale": false
-  },
-  {
     "name": "Licuadora de Inmersión Minipimer Infinyforce Pro 4EN1 Moulinex",
     "reference": "7211003929",
     "brand": "Moulinex",
@@ -3798,6 +3777,27 @@
     "country": "Chile",
     "price": 154990.0,
     "list_price": 154990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set sartenes 24/28cm Daily Cook",
+    "reference": "2100123828",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "Disfruta de una cocina rica y saludable con el set de sartenes 24/28 cm Daily Cook de Tefal.|\nFabricados en acero inoxidable 18/10 de primera calidad con antiadherente de titanio reforzado.| Gracias a su base de difusión que garantiza una distribución uniforme del calor para obtener resultados homogéneos. Apto para todas las cocinas, incluida las de inducción.|\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.",
+    "url": "https://www.tefalstore.cl/0/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000",
+    "skus": [
+      {
+        "sku_id": "272",
+        "sku_name": "Set sartenes 24/28cm Daily Cook",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 42990.0,
+    "list_price": 42990.0,
     "on_sale": false
   },
   {
