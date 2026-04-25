@@ -37,7 +37,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1999.0,
+    "price": 1799.0,
     "list_price": 2499.0,
     "on_sale": true
   },
@@ -79,9 +79,30 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2409.0,
+    "price": 1799.0,
     "list_price": 2409.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+    "reference": "5861032684",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
+    "skus": [
+      {
+        "sku_id": "916",
+        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1749.0,
+    "list_price": 1799.0,
+    "on_sale": true
   },
   {
     "name": "Vaporizador Pure Pop Azul, con estilo en cualquier lugar",
@@ -252,27 +273,6 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora Vaso Vidrio Ultraforce Auto",
-    "reference": "5861035291",
-    "brand": "T-fal",
-    "category": "Licuadoras",
-    "description": "* VERSATILIDAD CON 8 VELOCIDADES: Ofrece 8 velocidades más función pulso, permitiendo un control total para diversos tipos de recetas y optimizando el proceso de mezcla según tus necesidades.\n* TECNOLOGÍA POWERLIX PRO DE VANGUARDIA: Con 6 cuchillas de acero inoxidable recubiertas en tritan, esta licuadora es hasta 3 veces más eficiente, proporcionando resultados homogéneos y rápida preparación en cada uso.\n* GRAN CAPACIDAD PARA LICUAR: Su vaso de vidrio templado de 2.2L, con capacidad útil de 1.8L, es ideal para preparar el licuado de toda la familia en una sola operación, simplificando tareas en la cocina.\n* CUERPO ROBUSTO Y ESTILO ELEGANTE: Fabricada en acero inoxidable, ofrece un desempeño duradero y un diseño que se adapta perfectamente a cualquier cocina, aportando funcionalidad y estética.\n* DURABILIDAD SUPERIOR CON ACOPLE METÁLICO: Equipado con un sistema de acople metálico, garantiza una mayor duración y resistencia en cada preparación, asegurando confianza y fiabilidad a largo plazo.",
-    "url": "https://www.t-fal.com.mx/licuadora-vaso-vidrio-ultraforce-auto/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158197/5861035291_LN38PDX0_UltraforceAuto_-1-.jpg?v=638942318668100000",
-    "skus": [
-      {
-        "sku_id": "1008",
-        "sku_name": "Licuadora Vaso Vidrio Ultraforce Auto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158197/5861035291_LN38PDX0_UltraforceAuto_-1-.jpg?v=638942318668100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1919.0,
-    "list_price": 2599.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora 14 V Vaso Vidrio Infinyforce XL",
     "reference": "5861032530",
     "brand": "T-fal",
@@ -394,9 +394,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 799.0,
+    "price": 599.0,
     "list_price": 799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
@@ -457,9 +457,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1999.0,
+    "price": 1499.0,
     "list_price": 1999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set Renew On 20, 24 y 28 cm cerámico Inoceram y base inducción",
@@ -688,9 +688,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1999.0,
+    "price": 1499.0,
     "list_price": 1999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 28cm Daily expert rojo",
@@ -751,9 +751,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 899.0,
+    "price": 699.0,
     "list_price": 899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a presión 12L aluminio, segura y versátil",
@@ -985,6 +985,27 @@
     "price": 1599.0,
     "list_price": 1999.0,
     "on_sale": true
+  },
+  {
+    "name": "Batería 12 piezas Refresh Ceramic Warm Beige",
+    "reference": "2100140958",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Cerámica Inoceram.<br>* Base difusora.<br>* Inducción.<br>* Eco diseño.",
+    "url": "https://www.t-fal.com.mx/bateria-12-piezas-refresh-ceramic-warm-beige/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000",
+    "skus": [
+      {
+        "sku_id": "1089",
+        "sku_name": "Batería 12 piezas Refresh Ceramic Warm Beige",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2699.0,
+    "list_price": 2699.0,
+    "on_sale": false
   },
   {
     "name": "SuperGrill 3 en 1 Parrilla Eléctrica de Contacto, BBQ y Función Horno",
@@ -1801,9 +1822,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
+    "price": 749.0,
     "list_price": 999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Robot de Cocina Easy Soup",
@@ -1825,6 +1846,27 @@
     "price": 2399.0,
     "list_price": 2399.0,
     "on_sale": false
+  },
+  {
+    "name": "Licuadora Vaso Vidrio Ultraforce Auto",
+    "reference": "5861035291",
+    "brand": "T-fal",
+    "category": "Licuadoras",
+    "description": "* VERSATILIDAD CON 8 VELOCIDADES: Ofrece 8 velocidades más función pulso, permitiendo un control total para diversos tipos de recetas y optimizando el proceso de mezcla según tus necesidades.\n* TECNOLOGÍA POWERLIX PRO DE VANGUARDIA: Con 6 cuchillas de acero inoxidable recubiertas en tritan, esta licuadora es hasta 3 veces más eficiente, proporcionando resultados homogéneos y rápida preparación en cada uso.\n* GRAN CAPACIDAD PARA LICUAR: Su vaso de vidrio templado de 2.2L, con capacidad útil de 1.8L, es ideal para preparar el licuado de toda la familia en una sola operación, simplificando tareas en la cocina.\n* CUERPO ROBUSTO Y ESTILO ELEGANTE: Fabricada en acero inoxidable, ofrece un desempeño duradero y un diseño que se adapta perfectamente a cualquier cocina, aportando funcionalidad y estética.\n* DURABILIDAD SUPERIOR CON ACOPLE METÁLICO: Equipado con un sistema de acople metálico, garantiza una mayor duración y resistencia en cada preparación, asegurando confianza y fiabilidad a largo plazo.",
+    "url": "https://www.t-fal.com.mx/licuadora-vaso-vidrio-ultraforce-auto/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158197/5861035291_LN38PDX0_UltraforceAuto_-1-.jpg?v=638942318668100000",
+    "skus": [
+      {
+        "sku_id": "1008",
+        "sku_name": "Licuadora Vaso Vidrio Ultraforce Auto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158197/5861035291_LN38PDX0_UltraforceAuto_-1-.jpg?v=638942318668100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1899.0,
+    "list_price": 2599.0,
+    "on_sale": true
   },
   {
     "name": "Licuadora 10 V Vaso Vidrio Infinyforce XL",
@@ -1864,7 +1906,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3849.0,
+    "price": 3399.0,
     "list_price": 4599.0,
     "on_sale": true
   },
@@ -1906,9 +1948,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 909.0,
+    "price": 699.0,
     "list_price": 909.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Vaso Vidrio Ultraforce Cook",
@@ -2478,6 +2520,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador 3 en 1  Compact Force de 8\"",
+    "reference": "5861036177",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador Compact Force 3 en 1: Descubre la potencia en un tamaño compacto y portable, llevando la frescura a donde quieras. \n* Sus aspas aerodinámicas, malla plástica de 8\" y motor de 30W ofrecen un rendimiento potente en un diseño compacto, y con bajo nivel de ruido que no interrumpirá tus actividades. \n* Su versatilidad es incomparable, diseñado para adaptarse a diferentes ambientes y situaciones, como ventilador de piso, mesa o pared.\n* Cuenta con 3 velocidades ajustables para cualquier momento del día, y un sistema de inclinación de hasta 90° que asegura una distribución óptima del aire. \n* La calidad T-Fal se refleja en sus materiales de alta calidad, fáciles de limpiar y guardar, que no se corroen ni oxidan, prolongando su vida útil.\n* Cuenta con garantía de 2 años contra defectos de materiales o fabricación e incluye instructivo para su uso.",
+    "url": "https://www.t-fal.com.mx/ventilador-3-en-1--compact-force-de-8-918/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159340/CC1020X0_5861036177_VENTILADOR-COMPACT-FORCE-01.jpg?v=639102360860270000",
+    "skus": [
+      {
+        "sku_id": "918",
+        "sku_name": "Ventilador 3 en 1  Compact Force de 8\"",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159340/CC1020X0_5861036177_VENTILADOR-COMPACT-FORCE-01.jpg?v=639102360860270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 699.0,
+    "list_price": 699.0,
+    "on_sale": false
+  },
+  {
     "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
     "reference": "7211005234",
     "brand": "T-fal",
@@ -2578,9 +2641,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 799.0,
+    "price": 599.0,
     "list_price": 799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén Hard Titanium Pro 28 cm, anti-rayaduras, inducción",
@@ -2767,9 +2830,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2149.0,
+    "price": 1599.0,
     "list_price": 2149.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha de vapor Ultragliss Plus Wine Gray, máximo vapor",
@@ -3192,6 +3255,111 @@
     "on_sale": false
   },
   {
+    "name": "Sartén 20cm Delight",
+    "reference": "9100063102",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Mineralia + natural antiadherente.<br>* Thermo-Signal preciso.<br>* Base difusora homogénea.<br>* Mango ergonómico seguro.<br>* Compatible con inducción.",
+    "url": "https://www.t-fal.com.mx/sarten-20cm-delight-1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159600/2100142804_G0120282_SARTEN20CMDELIGHT_01.jpg?v=639126580003330000",
+    "skus": [
+      {
+        "sku_id": "1105",
+        "sku_name": "Sartén 20cm Delight",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159600/2100142804_G0120282_SARTEN20CMDELIGHT_01.jpg?v=639126580003330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 699.0,
+    "list_price": 699.0,
+    "on_sale": false
+  },
+  {
+    "name": "Sartén Delight 24 cm Mineralia+ con inducción",
+    "reference": "9100063100",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Mineralia +  natural antiadherente<br>* Thermo-Signal preciso<br>* Base difusora homogénea<br>* Mango ergonómico seguro<br>* Compatible con inducción",
+    "url": "https://www.t-fal.com.mx/sarten-delight-24-cm-mineralia-con-induccion-1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159594/2100142802_G0120482_SARTEN24CMDELIGHT_01.jpg?v=639126571613200000",
+    "skus": [
+      {
+        "sku_id": "1104",
+        "sku_name": "Sartén Delight 24 cm Mineralia+ con inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159594/2100142802_G0120482_SARTEN24CMDELIGHT_01.jpg?v=639126571613200000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1009.0,
+    "list_price": 1009.0,
+    "on_sale": false
+  },
+  {
+    "name": "Sartén Delight 28 cm Mineralia+ con inducción",
+    "reference": "9100063098",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Mineralia +  natural antiadherente<br>* Thermo-Signal preciso<br>* Base difusora homogénea<br>* Mango ergonómico seguro<br>* Compatible con inducción",
+    "url": "https://www.t-fal.com.mx/sarten-delight-28-cm-mineralia-con-induccion-1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159588/2100142803_G0120682_SARTEN28CMDELIGHT_01.jpg?v=639126545486730000",
+    "skus": [
+      {
+        "sku_id": "1103",
+        "sku_name": "Sartén Delight 28 cm Mineralia+ con inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159588/2100142803_G0120682_SARTEN28CMDELIGHT_01.jpg?v=639126545486730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1289.0,
+    "list_price": 1289.0,
+    "on_sale": false
+  },
+  {
+    "name": "Wok Delight 26 cm Mineralia+",
+    "reference": "9100063096",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Revestimiento Mineralia +  natural<br> * Thermo-Signal preciso<br> * Base difusora homogénea<br> * Mango ergonómico cómodo<br> * Compatible con inducción",
+    "url": "https://www.t-fal.com.mx/wok-delight-26-cm-mineralia/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159582/2100142801_G0127782_WOK26CMDELIGHT-1-.jpg?v=639126538588330000",
+    "skus": [
+      {
+        "sku_id": "1102",
+        "sku_name": "Wok Delight 26 cm Mineralia+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159582/2100142801_G0127782_WOK26CMDELIGHT-1-.jpg?v=639126538588330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1609.0,
+    "list_price": 1609.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set de sartenes Delight 20, 24 y 28 cm Mineralia+ saludable",
+    "reference": "9100061966",
+    "brand": "T-fal",
+    "category": "Sets de sartenes",
+    "description": "* Revestimiento Mineralia +  natural<br>* Thermo-Signal preciso<br>* Base difusora homogénea<br>* Mango ergonómico cómodo<br>* Compatible con inducción",
+    "url": "https://www.t-fal.com.mx/set-de-sartenes-delight-20-24-y-28-cm-mineralia-saludable-1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159576/9100061966_G0120482M20_JGOSTN20-24-28CMDELIGHT_01.jpg?v=639126528689900000",
+    "skus": [
+      {
+        "sku_id": "1101",
+        "sku_name": "Set de sartenes Delight 20, 24 y 28 cm Mineralia+ saludable",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159576/9100061966_G0120482M20_JGOSTN20-24-28CMDELIGHT_01.jpg?v=639126528689900000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 3499.0,
+    "list_price": 3499.0,
+    "on_sale": false
+  },
+  {
     "name": "Juego de sartenes Stone Force 20 y 26 cm Platinum non-stick y Termo-Señal",
     "reference": "2100136116",
     "brand": "T-fal",
@@ -3210,27 +3378,6 @@
     "country": "México",
     "price": 2499.0,
     "list_price": 2499.0,
-    "on_sale": false
-  },
-  {
-    "name": "Batería 12 piezas Refresh Ceramic Warm Beige",
-    "reference": "2100140958",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Cerámica Inoceram.<br>* Base difusora.<br>* Inducción.<br>* Eco diseño.",
-    "url": "https://www.t-fal.com.mx/bateria-12-piezas-refresh-ceramic-warm-beige/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000",
-    "skus": [
-      {
-        "sku_id": "1089",
-        "sku_name": "Batería 12 piezas Refresh Ceramic Warm Beige",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2699.0,
-    "list_price": 2699.0,
     "on_sale": false
   },
   {
@@ -3357,48 +3504,6 @@
     "country": "México",
     "price": 2999.0,
     "list_price": 2999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-    "reference": "5861032684",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
-    "skus": [
-      {
-        "sku_id": "916",
-        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1799.0,
-    "list_price": 1799.0,
-    "on_sale": false
-  },
-  {
-    "name": "Ventilador 3 en 1  Compact Force de 8\"",
-    "reference": "5861036177",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador Compact Force 3 en 1: Descubre la potencia en un tamaño compacto y portable, llevando la frescura a donde quieras. \n* Sus aspas aerodinámicas, malla plástica de 8\" y motor de 30W ofrecen un rendimiento potente en un diseño compacto, y con bajo nivel de ruido que no interrumpirá tus actividades. \n* Su versatilidad es incomparable, diseñado para adaptarse a diferentes ambientes y situaciones, como ventilador de piso, mesa o pared.\n* Cuenta con 3 velocidades ajustables para cualquier momento del día, y un sistema de inclinación de hasta 90° que asegura una distribución óptima del aire. \n* La calidad T-Fal se refleja en sus materiales de alta calidad, fáciles de limpiar y guardar, que no se corroen ni oxidan, prolongando su vida útil.\n* Cuenta con garantía de 2 años contra defectos de materiales o fabricación e incluye instructivo para su uso.",
-    "url": "https://www.t-fal.com.mx/ventilador-3-en-1--compact-force-de-8-918/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159340/CC1020X0_5861036177_VENTILADOR-COMPACT-FORCE-01.jpg?v=639102360860270000",
-    "skus": [
-      {
-        "sku_id": "918",
-        "sku_name": "Ventilador 3 en 1  Compact Force de 8\"",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159340/CC1020X0_5861036177_VENTILADOR-COMPACT-FORCE-01.jpg?v=639102360860270000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 699.0,
-    "list_price": 699.0,
     "on_sale": false
   },
   {
