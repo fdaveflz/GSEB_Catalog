@@ -105,27 +105,6 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Acero Inoxidable Primary 11 PCS Tefal",
-    "reference": "2100118829",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Primary: El juego de ollas para que cocinar sea más fácil, con Tefal Primary, hemos pensado en todo para que usted no tenga que hacerlo. | Este juego de ollas seguro y fácil de usar fue diseñado para hacer que cocinar sea más fácil todos los días. | Enfréntate a nuevas recetas con total facilidad gracias a las marcas de medición en el interior de la olla, los convenientes bordes para verter para mantener tu cocina impecable y una tapa de vidrio transparente con liberación de vapor para retener la humedad óptima para comidas llenas de sabor. | Acero inoxidable 18/10 de larga duración, características de seguridad como manijas ergonómicas que se mantienen frescas, para utensilios de cocina sin complicaciones que garantizan total tranquilidad en la cocina día tras día. día. |Los resultados perfectos se obtienen sin esfuerzo en todos sus favoritos, desde un delicioso espagueti a la boloñesa XL hasta  palomitas de maíz caseras, sopas y mucho más. | Para hacerlo aún más completo viene con utensilios de cocina: Cucharón, cuchara y espátula",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-11-piezas-primary/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205447/2100118829.png?v=639035774796770000",
-    "skus": [
-      {
-        "sku_id": "140",
-        "sku_name": "Bateria de cocina Acero Inoxidable Primary 11 Piezas",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205447/2100118829.png?v=639035774796770000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 99990.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Vertical X-FORCE 13.60 150 AirWatts Animal Care Rowenta",
     "reference": "2211401277",
     "brand": "Rowenta",
@@ -249,6 +228,27 @@
     "country": "Chile",
     "price": 59990.0,
     "list_price": 79990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén de cerámica 28 cm Reinvent Tefal",
+    "reference": "2100128281",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "Prepara tus recetas favoritas con la línea de cerámica Reinvent de Tefal|\nCuentan con un nuevo revestimiento antiadherente de cerámica Inoceram, para que tus comidas queden deliciosas sin agregar una gota de aceite a tus preparaciones.|\nEco diseñado, con materiales de menor impacto para el medio ambiente. |Cuerpo de aluminio fabricado con materiales reciclados*|\nTecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.| Todos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluida las de inducción.|\nDiseñado y fabricado en Francia.",
+    "url": "https://www.tefalstore.cl/sarten-28-reinvent/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204840/sarten-28-cm-reinvent-1.jpg?v=638905439971070000",
+    "skus": [
+      {
+        "sku_id": "282",
+        "sku_name": "Sartén 28 Reinvent",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204840/sarten-28-cm-reinvent-1.jpg?v=638905439971070000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 29990.0,
+    "list_price": 38990.0,
     "on_sale": true
   },
   {
@@ -672,6 +672,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora Vertical X-FORCE FLEX 9.60 100 AirWatts Parquet Rowenta",
+    "reference": "7211005273",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "ASPIRADO PROFUNDO: Un hogar impecable es fácil con esta aspiradora escoba equipada con potencia de succión de alta eficiencia de hasta 100 Air Watts en modo boost|\nNUESTRO MEJOR CEPILLO PARA SUELOS DUROS Y BORDES: Diseño delgado que se adapta a las paredes y bordes difíciles, con iluminación LED para un resultado perfecto|\nLIMPIEZA SIN ESFUERZO: Diseño ultraligero-solo 1,1 kg en modo manual-ofrece alto rendimiento y limpieza sin complicaciones|\nLARGAS SESIONES DE LIMPIEZA: Hasta 45 minutos de uso con una sola carga sin interrupciones en modo manual Eco|\nREPARABILIDAD POR 15 ANOS A PRECIO JUSTO: Recomendamos reparar el producto en nuestra red de 6.200 centros de reparacion en todo el mundo para que dure más|\nALCANZA LO INALCANZABLE: Limpia sin agacharte gracias a la Flex Technology: llega hasta 4 veces mas lejos debajo de los muebles|\nMONITOREO FACIL: Ajusta la potencia según tus necesidades, visualiza la batería restante y recibe alertas de mantenimiento|\nIDEAL PARA DUEÑOS DE MASCOTAS: Solución ideal con accesorio especial para pelos de mascota que cubre textiles del hogar, auto y mas|\nCONTENIDO DE LA CAJA: Aspiradora inalámbrica, base de carga mural, filtro adicional, 2 cepillos fáciles, cepillo para sofá, accesorio de ranura, cepillo turbo para mascotas",
+    "url": "https://www.tefalstore.cl/aspiradora-x-force-flex-9-60-animal-parquet-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205472/01-portada.png?v=639035775115330000",
+    "skus": [
+      {
+        "sku_id": "334",
+        "sku_name": "Aspiradora Vertical X-FORCE FLEX 9.60 100 AirWatts Parquet Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205472/01-portada.png?v=639035775115330000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 139990.0,
+    "list_price": 269990.0,
+    "on_sale": true
+  },
+  {
     "name": "Freidora de Aire Easy Fry XL Surface 4L Moulinex",
     "reference": "1510002932",
     "brand": "Moulinex",
@@ -984,27 +1005,6 @@
     "country": "Chile",
     "price": 36990.0,
     "list_price": 46990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén de cerámica 28 cm Reinvent Tefal",
-    "reference": "2100128281",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "Prepara tus recetas favoritas con la línea de cerámica Reinvent de Tefal|\nCuentan con un nuevo revestimiento antiadherente de cerámica Inoceram, para que tus comidas queden deliciosas sin agregar una gota de aceite a tus preparaciones.|\nEco diseñado, con materiales de menor impacto para el medio ambiente. |Cuerpo de aluminio fabricado con materiales reciclados*|\nTecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.| Todos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluida las de inducción.|\nDiseñado y fabricado en Francia.",
-    "url": "https://www.tefalstore.cl/sarten-28-reinvent/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204840/sarten-28-cm-reinvent-1.jpg?v=638905439971070000",
-    "skus": [
-      {
-        "sku_id": "282",
-        "sku_name": "Sartén 28 Reinvent",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204840/sarten-28-cm-reinvent-1.jpg?v=638905439971070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 38990.0,
     "on_sale": true
   },
   {
@@ -1467,27 +1467,6 @@
     "country": "Chile",
     "price": 18990.0,
     "list_price": 24990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Aspiradora Vertical X-FORCE FLEX 9.60 100 AirWatts Parquet Rowenta",
-    "reference": "7211005273",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Inalámbricas",
-    "description": "ASPIRADO PROFUNDO: Un hogar impecable es fácil con esta aspiradora escoba equipada con potencia de succión de alta eficiencia de hasta 100 Air Watts en modo boost|\nNUESTRO MEJOR CEPILLO PARA SUELOS DUROS Y BORDES: Diseño delgado que se adapta a las paredes y bordes difíciles, con iluminación LED para un resultado perfecto|\nLIMPIEZA SIN ESFUERZO: Diseño ultraligero-solo 1,1 kg en modo manual-ofrece alto rendimiento y limpieza sin complicaciones|\nLARGAS SESIONES DE LIMPIEZA: Hasta 45 minutos de uso con una sola carga sin interrupciones en modo manual Eco|\nREPARABILIDAD POR 15 ANOS A PRECIO JUSTO: Recomendamos reparar el producto en nuestra red de 6.200 centros de reparacion en todo el mundo para que dure más|\nALCANZA LO INALCANZABLE: Limpia sin agacharte gracias a la Flex Technology: llega hasta 4 veces mas lejos debajo de los muebles|\nMONITOREO FACIL: Ajusta la potencia según tus necesidades, visualiza la batería restante y recibe alertas de mantenimiento|\nIDEAL PARA DUEÑOS DE MASCOTAS: Solución ideal con accesorio especial para pelos de mascota que cubre textiles del hogar, auto y mas|\nCONTENIDO DE LA CAJA: Aspiradora inalámbrica, base de carga mural, filtro adicional, 2 cepillos fáciles, cepillo para sofá, accesorio de ranura, cepillo turbo para mascotas",
-    "url": "https://www.tefalstore.cl/aspiradora-x-force-flex-9-60-animal-parquet-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205472/01-portada.png?v=639035775115330000",
-    "skus": [
-      {
-        "sku_id": "334",
-        "sku_name": "Aspiradora Vertical X-FORCE FLEX 9.60 100 AirWatts Parquet Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205472/01-portada.png?v=639035775115330000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 139990.0,
-    "list_price": 269990.0,
     "on_sale": true
   },
   {
@@ -2349,6 +2328,27 @@
     "country": "Chile",
     "price": 49990.0,
     "list_price": 79990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Máquina de Sopa Easy Soup 1,2L Moulinex",
+    "reference": "7211002728",
+    "brand": "Moulinex",
+    "category": "Máquina de Sopa",
+    "description": "Ahorra tiempo en la cocina, usa la Easy Soup de Moulinex para cocinar las más deliciosas sopas y compotas caseras. | Sencilla y rápida, tus preparaciones en 2 clics. | Cuenta con programas automáticos para preparar cremas, sopas, compotas y preparaciones frías. | Gran capacidad total de 1,2 litros. | Cuenta con la mejor tecnología de aislamiento de temperaturas.",
+    "url": "https://www.tefalstore.cl/maquina-de-sopa-easy-soup/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000",
+    "skus": [
+      {
+        "sku_id": "3",
+        "sku_name": "Máquina de Sopa Easy Soup",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 69990.0,
+    "list_price": 99990.0,
     "on_sale": true
   },
   {
@@ -3381,27 +3381,6 @@
     "on_sale": true
   },
   {
-    "name": "Máquina de Sopa Easy Soup 1,2L Moulinex",
-    "reference": "7211002728",
-    "brand": "Moulinex",
-    "category": "Máquina de Sopa",
-    "description": "Ahorra tiempo en la cocina, usa la Easy Soup de Moulinex para cocinar las más deliciosas sopas y compotas caseras. | Sencilla y rápida, tus preparaciones en 2 clics. | Cuenta con programas automáticos para preparar cremas, sopas, compotas y preparaciones frías. | Gran capacidad total de 1,2 litros. | Cuenta con la mejor tecnología de aislamiento de temperaturas.",
-    "url": "https://www.tefalstore.cl/maquina-de-sopa-easy-soup/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000",
-    "skus": [
-      {
-        "sku_id": "3",
-        "sku_name": "Máquina de Sopa Easy Soup",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 99990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
     "reference": "2100139002",
     "brand": "Tefal",
@@ -4029,6 +4008,27 @@
     "country": "Chile",
     "price": 104990.0,
     "list_price": 104990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Bateria de cocina Acero Inoxidable Primary 11 PCS Tefal",
+    "reference": "2100118829",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Primary: El juego de ollas para que cocinar sea más fácil, con Tefal Primary, hemos pensado en todo para que usted no tenga que hacerlo. | Este juego de ollas seguro y fácil de usar fue diseñado para hacer que cocinar sea más fácil todos los días. | Enfréntate a nuevas recetas con total facilidad gracias a las marcas de medición en el interior de la olla, los convenientes bordes para verter para mantener tu cocina impecable y una tapa de vidrio transparente con liberación de vapor para retener la humedad óptima para comidas llenas de sabor. | Acero inoxidable 18/10 de larga duración, características de seguridad como manijas ergonómicas que se mantienen frescas, para utensilios de cocina sin complicaciones que garantizan total tranquilidad en la cocina día tras día. día. |Los resultados perfectos se obtienen sin esfuerzo en todos sus favoritos, desde un delicioso espagueti a la boloñesa XL hasta  palomitas de maíz caseras, sopas y mucho más. | Para hacerlo aún más completo viene con utensilios de cocina: Cucharón, cuchara y espátula",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-11-piezas-primary/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205447/2100118829.png?v=639035774796770000",
+    "skus": [
+      {
+        "sku_id": "140",
+        "sku_name": "Bateria de cocina Acero Inoxidable Primary 11 Piezas",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205447/2100118829.png?v=639035774796770000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 99990.0,
+    "list_price": 99990.0,
     "on_sale": false
   },
   {
