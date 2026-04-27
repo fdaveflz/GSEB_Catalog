@@ -37,7 +37,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 289900.0,
+    "price": 299900.0,
     "list_price": 369899.0,
     "on_sale": true
   },
@@ -58,7 +58,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 369900.0,
+    "price": 379900.0,
     "list_price": 599900.0,
     "on_sale": true
   },
@@ -184,7 +184,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 799900.0,
+    "price": 899900.0,
     "list_price": 1119899.0,
     "on_sale": true
   },
@@ -226,7 +226,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 459900.0,
+    "price": 499900.0,
     "list_price": 544899.0,
     "on_sale": true
   },
@@ -310,7 +310,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 349900.0,
+    "price": 399900.0,
     "list_price": 519900.0,
     "on_sale": true
   },
@@ -331,7 +331,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 359900.0,
+    "price": 419900.0,
     "list_price": 519900.0,
     "on_sale": true
   },
@@ -651,6 +651,27 @@
     "on_sale": true
   },
   {
+    "name": "Pastillas de Limpieza para Espresserias Automaticas Krups",
+    "reference": "8000031569",
+    "brand": "KRUPS",
+    "category": "Repuestos y Accesorios",
+    "description": "Esta pastilla permite realizar una limpieza completa del circuito de agua, con el fin de combatir las partículas grasas. Esto protege el expresso contra el riesgo de sobrecalentamiento.|El programa de limpieza automática se divide en 3 pasos: el ciclo de limpieza en sí, más 2 ciclos de enjuague (de unos 20 minutos).",
+    "url": "https://www.imusa.com.co/pastillas-limpieza-espresserias-krups/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168911/8000031569-1.jpg?v=638581241650730000",
+    "skus": [
+      {
+        "sku_id": "968",
+        "sku_name": "Pastillas de Limpieza para Espresserias Automaticas Krups",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168911/8000031569-1.jpg?v=638581241650730000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 70850.0,
+    "list_price": 70850.0,
+    "on_sale": false
+  },
+  {
     "name": "Licuadora IMUSA Ultraforce 2X, con control de perilla, 3 programas, motor de 1100W, Vaso de Vidrio 2L, Plateada, con Picatodo y Molino",
     "reference": "7211419238",
     "brand": "IMUSA",
@@ -667,7 +688,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 389900.0,
+    "price": 439900.0,
     "list_price": 589899.0,
     "on_sale": true
   },
@@ -835,7 +856,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 349900.0,
+    "price": 379900.0,
     "list_price": 419899.0,
     "on_sale": true
   },
@@ -1087,7 +1108,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 79900.0,
+    "price": 89900.0,
     "list_price": 124900.0,
     "on_sale": true
   },
@@ -1108,29 +1129,8 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 199900.0,
+    "price": 219900.0,
     "list_price": 292899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Licuadora IMUSA Infiny Force 10 Velocidades Negro",
-    "reference": "5861031313",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "Vaso de Vidrio con capacidad de 1,2Litros para que licúes tus deliciosas bebidas para tu familia, a tu gusto y velocidad. | 10 Funciones + Pulso garantizando un control total de tus preparaciones. | Potencia de 600 Watts, ahorrando tiempo y permitiendo mejores resultados. | 6 Cuchillas en acero inoxidable con tecnología powerlix",
-    "url": "https://www.imusa.com.co/licuadora-imusa-infiny-force-10-velocidades-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158305/7702073108562-1.jpg?v=637866220048030000",
-    "skus": [
-      {
-        "sku_id": "26",
-        "sku_name": "Licuadora IMUSA Infiny Force 10 Velocidades Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158305/7702073108562-1.jpg?v=637866220048030000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 129900.0,
-    "list_price": 219900.0,
     "on_sale": true
   },
   {
@@ -1276,7 +1276,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 179900.0,
+    "price": 199900.0,
     "list_price": 279899.0,
     "on_sale": true
   },
@@ -1297,7 +1297,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 249900.0,
+    "price": 259900.0,
     "list_price": 419899.0,
     "on_sale": true
   },
@@ -1591,7 +1591,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 2599900.0,
+    "price": 2999900.0,
     "list_price": 3999900.0,
     "on_sale": true
   },
@@ -1785,48 +1785,6 @@
     "on_sale": false
   },
   {
-    "name": "Accesorio Aqua Slim para X-force Flex 9.60",
-    "reference": "2211401213",
-    "brand": "TEFAL",
-    "category": "Repuestos y accesorios",
-    "description": "La solución ideal para una limpieza sin esfuerzos. |Aspira y trapea en una sola pasada. |Practico pedal para regular o detener el flujo de agua. |Sencillo sistema para adaptar el accesorio a la aspiradora. |Ahorra tiempo y consigue una limpieza completa.",
-    "url": "https://www.imusa.com.co/accesorio-aqua-slim-xforce-flex-9-60/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169087/2211401213-2.jpg?v=638593493917030000",
-    "skus": [
-      {
-        "sku_id": "990",
-        "sku_name": "Accesorio Aqua Slim para X-force Flex 9.60",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169087/2211401213-2.jpg?v=638593493917030000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 164899.0,
-    "list_price": 164899.0,
-    "on_sale": false
-  },
-  {
-    "name": "Pastillas de Limpieza para Espresserias Automaticas Krups",
-    "reference": "8000031569",
-    "brand": "KRUPS",
-    "category": "Repuestos y Accesorios",
-    "description": "Esta pastilla permite realizar una limpieza completa del circuito de agua, con el fin de combatir las partículas grasas. Esto protege el expresso contra el riesgo de sobrecalentamiento.|El programa de limpieza automática se divide en 3 pasos: el ciclo de limpieza en sí, más 2 ciclos de enjuague (de unos 20 minutos).",
-    "url": "https://www.imusa.com.co/pastillas-limpieza-espresserias-krups/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168911/8000031569-1.jpg?v=638581241650730000",
-    "skus": [
-      {
-        "sku_id": "968",
-        "sku_name": "Pastillas de Limpieza para Espresserias Automaticas Krups",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168911/8000031569-1.jpg?v=638581241650730000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 70850.0,
-    "list_price": 70850.0,
-    "on_sale": false
-  },
-  {
     "name": "Freidora de aire IMUSA Easy Fry MEGA 7,5L Digital",
     "reference": "1510002546",
     "brand": "IMUSA",
@@ -1843,7 +1801,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 439900.0,
+    "price": 459900.0,
     "list_price": 769899.0,
     "on_sale": true
   },
@@ -2011,7 +1969,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 829900.0,
+    "price": 849900.0,
     "list_price": 1169900.0,
     "on_sale": true
   },
@@ -2536,7 +2494,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 899900.0,
+    "price": 989900.0,
     "list_price": 1249900.0,
     "on_sale": true
   },
@@ -2688,6 +2646,27 @@
     "on_sale": false
   },
   {
+    "name": "Perol IMUSA Smart antiadherente 16 cm",
+    "reference": "5861029984",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Perol 16cm de diámetro con su revestimiento en Antiadherente Basic, nada se pega y fácil de lavar. | Espesor de 1,2mm para que tus deliciosas preparaciones queden en el punto ideal. | Base difusora para una cocción homogénea y preparaciones en su punto. | Mangos ergonómicos para un agarre cómodo y seguro.",
+    "url": "https://www.imusa.com.co/perol-imusa-smart-antiadherente-16-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164788/5861029984-1.jpg?v=637971587748500000",
+    "skus": [
+      {
+        "sku_id": "60",
+        "sku_name": "Perol IMUSA Smart antiadherente 16 cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164788/5861029984-1.jpg?v=637971587748500000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 56899.0,
+    "list_price": 56899.0,
+    "on_sale": false
+  },
+  {
     "name": "Perol IMUSA Talent con tapa de vidrio 10cm",
     "reference": "5861029283",
     "brand": "IMUSA",
@@ -2791,6 +2770,27 @@
     "price": 50899.0,
     "list_price": 50899.0,
     "on_sale": false
+  },
+  {
+    "name": "Licuadora IMUSA Infiny Force 10 Velocidades Negro",
+    "reference": "5861031313",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "Vaso de Vidrio con capacidad de 1,2Litros para que licúes tus deliciosas bebidas para tu familia, a tu gusto y velocidad. | 10 Funciones + Pulso garantizando un control total de tus preparaciones. | Potencia de 600 Watts, ahorrando tiempo y permitiendo mejores resultados. | 6 Cuchillas en acero inoxidable con tecnología powerlix",
+    "url": "https://www.imusa.com.co/licuadora-imusa-infiny-force-10-velocidades-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158305/7702073108562-1.jpg?v=637866220048030000",
+    "skus": [
+      {
+        "sku_id": "26",
+        "sku_name": "Licuadora IMUSA Infiny Force 10 Velocidades Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158305/7702073108562-1.jpg?v=637866220048030000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 129900.0,
+    "list_price": 219900.0,
+    "on_sale": true
   },
   {
     "name": "Wok IMUSA Talent Master con tapa de vidrio 24 cm",
@@ -3082,7 +3082,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 429900.0,
+    "price": 449900.0,
     "list_price": 624899.0,
     "on_sale": true
   },
@@ -3124,7 +3124,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 699900.0,
+    "price": 799900.0,
     "list_price": 899899.0,
     "on_sale": true
   },
@@ -3315,6 +3315,27 @@
     "country": "Colombia",
     "price": 94900.0,
     "list_price": 94900.0,
+    "on_sale": false
+  },
+  {
+    "name": "Accesorio Aqua Slim para X-force Flex 9.60",
+    "reference": "2211401213",
+    "brand": "TEFAL",
+    "category": "Repuestos y accesorios",
+    "description": "La solución ideal para una limpieza sin esfuerzos. |Aspira y trapea en una sola pasada. |Practico pedal para regular o detener el flujo de agua. |Sencillo sistema para adaptar el accesorio a la aspiradora. |Ahorra tiempo y consigue una limpieza completa.",
+    "url": "https://www.imusa.com.co/accesorio-aqua-slim-xforce-flex-9-60/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169087/2211401213-2.jpg?v=638593493917030000",
+    "skus": [
+      {
+        "sku_id": "990",
+        "sku_name": "Accesorio Aqua Slim para X-force Flex 9.60",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169087/2211401213-2.jpg?v=638593493917030000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 164899.0,
+    "list_price": 164899.0,
     "on_sale": false
   },
   {
@@ -3547,6 +3568,27 @@
     "price": 69900.0,
     "list_price": 102900.0,
     "on_sale": true
+  },
+  {
+    "name": "Repuesto de Válvula de Seguridad de 2 posiciones para Ollas a presión con cierre interno x3 unidades",
+    "reference": "5861032617",
+    "brand": "IMUSA",
+    "category": "Repuestos y Accesorios",
+    "description": "Producto X3 unidades | Compatible con todas las ollas a presión IMUSA cierre interno | Garantía 3 meses",
+    "url": "https://www.imusa.com.co/repuesto-valvula-seguridad-olla-presion-cierre-interno-3unidades/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168194/5861030187-5.jpg?v=638346220081200000",
+    "skus": [
+      {
+        "sku_id": "911",
+        "sku_name": "Repuesto de Válvula de Seguridad de 2 posiciones para Ollas a presión con cierre interno x3 unidades",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168194/5861030187-5.jpg?v=638346220081200000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 15949.0,
+    "list_price": 15949.0,
+    "on_sale": false
   },
   {
     "name": "Repuesto para perilla y tornillo para Tapa de Vidrio IMUSA de 24cm o mas grande",
@@ -4405,7 +4447,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 109900.0,
+    "price": 119900.0,
     "list_price": 164899.0,
     "on_sale": true
   },
@@ -4492,27 +4534,6 @@
     "price": 219900.0,
     "list_price": 292899.0,
     "on_sale": true
-  },
-  {
-    "name": "Perol IMUSA Smart antiadherente 16 cm",
-    "reference": "5861029984",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Perol 16cm de diámetro con su revestimiento en Antiadherente Basic, nada se pega y fácil de lavar. | Espesor de 1,2mm para que tus deliciosas preparaciones queden en el punto ideal. | Base difusora para una cocción homogénea y preparaciones en su punto. | Mangos ergonómicos para un agarre cómodo y seguro.",
-    "url": "https://www.imusa.com.co/perol-imusa-smart-antiadherente-16-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164788/5861029984-1.jpg?v=637971587748500000",
-    "skus": [
-      {
-        "sku_id": "60",
-        "sku_name": "Perol IMUSA Smart antiadherente 16 cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164788/5861029984-1.jpg?v=637971587748500000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 56899.0,
-    "list_price": 56899.0,
-    "on_sale": false
   },
   {
     "name": "Espátula para Pancake TEFAL Fresh Kitchen en PET",
@@ -4617,27 +4638,6 @@
     "country": "Colombia",
     "price": 242900.0,
     "list_price": 308900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sanduchera IMUSA Panini Basic, Recubrimiento Antiadherente, 2 Porciones, 700 Watts",
-    "reference": "1510002823",
-    "brand": "IMUSA",
-    "category": "Grill Y Sanducheras",
-    "description": "PLACAS ANTIADHERENTES TIPO PANINI: Evitan que los alimentos se peguen, garantizando una cocción uniforme y fácil desmolde. |EFICIENCIA EN LA COCINA: Prepara dos porciones simultáneamente, ahorrando tiempo y esfuerzo. |FÁCIL DE LIMPIAR Y ALMACENAR: Gracias a su diseño compacto y materiales antiadherentes, permite una limpieza rápida y sin complicaciones. Ideal para espacios reducidos. |LUCES INDICADORAS: Te avisan cuándo está encendida y lista para usar, brindando mayor seguridad y control durante la cocción. |CIERRE SEGURO Y SIN COMPLICACIONES: Diseñado con un sistema de bloqueo que evita aperturas accidentales, brindándote tranquilidad y protección en cada uso. |RESPALDO DE CALIDAD IMUSA Y 2 AÑOS DE GARANTÍA: ofreciendo durabilidad, respaldo local y excelente desempeño en tu cocina día tras día.",
-    "url": "https://www.imusa.com.co/sanduchera-imusa-panini-basic-recubrimiento-antiadherente-2-porciones-700-watts/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171362/1510002823-1.jpg?v=638925005031200000",
-    "skus": [
-      {
-        "sku_id": "1536",
-        "sku_name": "Sanduchera IMUSA Panini Basic, Recubrimiento Antiadherente, 2 Porciones, 700 Watts",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171362/1510002823-1.jpg?v=638925005031200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 89900.0,
-    "list_price": 124900.0,
     "on_sale": true
   },
   {
@@ -4893,27 +4893,6 @@
     "on_sale": true
   },
   {
-    "name": "Repuesto de Válvula de Seguridad de 2 posiciones para Ollas a presión con cierre interno x3 unidades",
-    "reference": "5861032617",
-    "brand": "IMUSA",
-    "category": "Repuestos y Accesorios",
-    "description": "Producto X3 unidades | Compatible con todas las ollas a presión IMUSA cierre interno | Garantía 3 meses",
-    "url": "https://www.imusa.com.co/repuesto-valvula-seguridad-olla-presion-cierre-interno-3unidades/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168194/5861030187-5.jpg?v=638346220081200000",
-    "skus": [
-      {
-        "sku_id": "911",
-        "sku_name": "Repuesto de Válvula de Seguridad de 2 posiciones para Ollas a presión con cierre interno x3 unidades",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168194/5861030187-5.jpg?v=638346220081200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 15949.0,
-    "list_price": 15949.0,
-    "on_sale": false
-  },
-  {
     "name": "Repuesto de Válvula Reguladora Olla a Presión IMUSA Secury Control / Secury Control Plus",
     "reference": "5861024489",
     "brand": "IMUSA",
@@ -4956,24 +4935,24 @@
     "on_sale": false
   },
   {
-    "name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 3L - 4,5L",
-    "reference": "5861024485",
-    "brand": "IMUSA",
-    "category": "Repuestos y Accesorios",
-    "description": "Compatible con ollas a presión SecuryPlus 3 - 4.5 Litros y ollas a presión Smart | Elaborado en silicona, es flexible facilitando su manipulación | No genera olores, es fácil de lavar y los alimentos no se adhieren a este",
-    "url": "https://www.imusa.com.co/repuesto-empaque-olla-presion-imusa-secury-plus-3l-4l/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168161/5861024485-1.jpg?v=638346219903800000",
+    "name": "Repuesto de Vaso Plástico para Licuadora SAMURAI Optimix",
+    "reference": "5861024147",
+    "brand": "SAMURAI",
+    "category": "Repuestos",
+    "description": "Capacidad total de 2 Litros y capacidad útil de 1.75 Litros | Piezas desmontables que facilitan la limpieza | Compatible con todas las licuadoras Optimix Plus Samurai",
+    "url": "https://www.imusa.com.co/repuesto-vaso-plastico-licuadora-samurai-optimix/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168157/5861024147-1.jpg?v=638346219881530000",
     "skus": [
       {
-        "sku_id": "903",
-        "sku_name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 3L - 4,5L",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168161/5861024485-1.jpg?v=638346219903800000"
+        "sku_id": "902",
+        "sku_name": "Repuesto de Vaso Plástico para Licuadora SAMURAI Optimix",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168157/5861024147-1.jpg?v=638346219881530000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 10149.0,
-    "list_price": 10149.0,
+    "price": 15749.0,
+    "list_price": 15749.0,
     "on_sale": false
   },
   {
@@ -5224,7 +5203,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 2199900.0,
+    "price": 2499900.0,
     "list_price": 3224900.0,
     "on_sale": true
   },
@@ -6085,7 +6064,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 4599900.0,
+    "price": 4999900.0,
     "list_price": 5499900.0,
     "on_sale": true
   },
@@ -6127,30 +6106,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 3599900.0,
+    "price": 4199900.0,
     "list_price": 4784899.0,
     "on_sale": true
-  },
-  {
-    "name": "Repuesto de perilla de oscilación para Ventilador SAMURAI",
-    "reference": "9100006023",
-    "brand": "SAMURAI",
-    "category": "Repuestos",
-    "description": "Pieza de Plástico | Compatible con los ventiladores AIRPROTEC/ AIRMAX/ TROPICAL PLUS/ TURBO POWER/ TURBO SILENCE /SILENCE FORCE Y ULTRA SILENCE | Al presionar permite que el ventilador gire de un lado a otro y al levantar permite que se detenga para ventilar un punto fijo.",
-    "url": "https://www.imusa.com.co/repuesto-perilla-oscilacion-ventilador-samurai/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168206/7122013741-4.jpg?v=638346220145000000",
-    "skus": [
-      {
-        "sku_id": "914",
-        "sku_name": "Repuesto de perilla de oscilación para Ventilador SAMURAI",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168206/7122013741-4.jpg?v=638346220145000000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 1299.0,
-    "list_price": 1299.0,
-    "on_sale": false
   },
   {
     "name": "Repuesto de Cuchilla para Licuadora SAMURAI Optimix Negra",
@@ -6174,24 +6132,24 @@
     "on_sale": false
   },
   {
-    "name": "Repuesto de Vaso Plástico para Licuadora SAMURAI Optimix",
-    "reference": "5861024147",
-    "brand": "SAMURAI",
-    "category": "Repuestos",
-    "description": "Capacidad total de 2 Litros y capacidad útil de 1.75 Litros | Piezas desmontables que facilitan la limpieza | Compatible con todas las licuadoras Optimix Plus Samurai",
-    "url": "https://www.imusa.com.co/repuesto-vaso-plastico-licuadora-samurai-optimix/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168157/5861024147-1.jpg?v=638346219881530000",
+    "name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 3L - 4,5L",
+    "reference": "5861024485",
+    "brand": "IMUSA",
+    "category": "Repuestos y Accesorios",
+    "description": "Compatible con ollas a presión SecuryPlus 3 - 4.5 Litros y ollas a presión Smart | Elaborado en silicona, es flexible facilitando su manipulación | No genera olores, es fácil de lavar y los alimentos no se adhieren a este",
+    "url": "https://www.imusa.com.co/repuesto-empaque-olla-presion-imusa-secury-plus-3l-4l/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168161/5861024485-1.jpg?v=638346219903800000",
     "skus": [
       {
-        "sku_id": "902",
-        "sku_name": "Repuesto de Vaso Plástico para Licuadora SAMURAI Optimix",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168157/5861024147-1.jpg?v=638346219881530000"
+        "sku_id": "903",
+        "sku_name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 3L - 4,5L",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168161/5861024485-1.jpg?v=638346219903800000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 15749.0,
-    "list_price": 15749.0,
+    "price": 10149.0,
+    "list_price": 10149.0,
     "on_sale": false
   },
   {
@@ -8190,27 +8148,6 @@
     "on_sale": false
   },
   {
-    "name": "Batería Excite Bronze 14 pzas antiadherente",
-    "reference": "2100108568",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Recubrimiento antiadherente de alta resistencia que permite cocinar con menos grasa y asegura una limpieza sencilla tras cada uso. \n* Tapas de vidrio con salida de vapor. \n* Diseñadas para controlar el proceso de cocción sin necesidad de levantarlas ni perder calor. \n* Base difusora que distribuye el calor uniformemente. \n* Evitando puntos calientes y garantizando resultados homogéneos en cada preparación. \n* Incluye utensilios prácticos como escurridor y cucharas medidoras. \n* libres de BPA y resistentes al calor para mayor seguridad. \n* Compatible con todas las cocinas excepto inducción y apta para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/bateria-excite-bronze-14-pzas-antiadherente/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000",
-    "skus": [
-      {
-        "sku_id": "966",
-        "sku_name": "Batería Excite Bronze 14 pzas antiadherente",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
-    "on_sale": false
-  },
-  {
     "name": "Vaporizador Pure Pop Verde, con estilo en cualquier lugar",
     "reference": "1830009127",
     "brand": "T-fal",
@@ -8293,6 +8230,27 @@
     "price": 1499.0,
     "list_price": 1999.0,
     "on_sale": true
+  },
+  {
+    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+    "reference": "2100122016",
+    "brand": "T-fal",
+    "category": "Sets de cuchillos",
+    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
+    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
+    "skus": [
+      {
+        "sku_id": "1041",
+        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 309.0,
+    "list_price": 309.0,
+    "on_sale": false
   },
   {
     "name": "Sartén Hard Titanium Pro 20 cm anti-rayaduras y base de inducción",
@@ -9300,27 +9258,6 @@
     "country": "México",
     "price": 1499.0,
     "list_price": 1499.0,
-    "on_sale": false
-  },
-  {
-    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-    "reference": "2100122016",
-    "brand": "T-fal",
-    "category": "Sets de cuchillos",
-    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
-    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
-    "skus": [
-      {
-        "sku_id": "1041",
-        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 309.0,
-    "list_price": 309.0,
     "on_sale": false
   },
   {
@@ -10372,6 +10309,27 @@
     "price": 6819.0,
     "list_price": 8499.0,
     "on_sale": true
+  },
+  {
+    "name": "Batería Excite Bronze 14 pzas antiadherente",
+    "reference": "2100108568",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Recubrimiento antiadherente de alta resistencia que permite cocinar con menos grasa y asegura una limpieza sencilla tras cada uso. \n* Tapas de vidrio con salida de vapor. \n* Diseñadas para controlar el proceso de cocción sin necesidad de levantarlas ni perder calor. \n* Base difusora que distribuye el calor uniformemente. \n* Evitando puntos calientes y garantizando resultados homogéneos en cada preparación. \n* Incluye utensilios prácticos como escurridor y cucharas medidoras. \n* libres de BPA y resistentes al calor para mayor seguridad. \n* Compatible con todas las cocinas excepto inducción y apta para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/bateria-excite-bronze-14-pzas-antiadherente/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000",
+    "skus": [
+      {
+        "sku_id": "966",
+        "sku_name": "Batería Excite Bronze 14 pzas antiadherente",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
+    "on_sale": false
   },
   {
     "name": "Ventilador de Torre  Eole Ultra con Control Remoto, modos automáticos y temporizador",
@@ -11592,6 +11550,27 @@
     "on_sale": true
   },
   {
+    "name": "Picadora bowl de vidrio XXL 2L 500W Moulinex",
+    "reference": "7211419328",
+    "brand": "Moulinex",
+    "category": "Picadoras y Ralladores",
+    "description": "Picadora con bowl de vidrio de borosilicato ultraresistente de Moulinex|\nEsta picadora con bowl de vidrio de borosilicato ultraresistente  que ofrece resistencia a los golpes y durabilidad.|\nVersatilidad en todas tus preparaciones gracias a las 2 configuraciones de velocidad, para que puedas picar y mezclar, desde quesos, frutos secos, verduras, carnes y más.|\nRendimiento total, gracias a sus 4 cuchillas de acero inoxidable|\nCuchillas extraíbles para una fácil limpieza y piezas extraíbles aptas para lavavajillas (excluyendo la base del motor) |\nPotente motor de 500W",
+    "url": "https://www.tefalstore.cl/picadora-bowl-de-vidrio-xxl-2l/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204937/foto-1-picadora-de-vidrio.jpg?v=638913887776700000",
+    "skus": [
+      {
+        "sku_id": "297",
+        "sku_name": "Picadora Bowl de vidrio XXL 2L 500W",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204937/foto-1-picadora-de-vidrio.jpg?v=638913887776700000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 36990.0,
+    "list_price": 49990.0,
+    "on_sale": true
+  },
+  {
     "name": "Sartén de cerámica 28 cm Reinvent Tefal",
     "reference": "2100128281",
     "brand": "Tefal",
@@ -11778,27 +11757,6 @@
     "country": "Chile",
     "price": 419990.0,
     "list_price": 499990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén 26 cm Unlimited",
-    "reference": "2100112291",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "Sartén antirayaduras Tefal Unlimited: el mejor revestimiento antiadherente y antiarayaduras! No se raya, no se pega ni se rompe: elegir el sartén adecuado puede marcar la diferencia. | Tefal está a la altura de las circunstancias y ha diseñado un menaje de cocina que resiste a las situaciones más extremas. |El sartén Unlimited de Tefal, es extremadamente duradero y dispone de unos estándares de calidad impecables. | El nuevo revestimiento de titanio antirayaduras y antiadherente dura seis veces más*. |Combina la comodidad de un revestimiento antiadherente con una extrema resistencia a las rayaduras, hasta con utensilios de metal. | Resultados que hacen agua la boca con muy poco esfuerzo. |Podrás cocinar a la plancha sin siquiera añadir aceite. | Este sartén antiadherente ha sido diseñado para enfrentarse a cualquier reto culinario sin defraudarte, además de ofrecerte un rendimiento que marca la diferencia. | Lleva tus habilidades de cocina a nuevas costas con el mejor menaje antiadherente de Tefal.",
-    "url": "https://www.tefalstore.cl/sarten-26-cm-unlimited/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200700/label-1.png?v=638573360538430000",
-    "skus": [
-      {
-        "sku_id": "24",
-        "sku_name": "Sartén 26 cm Unlimited",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200700/label-1.png?v=638573360538430000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 39990.0,
     "on_sale": true
   },
   {
@@ -12219,27 +12177,6 @@
     "country": "Chile",
     "price": 18990.0,
     "list_price": 21990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Picadora bowl de vidrio XXL 2L 500W Moulinex",
-    "reference": "7211419328",
-    "brand": "Moulinex",
-    "category": "Picadoras y Ralladores",
-    "description": "Picadora con bowl de vidrio de borosilicato ultraresistente de Moulinex|\nEsta picadora con bowl de vidrio de borosilicato ultraresistente  que ofrece resistencia a los golpes y durabilidad.|\nVersatilidad en todas tus preparaciones gracias a las 2 configuraciones de velocidad, para que puedas picar y mezclar, desde quesos, frutos secos, verduras, carnes y más.|\nRendimiento total, gracias a sus 4 cuchillas de acero inoxidable|\nCuchillas extraíbles para una fácil limpieza y piezas extraíbles aptas para lavavajillas (excluyendo la base del motor) |\nPotente motor de 500W",
-    "url": "https://www.tefalstore.cl/picadora-bowl-de-vidrio-xxl-2l/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204937/foto-1-picadora-de-vidrio.jpg?v=638913887776700000",
-    "skus": [
-      {
-        "sku_id": "297",
-        "sku_name": "Picadora Bowl de vidrio XXL 2L 500W",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204937/foto-1-picadora-de-vidrio.jpg?v=638913887776700000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 36990.0,
-    "list_price": 49990.0,
     "on_sale": true
   },
   {
@@ -13713,27 +13650,6 @@
     "on_sale": true
   },
   {
-    "name": "Tabletas de Limpieza Cafeteras Krups",
-    "reference": "8010001472",
-    "brand": "Krups",
-    "category": "Accesorios",
-    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
-    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000",
-    "skus": [
-      {
-        "sku_id": "396",
-        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 7990.0,
-    "list_price": 9990.0,
-    "on_sale": true
-  },
-  {
     "name": "Wok 28cm Excellence Cerámica FusionCore Tefal",
     "reference": "2100137571",
     "brand": "Tefal",
@@ -14742,6 +14658,27 @@
     "on_sale": true
   },
   {
+    "name": "Tabletas de Limpieza Cafeteras Krups",
+    "reference": "8010001472",
+    "brand": "Krups",
+    "category": "Accesorios",
+    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
+    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000",
+    "skus": [
+      {
+        "sku_id": "396",
+        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 9990.0,
+    "list_price": 9990.0,
+    "on_sale": false
+  },
+  {
     "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
     "reference": "2100139002",
     "brand": "Tefal",
@@ -15516,6 +15453,27 @@
     "country": "Chile",
     "price": 32990.0,
     "list_price": 32990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Sartén 26 cm Unlimited",
+    "reference": "2100112291",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "Sartén antirayaduras Tefal Unlimited: el mejor revestimiento antiadherente y antiarayaduras! No se raya, no se pega ni se rompe: elegir el sartén adecuado puede marcar la diferencia. | Tefal está a la altura de las circunstancias y ha diseñado un menaje de cocina que resiste a las situaciones más extremas. |El sartén Unlimited de Tefal, es extremadamente duradero y dispone de unos estándares de calidad impecables. | El nuevo revestimiento de titanio antirayaduras y antiadherente dura seis veces más*. |Combina la comodidad de un revestimiento antiadherente con una extrema resistencia a las rayaduras, hasta con utensilios de metal. | Resultados que hacen agua la boca con muy poco esfuerzo. |Podrás cocinar a la plancha sin siquiera añadir aceite. | Este sartén antiadherente ha sido diseñado para enfrentarse a cualquier reto culinario sin defraudarte, además de ofrecerte un rendimiento que marca la diferencia. | Lleva tus habilidades de cocina a nuevas costas con el mejor menaje antiadherente de Tefal.",
+    "url": "https://www.tefalstore.cl/sarten-26-cm-unlimited/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200700/label-1.png?v=638573360538430000",
+    "skus": [
+      {
+        "sku_id": "24",
+        "sku_name": "Sartén 26 cm Unlimited",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200700/label-1.png?v=638573360538430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 39990.0,
+    "list_price": 39990.0,
     "on_sale": false
   },
   {
