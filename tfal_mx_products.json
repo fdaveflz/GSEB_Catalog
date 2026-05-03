@@ -819,27 +819,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería Hard Titanium Pro 12 pzas inducción",
-    "reference": "2100119393",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Antiadherente Titanium anti-rayaduras extra resistente.\n* Diseñado para soportar el uso diario y utensilios metálicos sin dañarse.\n* Base Thermo-Fusion+ que ofrece un calentamiento rápido y homogéneo.\n* Optimizando los tiempos de cocción en todas las recetas.\n* Tecnología Thermo-Signal en sartenes.\n* Que indica el momento ideal para iniciar la cocción y obtener un sellado perfecto.\n* Set completo con sartenes.\n* Ollas.\n* Cazo.\n* Cacerola.\n* Evaporera y utensilios robustos.\n* Perfecto para la cocina intensiva en casa.\n* Compatible con todas las cocinas.\n* Incluida inducción.\n* Apta para lavavajillas y fabricada en Francia en elegante color negro.",
-    "url": "https://www.t-fal.com.mx/bateria-hard-titanium-pro-12-pzas-induccion-953/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158033/2100119393_G2699082_SETBAT12PCSHARDTITANIUMPROIND-1-.jpg?v=638930564573700000",
-    "skus": [
-      {
-        "sku_id": "953",
-        "sku_name": "Batería Hard Titanium Pro 12 pzas inducción",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158033/2100119393_G2699082_SETBAT12PCSHARDTITANIUMPROIND-1-.jpg?v=638930564573700000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 9799.0,
-    "list_price": 11999.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Vertical 6 en 1 Inalámbrica X-Pert 9.60 + Plumero",
     "reference": "9100060959",
     "brand": "T-fal",
@@ -3295,6 +3274,27 @@
     "price": 549.0,
     "list_price": 549.0,
     "on_sale": false
+  },
+  {
+    "name": "Batería Hard Titanium Pro 12 pzas inducción",
+    "reference": "2100119393",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Antiadherente Titanium anti-rayaduras extra resistente.\n* Diseñado para soportar el uso diario y utensilios metálicos sin dañarse.\n* Base Thermo-Fusion+ que ofrece un calentamiento rápido y homogéneo.\n* Optimizando los tiempos de cocción en todas las recetas.\n* Tecnología Thermo-Signal en sartenes.\n* Que indica el momento ideal para iniciar la cocción y obtener un sellado perfecto.\n* Set completo con sartenes.\n* Ollas.\n* Cazo.\n* Cacerola.\n* Evaporera y utensilios robustos.\n* Perfecto para la cocina intensiva en casa.\n* Compatible con todas las cocinas.\n* Incluida inducción.\n* Apta para lavavajillas y fabricada en Francia en elegante color negro.",
+    "url": "https://www.t-fal.com.mx/bateria-hard-titanium-pro-12-pzas-induccion-953/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158033/2100119393_G2699082_SETBAT12PCSHARDTITANIUMPROIND-1-.jpg?v=638930564573700000",
+    "skus": [
+      {
+        "sku_id": "953",
+        "sku_name": "Batería Hard Titanium Pro 12 pzas inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158033/2100119393_G2699082_SETBAT12PCSHARDTITANIUMPROIND-1-.jpg?v=638930564573700000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 9799.0,
+    "list_price": 11999.0,
+    "on_sale": true
   },
   {
     "name": "Batería Delight 10 pzas Mineralia+ inducción",
