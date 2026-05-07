@@ -1,5 +1,26 @@
 [
   {
+    "name": "Ventilador de Pedestal  Air Maxx de 16\"",
+    "reference": "5861032679",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de pedestal T-fal Air MAXX: ¡Máxima frescura en todo momento!\n* Eficiencia que combina la forma cóncava de las 4 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 16\" que optimizan la distribución del viento y la fuerza del motor 60W con la energia precisa para refrescar tu espacio, \n* Cuenta con función AIR MAXX para un flujo de aire optimizado. \n* Tecnología que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--air-maxx-de-16-915/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157773/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=638930406818200000",
+    "skus": [
+      {
+        "sku_id": "915",
+        "sku_name": "Ventilador de Pedestal  Air Maxx de 16\"",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157773/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=638930406818200000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 999.0,
+    "list_price": 999.0,
+    "on_sale": false
+  },
+  {
     "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
     "reference": "5861032684",
     "brand": "T-fal",
@@ -819,27 +840,6 @@
     "on_sale": true
   },
   {
-    "name": "Tapa para cafetera compatible de repuesto universal",
-    "reference": "9100043551",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
-    "skus": [
-      {
-        "sku_id": "1109",
-        "sku_name": "Tapa para cafetera compatible de repuesto universal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 199.0,
-    "list_price": 199.0,
-    "on_sale": false
-  },
-  {
     "name": "Jarra para cafetera CM223DMX original de repuesto",
     "reference": "9100036277",
     "brand": "T-fal",
@@ -1215,6 +1215,27 @@
     "country": "México",
     "price": 569.0,
     "list_price": 569.0,
+    "on_sale": false
+  },
+  {
+    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032671",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
+    "skus": [
+      {
+        "sku_id": "1076",
+        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 249.0,
+    "list_price": 249.0,
     "on_sale": false
   },
   {
@@ -3465,6 +3486,27 @@
     "on_sale": false
   },
   {
+    "name": "Tapa para cafetera compatible de repuesto universal",
+    "reference": "9100043551",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
+    "skus": [
+      {
+        "sku_id": "1109",
+        "sku_name": "Tapa para cafetera compatible de repuesto universal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 199.0,
+    "list_price": 199.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén 20cm Delight",
     "reference": "9100063102",
     "brand": "T-fal",
@@ -3738,27 +3780,6 @@
     "on_sale": false
   },
   {
-    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032671",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
-    "skus": [
-      {
-        "sku_id": "1076",
-        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 249.0,
-    "list_price": 249.0,
-    "on_sale": false
-  },
-  {
     "name": "Válvula Seguridad para ollas a presión de  aluminio de 4, 6 y 8 Litros",
     "reference": "9100057186",
     "brand": "T-fal",
@@ -3903,27 +3924,6 @@
     "country": "México",
     "price": 2339.0,
     "list_price": 2339.0,
-    "on_sale": false
-  },
-  {
-    "name": "Ventilador de Pedestal  Air Maxx de 16\"",
-    "reference": "5861032679",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de pedestal T-fal Air MAXX: ¡Máxima frescura en todo momento!\n* Eficiencia que combina la forma cóncava de las 4 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 16\" que optimizan la distribución del viento y la fuerza del motor 60W con la energia precisa para refrescar tu espacio, \n* Cuenta con función AIR MAXX para un flujo de aire optimizado. \n* Tecnología que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--air-maxx-de-16-915/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157773/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=638930406818200000",
-    "skus": [
-      {
-        "sku_id": "915",
-        "sku_name": "Ventilador de Pedestal  Air Maxx de 16\"",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157773/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=638930406818200000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
     "on_sale": false
   },
   {
