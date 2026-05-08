@@ -1,26 +1,5 @@
 [
   {
-    "name": "Ventilador de Pedestal  Air Maxx de 16\"",
-    "reference": "5861032679",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de pedestal T-fal Air MAXX: ¡Máxima frescura en todo momento!\n* Eficiencia que combina la forma cóncava de las 4 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 16\" que optimizan la distribución del viento y la fuerza del motor 60W con la energia precisa para refrescar tu espacio, \n* Cuenta con función AIR MAXX para un flujo de aire optimizado. \n* Tecnología que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--air-maxx-de-16-915/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157773/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=638930406818200000",
-    "skus": [
-      {
-        "sku_id": "915",
-        "sku_name": "Ventilador de Pedestal  Air Maxx de 16\"",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157773/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=638930406818200000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
-    "on_sale": false
-  },
-  {
     "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
     "reference": "5861032684",
     "brand": "T-fal",
@@ -81,27 +60,6 @@
     "country": "México",
     "price": 3439.0,
     "list_price": 4299.0,
-    "on_sale": true
-  },
-  {
-    "name": "Freidora de Aire 6 L Infrared",
-    "reference": "7211419336",
-    "brand": "T-fal",
-    "category": "Freidoras de aire y aceite",
-    "description": "* Experimenta la freidora de aire más avanzada con la nueva tecnología Infrared, la cual penetra tus alimentos desde el centro * Esta freidora garantiza resultados deliciosos y crujientes sin esfuerzo.\n* Elemento calefactor rápido: Alcanza 400 °C en tan solo 45 segundos, proporcionando una cocción rápida y eficiente.\n* Acabado perfecto: Penetración de calor Infrared que asegura carnes jugosas por dentro y textura crujiente por fuera.\n* Ventana iluminada: Observa el proceso de cocción sin perder el calor, garantizando alimentos perfectamente cocinados.\n* Ingenioso diseño de flujo de aire: No requiere agitar los alimentos, incluso hasta 300 g de patatas fritas congeladas se cocinan uniformemente.\n* Fácil de usar: Siéntate y disfruta de comidas deliciosas con facilidad, gracias a la tecnología avanzada y diseño intuitivo.",
-    "url": "https://www.t-fal.com.mx/freidora-de-aire-6-l-infrared/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000",
-    "skus": [
-      {
-        "sku_id": "969",
-        "sku_name": "Freidora de Aire 6 L Infrared",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1799.0,
-    "list_price": 2409.0,
     "on_sale": true
   },
   {
@@ -292,6 +250,27 @@
     "price": 1679.0,
     "list_price": 1679.0,
     "on_sale": false
+  },
+  {
+    "name": "Freidora de Aire 6 L Infrared",
+    "reference": "7211419336",
+    "brand": "T-fal",
+    "category": "Freidoras de aire y aceite",
+    "description": "* Experimenta la freidora de aire más avanzada con la nueva tecnología Infrared, la cual penetra tus alimentos desde el centro * Esta freidora garantiza resultados deliciosos y crujientes sin esfuerzo.\n* Elemento calefactor rápido: Alcanza 400 °C en tan solo 45 segundos, proporcionando una cocción rápida y eficiente.\n* Acabado perfecto: Penetración de calor Infrared que asegura carnes jugosas por dentro y textura crujiente por fuera.\n* Ventana iluminada: Observa el proceso de cocción sin perder el calor, garantizando alimentos perfectamente cocinados.\n* Ingenioso diseño de flujo de aire: No requiere agitar los alimentos, incluso hasta 300 g de patatas fritas congeladas se cocinan uniformemente.\n* Fácil de usar: Siéntate y disfruta de comidas deliciosas con facilidad, gracias a la tecnología avanzada y diseño intuitivo.",
+    "url": "https://www.t-fal.com.mx/freidora-de-aire-6-l-infrared/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000",
+    "skus": [
+      {
+        "sku_id": "969",
+        "sku_name": "Freidora de Aire 6 L Infrared",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1799.0,
+    "list_price": 2409.0,
+    "on_sale": true
   },
   {
     "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
@@ -3486,6 +3465,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador de Pedestal  Air Maxx de 16\"",
+    "reference": "9100058356",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de pedestal T-fal Air MAXX: ¡Máxima frescura en todo momento! * Eficiencia que combina la forma cóncava de las 4 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 16\" que optimizan la distribución del viento y la fuerza del motor 60W con la energia precisa para refrescar tu espacio, * Cuenta con función IR MAXX para un flujo de aire optimizado. * Tecnología que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias * Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire. * Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil. * Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/copy-of-ventilador-de-pedestal--air-maxx-de-16-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159622/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=639137884956700000",
+    "skus": [
+      {
+        "sku_id": "1110",
+        "sku_name": "Ventilador de Pedestal  Air Maxx de 16\"",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159622/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=639137884956700000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": null,
+    "list_price": null,
+    "on_sale": false
+  },
+  {
     "name": "Tapa para cafetera compatible de repuesto universal",
     "reference": "9100043551",
     "brand": "T-fal",
@@ -3738,7 +3738,7 @@
     "on_sale": false
   },
   {
-    "name": "Válvula de seguridad para olla a presión de de aluminio de 22 litros.",
+    "name": "Válvula de seguridad para olla a presión de aluminio de 22 litros.",
     "reference": "9100057191",
     "brand": "T-fal",
     "category": "Accesorios Y Repuestos",
@@ -3924,6 +3924,27 @@
     "country": "México",
     "price": 2339.0,
     "list_price": 2339.0,
+    "on_sale": false
+  },
+  {
+    "name": "Ventilador de Pedestal  Air Maxx de 16\"",
+    "reference": "5861032679",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de pedestal T-fal Air MAXX: ¡Máxima frescura en todo momento!\n* Eficiencia que combina la forma cóncava de las 4 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 16\" que optimizan la distribución del viento y la fuerza del motor 60W con la energia precisa para refrescar tu espacio, \n* Cuenta con función AIR MAXX para un flujo de aire optimizado. \n* Tecnología que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--air-maxx-de-16-915/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157773/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=638930406818200000",
+    "skus": [
+      {
+        "sku_id": "915",
+        "sku_name": "Ventilador de Pedestal  Air Maxx de 16\"",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157773/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=638930406818200000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 999.0,
+    "list_price": 999.0,
     "on_sale": false
   },
   {
