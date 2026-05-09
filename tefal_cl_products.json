@@ -21,27 +21,6 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
-    "reference": "2100121274",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Batería de cocina Daily Cook: las innovadoras ollas de cocina de Tefal Daily Cook hacen que cocinar sea fácil y sin complicaciones.| Todo se reduce a las funciones inteligentes y convenientes de Daily Cook que ayudará que todas tus comidas diarias sean fáciles de cocinar. |Una tapa de vidrio única con un diseño articulado que garantiza una limpieza mínima y una cocina sin desorden, así como manijas ergonómicas que se mantienen frescas que ofrecen comodidad y conveniencia mientras cocina.| Las marcas de medición muy visibles en el interior de las ollas garantizan resultados perfectos y sin complicaciones. |Compatible con todas las estufas, incluida la de inducción. |Disfruta de resultados perfectos gracias a su base de inducción que garantiza una cocción uniforme",
-    "url": "https://www.tefalstore.cl/bateria-10-piezas-daily-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639035775447200000",
-    "skus": [
-      {
-        "sku_id": "139",
-        "sku_name": "Bateria de cocina Acero Inoxidable DailyCook 10 Piezas",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639035775447200000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 79990.0,
-    "list_price": 119990.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Vertical X-FORCE 13.60 150 AirWatts Animal Care Rowenta",
     "reference": "2211401277",
     "brand": "Rowenta",
@@ -333,6 +312,27 @@
     "country": "Chile",
     "price": 32990.0,
     "list_price": 49990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Bateria de cocina Antiadherente Super Cook 26 Piezas Tefal",
+    "reference": "2100131912",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "La Batería de cocina 26 piezas Super cook negro TEFAL tiene un revestimiento antiadherente duradero: Cocina sin esfuerzo y limpia fácilmente todos los días.|\nAntiadherente seguro: Batería de cocina de alta calidad, segura para toda la familia, sin PFOA, plomo ni cadmio.*|\nIndicador de calor Thermo-Signal: Cambia de color cuando la sartén alcanza la temperatura ideal para un sellado perfecto.|\nBase difusora: Distribuye el calor de manera uniforme por toda la superficie para resultados de cocción homogéneos.|\nSet completo: Incluye todas las piezas necesarias para dominar tus recetas, con infinitas posibilidades.|\nCompatible con todas las cocinas: Apta para cocinas a gas, eléctricas y vitrocerámicas (excepto inducción).\"",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-26-piezas-supercook-negro-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205514/01-portada.jpg?v=639035775518070000",
+    "skus": [
+      {
+        "sku_id": "325",
+        "sku_name": "Bateria de cocina Antiadherente Super Cook 26 Piezas",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205514/01-portada.jpg?v=639035775518070000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 89990.0,
+    "list_price": 149990.0,
     "on_sale": true
   },
   {
@@ -648,6 +648,48 @@
     "country": "Chile",
     "price": 44990.0,
     "list_price": 74990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batidora de inmersión 3 en 1 Quickchef Moulinex",
+    "reference": "7211002781",
+    "brand": "Moulinex",
+    "category": "Batidoras y Planetarias",
+    "description": "Batidora Quickchef de alto rendimiento de Moulinex|\nExclusiva tecnología Powelix: resultados más suaves y textura cremosa hasta con los ingredientes más duros|\nPotente motor de 1000 W para batir sin esfuerzo|\n10 niveles de velocidad con retroiluminación intuitiva  y selector fácil de utilizar sin necesidad de parar la batidora|\nProtección antisalpicaduras para una mayor comodidad mientras cocinas|\nMango suave y antideslizante para un confort añadido y un mejor control, incluso con las manos mojadas|\nVaso medidor de 800 ml de gran utilidad|\nPicadora de 500 ml para picar sin dificultad una gran variedad de ingredientes|\nVarilla para batir sin apenas esfuerzo|\nProducto reparable durante 10 años",
+    "url": "https://www.tefalstore.cl/batidora-de-inmersion-3-en-1-quickchef-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204866/2.jpg?v=638907106178030000",
+    "skus": [
+      {
+        "sku_id": "258",
+        "sku_name": "Licuadora de inmersión 3 en 1 Quickchef Moulinex",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204866/2.jpg?v=638907106178030000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 39990.0,
+    "list_price": 59990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Plancha de Vapor Expertis Anti Calc Rowenta",
+    "reference": "1830031506",
+    "brand": "Rowenta",
+    "category": "Planchas a Vapor",
+    "description": "Con la plancha de vapor Rowenta Expertis Anticalc, disfrute de un rendimiento de vapor duradero para un planchado exitoso día tras día. Sus características principales son:| • Colector de cal extraíble patentado: para un fácil mantenimiento y una eficiencia óptima.| • Planchado ultrarrápido: gracias a la alta distribución de vapor de la suela Microsteam 400HD. |• Excelentes resultados: lo mejor en salida de vapor para sesiones de planchado efectivas incluso en las arrugas más difíciles.| • Punta de precisión: para abordar los detalles más pequeños.| • Fácil recarga: gracias a la ventana transparente del depósito de agua.| • Largas sesiones: gracias a un gran depósito de agua.|• Mango ergonómico: para un uso cómodo.| • Aerosol: para eliminar las arrugas difíciles con facilidad.",
+    "url": "https://www.tefalstore.cl/plancha-de-vapor-expertis-anti-calc/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205453/1830031506.jpg?v=639035774838430000",
+    "skus": [
+      {
+        "sku_id": "236",
+        "sku_name": "Plancha de Vapor EXPERTIS ANTI CALC",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205453/1830031506.jpg?v=639035774838430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 69990.0,
+    "list_price": 109990.0,
     "on_sale": true
   },
   {
@@ -1005,6 +1047,27 @@
     "country": "Chile",
     "price": 99990.0,
     "list_price": 179990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Hervidor Morning 1,7L Eucalipto Moulinex",
+    "reference": "7211419053",
+    "brand": "Moulinex",
+    "category": "Hervidores",
+    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas.|\nLA CANTIDAD PERFECTA: Indicadores de nivel de agua fáciles de seguir con una práctica señal para una taza, indicando la cantidad ideal para una sola taza de té.|\nFÁCIL DE USAR: Apertura automática con una sola mano para verter fácilmente y un uso práctico, con un diseño ancho que facilita el llenado y la limpieza.|\nAGUA MÁS PURA: Filtro antisarro para un agua más limpia y bebidas de mejor sabor, con un diseño removible para una limpieza sencilla.|\nREPARABILIDAD POR 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nGRAN CAPACIDAD: Hervidor eléctrico con una generosa capacidad de 1,7 L para toda la familia—perfecto para todas tus bebidas calientes.|\nEBULLICIÓN RÁPIDA: 2400 W de potencia para un calentamiento rápido y bebidas calientes deliciosas en poco tiempo.|\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme en su lugar y permite el acceso desde cualquier ángulo.|\nTRANQUILIDAD: Función de apagado automático para un uso práctico y sin preocupaciones, brindando total tranquilidad.",
+    "url": "https://www.tefalstore.cl/hervidor-morning-1-7l-eucalipto-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205058/moulinex-by2m1310-morning-plus-kettle-3.png?v=638924340795300000",
+    "skus": [
+      {
+        "sku_id": "350",
+        "sku_name": "Hervidor Morning 1,7L Eucalipto",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205058/moulinex-by2m1310-morning-plus-kettle-3.png?v=638924340795300000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24990.0,
+    "list_price": 39990.0,
     "on_sale": true
   },
   {
@@ -1449,27 +1512,6 @@
     "on_sale": true
   },
   {
-    "name": "Plancha de Vapor Expertis Anti Calc Rowenta",
-    "reference": "1830031506",
-    "brand": "Rowenta",
-    "category": "Planchas a Vapor",
-    "description": "Con la plancha de vapor Rowenta Expertis Anticalc, disfrute de un rendimiento de vapor duradero para un planchado exitoso día tras día. Sus características principales son:| • Colector de cal extraíble patentado: para un fácil mantenimiento y una eficiencia óptima.| • Planchado ultrarrápido: gracias a la alta distribución de vapor de la suela Microsteam 400HD. |• Excelentes resultados: lo mejor en salida de vapor para sesiones de planchado efectivas incluso en las arrugas más difíciles.| • Punta de precisión: para abordar los detalles más pequeños.| • Fácil recarga: gracias a la ventana transparente del depósito de agua.| • Largas sesiones: gracias a un gran depósito de agua.|• Mango ergonómico: para un uso cómodo.| • Aerosol: para eliminar las arrugas difíciles con facilidad.",
-    "url": "https://www.tefalstore.cl/plancha-de-vapor-expertis-anti-calc/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205453/1830031506.jpg?v=639035774838430000",
-    "skus": [
-      {
-        "sku_id": "236",
-        "sku_name": "Plancha de Vapor EXPERTIS ANTI CALC",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205453/1830031506.jpg?v=639035774838430000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 109990.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de Vapor Promaster Excel Rowenta",
     "reference": "1830031572",
     "brand": "Rowenta",
@@ -1680,6 +1722,27 @@
     "on_sale": true
   },
   {
+    "name": "Cafetera Espresso Full Auto Display",
+    "reference": "8000035172",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "Con KRUPS Essential, disfruta de todo el sabor de un café y un espresso perfectamente equilibrados.| 15 bares de presión que reproducen las mismas características de un barista, con boquilla de vapor para obtener la espuma perfecta.| Con un contenedor de granos de café de 260 gr y un depósito de agua de 1,7 Lt.| El diseño compacto de esta cafetera espresso totalmente automática no compromete la capacidad.| Pantalla LCD intuitiva extra grande.| Obtén un control perfecto, puedes ajustar la  intensidad y el tamaño del café.| Molinillo con  3 texturas de molienda.| Graba fácilmente tus configuraciones de café favoritas gracias al conveniente modo de memoria.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-full-auto-display/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205137/8000035172.png?v=638930213052500000",
+    "skus": [
+      {
+        "sku_id": "7",
+        "sku_name": "Cafetera Espresso Full Auto Display",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205137/8000035172.png?v=638930213052500000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 389990.0,
+    "list_price": 549990.0,
+    "on_sale": true
+  },
+  {
     "name": "Wok 28 cm Unlimited",
     "reference": "2100112288",
     "brand": "Tefal",
@@ -1845,6 +1908,27 @@
     "country": "Chile",
     "price": 14990.0,
     "list_price": 18990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Licuadora Personal Blend Up 1000W Moulinex",
+    "reference": "7211419401",
+    "brand": "Moulinex",
+    "category": "Licuadoras",
+    "description": "Nuestra Licuadora Personal Moulinex Blend Up es la primera batidora personal con programas culinarios.|\nVERSÁTIL EN SOLO 2 CLICS: 8 programas automáticos, 6 de ellos culinarios, que garantizan una velocidad y un tiempo de procesado óptimos para cada tipo de preparación, para conseguir unas texturas deliciosas en todo tipo de alimentos, desde batidos y bebidas vegetales hasta salsas y mucho más|\nALTO RENDIMIENTO: el motor de 1000 W de la batidora y las cuchillas Powelix ofrecen un rendimiento idóneo, todo ello con un diseño compacto y robusto|\nFÁCIL DE LIMPIAR: olvídate de las largas sesiones de limpieza, ya que con el modo de autolimpieza, las cuchillas extraíbles, las botellas aptas para lavavajillas y el cepillo de lavado, la limpieza de esta batidora es pan comido",
+    "url": "https://www.tefalstore.cl/licuadora-personal-moulinex-blend-up/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205237/blend-up-azul-3.png?v=638941607267530000",
+    "skus": [
+      {
+        "sku_id": "316",
+        "sku_name": "Licuadora Personal Moulinex Blend Up",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205237/blend-up-azul-3.png?v=638941607267530000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 79990.0,
+    "list_price": 129990.0,
     "on_sale": true
   },
   {
@@ -2394,27 +2478,6 @@
     "on_sale": true
   },
   {
-    "name": "Hervidor Morning 1,7L Eucalipto Moulinex",
-    "reference": "7211419053",
-    "brand": "Moulinex",
-    "category": "Hervidores",
-    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas.|\nLA CANTIDAD PERFECTA: Indicadores de nivel de agua fáciles de seguir con una práctica señal para una taza, indicando la cantidad ideal para una sola taza de té.|\nFÁCIL DE USAR: Apertura automática con una sola mano para verter fácilmente y un uso práctico, con un diseño ancho que facilita el llenado y la limpieza.|\nAGUA MÁS PURA: Filtro antisarro para un agua más limpia y bebidas de mejor sabor, con un diseño removible para una limpieza sencilla.|\nREPARABILIDAD POR 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nGRAN CAPACIDAD: Hervidor eléctrico con una generosa capacidad de 1,7 L para toda la familia—perfecto para todas tus bebidas calientes.|\nEBULLICIÓN RÁPIDA: 2400 W de potencia para un calentamiento rápido y bebidas calientes deliciosas en poco tiempo.|\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme en su lugar y permite el acceso desde cualquier ángulo.|\nTRANQUILIDAD: Función de apagado automático para un uso práctico y sin preocupaciones, brindando total tranquilidad.",
-    "url": "https://www.tefalstore.cl/hervidor-morning-1-7l-eucalipto-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205058/moulinex-by2m1310-morning-plus-kettle-3.png?v=638924340795300000",
-    "skus": [
-      {
-        "sku_id": "350",
-        "sku_name": "Hervidor Morning 1,7L Eucalipto",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205058/moulinex-by2m1310-morning-plus-kettle-3.png?v=638924340795300000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
     "name": "Hervidor Morning 1,7L Negro Moulinex",
     "reference": "7211419022",
     "brand": "Moulinex",
@@ -2877,6 +2940,27 @@
     "on_sale": true
   },
   {
+    "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
+    "reference": "2100114427",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
+    "url": "https://www.tefalstore.cl/set-6-piezas-optispace/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000",
+    "skus": [
+      {
+        "sku_id": "156",
+        "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 69990.0,
+    "list_price": 104990.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora Powermix 8V + Pulse 550W Moulinex",
     "reference": "5861031867",
     "brand": "Moulinex",
@@ -3148,6 +3232,27 @@
     "price": 24990.0,
     "list_price": 32990.0,
     "on_sale": true
+  },
+  {
+    "name": "Aspiradora Trapeadora X Clean 7 Digital Rowenta",
+    "reference": "7211005391",
+    "brand": "Rowenta",
+    "category": "Aspiradoras de Arrastre",
+    "description": "PODEROSA LIMPIEZA 2 EN 1: Enfrenta cualquier tipo de suciedad húmeda y seca, con modo automático de detección de polvo y un rodillo que siempre limpia con agua fresca.\n\nLIMPIEZA EN TODAS PARTES: Diseño plano de 180° para llegar debajo de los muebles, con luces LED que iluminan la suciedad oculta y un cepillo de borde delgado para una limpieza impecable a lo largo de las paredes.\n\nMANTENIMIENTO SIMPLIFICADO: Ciclo de autolimpieza de 180 segundos con agua fresca y secado directo con aire caliente de hasta 60 °C en un solo clic para evitar olores.\n\nLIMPIEZA SIN ESFUERZO: El sistema de rodillo autopropulsado ofrece un dispositivo ultraligero que pesa solo 0,9 kg en la mano.\n\nREPARABILIDAD DE 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más tiempo.\n\nLARGA DURACIÓN: Hasta 50 minutos de autonomía* para cubrir toda tu casa, con un gran tanque de agua de 650 ml para limpiar sin interrupciones.\n\nGUÍA INTUITIVA Y COMPLETA: Una experiencia de limpieza sin complicaciones con asistencia por voz e información mostrada en tiempo real en una gran pantalla LED.\n\nSISTEMA ANTIENREDO: Un peine metálico con 164 dientes cepilla cabellos y pelos de mascotas para evitar que se enreden en el rodillo, facilitando el mantenimiento.\n\nACCIÓN DESINFECTANTE: Lleva tu limpieza aún más lejos con detergentes compatibles que ofrecen beneficios desinfectantes.",
+    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x-clean-7-digital-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205978/large-rwt-gz5736e0-x-clean7-h1.jpg?v=639138724383600000",
+    "skus": [
+      {
+        "sku_id": "402",
+        "sku_name": "Aspiradora Trapeadora X Clean 7 Digital Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205978/large-rwt-gz5736e0-x-clean7-h1.jpg?v=639138724383600000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": null,
+    "list_price": null,
+    "on_sale": false
   },
   {
     "name": "PANQUEQUERA 28 CM RENEW CERAMICA",
@@ -3570,27 +3675,6 @@
     "on_sale": false
   },
   {
-    "name": "Bateria de cocina Antiadherente Super Cook 26 Piezas Tefal",
-    "reference": "2100131912",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "La Batería de cocina 26 piezas Super cook negro TEFAL tiene un revestimiento antiadherente duradero: Cocina sin esfuerzo y limpia fácilmente todos los días.|\nAntiadherente seguro: Batería de cocina de alta calidad, segura para toda la familia, sin PFOA, plomo ni cadmio.*|\nIndicador de calor Thermo-Signal: Cambia de color cuando la sartén alcanza la temperatura ideal para un sellado perfecto.|\nBase difusora: Distribuye el calor de manera uniforme por toda la superficie para resultados de cocción homogéneos.|\nSet completo: Incluye todas las piezas necesarias para dominar tus recetas, con infinitas posibilidades.|\nCompatible con todas las cocinas: Apta para cocinas a gas, eléctricas y vitrocerámicas (excepto inducción).\"",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-26-piezas-supercook-negro-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205514/01-portada.jpg?v=639035775518070000",
-    "skus": [
-      {
-        "sku_id": "325",
-        "sku_name": "Bateria de cocina Antiadherente Super Cook 26 Piezas",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205514/01-portada.jpg?v=639035775518070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 149990.0,
-    "list_price": 149990.0,
-    "on_sale": false
-  },
-  {
     "name": "Tapa de Cristal 26 cm Ingenio Tefal",
     "reference": "2100127841",
     "brand": "Tefal",
@@ -3609,27 +3693,6 @@
     "country": "Chile",
     "price": 24870.0,
     "list_price": 24870.0,
-    "on_sale": false
-  },
-  {
-    "name": "Licuadora Personal Blend Up 1000W Moulinex",
-    "reference": "7211419401",
-    "brand": "Moulinex",
-    "category": "Licuadoras",
-    "description": "Nuestra Licuadora Personal Moulinex Blend Up es la primera batidora personal con programas culinarios.|\nVERSÁTIL EN SOLO 2 CLICS: 8 programas automáticos, 6 de ellos culinarios, que garantizan una velocidad y un tiempo de procesado óptimos para cada tipo de preparación, para conseguir unas texturas deliciosas en todo tipo de alimentos, desde batidos y bebidas vegetales hasta salsas y mucho más|\nALTO RENDIMIENTO: el motor de 1000 W de la batidora y las cuchillas Powelix ofrecen un rendimiento idóneo, todo ello con un diseño compacto y robusto|\nFÁCIL DE LIMPIAR: olvídate de las largas sesiones de limpieza, ya que con el modo de autolimpieza, las cuchillas extraíbles, las botellas aptas para lavavajillas y el cepillo de lavado, la limpieza de esta batidora es pan comido",
-    "url": "https://www.tefalstore.cl/licuadora-personal-moulinex-blend-up/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205237/blend-up-azul-3.png?v=638941607267530000",
-    "skus": [
-      {
-        "sku_id": "316",
-        "sku_name": "Licuadora Personal Moulinex Blend Up",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205237/blend-up-azul-3.png?v=638941607267530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 129990.0,
-    "list_price": 129990.0,
     "on_sale": false
   },
   {
@@ -3927,27 +3990,6 @@
     "on_sale": false
   },
   {
-    "name": "Batidora de inmersión 3 en 1 Quickchef Moulinex",
-    "reference": "7211002781",
-    "brand": "Moulinex",
-    "category": "Batidoras y Planetarias",
-    "description": "Batidora Quickchef de alto rendimiento de Moulinex|\nExclusiva tecnología Powelix: resultados más suaves y textura cremosa hasta con los ingredientes más duros|\nPotente motor de 1000 W para batir sin esfuerzo|\n10 niveles de velocidad con retroiluminación intuitiva  y selector fácil de utilizar sin necesidad de parar la batidora|\nProtección antisalpicaduras para una mayor comodidad mientras cocinas|\nMango suave y antideslizante para un confort añadido y un mejor control, incluso con las manos mojadas|\nVaso medidor de 800 ml de gran utilidad|\nPicadora de 500 ml para picar sin dificultad una gran variedad de ingredientes|\nVarilla para batir sin apenas esfuerzo|\nProducto reparable durante 10 años",
-    "url": "https://www.tefalstore.cl/batidora-de-inmersion-3-en-1-quickchef-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204866/2.jpg?v=638907106178030000",
-    "skus": [
-      {
-        "sku_id": "258",
-        "sku_name": "Licuadora de inmersión 3 en 1 Quickchef Moulinex",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204866/2.jpg?v=638907106178030000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 59990.0,
-    "list_price": 59990.0,
-    "on_sale": false
-  },
-  {
     "name": "Plancha de Vapor Eco Intelligence Rowenta",
     "reference": "1830031693",
     "brand": "Rowenta",
@@ -4074,27 +4116,6 @@
     "on_sale": false
   },
   {
-    "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
-    "reference": "2100114427",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
-    "url": "https://www.tefalstore.cl/set-6-piezas-optispace/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000",
-    "skus": [
-      {
-        "sku_id": "156",
-        "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 104990.0,
-    "list_price": 104990.0,
-    "on_sale": false
-  },
-  {
     "name": "Bateria de cocina Acero Inoxidable Primary 11 PCS Tefal",
     "reference": "2100118829",
     "brand": "Tefal",
@@ -4113,6 +4134,27 @@
     "country": "Chile",
     "price": 99990.0,
     "list_price": 99990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
+    "reference": "2100121274",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Batería de cocina Daily Cook: las innovadoras ollas de cocina de Tefal Daily Cook hacen que cocinar sea fácil y sin complicaciones.| Todo se reduce a las funciones inteligentes y convenientes de Daily Cook que ayudará que todas tus comidas diarias sean fáciles de cocinar. |Una tapa de vidrio única con un diseño articulado que garantiza una limpieza mínima y una cocina sin desorden, así como manijas ergonómicas que se mantienen frescas que ofrecen comodidad y conveniencia mientras cocina.| Las marcas de medición muy visibles en el interior de las ollas garantizan resultados perfectos y sin complicaciones. |Compatible con todas las estufas, incluida la de inducción. |Disfruta de resultados perfectos gracias a su base de inducción que garantiza una cocción uniforme",
+    "url": "https://www.tefalstore.cl/bateria-10-piezas-daily-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639035775447200000",
+    "skus": [
+      {
+        "sku_id": "139",
+        "sku_name": "Bateria de cocina Acero Inoxidable DailyCook 10 Piezas",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639035775447200000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 119990.0,
+    "list_price": 119990.0,
     "on_sale": false
   },
   {
@@ -4281,27 +4323,6 @@
     "country": "Chile",
     "price": 32990.0,
     "list_price": 32990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Cafetera Espresso Full Auto Display",
-    "reference": "8000035172",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "Con KRUPS Essential, disfruta de todo el sabor de un café y un espresso perfectamente equilibrados.| 15 bares de presión que reproducen las mismas características de un barista, con boquilla de vapor para obtener la espuma perfecta.| Con un contenedor de granos de café de 260 gr y un depósito de agua de 1,7 Lt.| El diseño compacto de esta cafetera espresso totalmente automática no compromete la capacidad.| Pantalla LCD intuitiva extra grande.| Obtén un control perfecto, puedes ajustar la  intensidad y el tamaño del café.| Molinillo con  3 texturas de molienda.| Graba fácilmente tus configuraciones de café favoritas gracias al conveniente modo de memoria.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-full-auto-display/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205137/8000035172.png?v=638930213052500000",
-    "skus": [
-      {
-        "sku_id": "7",
-        "sku_name": "Cafetera Espresso Full Auto Display",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205137/8000035172.png?v=638930213052500000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 549990.0,
-    "list_price": 549990.0,
     "on_sale": false
   }
 ]
