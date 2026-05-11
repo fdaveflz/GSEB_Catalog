@@ -79,9 +79,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 599.0,
+    "price": 799.0,
     "list_price": 799.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Vaporizador Pure Pop Azul, con estilo en cualquier lugar",
@@ -121,7 +121,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1799.0,
+    "price": 1999.0,
     "list_price": 2499.0,
     "on_sale": true
   },
@@ -144,6 +144,48 @@
     "country": "México",
     "price": 999.0,
     "list_price": 999.0,
+    "on_sale": false
+  },
+  {
+    "name": "Tapa para cafetera compatible de repuesto universal",
+    "reference": "9100043551",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
+    "skus": [
+      {
+        "sku_id": "1109",
+        "sku_name": "Tapa para cafetera compatible de repuesto universal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 199.0,
+    "list_price": 199.0,
+    "on_sale": false
+  },
+  {
+    "name": "Jarra para cafetera CM223DMX original de repuesto",
+    "reference": "9100036277",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
+    "skus": [
+      {
+        "sku_id": "1108",
+        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 139.0,
+    "list_price": 139.0,
     "on_sale": false
   },
   {
@@ -310,9 +352,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1799.0,
+    "price": 2409.0,
     "list_price": 2409.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
@@ -331,9 +373,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
+    "price": 1999.0,
     "list_price": 1999.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Plancha Puregliss Black and Gold, planchado impecable",
@@ -352,9 +394,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1599.0,
+    "price": 2149.0,
     "list_price": 2149.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
@@ -394,9 +436,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 899.0,
     "list_price": 899.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Olla a presión Compact Easy 8L inox., compacta y segura",
@@ -462,48 +504,6 @@
     "on_sale": false
   },
   {
-    "name": "Tapa para cafetera compatible de repuesto universal",
-    "reference": "9100043551",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
-    "skus": [
-      {
-        "sku_id": "1109",
-        "sku_name": "Tapa para cafetera compatible de repuesto universal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 199.0,
-    "list_price": 199.0,
-    "on_sale": false
-  },
-  {
-    "name": "Jarra para cafetera CM223DMX original de repuesto",
-    "reference": "9100036277",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
-    "skus": [
-      {
-        "sku_id": "1108",
-        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 139.0,
-    "list_price": 139.0,
-    "on_sale": false
-  },
-  {
     "name": "Vaporizador vertical Origin Home, prendas siempre listas",
     "reference": "7211005140",
     "brand": "T-fal",
@@ -520,9 +520,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
+    "price": 1999.0,
     "list_price": 1999.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
@@ -756,6 +756,27 @@
     "on_sale": false
   },
   {
+    "name": "Vaporizador Pure Pop Naranja, con estilo en cualquier lugar",
+    "reference": "1830009126",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* LISTO EN SEGUNDOS: Con solo 15 segundos de calentamiento, tu vaporizador está listo para dejar tu ropa impecable, ideal para retoques de último momento. * DISEÑO PORTÁTIL Y LIGERO: Compacto y fácil de transportar, es el compañero ideal para viajes o espacios reducidos, sin ocupar lugar y siempre a tu alcance. * CUIDADO SEGURO EN TODA TELA: El lado de terciopelo del pad protege incluso las telas más delicadas, asegurando un vapor eficaz y sin riesgos. * OLVÍDATE DE PELUSAS Y PELOS: Su innovadora almohadilla reversible incluye un lado quita pelusa que atrapa pelos de mascota y motas, manteniendo tu ropa perfecta. * PLANCHA CON ESTILO EN CUALQUIER LUGAR: Elimina arrugas, refresca y ayuda a reducir olores, dejando cada prenda con apariencia limpia y cuidada en cuestión de minutos.",
+    "url": "https://www.t-fal.com.mx/vaporizador-pure-pop-naranja-con-estilo-en-cualquier-lugar-924/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157827/1830009126_DT2022X0_PUREPOP_ORANGE_-1-.jpg?v=638930417896300000",
+    "skus": [
+      {
+        "sku_id": "924",
+        "sku_name": "Vaporizador Pure Pop Naranja, con estilo en cualquier lugar",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157827/1830009126_DT2022X0_PUREPOP_ORANGE_-1-.jpg?v=638930417896300000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 799.0,
+    "list_price": 799.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén 28cm Daily expert rojo",
     "reference": "2100129935",
     "brand": "T-fal",
@@ -898,9 +919,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 4499.0,
+    "price": 5899.0,
     "list_price": 5899.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Jarra para cafetera CM3218MX original de repuesto",
@@ -1194,27 +1215,6 @@
     "country": "México",
     "price": 179.0,
     "list_price": 179.0,
-    "on_sale": false
-  },
-  {
-    "name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
-    "reference": "5861036616",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/set-de-cuchillas-para-licuadoras-vaso-vidrio-del-rango-optimix--powermix-e-infinyforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159404/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639119570253130000",
-    "skus": [
-      {
-        "sku_id": "1083",
-        "sku_name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159404/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639119570253130000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 59.0,
-    "list_price": 59.0,
     "on_sale": false
   },
   {
@@ -2116,7 +2116,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2099.0,
+    "price": 2239.0,
     "list_price": 2749.0,
     "on_sale": true
   },
@@ -2158,9 +2158,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 749.0,
+    "price": 999.0,
     "list_price": 999.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Robot de Cocina Easy Soup",
@@ -2200,7 +2200,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1899.0,
+    "price": 1919.0,
     "list_price": 2599.0,
     "on_sale": true
   },
@@ -2242,7 +2242,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3399.0,
+    "price": 3849.0,
     "list_price": 4599.0,
     "on_sale": true
   },
@@ -2284,9 +2284,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 909.0,
     "list_price": 909.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Licuadora Vaso Vidrio Ultraforce Cook",
@@ -2959,27 +2959,6 @@
     "price": 699.0,
     "list_price": 699.0,
     "on_sale": false
-  },
-  {
-    "name": "Vaporizador Pure Pop Naranja, con estilo en cualquier lugar",
-    "reference": "1830009126",
-    "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* LISTO EN SEGUNDOS: Con solo 15 segundos de calentamiento, tu vaporizador está listo para dejar tu ropa impecable, ideal para retoques de último momento. * DISEÑO PORTÁTIL Y LIGERO: Compacto y fácil de transportar, es el compañero ideal para viajes o espacios reducidos, sin ocupar lugar y siempre a tu alcance. * CUIDADO SEGURO EN TODA TELA: El lado de terciopelo del pad protege incluso las telas más delicadas, asegurando un vapor eficaz y sin riesgos. * OLVÍDATE DE PELUSAS Y PELOS: Su innovadora almohadilla reversible incluye un lado quita pelusa que atrapa pelos de mascota y motas, manteniendo tu ropa perfecta. * PLANCHA CON ESTILO EN CUALQUIER LUGAR: Elimina arrugas, refresca y ayuda a reducir olores, dejando cada prenda con apariencia limpia y cuidada en cuestión de minutos.",
-    "url": "https://www.t-fal.com.mx/vaporizador-pure-pop-naranja-con-estilo-en-cualquier-lugar-924/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157827/1830009126_DT2022X0_PUREPOP_ORANGE_-1-.jpg?v=638930417896300000",
-    "skus": [
-      {
-        "sku_id": "924",
-        "sku_name": "Vaporizador Pure Pop Naranja, con estilo en cualquier lugar",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157827/1830009126_DT2022X0_PUREPOP_ORANGE_-1-.jpg?v=638930417896300000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 599.0,
-    "list_price": 799.0,
-    "on_sale": true
   },
   {
     "name": "Sartén Hard Titanium Pro 28 cm, anti-rayaduras, inducción",
@@ -3714,6 +3693,27 @@
     "country": "México",
     "price": 99.0,
     "list_price": 99.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
+    "reference": "5861036616",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/set-de-cuchillas-para-licuadoras-vaso-vidrio-del-rango-optimix--powermix-e-infinyforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159404/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639119570253130000",
+    "skus": [
+      {
+        "sku_id": "1083",
+        "sku_name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159404/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639119570253130000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 59.0,
+    "list_price": 59.0,
     "on_sale": false
   },
   {
