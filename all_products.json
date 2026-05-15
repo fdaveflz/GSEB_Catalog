@@ -273,6 +273,27 @@
     "on_sale": true
   },
   {
+    "name": "Licuadora IMUSA InfinyForce 10 Velocidades gris",
+    "reference": "5861031311",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "Vaso de Vidrio con capacidad de 1,2Litros, gran capacidad para licuar y preparar deliciosas bebidas.| 10 Funciones + Pulso garantizando un control total de tus recetas.| Potencia de 600 Watts, ahorrando tiempo y permitiendo mejores resultados. | 6 Cuchillas en acero inoxidable altamente resistentes, óptimo rendimiento de corte para conseguir unos resultados increíblemente suaves",
+    "url": "https://www.imusa.com.co/licuadora-imusa-infinyforce-10-velocidades-gris/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169787/7702073810564-3.jpg?v=638755799694270000",
+    "skus": [
+      {
+        "sku_id": "358",
+        "sku_name": "Licuadora IMUSA InfinyForce 10 Velocidades gris",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169787/7702073810564-3.jpg?v=638755799694270000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 129900.0,
+    "list_price": 215900.0,
+    "on_sale": true
+  },
+  {
     "name": "Olla a Presión TEFAL Clipso de 6Litros con Vaporera",
     "reference": "7114000652",
     "brand": "TEFAL",
@@ -583,7 +604,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 279900.0,
+    "price": 289900.0,
     "list_price": 467900.0,
     "on_sale": true
   },
@@ -814,9 +835,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 59919.0,
+    "price": 74899.0,
     "list_price": 74899.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Double Burner IMUSA Antiadherente Delicia",
@@ -835,9 +856,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 151920.0,
+    "price": 189900.0,
     "list_price": 189900.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Cuchillo IMUSA Chef  15cm Talent Acero Inoxidable",
@@ -877,9 +898,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 103920.0,
+    "price": 129900.0,
     "list_price": 129900.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Set 3 Cuchillos (Pelar, Multiusos, Chef) IMUSA Talent Master",
@@ -1255,7 +1276,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 199900.0,
+    "price": 179900.0,
     "list_price": 279899.0,
     "on_sale": true
   },
@@ -1444,7 +1465,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 399900.0,
+    "price": 429900.0,
     "list_price": 599900.0,
     "on_sale": true
   },
@@ -1974,6 +1995,27 @@
     "on_sale": false
   },
   {
+    "name": "Sartén Skillet IMUSA 16cm Delicia Antiadherente",
+    "reference": "5861032573",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "¡LA VERSATILIDAD DE APODERA DE TU COCINA!\n|Con el Skillet IMUSA de la línea Delicia y con un diámetro de 16cm podrás preparar tus recetas preferidas, tanto en el horno como en la estufa. Son productos robustos y duraderos pero con un peso ideal para poder cocinar comodamente, elaborados en Aluminio Fundido lo cual hace que sean productos de mayor calidad y muy duraderos. \n|El espesor de sus paredes es de 3mm y te permitirá un calentamiento homogéneo al momento de preparar tus deliciosas recetas, una perfecta cocción y retención de calor.\n|Gracias a su antiadherente podrás cocinar con menos grasas permitiendo cocinar de forma mas saludable y tambien ayuda a facilitar el lavado de los productos. \n|Son ideales, además, para llevarlos al centro de la mesa y tener un momento agradable con tu familia, amigos y conocidos.\n|¡Date la oportunidad de tener la línea DELICIA en tu cocina!",
+    "url": "https://www.imusa.com.co/sarten-skillet-imusa-16cm-delicia-antiadherente/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165795/5861032573-1.jpg?v=638103609145100000",
+    "skus": [
+      {
+        "sku_id": "763",
+        "sku_name": "Sartén Skillet IMUSA 16cm Delicia Antiadherente",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165795/5861032573-1.jpg?v=638103609145100000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 68000.0,
+    "list_price": 89899.0,
+    "on_sale": true
+  },
+  {
     "name": "Prensa para Pure TEFAL Ingenio Negra",
     "reference": "2100087330",
     "brand": "TEFAL",
@@ -2074,9 +2116,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 107919.0,
+    "price": 134899.0,
     "list_price": 134899.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Sartén Imusa 30cm Antiadherente Tapa Vidrio Talent Pro",
@@ -2200,7 +2242,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 199900.0,
+    "price": 209900.0,
     "list_price": 509899.0,
     "on_sale": true
   },
@@ -2263,9 +2305,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 407919.0,
+    "price": 439900.0,
     "list_price": 509899.0,
     "on_sale": true
+  },
+  {
+    "name": "Sartén TEFAL Unlimited antiadherente 30 cm",
+    "reference": "2100112293",
+    "brand": "TEFAL",
+    "category": "Sartenes",
+    "description": "Sartén 30cm de diámetro.| Proporciona un calentamiento rápido con resultados de cocción uniformes en todo momento.| El indicador de calor Termo Señal se pone en rojo fijo cuando la sartén alcanza la temperatura ideal para dorar de forma impecable| Compatible con todas las estufas.",
+    "url": "https://www.imusa.com.co/sarten-tefal-unlimited-antiadherente-30-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164640/2100112293-1.jpg?v=637971587028400000",
+    "skus": [
+      {
+        "sku_id": "476",
+        "sku_name": "Sartén TEFAL Unlimited antiadherente 30 cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164640/2100112293-1.jpg?v=637971587028400000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 259899.0,
+    "list_price": 259899.0,
+    "on_sale": false
   },
   {
     "name": "Pinzas para Cocinar TEFAL Ingenio",
@@ -3297,27 +3360,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso KRUPS Divine Inox",
-    "reference": "8010001229",
-    "brand": "KRUPS",
-    "category": "Espresseria",
-    "description": "Disfruta de la precisión en cada taza gracias al rápido sistema de precalentamiento Thermoblock. |Garantiza una calidad suprema con la potente bomba de 15 bares. |Personaliza tus bebidas con la boquilla de vapor para crear espuma de leche densa. |Simplifica tu rutina diaria con solo 3 pasos: encender, elegir entre 1 o 2 tazas y disfrutar. |Los acabados en acero inoxidable no solo ofrecen elegancia, sino también durabilidad a largo plazo. |La bandeja de goteo y la boquilla de vapor de acero inoxidable son fáciles de limpiar y resistentes al calor. |Descubre la espressería manual KRUPS Divine y disfruta del café perfecto en casa todos los días.",
-    "url": "https://www.imusa.com.co/cafetera-espresso-krups-divine-inox/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168847/8010001229-2.jpg?v=638520738321130000",
-    "skus": [
-      {
-        "sku_id": "964",
-        "sku_name": "Cafetera Espresso KRUPS Divine Inox",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168847/8010001229-2.jpg?v=638520738321130000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 899900.0,
-    "list_price": 1349900.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha Vertical T-FAL Pure Pop Azul con Pad Reversible",
     "reference": "1830009125",
     "brand": "TEFAL",
@@ -3780,27 +3822,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén Skillet IMUSA 16cm Delicia Antiadherente",
-    "reference": "5861032573",
-    "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "¡LA VERSATILIDAD DE APODERA DE TU COCINA!\n|Con el Skillet IMUSA de la línea Delicia y con un diámetro de 16cm podrás preparar tus recetas preferidas, tanto en el horno como en la estufa. Son productos robustos y duraderos pero con un peso ideal para poder cocinar comodamente, elaborados en Aluminio Fundido lo cual hace que sean productos de mayor calidad y muy duraderos. \n|El espesor de sus paredes es de 3mm y te permitirá un calentamiento homogéneo al momento de preparar tus deliciosas recetas, una perfecta cocción y retención de calor.\n|Gracias a su antiadherente podrás cocinar con menos grasas permitiendo cocinar de forma mas saludable y tambien ayuda a facilitar el lavado de los productos. \n|Son ideales, además, para llevarlos al centro de la mesa y tener un momento agradable con tu familia, amigos y conocidos.\n|¡Date la oportunidad de tener la línea DELICIA en tu cocina!",
-    "url": "https://www.imusa.com.co/sarten-skillet-imusa-16cm-delicia-antiadherente/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165795/5861032573-1.jpg?v=638103609145100000",
-    "skus": [
-      {
-        "sku_id": "763",
-        "sku_name": "Sartén Skillet IMUSA 16cm Delicia Antiadherente",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165795/5861032573-1.jpg?v=638103609145100000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 68000.0,
-    "list_price": 89899.0,
-    "on_sale": true
-  },
-  {
     "name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
     "reference": "3110600750",
     "brand": "TEFAL",
@@ -3922,9 +3943,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 139920.0,
+    "price": 174900.0,
     "list_price": 174900.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Ventilador SAMURAI Turbo Power Pared Negro",
@@ -3945,6 +3966,27 @@
     "country": "Colombia",
     "price": 174900.0,
     "list_price": 232899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
+    "reference": "5861032007",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "¡Resultados perfectos en tus preparaciones! Perfecta para triturar hielo y fruta. La licuadora vaso de vidrio 5 velocidades de Línea POWERMIX cuenta con una potencia de 550 watts, un vaso con una capacidad de 1.25 litros y 5 velocidades incluidas la función de pulso y auto limpieza, tiene cuchillas  ZLEKROM en acero inoxidable con refuerzo en cromo, lo que la hace potente para todo corte, cuenta con un motor de larga duración y sistema de seguridad guarda cable. ¡Llévala para Triturar todo lo que quieras!",
+    "url": "https://www.imusa.com.co/licuadora-imusa-powermix-glass-5-velocidades-negra/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000",
+    "skus": [
+      {
+        "sku_id": "625",
+        "sku_name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 119900.0,
+    "list_price": 234900.0,
     "on_sale": true
   },
   {
@@ -4153,9 +4195,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 99920.0,
+    "price": 124900.0,
     "list_price": 124900.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Multipan Unlimited Antiadherente 26 cm",
@@ -4174,9 +4216,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 191920.0,
+    "price": 239900.0,
     "list_price": 239900.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Wok TEFAL Unlimited Antiadherente 28 cm",
@@ -4195,51 +4237,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 183919.0,
+    "price": 229899.0,
     "list_price": 229899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Crepera TEFAL Unlimited antiadherente 28 cm",
-    "reference": "2100112285",
-    "brand": "TEFAL",
-    "category": "Creperas",
-    "description": "Crepera 28cm de diámetro ideal para preparar tus más deliciosos crepes. | El indicador de calor Thermo-Signal™ se pone en rojo fijo cuando la sartén para tortitas; alcanza la temperatura ideal para dorar de forma impecable| Compatible con todas las estufas.",
-    "url": "https://www.imusa.com.co/crepera-tefal-unlimited-antiadherente-28-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164635/2100112285-1.jpg?v=637971587004900000",
-    "skus": [
-      {
-        "sku_id": "477",
-        "sku_name": "Crepera TEFAL Unlimited antiadherente 28 cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164635/2100112285-1.jpg?v=637971587004900000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 159919.0,
-    "list_price": 199899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén TEFAL Unlimited antiadherente 30 cm",
-    "reference": "2100112293",
-    "brand": "TEFAL",
-    "category": "Sartenes",
-    "description": "Sartén 30cm de diámetro.| Proporciona un calentamiento rápido con resultados de cocción uniformes en todo momento.| El indicador de calor Termo Señal se pone en rojo fijo cuando la sartén alcanza la temperatura ideal para dorar de forma impecable| Compatible con todas las estufas.",
-    "url": "https://www.imusa.com.co/sarten-tefal-unlimited-antiadherente-30-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164640/2100112293-1.jpg?v=637971587028400000",
-    "skus": [
-      {
-        "sku_id": "476",
-        "sku_name": "Sartén TEFAL Unlimited antiadherente 30 cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164640/2100112293-1.jpg?v=637971587028400000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 207919.0,
-    "list_price": 259899.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Accesorios para Freidora IMUSA Easy Fry",
@@ -4683,6 +4683,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador SAMURAI Extremo 2 En 1: Pedestal o Pared, Gris",
+    "reference": "5861037056",
+    "brand": "SAMURAI",
+    "category": "Ventiladores multiples",
+    "description": "4 VELOCIDADES PARA CADA MOMENTO: Elige entre Silencioso, Eco, Confort o Máxima Potencia y adapta la frescura a tu ritmo, desde una brisa suave hasta un flujo intenso que transforma el ambiente al instante. |90 WATTS DE POTENCIA: Energía superior que garantiza un desempeño fuerte y constante incluso en los días más calurosos. |ALCANCE DE VIENTO DE HASTA 28 KM/H: Siente un flujo de aire intenso que llega más lejos y refresca el espacio en menos tiempo. |TECNOLOGÍA POWERTECH RESIST: Motor de alta durabilidad diseñado para acompañarte dia tras dia con rendimiento confiable. |6 ASPAS AERODINÁMICAS: Diseñadas para impulsar el aire con mayor eficiencia, logrando una ventilación potente y uniforme. |DISEÑO 2 EN 1 (PEDESTAL O PARED): Versatilidad total para adaptarse a cualquier espacio, optimizando cada rincón sin perder potencia. |ALTURA AJUSTABLE HASTA 1,35 M: Ajusta el ventilador según tu necesidad y dirige la frescura exactamente donde la quieres. |SISTEMA DE INCLINACIÓN DE 6 POSICIONES: Orienta el aire con precisión y disfruta una experiencia de ventilación personalizada. |3 AÑOS DE GARANTÍA: Respaldo y confianza que aseguran una inversión inteligente y duradera.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-extremo-2-en-1-pedestal-o-pared-gris/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172045/Mesa-de-trabajo-1.jpg?v=639069610891600000",
+    "skus": [
+      {
+        "sku_id": "1673",
+        "sku_name": "Ventilador SAMURAI Extremo 2 En 1: Pedestal o Pared, Gris",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172045/Mesa-de-trabajo-1.jpg?v=639069610891600000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 269900.0,
+    "list_price": 269900.0,
+    "on_sale": false
+  },
+  {
     "name": "Ventilador SAMURAI Extremo 2 En 1: Pedestal o Pared, Blanco",
     "reference": "5861037055",
     "brand": "SAMURAI",
@@ -4996,6 +5017,27 @@
     "price": 164899.0,
     "list_price": 164899.0,
     "on_sale": false
+  },
+  {
+    "name": "Cafetera Espresso KRUPS Divine Inox",
+    "reference": "8010001229",
+    "brand": "KRUPS",
+    "category": "Espresseria",
+    "description": "Disfruta de la precisión en cada taza gracias al rápido sistema de precalentamiento Thermoblock. |Garantiza una calidad suprema con la potente bomba de 15 bares. |Personaliza tus bebidas con la boquilla de vapor para crear espuma de leche densa. |Simplifica tu rutina diaria con solo 3 pasos: encender, elegir entre 1 o 2 tazas y disfrutar. |Los acabados en acero inoxidable no solo ofrecen elegancia, sino también durabilidad a largo plazo. |La bandeja de goteo y la boquilla de vapor de acero inoxidable son fáciles de limpiar y resistentes al calor. |Descubre la espressería manual KRUPS Divine y disfruta del café perfecto en casa todos los días.",
+    "url": "https://www.imusa.com.co/cafetera-espresso-krups-divine-inox/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168847/8010001229-2.jpg?v=638520738321130000",
+    "skus": [
+      {
+        "sku_id": "964",
+        "sku_name": "Cafetera Espresso KRUPS Divine Inox",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168847/8010001229-2.jpg?v=638520738321130000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 899900.0,
+    "list_price": 1349900.0,
+    "on_sale": true
   },
   {
     "name": "Plancha Vertical T-FAL Pure Pop Coral con Pad Reversible",
@@ -5434,7 +5476,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 79920.0,
+    "price": 99900.0,
     "list_price": 129800.0,
     "on_sale": true
   },
@@ -5607,27 +5649,6 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
-    "reference": "5861032007",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "¡Resultados perfectos en tus preparaciones! Perfecta para triturar hielo y fruta. La licuadora vaso de vidrio 5 velocidades de Línea POWERMIX cuenta con una potencia de 550 watts, un vaso con una capacidad de 1.25 litros y 5 velocidades incluidas la función de pulso y auto limpieza, tiene cuchillas  ZLEKROM en acero inoxidable con refuerzo en cromo, lo que la hace potente para todo corte, cuenta con un motor de larga duración y sistema de seguridad guarda cable. ¡Llévala para Triturar todo lo que quieras!",
-    "url": "https://www.imusa.com.co/licuadora-imusa-powermix-glass-5-velocidades-negra/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000",
-    "skus": [
-      {
-        "sku_id": "625",
-        "sku_name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 119900.0,
-    "list_price": 234900.0,
-    "on_sale": true
-  },
-  {
     "name": "Recipiente IMUSA MasterFresh 0.25L",
     "reference": "3110600962",
     "brand": "IMUSA",
@@ -5749,9 +5770,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 85520.0,
+    "price": 106900.0,
     "list_price": 106900.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Recipiente IMUSA Master Fresh Redondo 0,85 L",
@@ -6195,27 +6216,6 @@
     "on_sale": true
   },
   {
-    "name": "Ventilador SAMURAI Extremo 2 En 1: Pedestal o Pared, Gris",
-    "reference": "5861037056",
-    "brand": "SAMURAI",
-    "category": "Ventiladores multiples",
-    "description": "4 VELOCIDADES PARA CADA MOMENTO: Elige entre Silencioso, Eco, Confort o Máxima Potencia y adapta la frescura a tu ritmo, desde una brisa suave hasta un flujo intenso que transforma el ambiente al instante. |90 WATTS DE POTENCIA: Energía superior que garantiza un desempeño fuerte y constante incluso en los días más calurosos. |ALCANCE DE VIENTO DE HASTA 28 KM/H: Siente un flujo de aire intenso que llega más lejos y refresca el espacio en menos tiempo. |TECNOLOGÍA POWERTECH RESIST: Motor de alta durabilidad diseñado para acompañarte dia tras dia con rendimiento confiable. |6 ASPAS AERODINÁMICAS: Diseñadas para impulsar el aire con mayor eficiencia, logrando una ventilación potente y uniforme. |DISEÑO 2 EN 1 (PEDESTAL O PARED): Versatilidad total para adaptarse a cualquier espacio, optimizando cada rincón sin perder potencia. |ALTURA AJUSTABLE HASTA 1,35 M: Ajusta el ventilador según tu necesidad y dirige la frescura exactamente donde la quieres. |SISTEMA DE INCLINACIÓN DE 6 POSICIONES: Orienta el aire con precisión y disfruta una experiencia de ventilación personalizada. |3 AÑOS DE GARANTÍA: Respaldo y confianza que aseguran una inversión inteligente y duradera.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-extremo-2-en-1-pedestal-o-pared-gris/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172045/Mesa-de-trabajo-1.jpg?v=639069610891600000",
-    "skus": [
-      {
-        "sku_id": "1673",
-        "sku_name": "Ventilador SAMURAI Extremo 2 En 1: Pedestal o Pared, Gris",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172045/Mesa-de-trabajo-1.jpg?v=639069610891600000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 269900.0,
-    "list_price": 269900.0,
-    "on_sale": false
-  },
-  {
     "name": "Separador de polvo Aspiradora X-FORCE 12.60",
     "reference": "2230003289",
     "brand": "TEFAL",
@@ -6255,27 +6255,6 @@
     "country": "Colombia",
     "price": 55650.0,
     "list_price": 55650.0,
-    "on_sale": false
-  },
-  {
-    "name": "Filtro de Motor Aspiradora X-FORCE 9.60",
-    "reference": "7222068977",
-    "brand": "TEFAL",
-    "category": "Repuestos y accesorios",
-    "description": "Compatible con aspiradora tefal X-FORCE 9.60 | Mejora del rendimiento de succión | Filtro lavable y reutilizable | Compatibilidad perfecta",
-    "url": "https://www.imusa.com.co/filtro-de-motor-aspiradora-x-force-9-60/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171473/7222068977.jpg?v=638938103031030000",
-    "skus": [
-      {
-        "sku_id": "1575",
-        "sku_name": "Filtro de Motor Aspiradora X-FORCE 9.60",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171473/7222068977.jpg?v=638938103031030000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 16800.0,
-    "list_price": 16800.0,
     "on_sale": false
   },
   {
@@ -6381,27 +6360,6 @@
     "country": "Colombia",
     "price": 1299900.0,
     "list_price": 1497930.0,
-    "on_sale": true
-  },
-  {
-    "name": "Combo Aspiradora X-FORCE 12.60 + accesorio Aqua Head",
-    "reference": "C0031",
-    "brand": "TEFAL",
-    "category": "Aspiradoras",
-    "description": "Incluye accesorio para eliminar los pelitos de tu mascota de todo tipo superficies incluido tu vehículo. |Ahorra tiempo, permitiéndote aspirar y lavar en la mitad del tiempo, para una limpieza simultánea con la máxima comodidad. |Hasta 350 Watts de potencia en modo boost, un golpe de potencia al alcance de tu mano. |Accesorio de cabeza de mopa que te permite moverte hacia adelante y hacia atrás sin esfuerzo, incluso en las esquinas. |Sistema exclusivo de tubo flexible para una limpieza sin esfuerzo y sin agacharse. |Practico pedal para regular el flujo de agua y lograr una limpieza precisa y almacenamiento sin esfuerzo. |Luz LED para rastrear el polvo en todas partes y eliminar la suciedad en zonas con poca luz. |La solución ideal de un solo paso para derrames y accidentes.",
-    "url": "https://www.imusa.com.co/combo-aspiradora-inalambrica-t-fal-x-force-flex-12-60-accesorio-mascota/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169301/08-29-Combo-PLP-Multibrand-1260-FondoBlanco-Handstick--1-.jpg?v=638618565183700000",
-    "skus": [
-      {
-        "sku_id": "1008",
-        "sku_name": "Combo Aspiradora X-FORCE 12.60 + accesorio Aqua Head",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169301/08-29-Combo-PLP-Multibrand-1260-FondoBlanco-Handstick--1-.jpg?v=638618565183700000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 1899900.0,
-    "list_price": 2049799.0,
     "on_sale": true
   },
   {
@@ -6925,9 +6883,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 159919.0,
+    "price": 199899.0,
     "list_price": 199899.0,
-    "on_sale": true
+    "on_sale": false
+  },
+  {
+    "name": "Repuesto Cuchilla para Licuadora IMUSA Infiny Force 4 aspas",
+    "reference": "5861024152",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "Cuchilla de 4 Aspas| Compatible con marca: IMUSA| Compatible con: InfinyForce de 10, 12, 14 y 16 Velocidades.| Elaborada en Acero Inoxidable de alta resistencia",
+    "url": "https://www.imusa.com.co/repuesto-cuchilla-para-licuadora-imusa-infiny-force-4-aspas/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164536/5861024152-1.jpg?v=637971542693330000",
+    "skus": [
+      {
+        "sku_id": "415",
+        "sku_name": "Repuesto Cuchilla para Licuadora IMUSA Infiny Force 4 aspas",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164536/5861024152-1.jpg?v=637971542693330000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 16500.0,
+    "list_price": 16500.0,
+    "on_sale": false
   },
   {
     "name": "Repuesto Válvula Reguladora de Presión IMUSA",
@@ -7159,6 +7138,27 @@
     "price": 242900.0,
     "list_price": 308900.0,
     "on_sale": true
+  },
+  {
+    "name": "Filtro de Motor Aspiradora X-FORCE 9.60",
+    "reference": "7222068977",
+    "brand": "TEFAL",
+    "category": "Repuestos y accesorios",
+    "description": "Compatible con aspiradora tefal X-FORCE 9.60 | Mejora del rendimiento de succión | Filtro lavable y reutilizable | Compatibilidad perfecta",
+    "url": "https://www.imusa.com.co/filtro-de-motor-aspiradora-x-force-9-60/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171473/7222068977.jpg?v=638938103031030000",
+    "skus": [
+      {
+        "sku_id": "1575",
+        "sku_name": "Filtro de Motor Aspiradora X-FORCE 9.60",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171473/7222068977.jpg?v=638938103031030000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 16800.0,
+    "list_price": 16800.0,
+    "on_sale": false
   },
   {
     "name": "Cuchara Dosificadora cafetera Krups Divine",
@@ -7473,27 +7473,6 @@
     "country": "Colombia",
     "price": 141750.0,
     "list_price": 141750.0,
-    "on_sale": false
-  },
-  {
-    "name": "Repuesto Cuchilla para Licuadora IMUSA Infiny Force 4 aspas",
-    "reference": "5861024152",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "Cuchilla de 4 Aspas| Compatible con marca: IMUSA| Compatible con: InfinyForce de 10, 12, 14 y 16 Velocidades.| Elaborada en Acero Inoxidable de alta resistencia",
-    "url": "https://www.imusa.com.co/repuesto-cuchilla-para-licuadora-imusa-infiny-force-4-aspas/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164536/5861024152-1.jpg?v=637971542693330000",
-    "skus": [
-      {
-        "sku_id": "415",
-        "sku_name": "Repuesto Cuchilla para Licuadora IMUSA Infiny Force 4 aspas",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164536/5861024152-1.jpg?v=637971542693330000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 16500.0,
-    "list_price": 16500.0,
     "on_sale": false
   },
   {
@@ -8458,9 +8437,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 63920.0,
+    "price": 79900.0,
     "list_price": 79900.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Ventilador SAMURAI Turbo Power Pedestal Blanco",
@@ -10899,6 +10878,27 @@
     "on_sale": false
   },
   {
+    "name": "Crepera TEFAL Unlimited antiadherente 28 cm",
+    "reference": "2100112285",
+    "brand": "TEFAL",
+    "category": "Creperas",
+    "description": "Crepera 28cm de diámetro ideal para preparar tus más deliciosos crepes. | El indicador de calor Thermo-Signal™ se pone en rojo fijo cuando la sartén para tortitas; alcanza la temperatura ideal para dorar de forma impecable| Compatible con todas las estufas.",
+    "url": "https://www.imusa.com.co/crepera-tefal-unlimited-antiadherente-28-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164635/2100112285-1.jpg?v=637971587004900000",
+    "skus": [
+      {
+        "sku_id": "477",
+        "sku_name": "Crepera TEFAL Unlimited antiadherente 28 cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164635/2100112285-1.jpg?v=637971587004900000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 199899.0,
+    "list_price": 199899.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén TEFAL Unlimited antiadherente 24 cm",
     "reference": "2100112290",
     "brand": "TEFAL",
@@ -11127,27 +11127,6 @@
     "country": "Colombia",
     "price": 432499.0,
     "list_price": 432499.0,
-    "on_sale": false
-  },
-  {
-    "name": "Licuadora IMUSA InfinyForce 10 Velocidades gris",
-    "reference": "5861031311",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "Vaso de Vidrio con capacidad de 1,2Litros, gran capacidad para licuar y preparar deliciosas bebidas.| 10 Funciones + Pulso garantizando un control total de tus recetas.| Potencia de 600 Watts, ahorrando tiempo y permitiendo mejores resultados. | 6 Cuchillas en acero inoxidable altamente resistentes, óptimo rendimiento de corte para conseguir unos resultados increíblemente suaves",
-    "url": "https://www.imusa.com.co/licuadora-imusa-infinyforce-10-velocidades-gris/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169787/7702073810564-3.jpg?v=638755799694270000",
-    "skus": [
-      {
-        "sku_id": "358",
-        "sku_name": "Licuadora IMUSA InfinyForce 10 Velocidades gris",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169787/7702073810564-3.jpg?v=638755799694270000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 215900.0,
-    "list_price": 215900.0,
     "on_sale": false
   },
   {
@@ -11844,6 +11823,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+    "reference": "5861032684",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
+    "skus": [
+      {
+        "sku_id": "916",
+        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1749.0,
+    "list_price": 1799.0,
+    "on_sale": true
+  },
+  {
     "name": "Generador de vapor Express Anti-calcio, resultados perfectos",
     "reference": "1830008962",
     "brand": "T-fal",
@@ -12327,6 +12327,27 @@
     "on_sale": false
   },
   {
+    "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
+    "reference": "2100139936",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
+    "url": "https://www.t-fal.com.mx/bateria-20-piezas-refresh-ceramic-eucalyptus/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159553/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639125003380200000",
+    "skus": [
+      {
+        "sku_id": "1091",
+        "sku_name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159553/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639125003380200000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 3699.0,
+    "list_price": 3699.0,
+    "on_sale": false
+  },
+  {
     "name": "Vaporizador vertical Origin Home, prendas siempre listas",
     "reference": "7211005140",
     "brand": "T-fal",
@@ -12726,27 +12747,6 @@
     "on_sale": false
   },
   {
-    "name": "Jarra para cafetera CM3218MX original de repuesto",
-    "reference": "9100017766",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm3218mx-original-de-repuesto/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159607/9100017766_FS-9100017766_JARRA-PARA-CAFETERA-CM3218MX-01.jpg?v=639131799781500000",
-    "skus": [
-      {
-        "sku_id": "1107",
-        "sku_name": "Jarra para cafetera CM3218MX original de repuesto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159607/9100017766_FS-9100017766_JARRA-PARA-CAFETERA-CM3218MX-01.jpg?v=639131799781500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 129.0,
-    "list_price": 129.0,
-    "on_sale": false
-  },
-  {
     "name": "Tapa para cafetera compatible de repuesto universal",
     "reference": "9100036276",
     "brand": "T-fal",
@@ -12913,27 +12913,6 @@
     "price": 1839.0,
     "list_price": 2299.0,
     "on_sale": true
-  },
-  {
-    "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
-    "reference": "2100139936",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
-    "url": "https://www.t-fal.com.mx/bateria-20-piezas-refresh-ceramic-eucalyptus/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159553/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639125003380200000",
-    "skus": [
-      {
-        "sku_id": "1091",
-        "sku_name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159553/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639125003380200000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 3699.0,
-    "list_price": 3699.0,
-    "on_sale": false
   },
   {
     "name": "Crepera Excellence+ 25cm Fusion Core",
@@ -15330,6 +15309,27 @@
     "on_sale": false
   },
   {
+    "name": "Jarra para cafetera CM3218MX original de repuesto",
+    "reference": "9100017766",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm3218mx-original-de-repuesto/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159607/9100017766_FS-9100017766_JARRA-PARA-CAFETERA-CM3218MX-01.jpg?v=639131799781500000",
+    "skus": [
+      {
+        "sku_id": "1107",
+        "sku_name": "Jarra para cafetera CM3218MX original de repuesto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159607/9100017766_FS-9100017766_JARRA-PARA-CAFETERA-CM3218MX-01.jpg?v=639131799781500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 129.0,
+    "list_price": 129.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén 20cm Delight",
     "reference": "9100063102",
     "brand": "T-fal",
@@ -15771,27 +15771,6 @@
     "on_sale": false
   },
   {
-    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-    "reference": "5861032684",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
-    "skus": [
-      {
-        "sku_id": "916",
-        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1799.0,
-    "list_price": 1799.0,
-    "on_sale": false
-  },
-  {
     "name": "Crepera Hard Titanium Pro 25 cm anti-rayaduras e inducción",
     "reference": "2100119390",
     "brand": "T-fal",
@@ -15811,6 +15790,27 @@
     "price": 1999.0,
     "list_price": 1999.0,
     "on_sale": false
+  },
+  {
+    "name": "Batería de Cocina Ingenio Serenity 11 Piezas Tefal",
+    "reference": "2100139710",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "ELEGANCIA MULTIFUNCIONAL: De la estufa al horno, al centro de tu mesa y luego al refrigerador, Ingenio Serenity es tan hermoso como funcional.|\nAHORRO DE ESPACIO: Ultraligero y apilable, el menaje de cocina de Ingenio ahorra hasta 2 veces más espacio que las ollas y sartenes convencionales.|\nREVESTIMIENTO ANTIADHERENTE MINERALIA: Descubre un rendimiento antiadherente duradero y un deslizamiento perfecto para una cocina fácil y baja en grasa todos los días.|\nASA RESISTENTE: El asa desmontable, seguro y patentado, puede soportar hasta 10 kg (pruebas internas) y viene con una garantía de 10 años*.|\nJUEGO DE 11 PIEZAS PARA COCINA DIARIA: Incluye 2 sartenes, 1 wok, 2 cacerolas con tapas de vidrio, 2 tapas de almacenamiento y 2 asas Ingenio a juego.|\nCOMPATIBILIDAD TOTAL Y APTO PARA HORNO: Compatible con estufas de gas, eléctricas, cerámicas e inducción, además de ser apto para horno.|\nSERVICIO EN LA MESA: El menaje de cocina Ingenio es un plato de servicio perfecto, tanto práctico como elegante.",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-ingenio-serenity-11-piezas-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000",
+    "skus": [
+      {
+        "sku_id": "372",
+        "sku_name": "Bateria De Cocina Ingenio Serenity 11 Piezas Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 104990.0,
+    "list_price": 144990.0,
+    "on_sale": true
   },
   {
     "name": "Aspiradora Vertical X-FORCE 13.60 150 AirWatts Animal Care Rowenta",
@@ -15915,6 +15915,27 @@
     "country": "Chile",
     "price": 26990.0,
     "list_price": 37990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Tabletas de Limpieza Cafeteras Krups",
+    "reference": "8010001472",
+    "brand": "Krups",
+    "category": "Accesorios",
+    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
+    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000",
+    "skus": [
+      {
+        "sku_id": "396",
+        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 7990.0,
+    "list_price": 9990.0,
     "on_sale": true
   },
   {
@@ -16422,6 +16443,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartenes 24/30 cm EASY COOK",
+    "reference": "2100123666",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente Easy Plus de larga duración, cuyo principal beneficio es su resistencia a las rayaduras. |Además, cuenta con una base difusora Optimal, que permite una conducción perfecta de calor. | Incluye tecnología Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.",
+    "url": "https://www.tefalstore.cl/sartenes-24-30-cm-easy-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205501/2100123484-01-318c90f5-50d7-4fcf-86dd-2aa3fef662b5.jpg?v=639035775389400000",
+    "skus": [
+      {
+        "sku_id": "231",
+        "sku_name": "Set 2 Sartenes 24/30 cm EASY COOK.",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205501/2100123484-01-318c90f5-50d7-4fcf-86dd-2aa3fef662b5.jpg?v=639035775389400000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 22990.0,
+    "list_price": 29990.0,
+    "on_sale": true
+  },
+  {
     "name": "Máquina de Pan Baguette Moulinex",
     "reference": "7211001300",
     "brand": "Moulinex",
@@ -16503,6 +16545,27 @@
     "country": "Chile",
     "price": 14990.0,
     "list_price": 21990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera Espresso Intuition Preference Touch + Lechero",
+    "reference": "8010000990",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "Deja que Intuition te guíe hacia la taza de café perfecta en todo momento con la cafetera espresso automática Krups Intuition Preference+. | Con 15 bares de presión que reproducen las mismas características de un barista con boquilla de vapor para obtener la espuma perfecta.|  Con pantalla táctil a color de 3,5\"\"e indicadores de luz de color intuitivos que permiten personalizar tu máquina como sus recetas guardadas para acceder fácilmente a todas tus bebidas favoritas, incluye lechero para preparaciones en base de café y leche.| Las características mejoradas incluyen tecnología de deslizamiento inteligente para una experiencia de usuario similar a la de un teléfono inteligente.|Cuenta con la exclusiva tecnología  Krups Quattro Force, la  cual reúne  cuatro puntos importantes de funcionamiento y proceso. | Molinillo active speed: un molinillo robusto y 20% más rápido para un café molido al momento. | Prensado ultraplano: para una extracción de aroma ideal para un espresso equilibrado. | Optima presión y temperatura: con sistema thermoblock y bomba de 15 bares de presión para una extracción total de aromas y sabores. | Sistema de presión autoclean: enjuagado automático del circuito del café después de cada preparación para un mantenimiento limitado y una limpieza fácil .",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-intuition-preference/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204755/8010000990.png?v=638893175719870000",
+    "skus": [
+      {
+        "sku_id": "192",
+        "sku_name": "Cafetera Espresso Intuition Preference Touch + Lechero",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204755/8010000990.png?v=638893175719870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 799990.0,
+    "list_price": 1299990.0,
     "on_sale": true
   },
   {
@@ -16611,27 +16674,6 @@
     "on_sale": true
   },
   {
-    "name": "Tabletas de Limpieza Cafeteras Krups",
-    "reference": "8010001472",
-    "brand": "Krups",
-    "category": "Accesorios",
-    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
-    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000",
-    "skus": [
-      {
-        "sku_id": "396",
-        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 7990.0,
-    "list_price": 9990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sartén 28cm Excellence Cerámica Fusioncore Tefal",
     "reference": "2100137574",
     "brand": "Tefal",
@@ -16734,6 +16776,27 @@
     "country": "Chile",
     "price": 139990.0,
     "list_price": 199990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Hervidor Subito 5 1,7 L Inox Negro Moulinex",
+    "reference": "7211419517",
+    "brand": "Moulinex",
+    "category": "Hervidores",
+    "description": "INDICADOR DE UNA TAZA: Disfruta tu taza de té hasta 2 veces más rápido gracias al indicador de una taza (en comparación con hervir 600 ml).|\nAPERTURA CON UNA SOLA MANO: Solo presiona el botón para abrir automáticamente tu hervidor eléctrico con una sola mano—para un llenado sin esfuerzo, limpieza fácil y uso práctico.|\nUN TOQUE DE ESTILO EN TU COCINA: Las líneas suaves y modernas del hervidor aportan un toque elegante a tus mañanas en la cocina.|\nFILTRO DESMONTABLE Y LAVABLE: El filtro anti-sarro del hervidor es fácil de quitar y lavar, para un agua más limpia y un mejor sabor en el té y el café.|\nREPARABILIDAD POR 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nAMPLIA CAPACIDAD: Con una gran capacidad de 1,7 L, el hervidor puede preparar hasta 7 tazas—el tamaño ideal para disfrutar con familia y amigos.|\nEBULLICIÓN RÁPIDA PARA BEBIDAS CALIENTES AL INSTANTE: Los 2400 W de potencia del hervidor garantizan un calentamiento rápido—ideal para las mañanas ajetreadas.|\nBASE GIRATORIA PRÁCTICA: Gracias a su base giratoria de 360°, el hervidor se mantiene firme en su lugar y se puede levantar y colocar fácilmente desde cualquier ángulo—ideal tanto para diestros como zurdos.|\nEMPAQUE RECICLABLE: El embalaje de cartón de nuestros productos es reciclable y está hecho con al menos un 90 % de material reciclado (*Promedio en todos los productos fabricados por Moulinex).",
+    "url": "https://www.tefalstore.cl/hervidor-subito-5-1-7-l-negro-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204805/01-portada-2.png?v=638901731478400000",
+    "skus": [
+      {
+        "sku_id": "342",
+        "sku_name": "Hervidor Subito 5 1,7 L Inox Negro",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204805/01-portada-2.png?v=638901731478400000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 29990.0,
+    "list_price": 39990.0,
     "on_sale": true
   },
   {
@@ -17136,27 +17199,6 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Antiadherente Super cook 12 PCS Tefal",
-    "reference": "2100124204",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente Powerglide con capa de anti-rayaduras reforzada con minerales. | Posee una base Optimal, que garantiza una distribución homogénea del calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. | Compatible con todo tipo de cocinas, menos inducción. | Incluye: Sartén 22/24 cm, Wok 28 cm, Olla 22/24/28 cm con tapa, 2 Cucharas, Espátula​.",
-    "url": "https://www.tefalstore.cl/set-12-pz-super-cook-black/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201294/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=638683179244470000",
-    "skus": [
-      {
-        "sku_id": "253",
-        "sku_name": "Bateria de cocina Antiadherente Super cook 12 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201294/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=638683179244470000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 84990.0,
-    "list_price": 129990.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de Vapor Promaster Excel Rowenta",
     "reference": "1830031572",
     "brand": "Rowenta",
@@ -17199,27 +17241,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartenes 24/30 cm EASY COOK",
-    "reference": "2100123666",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente Easy Plus de larga duración, cuyo principal beneficio es su resistencia a las rayaduras. |Además, cuenta con una base difusora Optimal, que permite una conducción perfecta de calor. | Incluye tecnología Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.",
-    "url": "https://www.tefalstore.cl/sartenes-24-30-cm-easy-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205501/2100123484-01-318c90f5-50d7-4fcf-86dd-2aa3fef662b5.jpg?v=639035775389400000",
-    "skus": [
-      {
-        "sku_id": "231",
-        "sku_name": "Set 2 Sartenes 24/30 cm EASY COOK.",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205501/2100123484-01-318c90f5-50d7-4fcf-86dd-2aa3fef662b5.jpg?v=639035775389400000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 22990.0,
-    "list_price": 29990.0,
-    "on_sale": true
-  },
-  {
     "name": "Olla Cocotte Air 24 cm",
     "reference": "2100127041",
     "brand": "Tefal",
@@ -17238,27 +17259,6 @@
     "country": "Chile",
     "price": 44990.0,
     "list_price": 62990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cafetera Espresso Intuition Preference Touch + Lechero",
-    "reference": "8010000990",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "Deja que Intuition te guíe hacia la taza de café perfecta en todo momento con la cafetera espresso automática Krups Intuition Preference+. | Con 15 bares de presión que reproducen las mismas características de un barista con boquilla de vapor para obtener la espuma perfecta.|  Con pantalla táctil a color de 3,5\"\"e indicadores de luz de color intuitivos que permiten personalizar tu máquina como sus recetas guardadas para acceder fácilmente a todas tus bebidas favoritas, incluye lechero para preparaciones en base de café y leche.| Las características mejoradas incluyen tecnología de deslizamiento inteligente para una experiencia de usuario similar a la de un teléfono inteligente.|Cuenta con la exclusiva tecnología  Krups Quattro Force, la  cual reúne  cuatro puntos importantes de funcionamiento y proceso. | Molinillo active speed: un molinillo robusto y 20% más rápido para un café molido al momento. | Prensado ultraplano: para una extracción de aroma ideal para un espresso equilibrado. | Optima presión y temperatura: con sistema thermoblock y bomba de 15 bares de presión para una extracción total de aromas y sabores. | Sistema de presión autoclean: enjuagado automático del circuito del café después de cada preparación para un mantenimiento limitado y una limpieza fácil .",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-intuition-preference/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204755/8010000990.png?v=638893175719870000",
-    "skus": [
-      {
-        "sku_id": "192",
-        "sku_name": "Cafetera Espresso Intuition Preference Touch + Lechero",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204755/8010000990.png?v=638893175719870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 799990.0,
-    "list_price": 1299990.0,
     "on_sale": true
   },
   {
@@ -17514,27 +17514,6 @@
     "on_sale": true
   },
   {
-    "name": "Hervidor Subito 5 1,7 L Inox Negro Moulinex",
-    "reference": "7211419517",
-    "brand": "Moulinex",
-    "category": "Hervidores",
-    "description": "INDICADOR DE UNA TAZA: Disfruta tu taza de té hasta 2 veces más rápido gracias al indicador de una taza (en comparación con hervir 600 ml).|\nAPERTURA CON UNA SOLA MANO: Solo presiona el botón para abrir automáticamente tu hervidor eléctrico con una sola mano—para un llenado sin esfuerzo, limpieza fácil y uso práctico.|\nUN TOQUE DE ESTILO EN TU COCINA: Las líneas suaves y modernas del hervidor aportan un toque elegante a tus mañanas en la cocina.|\nFILTRO DESMONTABLE Y LAVABLE: El filtro anti-sarro del hervidor es fácil de quitar y lavar, para un agua más limpia y un mejor sabor en el té y el café.|\nREPARABILIDAD POR 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nAMPLIA CAPACIDAD: Con una gran capacidad de 1,7 L, el hervidor puede preparar hasta 7 tazas—el tamaño ideal para disfrutar con familia y amigos.|\nEBULLICIÓN RÁPIDA PARA BEBIDAS CALIENTES AL INSTANTE: Los 2400 W de potencia del hervidor garantizan un calentamiento rápido—ideal para las mañanas ajetreadas.|\nBASE GIRATORIA PRÁCTICA: Gracias a su base giratoria de 360°, el hervidor se mantiene firme en su lugar y se puede levantar y colocar fácilmente desde cualquier ángulo—ideal tanto para diestros como zurdos.|\nEMPAQUE RECICLABLE: El embalaje de cartón de nuestros productos es reciclable y está hecho con al menos un 90 % de material reciclado (*Promedio en todos los productos fabricados por Moulinex).",
-    "url": "https://www.tefalstore.cl/hervidor-subito-5-1-7-l-negro-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204805/01-portada-2.png?v=638901731478400000",
-    "skus": [
-      {
-        "sku_id": "342",
-        "sku_name": "Hervidor Subito 5 1,7 L Inox Negro",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204805/01-portada-2.png?v=638901731478400000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Personal Blend Up 1000W Moulinex",
     "reference": "7211419401",
     "brand": "Moulinex",
@@ -17616,6 +17595,27 @@
     "country": "Chile",
     "price": 49990.0,
     "list_price": 62990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Bateria de cocina Antiadherente Super cook 12 PCS Tefal",
+    "reference": "2100124204",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente Powerglide con capa de anti-rayaduras reforzada con minerales. | Posee una base Optimal, que garantiza una distribución homogénea del calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. | Compatible con todo tipo de cocinas, menos inducción. | Incluye: Sartén 22/24 cm, Wok 28 cm, Olla 22/24/28 cm con tapa, 2 Cucharas, Espátula​.",
+    "url": "https://www.tefalstore.cl/set-12-pz-super-cook-black/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201294/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=638683179244470000",
+    "skus": [
+      {
+        "sku_id": "253",
+        "sku_name": "Bateria de cocina Antiadherente Super cook 12 PCS",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201294/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=638683179244470000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 84990.0,
+    "list_price": 129990.0,
     "on_sale": true
   },
   {
@@ -18118,9 +18118,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 124990.0,
+    "price": 119990.0,
     "list_price": 124990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería de cocina acero inoxidable 10 piezas Intuition Tefal",
@@ -19068,6 +19068,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora Vertical X Pert 5.8 Digital Allergy Rowenta",
+    "reference": "7211005558",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "ASPIRADO EFICIENTE: Logra fácilmente un hogar limpio con esta aspiradora tipo escoba equipada con una potente succión de hasta 150W,|\nMONITOREO SENCILLO: Selecciona la potencia de succión según tus necesidades, revisa la energía restante de la batería y recibe una alerta cuando sea momento de limpiar el filtro,|\nSESIONES DE LIMPIEZA PROLONGADAS: Disfruta hasta 40 minutos de funcionamiento** con una sola carga para limpiar todo tu espacio sin interrupciones|\nLIMPIEZA SIN ESFUERZO: Goza de una limpieza práctica con la aspiradora inalámbrica tipo escoba, excepcionalmente ligera—solo 1,3 kg en posición de mano|\nREPARABILIDAD DE 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más tiempo|\nALTA FILTRACIÓN: Libera aire limpio gracias a un avanzado sistema de filtración ubicado en la parte trasera del motor que atrapa el 99% del polvo y las partículas|\nLIMPIEZA VERSÁTIL: Limpia cada rincón de tu hogar con un paquete 4 en 1 que recoge polvo de pisos, muebles, techos y áreas de difícil acceso|\nMANTENIMIENTO SIN COMPLICACIONES: Contenedor/filtro de polvo lavable para un vaciado higiénico y libre de polvo, alertas de limpieza del filtro y un código QR para tutoriales en línea.",
+    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-pert-5-8-digital-allergy-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205994/proyecto-nuevo.jpg?v=639143794269430000",
+    "skus": [
+      {
+        "sku_id": "404",
+        "sku_name": "Aspiradora Vertical X Pert 5.8 Digital Allergy Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205994/proyecto-nuevo.jpg?v=639143794269430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": null,
+    "list_price": null,
+    "on_sale": false
+  },
+  {
     "name": "Aspiradora Trapeadora X Clean 7 Digital Rowenta",
     "reference": "7211005391",
     "brand": "Rowenta",
@@ -19359,27 +19380,6 @@
     "country": "Chile",
     "price": null,
     "list_price": null,
-    "on_sale": false
-  },
-  {
-    "name": "Batería de Cocina Ingenio Serenity 11 Piezas Tefal",
-    "reference": "2100139710",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "ELEGANCIA MULTIFUNCIONAL: De la estufa al horno, al centro de tu mesa y luego al refrigerador, Ingenio Serenity es tan hermoso como funcional.|\nAHORRO DE ESPACIO: Ultraligero y apilable, el menaje de cocina de Ingenio ahorra hasta 2 veces más espacio que las ollas y sartenes convencionales.|\nREVESTIMIENTO ANTIADHERENTE MINERALIA: Descubre un rendimiento antiadherente duradero y un deslizamiento perfecto para una cocina fácil y baja en grasa todos los días.|\nASA RESISTENTE: El asa desmontable, seguro y patentado, puede soportar hasta 10 kg (pruebas internas) y viene con una garantía de 10 años*.|\nJUEGO DE 11 PIEZAS PARA COCINA DIARIA: Incluye 2 sartenes, 1 wok, 2 cacerolas con tapas de vidrio, 2 tapas de almacenamiento y 2 asas Ingenio a juego.|\nCOMPATIBILIDAD TOTAL Y APTO PARA HORNO: Compatible con estufas de gas, eléctricas, cerámicas e inducción, además de ser apto para horno.|\nSERVICIO EN LA MESA: El menaje de cocina Ingenio es un plato de servicio perfecto, tanto práctico como elegante.",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-ingenio-serenity-11-piezas-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000",
-    "skus": [
-      {
-        "sku_id": "372",
-        "sku_name": "Bateria De Cocina Ingenio Serenity 11 Piezas Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 144990.0,
-    "list_price": 144990.0,
     "on_sale": false
   },
   {
