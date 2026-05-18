@@ -1050,48 +1050,6 @@
     "on_sale": false
   },
   {
-    "name": "Rallador IMUSA Talent Máster en acero",
-    "reference": "5861029226",
-    "brand": "IMUSA",
-    "category": "Utensilios de cocina",
-    "description": "Elaborado en Acero Inoxidable para mayor durabilidad y eficiencia de corte.| Su base y mango en nylon te brindarán un agarre suave, cómodo y seguro.| Cuatro caras con posibilidades de corte diferentes, para ofrecer mayor variedad de recetas y acabados en tus preparaciones.",
-    "url": "https://www.imusa.com.co/rallador-imusa-talent-master-en-acero/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162433/5861029226-1.jpg?v=637890190542500000",
-    "skus": [
-      {
-        "sku_id": "128",
-        "sku_name": "Rallador IMUSA Talent Máster en acero",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162433/5861029226-1.jpg?v=637890190542500000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 32400.0,
-    "list_price": 32400.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sanduchera IMUSA Basic",
-    "reference": "1510001744",
-    "brand": "IMUSA",
-    "category": "Grill Y Sanducheras",
-    "description": "Cuenta con un diseño compacto y de calidad, para preparaciones exquisitas, facilitando la limpieza del producto. | Su mango no se calienta para brindar mayor seguridad. | Tiene 2 luces indicadoras que informan cuando está conectado (rojo) y verde cuando la preparación está lista.",
-    "url": "https://www.imusa.com.co/sanduchera-imusa-basic/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165664/1510001744-1.jpg?v=638091502717300000",
-    "skus": [
-      {
-        "sku_id": "111",
-        "sku_name": "Sanduchera IMUSA Basic",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165664/1510001744-1.jpg?v=638091502717300000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 89900.0,
-    "list_price": 124900.0,
-    "on_sale": true
-  },
-  {
     "name": "Cacerola IMUSA Talent antiadherente con tapa de vidrio 12cm",
     "reference": "5861029284",
     "brand": "IMUSA",
@@ -1108,9 +1066,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 39900.0,
+    "price": 50899.0,
     "list_price": 50899.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Set de sartenes IMUSA Cambiatón 2026  20, 24 y 26cm Antiadherentes",
@@ -1596,27 +1554,6 @@
     "on_sale": true
   },
   {
-    "name": "Freidora de aire IMUSA Dual 8,3L doble canasta",
-    "reference": "1510002771",
-    "brand": "IMUSA",
-    "category": "Freidoras de aire",
-    "description": "Doble canasta para cocinar diferentes alimentos al mismo tiempo.|Ajusta temperaturas y tiempos para una comida completa.|Tecnología de aire caliente para platos más saludables.|Gran capacidad de 8,3 litros, ideal para familias y reuniones.|Versatilidad en la cocina: asa, hornea, gratina, y más, todo en un solo dispositivo. |Fácil limpieza con partes aptas para lavavajillas",
-    "url": "https://www.imusa.com.co/freidora-aire-imusa-dual-8-3-l-doble-canasta/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169853/1510002771-1.jpg?v=638780416423070000",
-    "skus": [
-      {
-        "sku_id": "1457",
-        "sku_name": "Freidora de aire IMUSA Dual 8,3L doble canasta",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169853/1510002771-1.jpg?v=638780416423070000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 699900.0,
-    "list_price": 899899.0,
-    "on_sale": true
-  },
-  {
     "name": "Batería para aspiradora T-FAL X-FORCE 9.60",
     "reference": "7222094045",
     "brand": "TEFAL",
@@ -1953,27 +1890,6 @@
     "on_sale": false
   },
   {
-    "name": "Repuesto IMUSA de Tapa de vidrio de 24cm",
-    "reference": "5850002477",
-    "brand": "IMUSA",
-    "category": "Repuestos y Accesorios",
-    "description": "Tapa 24cm de diámetro | Material Vidrio | Incluye Perilla triangular para mayor agarre | Compatible con sartenes, cacerolas, ollas y caldero de 24cm",
-    "url": "https://www.imusa.com.co/repuesto-imusa-tapa-vidrio-24cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168143/5850002477-1.jpg?v=638346219801800000",
-    "skus": [
-      {
-        "sku_id": "899",
-        "sku_name": "Repuesto IMUSA de Tapa de vidrio de 24cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168143/5850002477-1.jpg?v=638346219801800000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 24749.0,
-    "list_price": 24749.0,
-    "on_sale": false
-  },
-  {
     "name": "Set Skillet IMUSA Delicia 16cm - 20cm",
     "reference": "5861032904",
     "brand": "IMUSA",
@@ -2284,7 +2200,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 349900.0,
+    "price": 379900.0,
     "list_price": 419899.0,
     "on_sale": true
   },
@@ -2434,27 +2350,6 @@
     "price": 14899.0,
     "list_price": 14899.0,
     "on_sale": false
-  },
-  {
-    "name": "Ventilador SAMURAI Ultra Silence Force 2en1 control remoto",
-    "reference": "5861030799",
-    "brand": "SAMURAI",
-    "category": "Ventiladores multiples",
-    "description": "Ventilador 2 en 1 ¡hasta 3 veces más silencioso! | Ventilador cuenta con Control Remoto y 4 Funciones: Fuerza Máxima, Comfort, Eco Fresh y Ultra Silencioso.| Función Eco Fresh es ideal para largas sesiones de uso, debido a que permite el ahorro de energía.| Optimiza hasta un 20% del consumo de energía.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-ultra-silence-force-2en1-control-remoto/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169654/5861030799-1.jpg.jpg?v=638751382654800000",
-    "skus": [
-      {
-        "sku_id": "372",
-        "sku_name": "Ventilador SAMURAI Ultra Silence Force 2en1 control remoto",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169654/5861030799-1.jpg.jpg?v=638751382654800000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 334900.0,
-    "list_price": 437899.0,
-    "on_sale": true
   },
   {
     "name": "Ventilador SAMURAI Ultra Silence Force 2en1 negro",
@@ -2641,7 +2536,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 109900.0,
+    "price": 119900.0,
     "list_price": 164899.0,
     "on_sale": true
   },
@@ -2748,6 +2643,27 @@
     "country": "Colombia",
     "price": 139900.0,
     "list_price": 209900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sanduchera IMUSA Basic",
+    "reference": "1510001744",
+    "brand": "IMUSA",
+    "category": "Grill Y Sanducheras",
+    "description": "Cuenta con un diseño compacto y de calidad, para preparaciones exquisitas, facilitando la limpieza del producto. | Su mango no se calienta para brindar mayor seguridad. | Tiene 2 luces indicadoras que informan cuando está conectado (rojo) y verde cuando la preparación está lista.",
+    "url": "https://www.imusa.com.co/sanduchera-imusa-basic/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165664/1510001744-1.jpg?v=638091502717300000",
+    "skus": [
+      {
+        "sku_id": "111",
+        "sku_name": "Sanduchera IMUSA Basic",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165664/1510001744-1.jpg?v=638091502717300000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 89900.0,
+    "list_price": 124900.0,
     "on_sale": true
   },
   {
@@ -2917,6 +2833,27 @@
     "price": 89899.0,
     "list_price": 89899.0,
     "on_sale": false
+  },
+  {
+    "name": "Ventilador De Torre SAMURAI Eole Essential, 6 Funciones, Silencioso, Osci­lación 90°",
+    "reference": "5861037221",
+    "brand": "SAMURAI",
+    "category": "Ventiladores de torre",
+    "description": "COBERTURA AMPLIA DE AIRE: la oscilación de 90° ayuda a distribuir el aire de forma uniforme para un confort refrescante en toda la habitación. |FUNCIONAMIENTO SILENCIOSO: el bajo nivel de ruido permite trabajar, relajarse o dormir cómodamente sin sonidos molestos del ventilador. |USO VERSÁTIL: Múltiples modos de velocidad y oscilación se adaptan fácilmente a diferentes espacios, momentos y necesidades de frescura. |ALTA POTENCIA: el motor de 45W ofrece un flujo de aire fuerte y constante para una refrigeración eficaz en el uso diario. |DISEÑO MODERNO: la forma estilizada de torre y el acabado minimalista se integran sin esfuerzo en espacios de vida contemporáneos. |CONSTRUCCIÓN ROBUSTA: la base estable y los materiales duraderos garantizan un desempeño confiable y un uso prolongado día tras día.",
+    "url": "https://www.imusa.com.co/ventilador-de-torre-samurai-eole-essential-6-funciones-silencioso-osci­lacion-90/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172428/Mesa-de-trabajo-6.jpg?v=639112792541430000",
+    "skus": [
+      {
+        "sku_id": "1695",
+        "sku_name": "Ventilador De Torre SAMURAI Eole Essential, 6 Funciones, Silencioso, Osci­lación 90°",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172428/Mesa-de-trabajo-6.jpg?v=639112792541430000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 279900.0,
+    "list_price": 379900.0,
+    "on_sale": true
   },
   {
     "name": "Cuchillos de Chef EverSharp 6 piezas con Base de Afilador Integrado",
@@ -3124,7 +3061,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 249900.0,
+    "price": 299900.0,
     "list_price": 419899.0,
     "on_sale": true
   },
@@ -3334,7 +3271,28 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 599900.0,
+    "price": 799900.0,
+    "list_price": 899899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Freidora de aire IMUSA Dual 8,3L doble canasta",
+    "reference": "1510002771",
+    "brand": "IMUSA",
+    "category": "Freidoras de aire",
+    "description": "Doble canasta para cocinar diferentes alimentos al mismo tiempo.|Ajusta temperaturas y tiempos para una comida completa.|Tecnología de aire caliente para platos más saludables.|Gran capacidad de 8,3 litros, ideal para familias y reuniones.|Versatilidad en la cocina: asa, hornea, gratina, y más, todo en un solo dispositivo. |Fácil limpieza con partes aptas para lavavajillas",
+    "url": "https://www.imusa.com.co/freidora-aire-imusa-dual-8-3-l-doble-canasta/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169853/1510002771-1.jpg?v=638780416423070000",
+    "skus": [
+      {
+        "sku_id": "1457",
+        "sku_name": "Freidora de aire IMUSA Dual 8,3L doble canasta",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169853/1510002771-1.jpg?v=638780416423070000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 699900.0,
     "list_price": 899899.0,
     "on_sale": true
   },
@@ -3696,6 +3654,27 @@
     "on_sale": false
   },
   {
+    "name": "Repuesto IMUSA de Tapa de vidrio de 24cm",
+    "reference": "5850002477",
+    "brand": "IMUSA",
+    "category": "Repuestos y Accesorios",
+    "description": "Tapa 24cm de diámetro | Material Vidrio | Incluye Perilla triangular para mayor agarre | Compatible con sartenes, cacerolas, ollas y caldero de 24cm",
+    "url": "https://www.imusa.com.co/repuesto-imusa-tapa-vidrio-24cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168143/5850002477-1.jpg?v=638346219801800000",
+    "skus": [
+      {
+        "sku_id": "899",
+        "sku_name": "Repuesto IMUSA de Tapa de vidrio de 24cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168143/5850002477-1.jpg?v=638346219801800000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 24749.0,
+    "list_price": 24749.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén Dividido IMUSA Natural Stone de 26cm",
     "reference": "5861033029",
     "brand": "IMUSA",
@@ -3948,27 +3927,6 @@
     "on_sale": true
   },
   {
-    "name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
-    "reference": "3110600750",
-    "brand": "TEFAL",
-    "category": "Recipientes",
-    "description": "Los Master Seal Vidrio son recipientes 100% herméticos, 100% higiénicos y funcionales, podrás utilizarlos para preparar, servir, almacenar y transportar tus alimentos.\n|Sus características principales son: \n|Son aptos para horno hasta de 420°, perfecta distribución del calor y resistencia al corte. .\n|Son aptos para lavavajillas. .\n|Son aptos para microondas. .\n|Cuenta con 4 alas para correcto sellado y prevenir derrames.\n|100% vajilla fina, vidrio robusto y transparente de borosilicato.\n|100% hermético.\n|100% higiénico.",
-    "url": "https://www.imusa.com.co/recipiente-redondo-tefal-06l-master-seal-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165747/3110600750-1.jpg?v=638100962963030000",
-    "skus": [
-      {
-        "sku_id": "761",
-        "sku_name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165747/3110600750-1.jpg?v=638100962963030000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 49900.0,
-    "list_price": 49900.0,
-    "on_sale": false
-  },
-  {
     "name": "Repuesto Cuchillas para Licuadoradoras IMUSA Infinyforce XL/ Ultraforce",
     "reference": "5861032677",
     "brand": "IMUSA",
@@ -4092,27 +4050,6 @@
     "country": "Colombia",
     "price": 174900.0,
     "list_price": 232899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
-    "reference": "5861032007",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "¡Resultados perfectos en tus preparaciones! Perfecta para triturar hielo y fruta. La licuadora vaso de vidrio 5 velocidades de Línea POWERMIX cuenta con una potencia de 550 watts, un vaso con una capacidad de 1.25 litros y 5 velocidades incluidas la función de pulso y auto limpieza, tiene cuchillas  ZLEKROM en acero inoxidable con refuerzo en cromo, lo que la hace potente para todo corte, cuenta con un motor de larga duración y sistema de seguridad guarda cable. ¡Llévala para Triturar todo lo que quieras!",
-    "url": "https://www.imusa.com.co/licuadora-imusa-powermix-glass-5-velocidades-negra/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000",
-    "skus": [
-      {
-        "sku_id": "625",
-        "sku_name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 119900.0,
-    "list_price": 234900.0,
     "on_sale": true
   },
   {
@@ -4998,27 +4935,6 @@
     "on_sale": false
   },
   {
-    "name": "Ventilador De Torre SAMURAI Eole Essential, 6 Funciones, Silencioso, Osci­lación 90°",
-    "reference": "5861037221",
-    "brand": "SAMURAI",
-    "category": "Ventiladores de torre",
-    "description": "COBERTURA AMPLIA DE AIRE: la oscilación de 90° ayuda a distribuir el aire de forma uniforme para un confort refrescante en toda la habitación. |FUNCIONAMIENTO SILENCIOSO: el bajo nivel de ruido permite trabajar, relajarse o dormir cómodamente sin sonidos molestos del ventilador. |USO VERSÁTIL: Múltiples modos de velocidad y oscilación se adaptan fácilmente a diferentes espacios, momentos y necesidades de frescura. |ALTA POTENCIA: el motor de 45W ofrece un flujo de aire fuerte y constante para una refrigeración eficaz en el uso diario. |DISEÑO MODERNO: la forma estilizada de torre y el acabado minimalista se integran sin esfuerzo en espacios de vida contemporáneos. |CONSTRUCCIÓN ROBUSTA: la base estable y los materiales duraderos garantizan un desempeño confiable y un uso prolongado día tras día.",
-    "url": "https://www.imusa.com.co/ventilador-de-torre-samurai-eole-essential-6-funciones-silencioso-osci­lacion-90/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172428/Mesa-de-trabajo-6.jpg?v=639112792541430000",
-    "skus": [
-      {
-        "sku_id": "1695",
-        "sku_name": "Ventilador De Torre SAMURAI Eole Essential, 6 Funciones, Silencioso, Osci­lación 90°",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172428/Mesa-de-trabajo-6.jpg?v=639112792541430000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 279900.0,
-    "list_price": 379900.0,
-    "on_sale": true
-  },
-  {
     "name": "Ventilador SAMURAI Extremo 2 En 1: Pedestal o Pared, Gris",
     "reference": "5861037056",
     "brand": "SAMURAI",
@@ -5373,27 +5289,6 @@
     "country": "Colombia",
     "price": 69900.0,
     "list_price": 102900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cafetera KRUPS Espresseria Evidence One Pewter",
-    "reference": "8010000906",
-    "brand": "KRUPS",
-    "category": "Espresseria",
-    "description": "PERSONALIZA TU EXPERIENCIA: con KRUPS Evidence One, ajusta cada bebida caliente entre sus 12 opciones para resultados únicos. |CAFÉ RECIÉN MOLINO: Disfruta del café recién molido con la tecnología exclusiva KRUPS Quattro Force, para un espresso equilibrado y lleno de aroma. |DISEÑO ERGONÓMICO: Panel de control amplio y fácil de usar con íconos realistas, pantalla OLED y guía de iluminación para una experiencia intuitiva. |EMPIEZA TUS MAÑANAS CON KRUPS: Con 3 niveles de potencia, ideal para nuevas recetas de café y tus preferencias matutinas.",
-    "url": "https://www.imusa.com.co/cafetera-krups-espresseria-evidence-one-pewter-mx-full-auto/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168833/8010000906-1.jpg?v=638513791472800000",
-    "skus": [
-      {
-        "sku_id": "923",
-        "sku_name": "Cafetera KRUPS Espresseria Evidence One Pewter",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168833/8010000906-1.jpg?v=638513791472800000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 4199900.0,
-    "list_price": 4784899.0,
     "on_sale": true
   },
   {
@@ -5796,6 +5691,27 @@
     "on_sale": true
   },
   {
+    "name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
+    "reference": "3110600750",
+    "brand": "TEFAL",
+    "category": "Recipientes",
+    "description": "Los Master Seal Vidrio son recipientes 100% herméticos, 100% higiénicos y funcionales, podrás utilizarlos para preparar, servir, almacenar y transportar tus alimentos.\n|Sus características principales son: \n|Son aptos para horno hasta de 420°, perfecta distribución del calor y resistencia al corte. .\n|Son aptos para lavavajillas. .\n|Son aptos para microondas. .\n|Cuenta con 4 alas para correcto sellado y prevenir derrames.\n|100% vajilla fina, vidrio robusto y transparente de borosilicato.\n|100% hermético.\n|100% higiénico.",
+    "url": "https://www.imusa.com.co/recipiente-redondo-tefal-06l-master-seal-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165747/3110600750-1.jpg?v=638100962963030000",
+    "skus": [
+      {
+        "sku_id": "761",
+        "sku_name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165747/3110600750-1.jpg?v=638100962963030000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 49900.0,
+    "list_price": 49900.0,
+    "on_sale": false
+  },
+  {
     "name": "Repuesto Empaque de Caucho para Licuadoras IMUSA Infinyforce XL",
     "reference": "5861032672",
     "brand": "IMUSA",
@@ -5857,27 +5773,6 @@
     "price": 102900.0,
     "list_price": 102900.0,
     "on_sale": false
-  },
-  {
-    "name": "Olla a Presión IMUSA 6 Litros Secury Control",
-    "reference": "5861027836",
-    "brand": "IMUSA",
-    "category": "Ollas a presión",
-    "description": "Capacidad de 6 Litros, ideal para las preparaciones para toda la familia.| 3 Sistemas de seguridad: Dispositivo control para la liberación segura y fácil de presión, válvula controladora de presión con diseño para garantizar la segura liberación de la presión por la parte superior y no por los lados y válvula de seguridad de dos posiciones| Asa ergonómica para mayor seguridad al agarre| Su material de aluminio permite conservar los nutrientes de los alimentos.",
-    "url": "https://www.imusa.com.co/olla-a-presion-6-litros-secury-control/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164294/5861027836--201.jpg?v=637955922791600000",
-    "skus": [
-      {
-        "sku_id": "686",
-        "sku_name": "Olla a Presión IMUSA 6 Litros Secury Control",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164294/5861027836--201.jpg?v=637955922791600000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 129900.0,
-    "list_price": 142899.0,
-    "on_sale": true
   },
   {
     "name": "Set Sartén Jumbo 24cm + Perol 16cm IMUSA Smart con tapa de vidrio",
@@ -6529,6 +6424,27 @@
     "price": 58900.0,
     "list_price": 58900.0,
     "on_sale": false
+  },
+  {
+    "name": "Cafetera KRUPS Espresseria Evidence One Pewter",
+    "reference": "8010000906",
+    "brand": "KRUPS",
+    "category": "Espresseria",
+    "description": "PERSONALIZA TU EXPERIENCIA: con KRUPS Evidence One, ajusta cada bebida caliente entre sus 12 opciones para resultados únicos. |CAFÉ RECIÉN MOLINO: Disfruta del café recién molido con la tecnología exclusiva KRUPS Quattro Force, para un espresso equilibrado y lleno de aroma. |DISEÑO ERGONÓMICO: Panel de control amplio y fácil de usar con íconos realistas, pantalla OLED y guía de iluminación para una experiencia intuitiva. |EMPIEZA TUS MAÑANAS CON KRUPS: Con 3 niveles de potencia, ideal para nuevas recetas de café y tus preferencias matutinas.",
+    "url": "https://www.imusa.com.co/cafetera-krups-espresseria-evidence-one-pewter-mx-full-auto/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168833/8010000906-1.jpg?v=638513791472800000",
+    "skus": [
+      {
+        "sku_id": "923",
+        "sku_name": "Cafetera KRUPS Espresseria Evidence One Pewter",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168833/8010000906-1.jpg?v=638513791472800000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 4199900.0,
+    "list_price": 4784899.0,
+    "on_sale": true
   },
   {
     "name": "Cafetera IMUSA Cool Touch",
@@ -8757,27 +8673,6 @@
     "on_sale": false
   },
   {
-    "name": "Olla IMUSA Talent con tapa de vidrio 20 cm",
-    "reference": "5861029276",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Olla 20cm de diámetro con su Antiadherente Triforce, 3 veces más durable. | Espesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees. | Base difusora especial para distribuir de manera uniforme el calor. | Ideal para estufa vitrocerámica, gas y eléctrica.",
-    "url": "https://www.imusa.com.co/olla-imusa-talent-con-tapa-de-vidrio-20-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158359/7702073038197-1.jpg?v=637866220321300000",
-    "skus": [
-      {
-        "sku_id": "55",
-        "sku_name": "Olla IMUSA Talent con tapa de vidrio 20 cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158359/7702073038197-1.jpg?v=637866220321300000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 89899.0,
-    "list_price": 89899.0,
-    "on_sale": false
-  },
-  {
     "name": "Recipiente TEFAL Optima rectangular 1,6L Transparente",
     "reference": "3110600810",
     "brand": "TEFAL",
@@ -8796,6 +8691,27 @@
     "country": "Colombia",
     "price": 59899.0,
     "list_price": 59899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Olla IMUSA Talent con tapa de vidrio 20 cm",
+    "reference": "5861029276",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Olla 20cm de diámetro con su Antiadherente Triforce, 3 veces más durable. | Espesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees. | Base difusora especial para distribuir de manera uniforme el calor. | Ideal para estufa vitrocerámica, gas y eléctrica.",
+    "url": "https://www.imusa.com.co/olla-imusa-talent-con-tapa-de-vidrio-20-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158359/7702073038197-1.jpg?v=637866220321300000",
+    "skus": [
+      {
+        "sku_id": "55",
+        "sku_name": "Olla IMUSA Talent con tapa de vidrio 20 cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158359/7702073038197-1.jpg?v=637866220321300000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 89899.0,
+    "list_price": 89899.0,
     "on_sale": false
   },
   {
@@ -10332,6 +10248,27 @@
     "on_sale": false
   },
   {
+    "name": "Olla a Presión IMUSA 6 Litros Secury Control",
+    "reference": "5861027836",
+    "brand": "IMUSA",
+    "category": "Ollas a presión",
+    "description": "Capacidad de 6 Litros, ideal para las preparaciones para toda la familia.| 3 Sistemas de seguridad: Dispositivo control para la liberación segura y fácil de presión, válvula controladora de presión con diseño para garantizar la segura liberación de la presión por la parte superior y no por los lados y válvula de seguridad de dos posiciones| Asa ergonómica para mayor seguridad al agarre| Su material de aluminio permite conservar los nutrientes de los alimentos.",
+    "url": "https://www.imusa.com.co/olla-a-presion-6-litros-secury-control/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164294/5861027836--201.jpg?v=637955922791600000",
+    "skus": [
+      {
+        "sku_id": "686",
+        "sku_name": "Olla a Presión IMUSA 6 Litros Secury Control",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164294/5861027836--201.jpg?v=637955922791600000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 142899.0,
+    "list_price": 142899.0,
+    "on_sale": false
+  },
+  {
     "name": "Licuadora IMUSA Powermix Glass 5V Blanca",
     "reference": "5861032006",
     "brand": "IMUSA",
@@ -10476,6 +10413,27 @@
     "country": "Colombia",
     "price": 239900.0,
     "list_price": 239900.0,
+    "on_sale": false
+  },
+  {
+    "name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
+    "reference": "5861032007",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "¡Resultados perfectos en tus preparaciones! Perfecta para triturar hielo y fruta. La licuadora vaso de vidrio 5 velocidades de Línea POWERMIX cuenta con una potencia de 550 watts, un vaso con una capacidad de 1.25 litros y 5 velocidades incluidas la función de pulso y auto limpieza, tiene cuchillas  ZLEKROM en acero inoxidable con refuerzo en cromo, lo que la hace potente para todo corte, cuenta con un motor de larga duración y sistema de seguridad guarda cable. ¡Llévala para Triturar todo lo que quieras!",
+    "url": "https://www.imusa.com.co/licuadora-imusa-powermix-glass-5-velocidades-negra/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000",
+    "skus": [
+      {
+        "sku_id": "625",
+        "sku_name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 234900.0,
+    "list_price": 234900.0,
     "on_sale": false
   },
   {
@@ -11256,6 +11214,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador SAMURAI Ultra Silence Force 2en1 control remoto",
+    "reference": "5861030799",
+    "brand": "SAMURAI",
+    "category": "Ventiladores multiples",
+    "description": "Ventilador 2 en 1 ¡hasta 3 veces más silencioso! | Ventilador cuenta con Control Remoto y 4 Funciones: Fuerza Máxima, Comfort, Eco Fresh y Ultra Silencioso.| Función Eco Fresh es ideal para largas sesiones de uso, debido a que permite el ahorro de energía.| Optimiza hasta un 20% del consumo de energía.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-ultra-silence-force-2en1-control-remoto/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169654/5861030799-1.jpg.jpg?v=638751382654800000",
+    "skus": [
+      {
+        "sku_id": "372",
+        "sku_name": "Ventilador SAMURAI Ultra Silence Force 2en1 control remoto",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169654/5861030799-1.jpg.jpg?v=638751382654800000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 437899.0,
+    "list_price": 437899.0,
+    "on_sale": false
+  },
+  {
     "name": "Ventilador SAMURAI Ultra Silence Force repelente 2en1 negro",
     "reference": "5861030798",
     "brand": "SAMURAI",
@@ -11592,6 +11571,27 @@
     "on_sale": false
   },
   {
+    "name": "Rallador IMUSA Talent Máster en acero",
+    "reference": "5861029226",
+    "brand": "IMUSA",
+    "category": "Utensilios de cocina",
+    "description": "Elaborado en Acero Inoxidable para mayor durabilidad y eficiencia de corte.| Su base y mango en nylon te brindarán un agarre suave, cómodo y seguro.| Cuatro caras con posibilidades de corte diferentes, para ofrecer mayor variedad de recetas y acabados en tus preparaciones.",
+    "url": "https://www.imusa.com.co/rallador-imusa-talent-master-en-acero/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162433/5861029226-1.jpg?v=637890190542500000",
+    "skus": [
+      {
+        "sku_id": "128",
+        "sku_name": "Rallador IMUSA Talent Máster en acero",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162433/5861029226-1.jpg?v=637890190542500000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 32400.0,
+    "list_price": 32400.0,
+    "on_sale": false
+  },
+  {
     "name": "Termo IMUSA Liso 1 litro",
     "reference": "5861035010",
     "brand": "IMUSA",
@@ -11881,51 +11881,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1749.0,
+    "price": 1449.0,
     "list_price": 1799.0,
     "on_sale": true
-  },
-  {
-    "name": "Generador de vapor Express Anti-calcio, resultados perfectos",
-    "reference": "1830008962",
-    "brand": "T-fal",
-    "category": "Generadores de vapor",
-    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor profesional de 400 g/min, incluso las arrugas más difíciles en telas gruesas desaparecen en segundos.\n* DURABILIDAD GARANTIZADA: Su colector de sarro removible alarga la vida útil del producto y asegura un rendimiento óptimo día tras día, con tecnología silenciosa para mayor comodidad.\n* LISTO EN SEGUNDOS: En solo 2 minutos el generador está listo para usar, brindando potencia inmediata para sesiones de planchado rápidas y sin interrupciones.\n* CUIDADO SEGURO EN TODA TELA: La tecnología No-Setting ajusta automáticamente la combinación perfecta de vapor y temperatura, protegiendo incluso las prendas más delicadas.\n* AUTONOMÍA ILIMITADA: Gracias al depósito XL de 1.8 L con rellenado continuo, podrás planchar grandes cantidades de ropa sin pausas ni complicaciones.",
-    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-anti-calcio-resultados-perfectos-951/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158021/1830008962_SV8062X0_ExpressAnticalBlack-Silver-01-.jpg?v=638930562887270000",
-    "skus": [
-      {
-        "sku_id": "951",
-        "sku_name": "Generador de vapor Express Anti-calcio, resultados perfectos",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158021/1830008962_SV8062X0_ExpressAnticalBlack-Silver-01-.jpg?v=638930562887270000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 3999.0,
-    "list_price": 3999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Tapa para cafetera compatible de repuesto universal",
-    "reference": "9100043551",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
-    "skus": [
-      {
-        "sku_id": "1109",
-        "sku_name": "Tapa para cafetera compatible de repuesto universal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 199.0,
-    "list_price": 199.0,
-    "on_sale": false
   },
   {
     "name": "Freidora de Aire 7L Infrared, Calentamiento Dual, Doble Ventana",
@@ -11970,27 +11928,6 @@
     "on_sale": false
   },
   {
-    "name": "Vaporizador Pure Pop Azul, con estilo en cualquier lugar",
-    "reference": "1830009125",
-    "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* LISTO EN SEGUNDOS: Con solo 15 segundos de calentamiento, tu vaporizador está listo para dejar tu ropa impecable, ideal para retoques de último momento. * DISEÑO PORTÁTIL Y LIGERO: Compacto y fácil de transportar, es el compañero ideal para viajes o espacios reducidos, sin ocupar lugar y siempre a tu alcance. * CUIDADO SEGURO EN TODA TELA: El lado de terciopelo del pad protege incluso las telas más delicadas, asegurando un vapor eficaz y sin riesgos. * OLVÍDATE DE PELUSAS Y PELOS: Su innovadora almohadilla reversible incluye un lado quita pelusa que atrapa pelos de mascota y motas, manteniendo tu ropa perfecta. * PLANCHA CON ESTILO EN CUALQUIER LUGAR: Elimina arrugas, refresca y ayuda a reducir olores, dejando cada prenda con apariencia limpia y cuidada en cuestión de minutos.",
-    "url": "https://www.t-fal.com.mx/vaporizador-pure-pop-azul-con-estilo-en-cualquier-lugar-925/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157835/1830009125_DT2020X0_PUREPOP_BLUE_-1-.jpg?v=638930419360500000",
-    "skus": [
-      {
-        "sku_id": "925",
-        "sku_name": "Vaporizador Pure Pop Azul, con estilo en cualquier lugar",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157835/1830009125_DT2020X0_PUREPOP_BLUE_-1-.jpg?v=638930419360500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 799.0,
-    "list_price": 799.0,
-    "on_sale": false
-  },
-  {
     "name": "Generador de vapor Express Easy, resultados impecables",
     "reference": "1830009002",
     "brand": "T-fal",
@@ -12009,6 +11946,27 @@
     "country": "México",
     "price": 1999.0,
     "list_price": 2499.0,
+    "on_sale": true
+  },
+  {
+    "name": "Generador de vapor Express Anti-calcio, resultados perfectos",
+    "reference": "1830008962",
+    "brand": "T-fal",
+    "category": "Generadores de vapor",
+    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor profesional de 400 g/min, incluso las arrugas más difíciles en telas gruesas desaparecen en segundos.\n* DURABILIDAD GARANTIZADA: Su colector de sarro removible alarga la vida útil del producto y asegura un rendimiento óptimo día tras día, con tecnología silenciosa para mayor comodidad.\n* LISTO EN SEGUNDOS: En solo 2 minutos el generador está listo para usar, brindando potencia inmediata para sesiones de planchado rápidas y sin interrupciones.\n* CUIDADO SEGURO EN TODA TELA: La tecnología No-Setting ajusta automáticamente la combinación perfecta de vapor y temperatura, protegiendo incluso las prendas más delicadas.\n* AUTONOMÍA ILIMITADA: Gracias al depósito XL de 1.8 L con rellenado continuo, podrás planchar grandes cantidades de ropa sin pausas ni complicaciones.",
+    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-anti-calcio-resultados-perfectos-951/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158021/1830008962_SV8062X0_ExpressAnticalBlack-Silver-01-.jpg?v=638930562887270000",
+    "skus": [
+      {
+        "sku_id": "951",
+        "sku_name": "Generador de vapor Express Anti-calcio, resultados perfectos",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158021/1830008962_SV8062X0_ExpressAnticalBlack-Silver-01-.jpg?v=638930562887270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 3199.0,
+    "list_price": 3999.0,
     "on_sale": true
   },
   {
@@ -12049,9 +12007,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 279.0,
+    "price": 249.0,
     "list_price": 279.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaporizador vertical Origin Home, prendas siempre listas",
@@ -12091,9 +12049,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 599.0,
     "list_price": 699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Mini Procesador de Alimentos Actimix",
@@ -12217,9 +12175,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1999.0,
+    "price": 1599.0,
     "list_price": 1999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Ventilador 3 en 1  Compact Force de 8\"",
@@ -12238,9 +12196,30 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 549.0,
     "list_price": 699.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Vaporizador Pure Pop Azul, con estilo en cualquier lugar",
+    "reference": "1830009125",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* LISTO EN SEGUNDOS: Con solo 15 segundos de calentamiento, tu vaporizador está listo para dejar tu ropa impecable, ideal para retoques de último momento. * DISEÑO PORTÁTIL Y LIGERO: Compacto y fácil de transportar, es el compañero ideal para viajes o espacios reducidos, sin ocupar lugar y siempre a tu alcance. * CUIDADO SEGURO EN TODA TELA: El lado de terciopelo del pad protege incluso las telas más delicadas, asegurando un vapor eficaz y sin riesgos. * OLVÍDATE DE PELUSAS Y PELOS: Su innovadora almohadilla reversible incluye un lado quita pelusa que atrapa pelos de mascota y motas, manteniendo tu ropa perfecta. * PLANCHA CON ESTILO EN CUALQUIER LUGAR: Elimina arrugas, refresca y ayuda a reducir olores, dejando cada prenda con apariencia limpia y cuidada en cuestión de minutos.",
+    "url": "https://www.t-fal.com.mx/vaporizador-pure-pop-azul-con-estilo-en-cualquier-lugar-925/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157835/1830009125_DT2020X0_PUREPOP_BLUE_-1-.jpg?v=638930419360500000",
+    "skus": [
+      {
+        "sku_id": "925",
+        "sku_name": "Vaporizador Pure Pop Azul, con estilo en cualquier lugar",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157835/1830009125_DT2020X0_PUREPOP_BLUE_-1-.jpg?v=638930419360500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 649.0,
+    "list_price": 799.0,
+    "on_sale": true
   },
   {
     "name": "Plancha Puregliss Black and Gold, planchado impecable",
@@ -12327,27 +12306,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería Lichen Supercook 26 pzas",
-    "reference": "2100131910",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Recubrimiento Easy Plus antiadherente de larga duración que evita que los alimentos se peguen y facilita la limpieza después de cada uso.\n* Tecnología Thermo-Signal que cambia de color indicando la temperatura óptima para cocinar.\n* Garantizando resultados más precisos y mejor sabor.\n* Base difusora que distribuye el calor de forma uniforme.\n* Asegurando una cocción homogénea y evitando puntos de sobrecalentamiento.\n* Set completo que incluye sartenes.\n* Cacerolas.\n* Olla.\n* Wok.\n* Crepera y utensilios esenciales libres de BPA.\n* Diseñados para el uso diario.\n* Compatible con todas las cocinas excepto inducción.\n*Apta para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/bateria-lichen-supercook-26-pzas-954/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158039/2100131910_B929SZ84_BATERIA26PCSLICHENSUPERCOOK-1-.jpg?v=638930565232500000",
-    "skus": [
-      {
-        "sku_id": "954",
-        "sku_name": "Batería Lichen Supercook 26 pzas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158039/2100131910_B929SZ84_BATERIA26PCSLICHENSUPERCOOK-1-.jpg?v=638930565232500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2999.0,
-    "list_price": 2999.0,
-    "on_sale": false
-  },
-  {
     "name": "Jarra para cafetera CM3218MX original de repuesto",
     "reference": "9100017766",
     "brand": "T-fal",
@@ -12432,25 +12390,46 @@
     "on_sale": false
   },
   {
-    "name": "Sartén Hard Titanium Pro 20 cm anti-rayaduras y base de inducción",
-    "reference": "9100057149",
+    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032672",
     "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Recubrimiento Titanium 6X anti-rayaduras\n* Base de inducción para calor rápido\n* Apto para lavavajillas y fácil de limpiar\n* Mango de baquelita con acero\n* Compatible con todas las fuentes incluida inducción",
-    "url": "https://www.t-fal.com.mx/sarten-hard-titanium-pro-20-cm-anti-rayaduras-y-base-de-induccion/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158853/9100057149_G2690232M_SARTEN20HARDTITANIUMPRO-1-.jpg?v=638950383330970000",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
     "skus": [
       {
-        "sku_id": "1040",
-        "sku_name": "Sartén Hard Titanium Pro 20 cm anti-rayaduras y base de inducción",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158853/9100057149_G2690232M_SARTEN20HARDTITANIUMPRO-1-.jpg?v=638950383330970000"
+        "sku_id": "1082",
+        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
-    "list_price": 1499.0,
+    "price": 34.0,
+    "list_price": 34.0,
     "on_sale": false
+  },
+  {
+    "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
+    "reference": "2100128300",
+    "brand": "T-fal",
+    "category": "Sets de sartenes",
+    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas, Fabricado en Francia",
+    "url": "https://www.t-fal.com.mx/set-renew-on-24-y-28-cm-ceramico-inoceram-y-base-de-induccion/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000",
+    "skus": [
+      {
+        "sku_id": "1048",
+        "sku_name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1599.0,
+    "list_price": 1999.0,
+    "on_sale": true
   },
   {
     "name": "Sartén Renew On 20 cm cerámico, base de inducción y diseño ecológico",
@@ -12474,27 +12453,6 @@
     "on_sale": false
   },
   {
-    "name": "Sartén 24 cm Emotion acero inoxidable",
-    "reference": "2100117987",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Diseñada para preparar comidas sabrosas con facilidad, estilo y rendimiento superior.\n* Termo-Señal indica el momento ideal para la cocción logrando resultados homogéneos.\n* Revestimiento antiadherente resistente que permite cocinar con menos grasa.\n* Compatible con inducción y todas las fuentes de calor para versatilidad.\n* Mango ergonómico con inserto de acero inoxidable, ofreciendo comodidad y durabilidad.",
-    "url": "https://www.t-fal.com.mx/sarten-24-cm-emotion-acero-inoxidable/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158843/2100117987_E3000404_FP24GCHPEG6EMOTIONSSCOATTEF-1-.jpg?v=638950382330870000",
-    "skus": [
-      {
-        "sku_id": "1035",
-        "sku_name": "Sartén 24 cm Emotion acero inoxidable",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158843/2100117987_E3000404_FP24GCHPEG6EMOTIONSSCOATTEF-1-.jpg?v=638950382330870000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 599.0,
-    "list_price": 599.0,
-    "on_sale": false
-  },
-  {
     "name": "Robot de Cocina Easy Soup",
     "reference": "7211419521",
     "brand": "T-fal",
@@ -12511,9 +12469,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2399.0,
+    "price": 1899.0,
     "list_price": 2399.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set Hard Titanium Pro 20 y 26 cm anti-rayaduras y base inducción",
@@ -12534,6 +12492,27 @@
     "country": "México",
     "price": 2659.0,
     "list_price": 3499.0,
+    "on_sale": true
+  },
+  {
+    "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
+    "reference": "7211005234",
+    "brand": "T-fal",
+    "category": "Vaporizadores verticales",
+    "description": "* SOPORTE INTEGRADO: Este vaporizador vertical tiene un back incluido, el cual ofrece mayor comodidad al colgar tus prendas directamente en el vaporizador, permitiéndote alisar vestidos, camisas o abrigos sin necesidad de buscar dónde apoyarlos, haciendo cada sesión más práctica y ordenada.\n* VAPOR PARA TODAS LAS TELAS: Sus 3 niveles de vapor permiten cuidar desde prendas delicadas hasta telas más gruesas, siempre con resultados perfectos.\n* PERCHERO INTEGRADO: Su diseño tipo perchero con soporte trasero permite colgar prendas largas como vestidos o abrigos, haciéndolo más práctico y cómodo.\n* REFRESCA Y SANITIZA: El poder del vapor no solo elimina arrugas, también ayuda a reducir olores y bacterias, ofreciendo ropa fresca y cuidada.\n* DISEÑO ESTÉTICO Y FUNCIONAL: Su estilo minimalista combina con cualquier espacio del hogar, mientras que el tanque removible facilita su uso diario.",
+    "url": "https://www.t-fal.com.mx/vaporizador-vertical-con-back-origin-home-prendas-siempre-listas-919/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000",
+    "skus": [
+      {
+        "sku_id": "919",
+        "sku_name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 2499.0,
     "on_sale": true
   },
   {
@@ -12574,9 +12553,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
+    "price": 799.0,
     "list_price": 999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaporizador Pure Pop Naranja, con estilo en cualquier lugar",
@@ -12595,9 +12574,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 799.0,
+    "price": 649.0,
     "list_price": 799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 32cm Daily expert rojo",
@@ -12679,51 +12658,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1399.0,
+    "price": 1099.0,
     "list_price": 1399.0,
-    "on_sale": false
-  },
-  {
-    "name": "Olla a presión 12L aluminio, segura y versátil",
-    "reference": "7114900079",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* La olla a presión de 12 litros. \n* Hecha de aluminio. \n* Garantiza seguridad y facilidad de uso para grandes preparaciones. \n* Equipada con 5 sistemas de seguridad. \n* Esta olla proporciona una experiencia de cocina sin riesgos. \n* Es ideal para cocinar grandes volúmenes de comida. \n* Ofreciendo versatilidad para una amplia variedad de recetas. \n* La construcción en aluminio asegura una estructura ligera y fácil manejo. \n* Permitiéndote cocinar eficientemente en cualquier ocasión. \n* Con esta olla a presión. \n* Podrás realizar grandes preparaciones de manera segura y rápida. \n* Manteniendo la frescura y calidad de tus alimentos.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-12l-aluminio-segura-y-versatil-942/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000",
-    "skus": [
-      {
-        "sku_id": "942",
-        "sku_name": "Olla a presión 12L aluminio, segura y versátil",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1989.0,
-    "list_price": 1989.0,
-    "on_sale": false
-  },
-  {
-    "name": "Olla a presión 16L aluminio, segura y versátil",
-    "reference": "7114900080",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* La olla a presión de 16 litros. \n* Hecha de aluminio. \n* Garantiza seguridad y facilidad de uso para grandes preparaciones. \n* Equipada con 5 sistemas de seguridad. \n* Esta olla proporciona una experiencia de cocina sin riesgos. \n* Es ideal para cocinar grandes volúmenes de comida. \n* Ofreciendo versatilidad para una amplia variedad de recetas. \n* La construcción en aluminio asegura una estructura ligera y fácil manejo. \n* Permitiéndote cocinar eficientemente en cualquier ocasión. \n* Con esta olla a presión. \n* Podrás realizar grandes preparaciones de manera segura y rápida. \n* Manteniendo la frescura y calidad de tus alimentos.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-16l-aluminio-segura-y-versatil-943/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157973/YL307LA10_7114900080_OLLADEPRESION16QTDEALUMINIO_3168430228085-1-.jpg?v=638930556369500000",
-    "skus": [
-      {
-        "sku_id": "943",
-        "sku_name": "Olla a presión 16L aluminio, segura y versátil",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157973/YL307LA10_7114900080_OLLADEPRESION16QTDEALUMINIO_3168430228085-1-.jpg?v=638930556369500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2519.0,
-    "list_price": 2519.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a presión Compact Easy 6L inox., compacta y segura",
@@ -12744,6 +12681,27 @@
     "country": "México",
     "price": 2519.0,
     "list_price": 3599.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batería Hard Titanium Pro 12 pzas inducción",
+    "reference": "2100119393",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Antiadherente Titanium anti-rayaduras extra resistente.\n* Diseñado para soportar el uso diario y utensilios metálicos sin dañarse.\n* Base Thermo-Fusion+ que ofrece un calentamiento rápido y homogéneo.\n* Optimizando los tiempos de cocción en todas las recetas.\n* Tecnología Thermo-Signal en sartenes.\n* Que indica el momento ideal para iniciar la cocción y obtener un sellado perfecto.\n* Set completo con sartenes.\n* Ollas.\n* Cazo.\n* Cacerola.\n* Evaporera y utensilios robustos.\n* Perfecto para la cocina intensiva en casa.\n* Compatible con todas las cocinas.\n* Incluida inducción.\n* Apta para lavavajillas y fabricada en Francia en elegante color negro.",
+    "url": "https://www.t-fal.com.mx/bateria-hard-titanium-pro-12-pzas-induccion-953/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158033/2100119393_G2699082_SETBAT12PCSHARDTITANIUMPROIND-1-.jpg?v=638930564573700000",
+    "skus": [
+      {
+        "sku_id": "953",
+        "sku_name": "Batería Hard Titanium Pro 12 pzas inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158033/2100119393_G2699082_SETBAT12PCSHARDTITANIUMPROIND-1-.jpg?v=638930564573700000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 9599.0,
+    "list_price": 11999.0,
     "on_sale": true
   },
   {
@@ -12784,9 +12742,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 5899.0,
+    "price": 4699.0,
     "list_price": 5899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Tapa para cafetera compatible de repuesto universal",
@@ -12889,9 +12847,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2149.0,
+    "price": 1699.0,
     "list_price": 2149.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén Excellence+ 20cm Fusion Core",
@@ -13017,27 +12975,6 @@
     "country": "México",
     "price": 179.0,
     "list_price": 179.0,
-    "on_sale": false
-  },
-  {
-    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032672",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
-    "skus": [
-      {
-        "sku_id": "1082",
-        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 34.0,
-    "list_price": 34.0,
     "on_sale": false
   },
   {
@@ -13225,9 +13162,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3849.0,
+    "price": 3099.0,
     "list_price": 3849.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería 20 piezas Family Cook",
@@ -13267,9 +13204,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3219.0,
+    "price": 2599.0,
     "list_price": 3219.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Powermax XXL 1100W",
@@ -13288,9 +13225,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1699.0,
+    "price": 1349.0,
     "list_price": 1699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Powermax Autolock 850W",
@@ -13309,9 +13246,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1599.0,
+    "price": 1299.0,
     "list_price": 1599.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora 2v vaso vidrio Ultraforce+",
@@ -13372,9 +13309,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 549.0,
     "list_price": 699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 2 piezas de termos de 0.700 L  Bludrop",
@@ -13393,9 +13330,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1599.0,
+    "price": 1299.0,
     "list_price": 1599.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 2 piezas de termos de 0.500 L Classic Mug",
@@ -13414,9 +13351,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
+    "price": 1199.0,
     "list_price": 1499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set Renew On 20, 24 y 28 cm cerámico Inoceram y base inducción",
@@ -13435,30 +13372,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2899.0,
+    "price": 2299.0,
     "list_price": 2899.0,
-    "on_sale": false
-  },
-  {
-    "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
-    "reference": "2100128300",
-    "brand": "T-fal",
-    "category": "Sets de sartenes",
-    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas, Fabricado en Francia",
-    "url": "https://www.t-fal.com.mx/set-renew-on-24-y-28-cm-ceramico-inoceram-y-base-de-induccion/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000",
-    "skus": [
-      {
-        "sku_id": "1048",
-        "sku_name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de sartenes Delight 20, 24 y 28 cm Mineralia+ saludable",
@@ -13519,9 +13435,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1899.0,
+    "price": 1499.0,
     "list_price": 1899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bloque 6 cuchillos Eversharp Pro afilador incluido color negro",
@@ -13540,9 +13456,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2999.0,
+    "price": 2399.0,
     "list_price": 2999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cuchillo Eversharp Pro chef con bloque afilador color negro",
@@ -13561,9 +13477,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
+    "price": 1199.0,
     "list_price": 1499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
@@ -13587,6 +13503,27 @@
     "on_sale": false
   },
   {
+    "name": "Sartén Hard Titanium Pro 20 cm anti-rayaduras y base de inducción",
+    "reference": "9100057149",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Recubrimiento Titanium 6X anti-rayaduras\n* Base de inducción para calor rápido\n* Apto para lavavajillas y fácil de limpiar\n* Mango de baquelita con acero\n* Compatible con todas las fuentes incluida inducción",
+    "url": "https://www.t-fal.com.mx/sarten-hard-titanium-pro-20-cm-anti-rayaduras-y-base-de-induccion/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158853/9100057149_G2690232M_SARTEN20HARDTITANIUMPRO-1-.jpg?v=638950383330970000",
+    "skus": [
+      {
+        "sku_id": "1040",
+        "sku_name": "Sartén Hard Titanium Pro 20 cm anti-rayaduras y base de inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158853/9100057149_G2690232M_SARTEN20HARDTITANIUMPRO-1-.jpg?v=638950383330970000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1199.0,
+    "list_price": 1499.0,
+    "on_sale": true
+  },
+  {
     "name": "One pick pot pan 24cm Lichen",
     "reference": "2100136980",
     "brand": "T-fal",
@@ -13603,9 +13540,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1399.0,
+    "price": 1099.0,
     "list_price": 1399.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "One pick pot pan 22cm Amarillo",
@@ -13624,9 +13561,30 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1299.0,
+    "price": 1049.0,
     "list_price": 1299.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Sartén 24 cm Emotion acero inoxidable",
+    "reference": "2100117987",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Diseñada para preparar comidas sabrosas con facilidad, estilo y rendimiento superior.\n* Termo-Señal indica el momento ideal para la cocción logrando resultados homogéneos.\n* Revestimiento antiadherente resistente que permite cocinar con menos grasa.\n* Compatible con inducción y todas las fuentes de calor para versatilidad.\n* Mango ergonómico con inserto de acero inoxidable, ofreciendo comodidad y durabilidad.",
+    "url": "https://www.t-fal.com.mx/sarten-24-cm-emotion-acero-inoxidable/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158843/2100117987_E3000404_FP24GCHPEG6EMOTIONSSCOATTEF-1-.jpg?v=638950382330870000",
+    "skus": [
+      {
+        "sku_id": "1035",
+        "sku_name": "Sartén 24 cm Emotion acero inoxidable",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158843/2100117987_E3000404_FP24GCHPEG6EMOTIONSSCOATTEF-1-.jpg?v=638950382330870000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 499.0,
+    "list_price": 599.0,
+    "on_sale": true
   },
   {
     "name": "Sartén Delight 28 cm Mineralia+ con inducción",
@@ -13645,9 +13603,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1289.0,
+    "price": 1049.0,
     "list_price": 1289.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén Delight 24 cm Mineralia+ con inducción",
@@ -13666,9 +13624,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1009.0,
+    "price": 799.0,
     "list_price": 1009.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén Renew+ 30 cm cerámico eco inducción",
@@ -13792,7 +13750,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1919.0,
+    "price": 1899.0,
     "list_price": 2399.0,
     "on_sale": true
   },
@@ -13813,9 +13771,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1049.0,
+    "price": 849.0,
     "list_price": 1049.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Parrilla Compact Panini",
@@ -13834,9 +13792,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 549.0,
     "list_price": 699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sandwichera 3 en 1 Ultracompact",
@@ -13876,9 +13834,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1399.0,
+    "price": 1199.0,
     "list_price": 1399.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Procesador de Alimentos Chopper Power Max",
@@ -13897,9 +13855,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 569.0,
+    "price": 449.0,
     "list_price": 569.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Procesador de Alimentos Choppeo",
@@ -13960,9 +13918,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2799.0,
+    "price": 2249.0,
     "list_price": 2799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a presión Clipso Tempo de aluminio antiadherente color negro",
@@ -14023,7 +13981,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2239.0,
+    "price": 2199.0,
     "list_price": 2749.0,
     "on_sale": true
   },
@@ -14044,9 +14002,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
+    "price": 799.0,
     "list_price": 999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Procesador de Alimentos Fresh Express",
@@ -14086,9 +14044,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
+    "price": 799.0,
     "list_price": 999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Vaso Vidrio Ultraforce Auto",
@@ -14191,9 +14149,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 909.0,
+    "price": 749.0,
     "list_price": 909.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Vaso Vidrio Ultraforce Cook",
@@ -14254,9 +14212,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 649.0,
+    "price": 499.0,
     "list_price": 649.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Ingenio Preference 12 pzas acero inoxidable e inducción",
@@ -14296,9 +14254,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1999.0,
+    "price": 1599.0,
     "list_price": 1999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Horno Eléctrico 40 L",
@@ -14359,9 +14317,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3989.0,
+    "price": 3199.0,
     "list_price": 3989.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire XL Surface",
@@ -14401,9 +14359,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2409.0,
+    "price": 1949.0,
     "list_price": 2409.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aceite 1.8 L Oleo Clean Compact",
@@ -14443,9 +14401,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2309.0,
+    "price": 1849.0,
     "list_price": 2309.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Exprimidor de jugo Citrus Press Pro",
@@ -14527,9 +14485,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 669.0,
+    "price": 549.0,
     "list_price": 669.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 3 contenedores de vidrio Master Seal Glass",
@@ -14548,9 +14506,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 799.0,
+    "price": 699.0,
     "list_price": 799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batidora de Inmersión Daily Chef",
@@ -14569,9 +14527,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1199.0,
+    "price": 949.0,
     "list_price": 1199.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batidora de Inmersión Turbomix",
@@ -14611,9 +14569,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3499.0,
+    "price": 2799.0,
     "list_price": 3499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 2 termos de 0.350 L Essential Mug para bebidas",
@@ -14632,9 +14590,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1299.0,
+    "price": 1049.0,
     "list_price": 1299.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set Hard Titanium Plus 20, 24 y 30 cm antiadherente 2X y Termo-Señal",
@@ -14653,9 +14611,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2399.0,
+    "price": 1899.0,
     "list_price": 2399.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 4 cuchillos Ice Force de acero inoxidable",
@@ -14674,9 +14632,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
+    "price": 799.0,
     "list_price": 999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 20cm Emotion SS",
@@ -14695,9 +14653,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 549.0,
+    "price": 449.0,
     "list_price": 549.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 30cm Emotion SS",
@@ -14716,9 +14674,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 549.0,
     "list_price": 699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Milkpot Opti’Space 16 cm de acero con tapa",
@@ -14779,7 +14737,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 6819.0,
+    "price": 6799.0,
     "list_price": 8499.0,
     "on_sale": true
   },
@@ -14800,9 +14758,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1999.0,
+    "price": 1599.0,
     "list_price": 1999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Ventilador de Pedestal Silence Force 18\" anti mosquitos",
@@ -14821,29 +14779,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1799.0,
+    "price": 1449.0,
     "list_price": 1799.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
-    "reference": "7211005234",
-    "brand": "T-fal",
-    "category": "Vaporizadores verticales",
-    "description": "* SOPORTE INTEGRADO: Este vaporizador vertical tiene un back incluido, el cual ofrece mayor comodidad al colgar tus prendas directamente en el vaporizador, permitiéndote alisar vestidos, camisas o abrigos sin necesidad de buscar dónde apoyarlos, haciendo cada sesión más práctica y ordenada.\n* VAPOR PARA TODAS LAS TELAS: Sus 3 niveles de vapor permiten cuidar desde prendas delicadas hasta telas más gruesas, siempre con resultados perfectos.\n* PERCHERO INTEGRADO: Su diseño tipo perchero con soporte trasero permite colgar prendas largas como vestidos o abrigos, haciéndolo más práctico y cómodo.\n* REFRESCA Y SANITIZA: El poder del vapor no solo elimina arrugas, también ayuda a reducir olores y bacterias, ofreciendo ropa fresca y cuidada.\n* DISEÑO ESTÉTICO Y FUNCIONAL: Su estilo minimalista combina con cualquier espacio del hogar, mientras que el tanque removible facilita su uso diario.",
-    "url": "https://www.t-fal.com.mx/vaporizador-vertical-con-back-origin-home-prendas-siempre-listas-919/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000",
-    "skus": [
-      {
-        "sku_id": "919",
-        "sku_name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2149.0,
-    "list_price": 2499.0,
     "on_sale": true
   },
   {
@@ -14863,9 +14800,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 549.0,
     "list_price": 699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén Hard Titanium Pro 28 cm, anti-rayaduras, inducción",
@@ -14884,9 +14821,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2299.0,
+    "price": 1849.0,
     "list_price": 2299.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 24cm Hard Titanium Pro",
@@ -14905,9 +14842,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1699.0,
+    "price": 1349.0,
     "list_price": 1699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 24cm Daily expert rojo",
@@ -14968,9 +14905,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1299.0,
+    "price": 1049.0,
     "list_price": 1299.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
@@ -14989,7 +14926,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1919.0,
+    "price": 1849.0,
     "list_price": 2299.0,
     "on_sale": true
   },
@@ -15031,9 +14968,51 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 599.0,
+    "price": 499.0,
     "list_price": 599.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Olla a presión 12L aluminio, segura y versátil",
+    "reference": "7114900079",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* La olla a presión de 12 litros. \n* Hecha de aluminio. \n* Garantiza seguridad y facilidad de uso para grandes preparaciones. \n* Equipada con 5 sistemas de seguridad. \n* Esta olla proporciona una experiencia de cocina sin riesgos. \n* Es ideal para cocinar grandes volúmenes de comida. \n* Ofreciendo versatilidad para una amplia variedad de recetas. \n* La construcción en aluminio asegura una estructura ligera y fácil manejo. \n* Permitiéndote cocinar eficientemente en cualquier ocasión. \n* Con esta olla a presión. \n* Podrás realizar grandes preparaciones de manera segura y rápida. \n* Manteniendo la frescura y calidad de tus alimentos.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-12l-aluminio-segura-y-versatil-942/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000",
+    "skus": [
+      {
+        "sku_id": "942",
+        "sku_name": "Olla a presión 12L aluminio, segura y versátil",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1599.0,
+    "list_price": 1989.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla a presión 16L aluminio, segura y versátil",
+    "reference": "7114900080",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* La olla a presión de 16 litros. \n* Hecha de aluminio. \n* Garantiza seguridad y facilidad de uso para grandes preparaciones. \n* Equipada con 5 sistemas de seguridad. \n* Esta olla proporciona una experiencia de cocina sin riesgos. \n* Es ideal para cocinar grandes volúmenes de comida. \n* Ofreciendo versatilidad para una amplia variedad de recetas. \n* La construcción en aluminio asegura una estructura ligera y fácil manejo. \n* Permitiéndote cocinar eficientemente en cualquier ocasión. \n* Con esta olla a presión. \n* Podrás realizar grandes preparaciones de manera segura y rápida. \n* Manteniendo la frescura y calidad de tus alimentos.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-16l-aluminio-segura-y-versatil-943/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157973/YL307LA10_7114900080_OLLADEPRESION16QTDEALUMINIO_3168430228085-1-.jpg?v=638930556369500000",
+    "skus": [
+      {
+        "sku_id": "943",
+        "sku_name": "Olla a presión 16L aluminio, segura y versátil",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157973/YL307LA10_7114900080_OLLADEPRESION16QTDEALUMINIO_3168430228085-1-.jpg?v=638930556369500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 2519.0,
+    "on_sale": true
   },
   {
     "name": "Batería Ingenio XL Force 12 pzas, antiadherente, apilable",
@@ -15052,9 +15031,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 5999.0,
+    "price": 4799.0,
     "list_price": 5999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Juego Ingenio Delight sartenes 24 y 28 cm",
@@ -15115,9 +15094,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 449.0,
+    "price": 349.0,
     "list_price": 449.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 5 contenedores de plástico  Master Seal Fresh",
@@ -15136,29 +15115,29 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 549.0,
+    "price": 449.0,
     "list_price": 549.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
-    "name": "Batería Hard Titanium Pro 12 pzas inducción",
-    "reference": "2100119393",
+    "name": "Batería Lichen Supercook 26 pzas",
+    "reference": "2100131910",
     "brand": "T-fal",
     "category": "Baterías de cocina",
-    "description": "* Antiadherente Titanium anti-rayaduras extra resistente.\n* Diseñado para soportar el uso diario y utensilios metálicos sin dañarse.\n* Base Thermo-Fusion+ que ofrece un calentamiento rápido y homogéneo.\n* Optimizando los tiempos de cocción en todas las recetas.\n* Tecnología Thermo-Signal en sartenes.\n* Que indica el momento ideal para iniciar la cocción y obtener un sellado perfecto.\n* Set completo con sartenes.\n* Ollas.\n* Cazo.\n* Cacerola.\n* Evaporera y utensilios robustos.\n* Perfecto para la cocina intensiva en casa.\n* Compatible con todas las cocinas.\n* Incluida inducción.\n* Apta para lavavajillas y fabricada en Francia en elegante color negro.",
-    "url": "https://www.t-fal.com.mx/bateria-hard-titanium-pro-12-pzas-induccion-953/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158033/2100119393_G2699082_SETBAT12PCSHARDTITANIUMPROIND-1-.jpg?v=638930564573700000",
+    "description": "* Recubrimiento Easy Plus antiadherente de larga duración que evita que los alimentos se peguen y facilita la limpieza después de cada uso.\n* Tecnología Thermo-Signal que cambia de color indicando la temperatura óptima para cocinar.\n* Garantizando resultados más precisos y mejor sabor.\n* Base difusora que distribuye el calor de forma uniforme.\n* Asegurando una cocción homogénea y evitando puntos de sobrecalentamiento.\n* Set completo que incluye sartenes.\n* Cacerolas.\n* Olla.\n* Wok.\n* Crepera y utensilios esenciales libres de BPA.\n* Diseñados para el uso diario.\n* Compatible con todas las cocinas excepto inducción.\n*Apta para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/bateria-lichen-supercook-26-pzas-954/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158039/2100131910_B929SZ84_BATERIA26PCSLICHENSUPERCOOK-1-.jpg?v=638930565232500000",
     "skus": [
       {
-        "sku_id": "953",
-        "sku_name": "Batería Hard Titanium Pro 12 pzas inducción",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158033/2100119393_G2699082_SETBAT12PCSHARDTITANIUMPROIND-1-.jpg?v=638930564573700000"
+        "sku_id": "954",
+        "sku_name": "Batería Lichen Supercook 26 pzas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158039/2100131910_B929SZ84_BATERIA26PCSLICHENSUPERCOOK-1-.jpg?v=638930565232500000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 9799.0,
-    "list_price": 11999.0,
+    "price": 2399.0,
+    "list_price": 2999.0,
     "on_sale": true
   },
   {
@@ -15178,9 +15157,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2999.0,
+    "price": 2399.0,
     "list_price": 2999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Tostador Ultra Toaster 2 ranuras",
@@ -15199,9 +15178,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 499.0,
+    "price": 449.0,
     "list_price": 499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Espresseria Manual Máquina de Café",
@@ -15220,9 +15199,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
+    "price": 1199.0,
     "list_price": 1499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Espresseria Manual LA-T",
@@ -15241,9 +15220,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 4799.0,
+    "price": 3849.0,
     "list_price": 4799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Filtro Grand Cafe 1.8L",
@@ -15262,7 +15241,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1099.0,
+    "price": 1049.0,
     "list_price": 1299.0,
     "on_sale": true
   },
@@ -15283,9 +15262,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 449.0,
+    "price": 349.0,
     "list_price": 449.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Filtro Elegance 7 tazas",
@@ -15304,7 +15283,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 599.0,
+    "price": 549.0,
     "list_price": 699.0,
     "on_sale": true
   },
@@ -15325,7 +15304,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 689.0,
+    "price": 549.0,
     "list_price": 699.0,
     "on_sale": true
   },
@@ -15346,9 +15325,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3999.0,
+    "price": 3199.0,
     "list_price": 3999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 20cm Delight",
@@ -15367,9 +15346,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 549.0,
     "list_price": 699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sandwichera Ultracompact Inox",
@@ -15390,6 +15369,27 @@
     "country": "México",
     "price": 899.0,
     "list_price": 899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Tapa para cafetera compatible de repuesto universal",
+    "reference": "9100043551",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
+    "skus": [
+      {
+        "sku_id": "1109",
+        "sku_name": "Tapa para cafetera compatible de repuesto universal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 199.0,
+    "list_price": 199.0,
     "on_sale": false
   },
   {
@@ -16422,6 +16422,27 @@
     "on_sale": true
   },
   {
+    "name": "Bateria de cocina Acero Inoxidable Elementary 7 PCS Tefal",
+    "reference": "2100102570",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "\"Disfruta de tus recetas favoritas con el set de 7 piezas Elementary de Tefal.|\nFabricado en acero inoxidable de primera calidad, marcas medidoras interiores para que tus recetas queden a la perfección. Mangos ergonómicos y tapa de vidrio.|\nSartenes con antiadherente Power Glide y con tecnología Thermo-Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. \nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluidas las de inducción.|\nEste set de 7 piezas está compuesto por: Cacerola 18/16 cm + tapas, Cacerola 14 cm, Sartenes 24/20 cm\"",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-7-piezas-elementary/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200885/label-0.jpg?v=638605466741000000",
+    "skus": [
+      {
+        "sku_id": "279",
+        "sku_name": "Bateria de cocina Acero Inoxidable Elementary 7 Piezas",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200885/label-0.jpg?v=638605466741000000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 59990.0,
+    "list_price": 79990.0,
+    "on_sale": true
+  },
+  {
     "name": "Olla 30 cm  + tapa Super Cook",
     "reference": "2100123982",
     "brand": "Tefal",
@@ -16884,27 +16905,6 @@
     "on_sale": true
   },
   {
-    "name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
-    "reference": "1830008857",
-    "brand": "Rowenta",
-    "category": "Planchas Verticales",
-    "description": "CUIDADO EFICIENTE DE PRENDAS: Emisión de vapor de hasta 20 g/min,  para un planchado y purificación eficaz.|\nSISTEMA DE CABEZAL REVERSIBLE : El Iinnovador cabezal reversible permite cambiar fácilmente entre el lado quita pelusas y el lado de terciopelo para vaporizar telas delicadas, gruesas o quitar pelitos.|\nVAPOR DESINFECTANTE: El poder natural del vapor reduce olores, refresca y elimina hasta el 99,9% de virus, bacterias y gérmenes* de tu ropa.|\nCALENTAMIENTO RÁPIDO: Siempre listo en solo 15 segundos. Ideal para usos frecuentes y retoques de último minuto—tu solución de vapor lista al instante.|                                                                                                                                                                                                       ULTRA COMPACTO Y PRACTICO : Con menos de 1kg de peso y un deposito de agua extraible de 77ml  Pure Pop es  ideal para viajes y uso en el dia a dia. Su cable mide 2 mts para mayor comodidad.|\nMODERNO Y CON ESTILO: Estética única con cuatro colores vibrantes a elección. Aparato elegante con una estructura bien equilibrada (menos de 1 kg) y cómodo de sostener.|                                                                                                                                                        REPARABILIDAD DE 15 AÑOS: Entrega rápida y piezas de bajo costo disponibles en 6200 centros de reparación en todo el mundo, como parte de nuestro compromiso con el medio ambiente y la reducción de residuos |\n¿QUÉ INCLUYE LA CAJA?: Vaporizador Rowenta Pure POP, cabezal reversible, bolsa de viaje/almacenamiento.|                                                                                                                                                         *Virus: pruebas externas, 20 sept. en BCoV-1 y Norovirus murino en algodón.|\nBacterias y gérmenes: pruebas externas en Staphylococcus aureus y Klebsiella.",
-    "url": "https://www.tefalstore.cl/vaporizador-de-prendas-pure-pop-verde-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205732/1-digital-rwt-dr2024d1-pop-h1-2326b276-d582-45e6-bf12-d8d6a7b2aa87.png?v=639090072993530000",
-    "skus": [
-      {
-        "sku_id": "332",
-        "sku_name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205732/1-digital-rwt-dr2024d1-pop-h1-2326b276-d582-45e6-bf12-d8d6a7b2aa87.png?v=639090072993530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 32990.0,
-    "list_price": 49990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Ceramica Change 5 Piezas Tefal",
     "reference": "2100137212",
     "brand": "Tefal",
@@ -17133,27 +17133,6 @@
     "country": "Chile",
     "price": 36990.0,
     "list_price": 46990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Bateria de cocina Acero Inoxidable Elementary 7 PCS Tefal",
-    "reference": "2100102570",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "\"Disfruta de tus recetas favoritas con el set de 7 piezas Elementary de Tefal.|\nFabricado en acero inoxidable de primera calidad, marcas medidoras interiores para que tus recetas queden a la perfección. Mangos ergonómicos y tapa de vidrio.|\nSartenes con antiadherente Power Glide y con tecnología Thermo-Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. \nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluidas las de inducción.|\nEste set de 7 piezas está compuesto por: Cacerola 18/16 cm + tapas, Cacerola 14 cm, Sartenes 24/20 cm\"",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-7-piezas-elementary/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200885/label-0.jpg?v=638605466741000000",
-    "skus": [
-      {
-        "sku_id": "279",
-        "sku_name": "Bateria de cocina Acero Inoxidable Elementary 7 Piezas",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200885/label-0.jpg?v=638605466741000000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 59990.0,
-    "list_price": 79990.0,
     "on_sale": true
   },
   {
@@ -17640,6 +17619,27 @@
     "on_sale": true
   },
   {
+    "name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
+    "reference": "1830008857",
+    "brand": "Rowenta",
+    "category": "Planchas Verticales",
+    "description": "CUIDADO EFICIENTE DE PRENDAS: Emisión de vapor de hasta 20 g/min,  para un planchado y purificación eficaz.|\nSISTEMA DE CABEZAL REVERSIBLE : El Iinnovador cabezal reversible permite cambiar fácilmente entre el lado quita pelusas y el lado de terciopelo para vaporizar telas delicadas, gruesas o quitar pelitos.|\nVAPOR DESINFECTANTE: El poder natural del vapor reduce olores, refresca y elimina hasta el 99,9% de virus, bacterias y gérmenes* de tu ropa.|\nCALENTAMIENTO RÁPIDO: Siempre listo en solo 15 segundos. Ideal para usos frecuentes y retoques de último minuto—tu solución de vapor lista al instante.|                                                                                                                                                                                                       ULTRA COMPACTO Y PRACTICO : Con menos de 1kg de peso y un deposito de agua extraible de 77ml  Pure Pop es  ideal para viajes y uso en el dia a dia. Su cable mide 2 mts para mayor comodidad.|\nMODERNO Y CON ESTILO: Estética única con cuatro colores vibrantes a elección. Aparato elegante con una estructura bien equilibrada (menos de 1 kg) y cómodo de sostener.|                                                                                                                                                        REPARABILIDAD DE 15 AÑOS: Entrega rápida y piezas de bajo costo disponibles en 6200 centros de reparación en todo el mundo, como parte de nuestro compromiso con el medio ambiente y la reducción de residuos |\n¿QUÉ INCLUYE LA CAJA?: Vaporizador Rowenta Pure POP, cabezal reversible, bolsa de viaje/almacenamiento.|                                                                                                                                                         *Virus: pruebas externas, 20 sept. en BCoV-1 y Norovirus murino en algodón.|\nBacterias y gérmenes: pruebas externas en Staphylococcus aureus y Klebsiella.",
+    "url": "https://www.tefalstore.cl/vaporizador-de-prendas-pure-pop-verde-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205732/1-digital-rwt-dr2024d1-pop-h1-2326b276-d582-45e6-bf12-d8d6a7b2aa87.png?v=639090072993530000",
+    "skus": [
+      {
+        "sku_id": "332",
+        "sku_name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205732/1-digital-rwt-dr2024d1-pop-h1-2326b276-d582-45e6-bf12-d8d6a7b2aa87.png?v=639090072993530000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 32990.0,
+    "list_price": 49990.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora Personal Blend Up 1000W Moulinex",
     "reference": "7211419401",
     "brand": "Moulinex",
@@ -17784,6 +17784,27 @@
     "country": "Chile",
     "price": 24990.0,
     "list_price": 32990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera Espresso Full Auto Display Roja + Lechero",
+    "reference": "8000035487",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "Con KRUPS Essential, disfruta de todo el sabor de un café y un espresso perfectamente equilibrados.| 15 bares de presión que reproducen las mismas características de un barista, con boquilla de vapor para obtener la espuma perfecta.| Con un contenedor de granos de café de 260 gr y un depósito de agua de 1,7 Lt.| El diseño compacto de esta cafetera espresso totalmente automática no compromete la capacidad.| Pantalla LCD intuitiva extra grande.| Obtén un control perfecto, puedes ajustar la  intensidad y el tamaño del café.| Molinillo con  3 texturas de molienda. |Graba fácilmente tus configuraciones de café favoritas gracias al conveniente modo de memoria.| Incluye lechero para un delicioso café con leche y capuccino.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-full-auto-display-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205144/8000035487.png?v=638930215054270000",
+    "skus": [
+      {
+        "sku_id": "189",
+        "sku_name": "Cafetera Espresso Full Auto Display Roja + Lechero",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205144/8000035487.png?v=638930215054270000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 449990.0,
+    "list_price": 599990.0,
     "on_sale": true
   },
   {
@@ -18753,27 +18774,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Full Auto Display Roja + Lechero",
-    "reference": "8000035487",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "Con KRUPS Essential, disfruta de todo el sabor de un café y un espresso perfectamente equilibrados.| 15 bares de presión que reproducen las mismas características de un barista, con boquilla de vapor para obtener la espuma perfecta.| Con un contenedor de granos de café de 260 gr y un depósito de agua de 1,7 Lt.| El diseño compacto de esta cafetera espresso totalmente automática no compromete la capacidad.| Pantalla LCD intuitiva extra grande.| Obtén un control perfecto, puedes ajustar la  intensidad y el tamaño del café.| Molinillo con  3 texturas de molienda. |Graba fácilmente tus configuraciones de café favoritas gracias al conveniente modo de memoria.| Incluye lechero para un delicioso café con leche y capuccino.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-full-auto-display-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205144/8000035487.png?v=638930215054270000",
-    "skus": [
-      {
-        "sku_id": "189",
-        "sku_name": "Cafetera Espresso Full Auto Display Roja + Lechero",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205144/8000035487.png?v=638930215054270000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 449990.0,
-    "list_price": 599990.0,
-    "on_sale": true
-  },
-  {
     "name": "Batidora de Inmersión con vaso 450W Moulinex",
     "reference": "7211003509",
     "brand": "Moulinex",
@@ -19578,12 +19578,12 @@
     "category": "Baterías de Cocina",
     "description": "Batería de cocina de acero inoxidable 18/10 con  mango removible compuesto por sartenes 22/26cm, olla 16cm con su tapa de vidrio y tapa de almacenamiento, mando removible. |\nLos sartenes tienen antiadherentes reforzado con titanium para una mayor duración y son libre de PFOA, cadmio y plomo. |\nSIMPLIFICAR TU COCINA: con las sartenes y ollas Ingenio, transforma tu forma de cocinar. Gracias a su mango extraíble y su práctico sistema de un solo clic, ahora puedes cocinar en el fuego, pasar al horno, servir directamente en la mesa y guardar en el refrigirador. Todo en un mismo recipiente.|\nAHORRAR HASTA 50% DE ESPACIO: apila las sartenes y ollas para conseguir un almacenamiento compacto. Mayor espacio y orden en tu cocina.|\nUSAR EL MANGO EXTRAÍBLE: el mango extraíble, seguro y patentado de Tefal, soporta hasta 10 kg* y cuenta con una garantía de 10 años",
     "url": "https://www.tefalstore.cl/bateria-con-mango-removible-6-piezas-ingenio-emotion-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205162/foto-1.png?v=638932175851430000",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206009/01.jpg?v=639147155447500000",
     "skus": [
       {
         "sku_id": "315",
         "sku_name": "Bateria de cocina Acero inoxidable Ingenio 6 PCS con mango",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205162/foto-1.png?v=638932175851430000"
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206009/01.jpg?v=639147155447500000"
       }
     ],
     "site": "Tefal Store Chile",
@@ -19779,27 +19779,6 @@
     "country": "Chile",
     "price": 36990.0,
     "list_price": 36990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Bateria de cocina Antiadherente Ingenio 12 Piezas con mangos Tefal",
-    "reference": "2100125537",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "De la cocina, al horno, a la mesa y al refrigerador, Ingenio es la respuesta a la versatilidad y apilabilidad de los utensilios de cocina.|\nSistema apilable para ahorrar espacio en tu cocina, mango seguro para intercambiar de sartén en sartén y de olla en olla. |\nRecubrimiento antiadherente de titanio para una mayor durabilidad. |\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, excepto las de inducción. |\nEste set de 12 piezas está compuesto por: Sartenes 22/26 cm, Sartén profundo 26cm, Guisera 24cm, Cacerola 20cm, 3 tapas de vidrio, 2 tapas de plástico y 2 mangos",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-12-piezas-ingenio---2-mangos/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200928/label-0.jpg?v=638605536248700000",
-    "skus": [
-      {
-        "sku_id": "276",
-        "sku_name": "Bateria de cocina Antiadherente Ingenio 12 Piezas con mangos",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200928/label-0.jpg?v=638605536248700000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 154990.0,
-    "list_price": 154990.0,
     "on_sale": false
   },
   {
