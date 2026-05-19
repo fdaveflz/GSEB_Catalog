@@ -546,6 +546,27 @@
     "on_sale": false
   },
   {
+    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032671",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
+    "skus": [
+      {
+        "sku_id": "1076",
+        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 249.0,
+    "list_price": 249.0,
+    "on_sale": false
+  },
+  {
     "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
     "reference": "2100128300",
     "brand": "T-fal",
@@ -1131,27 +1152,6 @@
     "country": "México",
     "price": 569.0,
     "list_price": 569.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032671",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
-    "skus": [
-      {
-        "sku_id": "1076",
-        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 249.0,
-    "list_price": 249.0,
     "on_sale": false
   },
   {
@@ -2683,9 +2683,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 499.0,
+    "price": 399.0,
     "list_price": 499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Opti’Space 6 pzas acero inoxidable, antiadherente",
@@ -3187,9 +3187,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2199.0,
+    "price": 1749.0,
     "list_price": 2199.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Ingenio XL Force 5 piezas con inducción",

@@ -37,7 +37,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 379900.0,
+    "price": 369900.0,
     "list_price": 599900.0,
     "on_sale": true
   },
@@ -205,7 +205,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 499900.0,
+    "price": 459900.0,
     "list_price": 544899.0,
     "on_sale": true
   },
@@ -247,7 +247,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 529900.0,
+    "price": 519900.0,
     "list_price": 729899.0,
     "on_sale": true
   },
@@ -289,7 +289,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 399900.0,
+    "price": 349900.0,
     "list_price": 519900.0,
     "on_sale": true
   },
@@ -310,7 +310,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 419900.0,
+    "price": 359900.0,
     "list_price": 519900.0,
     "on_sale": true
   },
@@ -331,7 +331,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 219900.0,
+    "price": 199900.0,
     "list_price": 292899.0,
     "on_sale": true
   },
@@ -709,7 +709,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 439900.0,
+    "price": 399900.0,
     "list_price": 589899.0,
     "on_sale": true
   },
@@ -753,6 +753,27 @@
     "country": "Colombia",
     "price": 309900.0,
     "list_price": 381899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batería de cocina 12Piezas Tefal Expert Pro Acero Inoxidable",
+    "reference": "2100123264",
+    "brand": "TEFAL",
+    "category": "Baterías y Sets de Cocina",
+    "description": "Base en acero inoxidable, apta para estufas de inducción, la cual te garantiza máxima difusión de calor en la base de manera uniforme.\n|Tecnología Techno Release de liberación, Para una fácil y práctica limpieza.\n|Mangos remachados que aseguran el agarre con accesorios en silicona que facilita la manipulación sin riesgo a quemarse.",
+    "url": "https://www.imusa.com.co/bateria-cocina-12piezas-tefal-expert-pro-acero-inoxidable/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166961/2100123264-1.jpg?v=638219185998770000",
+    "skus": [
+      {
+        "sku_id": "840",
+        "sku_name": "Batería de cocina 12Piezas Tefal Expert Pro Acero Inoxidable",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166961/2100123264-1.jpg?v=638219185998770000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 829900.0,
+    "list_price": 1169900.0,
     "on_sale": true
   },
   {
@@ -859,6 +880,27 @@
     "price": 47899.0,
     "list_price": 47899.0,
     "on_sale": false
+  },
+  {
+    "name": "Ventilador de Torre SAMURAI Eole Negro",
+    "reference": "1830008454",
+    "brand": "SAMURAI",
+    "category": "Ventiladores de torre",
+    "description": "Ventilador de Torre ideal para tu hogar con 3 Velocidades ideales para ambientar tu espacio favorito.| Es una ventilador ideal para espacios vanguardistas| permite disfrutar de la combinación perfecta entre elegancia, comodidad y elevado rendimiento. | Cuenta con una función que permite ajustar automáticamente las velocidades según la temperatura ambiente y funcion de autoapagado.",
+    "url": "https://www.imusa.com.co/ventilador-de-torre-samurai-eole-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162969/1830008454-1.jpg?v=637907660599400000",
+    "skus": [
+      {
+        "sku_id": "569",
+        "sku_name": "Ventilador de Torre SAMURAI Eole Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162969/1830008454-1.jpg?v=637907660599400000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 349900.0,
+    "list_price": 419899.0,
+    "on_sale": true
   },
   {
     "name": "Olla Multifuncional IMUSA SPEEDY COOK 5 Litros",
@@ -1066,9 +1108,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 50899.0,
+    "price": 39900.0,
     "list_price": 50899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de sartenes IMUSA Cambiatón 2026  20, 24 y 26cm Antiadherentes",
@@ -1213,7 +1255,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 199900.0,
+    "price": 179900.0,
     "list_price": 279899.0,
     "on_sale": true
   },
@@ -1822,7 +1864,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 399900.0,
+    "price": 389900.0,
     "list_price": 769899.0,
     "on_sale": true
   },
@@ -1930,27 +1972,6 @@
     "price": 43900.0,
     "list_price": 43900.0,
     "on_sale": false
-  },
-  {
-    "name": "Batería de cocina 12Piezas Tefal Expert Pro Acero Inoxidable",
-    "reference": "2100123264",
-    "brand": "TEFAL",
-    "category": "Baterías y Sets de Cocina",
-    "description": "Base en acero inoxidable, apta para estufas de inducción, la cual te garantiza máxima difusión de calor en la base de manera uniforme.\n|Tecnología Techno Release de liberación, Para una fácil y práctica limpieza.\n|Mangos remachados que aseguran el agarre con accesorios en silicona que facilita la manipulación sin riesgo a quemarse.",
-    "url": "https://www.imusa.com.co/bateria-cocina-12piezas-tefal-expert-pro-acero-inoxidable/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166961/2100123264-1.jpg?v=638219185998770000",
-    "skus": [
-      {
-        "sku_id": "840",
-        "sku_name": "Batería de cocina 12Piezas Tefal Expert Pro Acero Inoxidable",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166961/2100123264-1.jpg?v=638219185998770000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 849900.0,
-    "list_price": 1169900.0,
-    "on_sale": true
   },
   {
     "name": "Sarten IMUSA Gusto 24cm Cuadrado",
@@ -2182,27 +2203,6 @@
     "price": 30899.0,
     "list_price": 30899.0,
     "on_sale": false
-  },
-  {
-    "name": "Ventilador de Torre SAMURAI Eole Negro",
-    "reference": "1830008454",
-    "brand": "SAMURAI",
-    "category": "Ventiladores de torre",
-    "description": "Ventilador de Torre ideal para tu hogar con 3 Velocidades ideales para ambientar tu espacio favorito.| Es una ventilador ideal para espacios vanguardistas| permite disfrutar de la combinación perfecta entre elegancia, comodidad y elevado rendimiento. | Cuenta con una función que permite ajustar automáticamente las velocidades según la temperatura ambiente y funcion de autoapagado.",
-    "url": "https://www.imusa.com.co/ventilador-de-torre-samurai-eole-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162969/1830008454-1.jpg?v=637907660599400000",
-    "skus": [
-      {
-        "sku_id": "569",
-        "sku_name": "Ventilador de Torre SAMURAI Eole Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162969/1830008454-1.jpg?v=637907660599400000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 379900.0,
-    "list_price": 419899.0,
-    "on_sale": true
   },
   {
     "name": "Freidora de Aire IMUSA Airfryer Esencial 3,2 Litros negra",
@@ -2473,7 +2473,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 989900.0,
+    "price": 899900.0,
     "list_price": 1249900.0,
     "on_sale": true
   },
@@ -2536,7 +2536,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 119900.0,
+    "price": 109900.0,
     "list_price": 164899.0,
     "on_sale": true
   },
@@ -2662,7 +2662,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 89900.0,
+    "price": 79900.0,
     "list_price": 124900.0,
     "on_sale": true
   },
@@ -2833,27 +2833,6 @@
     "price": 89899.0,
     "list_price": 89899.0,
     "on_sale": false
-  },
-  {
-    "name": "Ventilador De Torre SAMURAI Eole Essential, 6 Funciones, Silencioso, Osci­lación 90°",
-    "reference": "5861037221",
-    "brand": "SAMURAI",
-    "category": "Ventiladores de torre",
-    "description": "COBERTURA AMPLIA DE AIRE: la oscilación de 90° ayuda a distribuir el aire de forma uniforme para un confort refrescante en toda la habitación. |FUNCIONAMIENTO SILENCIOSO: el bajo nivel de ruido permite trabajar, relajarse o dormir cómodamente sin sonidos molestos del ventilador. |USO VERSÁTIL: Múltiples modos de velocidad y oscilación se adaptan fácilmente a diferentes espacios, momentos y necesidades de frescura. |ALTA POTENCIA: el motor de 45W ofrece un flujo de aire fuerte y constante para una refrigeración eficaz en el uso diario. |DISEÑO MODERNO: la forma estilizada de torre y el acabado minimalista se integran sin esfuerzo en espacios de vida contemporáneos. |CONSTRUCCIÓN ROBUSTA: la base estable y los materiales duraderos garantizan un desempeño confiable y un uso prolongado día tras día.",
-    "url": "https://www.imusa.com.co/ventilador-de-torre-samurai-eole-essential-6-funciones-silencioso-osci­lacion-90/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172428/Mesa-de-trabajo-6.jpg?v=639112792541430000",
-    "skus": [
-      {
-        "sku_id": "1695",
-        "sku_name": "Ventilador De Torre SAMURAI Eole Essential, 6 Funciones, Silencioso, Osci­lación 90°",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172428/Mesa-de-trabajo-6.jpg?v=639112792541430000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 279900.0,
-    "list_price": 379900.0,
-    "on_sale": true
   },
   {
     "name": "Cuchillos de Chef EverSharp 6 piezas con Base de Afilador Integrado",
@@ -3061,7 +3040,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 299900.0,
+    "price": 249900.0,
     "list_price": 419899.0,
     "on_sale": true
   },
@@ -3271,7 +3250,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 799900.0,
+    "price": 599900.0,
     "list_price": 899899.0,
     "on_sale": true
   },
@@ -3591,27 +3570,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Roja",
-    "reference": "5861033197",
-    "brand": "IMUSA",
-    "category": "Cafeteras",
-    "description": "Diferentes capacidades. |Componentes de Nylon que no calientan. | Fácil de lavar. |Calidad imusa y 3 meses de garantía.",
-    "url": "https://www.imusa.com.co/cafetera-italiana-imusa-espresso-9tazas-roja/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168654/5861033197-1.jpg?v=638475904529400000",
-    "skus": [
-      {
-        "sku_id": "949",
-        "sku_name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Roja",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168654/5861033197-1.jpg?v=638475904529400000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 84900.0,
-    "list_price": 84900.0,
-    "on_sale": false
-  },
-  {
     "name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Plateada",
     "reference": "5861033194",
     "brand": "IMUSA",
@@ -3651,6 +3609,27 @@
     "country": "Colombia",
     "price": 15949.0,
     "list_price": 15949.0,
+    "on_sale": false
+  },
+  {
+    "name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 3L - 4,5L",
+    "reference": "5861024485",
+    "brand": "IMUSA",
+    "category": "Repuestos y Accesorios",
+    "description": "Compatible con ollas a presión SecuryPlus 3 - 4.5 Litros y ollas a presión Smart | Elaborado en silicona, es flexible facilitando su manipulación | No genera olores, es fácil de lavar y los alimentos no se adhieren a este",
+    "url": "https://www.imusa.com.co/repuesto-empaque-olla-presion-imusa-secury-plus-3l-4l/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168161/5861024485-1.jpg?v=638346219903800000",
+    "skus": [
+      {
+        "sku_id": "903",
+        "sku_name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 3L - 4,5L",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168161/5861024485-1.jpg?v=638346219903800000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 10149.0,
+    "list_price": 10149.0,
     "on_sale": false
   },
   {
@@ -3838,7 +3817,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 549900.0,
+    "price": 499900.0,
     "list_price": 729899.0,
     "on_sale": true
   },
@@ -4804,7 +4783,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 249900.0,
+    "price": 229900.0,
     "list_price": 289899.0,
     "on_sale": true
   },
@@ -5229,6 +5208,27 @@
     "on_sale": true
   },
   {
+    "name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Roja",
+    "reference": "5861033197",
+    "brand": "IMUSA",
+    "category": "Cafeteras",
+    "description": "Diferentes capacidades. |Componentes de Nylon que no calientan. | Fácil de lavar. |Calidad imusa y 3 meses de garantía.",
+    "url": "https://www.imusa.com.co/cafetera-italiana-imusa-espresso-9tazas-roja/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168654/5861033197-1.jpg?v=638475904529400000",
+    "skus": [
+      {
+        "sku_id": "949",
+        "sku_name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Roja",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168654/5861033197-1.jpg?v=638475904529400000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 84900.0,
+    "list_price": 84900.0,
+    "on_sale": false
+  },
+  {
     "name": "Cafetera Italiana IMUSA ESPRESSO de 6 tazas Roja",
     "reference": "5861033196",
     "brand": "IMUSA",
@@ -5292,6 +5292,27 @@
     "on_sale": true
   },
   {
+    "name": "Cafetera KRUPS Espresseria Evidence One Pewter",
+    "reference": "8010000906",
+    "brand": "KRUPS",
+    "category": "Espresseria",
+    "description": "PERSONALIZA TU EXPERIENCIA: con KRUPS Evidence One, ajusta cada bebida caliente entre sus 12 opciones para resultados únicos. |CAFÉ RECIÉN MOLINO: Disfruta del café recién molido con la tecnología exclusiva KRUPS Quattro Force, para un espresso equilibrado y lleno de aroma. |DISEÑO ERGONÓMICO: Panel de control amplio y fácil de usar con íconos realistas, pantalla OLED y guía de iluminación para una experiencia intuitiva. |EMPIEZA TUS MAÑANAS CON KRUPS: Con 3 niveles de potencia, ideal para nuevas recetas de café y tus preferencias matutinas.",
+    "url": "https://www.imusa.com.co/cafetera-krups-espresseria-evidence-one-pewter-mx-full-auto/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168833/8010000906-1.jpg?v=638513791472800000",
+    "skus": [
+      {
+        "sku_id": "923",
+        "sku_name": "Cafetera KRUPS Espresseria Evidence One Pewter",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168833/8010000906-1.jpg?v=638513791472800000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 3599900.0,
+    "list_price": 4784899.0,
+    "on_sale": true
+  },
+  {
     "name": "Repuesto de Válvula Reguladora Olla a Presión IMUSA Secury Control / Secury Control Plus",
     "reference": "5861024489",
     "brand": "IMUSA",
@@ -5334,27 +5355,6 @@
     "on_sale": false
   },
   {
-    "name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 3L - 4,5L",
-    "reference": "5861024485",
-    "brand": "IMUSA",
-    "category": "Repuestos y Accesorios",
-    "description": "Compatible con ollas a presión SecuryPlus 3 - 4.5 Litros y ollas a presión Smart | Elaborado en silicona, es flexible facilitando su manipulación | No genera olores, es fácil de lavar y los alimentos no se adhieren a este",
-    "url": "https://www.imusa.com.co/repuesto-empaque-olla-presion-imusa-secury-plus-3l-4l/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168161/5861024485-1.jpg?v=638346219903800000",
-    "skus": [
-      {
-        "sku_id": "903",
-        "sku_name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 3L - 4,5L",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168161/5861024485-1.jpg?v=638346219903800000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 10149.0,
-    "list_price": 10149.0,
-    "on_sale": false
-  },
-  {
     "name": "Repuesto de Vaso Plástico para Licuadora SAMURAI Optimix",
     "reference": "5861024147",
     "brand": "SAMURAI",
@@ -5373,6 +5373,27 @@
     "country": "Colombia",
     "price": 15749.0,
     "list_price": 15749.0,
+    "on_sale": false
+  },
+  {
+    "name": "Repuesto de Hélice 6 aspas SAMURAI para ventilador de 14 pulgadas",
+    "reference": "5861021560",
+    "brand": "SAMURAI",
+    "category": "Repuestos",
+    "description": "Compatible con VENTILADORES TURBO SILENCE COMPACT 2EN1, negro y blanco | El ventilador Turbo Silence Compact es 25% más compacto que Turbo Silence Maxx, por lo tanto estas hélices tienen un tamaño diferencial de 14'' | La hélice de 6 aspas combina con un diseño de mallas exclusivo que proporciona significativamente un mayor flujo de aire",
+    "url": "https://www.imusa.com.co/repuesto-helice-6-aspas-samurai-ventilador-14-pulgadas/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168147/5861021560-1.jpg?v=638346219823230000",
+    "skus": [
+      {
+        "sku_id": "900",
+        "sku_name": "Repuesto de Hélice 6 aspas SAMURAI para ventilador de 14 pulgadas",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168147/5861021560-1.jpg?v=638346219823230000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 11700.0,
+    "list_price": 11700.0,
     "on_sale": false
   },
   {
@@ -5686,7 +5707,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 2499900.0,
+    "price": 1999900.0,
     "list_price": 3224900.0,
     "on_sale": true
   },
@@ -5773,6 +5794,27 @@
     "price": 102900.0,
     "list_price": 102900.0,
     "on_sale": false
+  },
+  {
+    "name": "Licuadora IMUSA Infiny Force 12V Negra",
+    "reference": "5861030476",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "Vaso de Vidrio con capacidad de 1,2Litros, gran capacidad para licuar y preparar deliciosas bebidas.| 12 Funciones + Pulso garantizando un control total de tus recetas.| Potencia de 600 Watts, ahorrando tiempo y permitiendo mejores resultados. | 6 Cuchillas en acero inoxidable altamente resistentes, óptimo rendimiento de corte para conseguir unos resultados increíblemente suaves",
+    "url": "https://www.imusa.com.co/licuadora-imusa-infiny-force-12v-negra/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164493/5861030476-1.jpg?v=637964488747430000",
+    "skus": [
+      {
+        "sku_id": "715",
+        "sku_name": "Licuadora IMUSA Infiny Force 12V Negra",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164493/5861030476-1.jpg?v=637964488747430000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 184900.0,
+    "list_price": 269900.0,
+    "on_sale": true
   },
   {
     "name": "Set Sartén Jumbo 24cm + Perol 16cm IMUSA Smart con tapa de vidrio",
@@ -6316,7 +6358,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 449900.0,
+    "price": 429900.0,
     "list_price": 624899.0,
     "on_sale": true
   },
@@ -6426,27 +6468,6 @@
     "on_sale": false
   },
   {
-    "name": "Cafetera KRUPS Espresseria Evidence One Pewter",
-    "reference": "8010000906",
-    "brand": "KRUPS",
-    "category": "Espresseria",
-    "description": "PERSONALIZA TU EXPERIENCIA: con KRUPS Evidence One, ajusta cada bebida caliente entre sus 12 opciones para resultados únicos. |CAFÉ RECIÉN MOLINO: Disfruta del café recién molido con la tecnología exclusiva KRUPS Quattro Force, para un espresso equilibrado y lleno de aroma. |DISEÑO ERGONÓMICO: Panel de control amplio y fácil de usar con íconos realistas, pantalla OLED y guía de iluminación para una experiencia intuitiva. |EMPIEZA TUS MAÑANAS CON KRUPS: Con 3 niveles de potencia, ideal para nuevas recetas de café y tus preferencias matutinas.",
-    "url": "https://www.imusa.com.co/cafetera-krups-espresseria-evidence-one-pewter-mx-full-auto/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168833/8010000906-1.jpg?v=638513791472800000",
-    "skus": [
-      {
-        "sku_id": "923",
-        "sku_name": "Cafetera KRUPS Espresseria Evidence One Pewter",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168833/8010000906-1.jpg?v=638513791472800000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 4199900.0,
-    "list_price": 4784899.0,
-    "on_sale": true
-  },
-  {
     "name": "Cafetera IMUSA Cool Touch",
     "reference": "1510002379",
     "brand": "IMUSA",
@@ -6507,27 +6528,6 @@
     "country": "Colombia",
     "price": 15349.0,
     "list_price": 15349.0,
-    "on_sale": false
-  },
-  {
-    "name": "Repuesto de Hélice 6 aspas SAMURAI para ventilador de 14 pulgadas",
-    "reference": "5861021560",
-    "brand": "SAMURAI",
-    "category": "Repuestos",
-    "description": "Compatible con VENTILADORES TURBO SILENCE COMPACT 2EN1, negro y blanco | El ventilador Turbo Silence Compact es 25% más compacto que Turbo Silence Maxx, por lo tanto estas hélices tienen un tamaño diferencial de 14'' | La hélice de 6 aspas combina con un diseño de mallas exclusivo que proporciona significativamente un mayor flujo de aire",
-    "url": "https://www.imusa.com.co/repuesto-helice-6-aspas-samurai-ventilador-14-pulgadas/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168147/5861021560-1.jpg?v=638346219823230000",
-    "skus": [
-      {
-        "sku_id": "900",
-        "sku_name": "Repuesto de Hélice 6 aspas SAMURAI para ventilador de 14 pulgadas",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168147/5861021560-1.jpg?v=638346219823230000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 11700.0,
-    "list_price": 11700.0,
     "on_sale": false
   },
   {
@@ -6697,27 +6697,6 @@
     "price": 21149.0,
     "list_price": 21149.0,
     "on_sale": false
-  },
-  {
-    "name": "Licuadora IMUSA Infiny Force 12V Negra",
-    "reference": "5861030476",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "Vaso de Vidrio con capacidad de 1,2Litros, gran capacidad para licuar y preparar deliciosas bebidas.| 12 Funciones + Pulso garantizando un control total de tus recetas.| Potencia de 600 Watts, ahorrando tiempo y permitiendo mejores resultados. | 6 Cuchillas en acero inoxidable altamente resistentes, óptimo rendimiento de corte para conseguir unos resultados increíblemente suaves",
-    "url": "https://www.imusa.com.co/licuadora-imusa-infiny-force-12v-negra/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164493/5861030476-1.jpg?v=637964488747430000",
-    "skus": [
-      {
-        "sku_id": "715",
-        "sku_name": "Licuadora IMUSA Infiny Force 12V Negra",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164493/5861030476-1.jpg?v=637964488747430000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 184900.0,
-    "list_price": 269900.0,
-    "on_sale": true
   },
   {
     "name": "Bateria de Cocina IMUSA 18Piezas Talent",
@@ -7429,7 +7408,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 4999900.0,
+    "price": 4599900.0,
     "list_price": 5499900.0,
     "on_sale": true
   },
@@ -8733,6 +8712,27 @@
     "country": "Colombia",
     "price": 629900.0,
     "list_price": 629900.0,
+    "on_sale": false
+  },
+  {
+    "name": "Ventilador De Torre SAMURAI Eole Essential, 6 Funciones, Silencioso, Osci­lación 90°",
+    "reference": "5861037221",
+    "brand": "SAMURAI",
+    "category": "Ventiladores de torre",
+    "description": "COBERTURA AMPLIA DE AIRE: la oscilación de 90° ayuda a distribuir el aire de forma uniforme para un confort refrescante en toda la habitación. |FUNCIONAMIENTO SILENCIOSO: el bajo nivel de ruido permite trabajar, relajarse o dormir cómodamente sin sonidos molestos del ventilador. |USO VERSÁTIL: Múltiples modos de velocidad y oscilación se adaptan fácilmente a diferentes espacios, momentos y necesidades de frescura. |ALTA POTENCIA: el motor de 45W ofrece un flujo de aire fuerte y constante para una refrigeración eficaz en el uso diario. |DISEÑO MODERNO: la forma estilizada de torre y el acabado minimalista se integran sin esfuerzo en espacios de vida contemporáneos. |CONSTRUCCIÓN ROBUSTA: la base estable y los materiales duraderos garantizan un desempeño confiable y un uso prolongado día tras día.",
+    "url": "https://www.imusa.com.co/ventilador-de-torre-samurai-eole-essential-6-funciones-silencioso-osci­lacion-90/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172428/Mesa-de-trabajo-6.jpg?v=639112792541430000",
+    "skus": [
+      {
+        "sku_id": "1695",
+        "sku_name": "Ventilador De Torre SAMURAI Eole Essential, 6 Funciones, Silencioso, Osci­lación 90°",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172428/Mesa-de-trabajo-6.jpg?v=639112792541430000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 379900.0,
+    "list_price": 379900.0,
     "on_sale": false
   },
   {
@@ -12411,6 +12411,27 @@
     "on_sale": false
   },
   {
+    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032671",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
+    "skus": [
+      {
+        "sku_id": "1076",
+        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 249.0,
+    "list_price": 249.0,
+    "on_sale": false
+  },
+  {
     "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
     "reference": "2100128300",
     "brand": "T-fal",
@@ -12996,27 +13017,6 @@
     "country": "México",
     "price": 569.0,
     "list_price": 569.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032671",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
-    "skus": [
-      {
-        "sku_id": "1076",
-        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 249.0,
-    "list_price": 249.0,
     "on_sale": false
   },
   {
@@ -14548,9 +14548,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 499.0,
+    "price": 399.0,
     "list_price": 499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Opti’Space 6 pzas acero inoxidable, antiadherente",
@@ -15052,9 +15052,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2199.0,
+    "price": 1749.0,
     "list_price": 2199.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Ingenio XL Force 5 piezas con inducción",
@@ -15855,6 +15855,27 @@
     "on_sale": true
   },
   {
+    "name": "Tabletas de Limpieza Cafeteras Krups",
+    "reference": "8010001472",
+    "brand": "Krups",
+    "category": "Accesorios",
+    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
+    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000",
+    "skus": [
+      {
+        "sku_id": "396",
+        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 7990.0,
+    "list_price": 9990.0,
+    "on_sale": true
+  },
+  {
     "name": "Aspiradora Trapeadora X - Clean 4 Rowenta",
     "reference": "2211401351",
     "brand": "Rowenta",
@@ -15892,7 +15913,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 269990.0,
+    "price": 279990.0,
     "list_price": 449990.0,
     "on_sale": true
   },
@@ -15913,7 +15934,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 139990.0,
+    "price": 159990.0,
     "list_price": 269990.0,
     "on_sale": true
   },
@@ -15960,6 +15981,27 @@
     "on_sale": true
   },
   {
+    "name": "Paila con Tapa 16 cm",
+    "reference": "5861029909",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "Paila 16cm de con tapa de vidrio. |Cuenta con un revestimiento antiadherente interior y exterior para preparar todo tipo de alimentos y la exclusiva tecnología Thermo-spot de tefal, el cual indica el momento ideal para comenzar a cocinar.|Base difusora para una mejor distribución de calor.",
+    "url": "https://www.tefalstore.cl/paila-con-tapa-16-cm/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205444/foto-pailita-1.jpg?v=639035774715400000",
+    "skus": [
+      {
+        "sku_id": "232",
+        "sku_name": "Paila con Tapa 16 cm Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205444/foto-pailita-1.jpg?v=639035774715400000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 7990.0,
+    "list_price": 8990.0,
+    "on_sale": true
+  },
+  {
     "name": "Máquina de Pan Baguette Moulinex",
     "reference": "7211001300",
     "brand": "Moulinex",
@@ -15981,27 +16023,6 @@
     "on_sale": true
   },
   {
-    "name": "Olla a Presión Secure Compact Acero Inoxidable 6L Tefal",
-    "reference": "7114000624",
-    "brand": "Tefal",
-    "category": "Ollas a Presión",
-    "description": "¡Máxima Seguridad! Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 6L Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.|  Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.|  Compatible con todas las cocinas, incluida inducción.|  Capacidad: 6L hasta 4 personas",
-    "url": "https://www.tefalstore.cl/olla-a-presion-secure-compact-6l/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201244/7114900067-01.jpg?v=638677927783230000",
-    "skus": [
-      {
-        "sku_id": "157",
-        "sku_name": "Olla a Presión Secure Compact 6L Acero Inoxidable",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201244/7114900067-01.jpg?v=638677927783230000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 44990.0,
-    "list_price": 59990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
     "reference": "2100121274",
     "brand": "Tefal",
@@ -16018,7 +16039,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 79990.0,
+    "price": 74990.0,
     "list_price": 119990.0,
     "on_sale": true
   },
@@ -16044,27 +16065,6 @@
     "on_sale": true
   },
   {
-    "name": "Tabletas de Limpieza Cafeteras Krups",
-    "reference": "8010001472",
-    "brand": "Krups",
-    "category": "Accesorios",
-    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
-    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000",
-    "skus": [
-      {
-        "sku_id": "396",
-        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205924/tambletas-de-limpieza-krups-99b57744-efc7-431b-8f32-6ebca0440d9d.png?v=639126370556070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 7990.0,
-    "list_price": 9990.0,
-    "on_sale": true
-  },
-  {
     "name": "Secador de Pelo Maestria For You Rowenta",
     "reference": "1830009601",
     "brand": "Rowenta",
@@ -16081,7 +16081,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 149990.0,
+    "price": 169990.0,
     "list_price": 249990.0,
     "on_sale": true
   },
@@ -16228,7 +16228,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 109990.0,
+    "price": 104990.0,
     "list_price": 189990.0,
     "on_sale": true
   },
@@ -16527,27 +16527,6 @@
     "on_sale": true
   },
   {
-    "name": "Paila con Tapa 16 cm",
-    "reference": "5861029909",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "Paila 16cm de con tapa de vidrio. |Cuenta con un revestimiento antiadherente interior y exterior para preparar todo tipo de alimentos y la exclusiva tecnología Thermo-spot de tefal, el cual indica el momento ideal para comenzar a cocinar.|Base difusora para una mejor distribución de calor.",
-    "url": "https://www.tefalstore.cl/paila-con-tapa-16-cm/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205444/foto-pailita-1.jpg?v=639035774715400000",
-    "skus": [
-      {
-        "sku_id": "232",
-        "sku_name": "Paila con Tapa 16 cm Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205444/foto-pailita-1.jpg?v=639035774715400000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 7990.0,
-    "list_price": 8990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sartenes 24/30 cm EASY COOK",
     "reference": "2100123666",
     "brand": "Tefal",
@@ -16669,7 +16648,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 54990.0,
+    "price": 52990.0,
     "list_price": 69990.0,
     "on_sale": true
   },
@@ -16921,7 +16900,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 69990.0,
+    "price": 64990.0,
     "list_price": 99990.0,
     "on_sale": true
   },
@@ -17320,7 +17299,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 44990.0,
+    "price": 39990.0,
     "list_price": 62990.0,
     "on_sale": true
   },
@@ -17341,7 +17320,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 449990.0,
+    "price": 429990.0,
     "list_price": 599990.0,
     "on_sale": true
   },
@@ -17364,27 +17343,6 @@
     "country": "Chile",
     "price": 69990.0,
     "list_price": 109990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
-    "reference": "2100114427",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
-    "url": "https://www.tefalstore.cl/set-6-piezas-optispace/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000",
-    "skus": [
-      {
-        "sku_id": "156",
-        "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 104990.0,
     "on_sale": true
   },
   {
@@ -17428,27 +17386,6 @@
     "price": 32990.0,
     "list_price": 32990.0,
     "on_sale": false
-  },
-  {
-    "name": "Sartén 30 cm Unlimited",
-    "reference": "2100112293",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "Sartén antirayaduras Tefal Unlimited: el mejor revestimiento antiadherente y antiarayaduras! No se raya, no se pega ni se rompe: elegir el sartén adecuado puede marcar la diferencia. | Tefal está a la altura de las circunstancias y ha diseñado un menaje de cocina que resiste a las situaciones más extremas. |El sartén Unlimited de Tefal, es extremadamente duradero y dispone de unos estándares de calidad impecables. | El nuevo revestimiento de titanio antirayaduras y antiadherente dura seis veces más*. |Combina la comodidad de un revestimiento antiadherente con una extrema resistencia a las rayaduras, hasta con utensilios de metal. | Resultados que hacen la boca agua con muy poco esfuerzo. |Podrás cocinar a la plancha sin siquiera añadir aceite. | Este sartén antiadherente ha sido diseñado para enfrentarse a cualquier reto culinario sin defraudarte, además de ofrecerte un rendimiento que marca la diferencia. | Lleva tus habilidades de cocina a nuevas cotas con el mejor menaje antiadherente de Tefal.",
-    "url": "https://www.tefalstore.cl/sarten-30-cm-unlimited/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201320/p-2100112293-1.jpg?v=638887334885900000",
-    "skus": [
-      {
-        "sku_id": "23",
-        "sku_name": "Sartén 30 cm Unlimited",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201320/p-2100112293-1.jpg?v=638887334885900000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 39990.0,
-    "list_price": 48990.0,
-    "on_sale": true
   },
   {
     "name": "Wok 28 cm Unlimited",
@@ -17803,7 +17740,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 449990.0,
+    "price": 429990.0,
     "list_price": 599990.0,
     "on_sale": true
   },
@@ -17889,6 +17826,27 @@
     "country": "Chile",
     "price": 24990.0,
     "list_price": 32990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén 30 cm Unlimited",
+    "reference": "2100112293",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "Sartén antirayaduras Tefal Unlimited: el mejor revestimiento antiadherente y antiarayaduras! No se raya, no se pega ni se rompe: elegir el sartén adecuado puede marcar la diferencia. | Tefal está a la altura de las circunstancias y ha diseñado un menaje de cocina que resiste a las situaciones más extremas. |El sartén Unlimited de Tefal, es extremadamente duradero y dispone de unos estándares de calidad impecables. | El nuevo revestimiento de titanio antirayaduras y antiadherente dura seis veces más*. |Combina la comodidad de un revestimiento antiadherente con una extrema resistencia a las rayaduras, hasta con utensilios de metal. | Resultados que hacen la boca agua con muy poco esfuerzo. |Podrás cocinar a la plancha sin siquiera añadir aceite. | Este sartén antiadherente ha sido diseñado para enfrentarse a cualquier reto culinario sin defraudarte, además de ofrecerte un rendimiento que marca la diferencia. | Lleva tus habilidades de cocina a nuevas cotas con el mejor menaje antiadherente de Tefal.",
+    "url": "https://www.tefalstore.cl/sarten-30-cm-unlimited/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201320/p-2100112293-1.jpg?v=638887334885900000",
+    "skus": [
+      {
+        "sku_id": "23",
+        "sku_name": "Sartén 30 cm Unlimited",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201320/p-2100112293-1.jpg?v=638887334885900000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 39990.0,
+    "list_price": 48990.0,
     "on_sale": true
   },
   {
@@ -18727,7 +18685,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 64990.0,
+    "price": 59990.0,
     "list_price": 94990.0,
     "on_sale": true
   },
@@ -18916,7 +18874,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 699990.0,
+    "price": 679990.0,
     "list_price": 999990.0,
     "on_sale": true
   },
@@ -19989,6 +19947,48 @@
     "country": "Chile",
     "price": 29990.0,
     "list_price": 29990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Olla a Presión Secure Compact Acero Inoxidable 6L Tefal",
+    "reference": "7114000624",
+    "brand": "Tefal",
+    "category": "Ollas a Presión",
+    "description": "¡Máxima Seguridad! Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 6L Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.|  Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.|  Compatible con todas las cocinas, incluida inducción.|  Capacidad: 6L hasta 4 personas",
+    "url": "https://www.tefalstore.cl/olla-a-presion-secure-compact-6l/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201244/7114900067-01.jpg?v=638677927783230000",
+    "skus": [
+      {
+        "sku_id": "157",
+        "sku_name": "Olla a Presión Secure Compact 6L Acero Inoxidable",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201244/7114900067-01.jpg?v=638677927783230000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 59990.0,
+    "list_price": 59990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
+    "reference": "2100114427",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
+    "url": "https://www.tefalstore.cl/set-6-piezas-optispace/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000",
+    "skus": [
+      {
+        "sku_id": "156",
+        "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 104990.0,
+    "list_price": 104990.0,
     "on_sale": false
   },
   {
