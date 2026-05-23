@@ -336,6 +336,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora Trapeadora X - Clean 4 Rowenta",
+    "reference": "2211401351",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "LIMPIEZA 2 EN 1: Aspiradora inalámbrica en seco y húmedo que ahorra tiempo al aspirar y lavar en una sola pasada, con resultados perfectos en todo tipo de suelos duros (madera, mármol, laminado y cerámica).|\nDETECCIÓN INTELIGENTE DE SUCIEDAD: Sensor automático con indicadores de color en pantalla LED—rojo para zonas sucias y azul para zonas limpias—y ajuste automático de la velocidad de rotación del rodillo y del flujo de agua para resultados óptimos.|\nAUTONOMÍA EXTRA LARGA: Limpieza sin cables con hasta 50 minutos de duración para cubrir hasta 350 m² (*según distribución y mobiliario del hogar).|\nLIMPIEZA SIN ESFUERZO: Diseño ultraligero con rodillo autopropulsado que reduce el esfuerzo de limpieza hasta en un 75 %, con ergonomía fluida y estética moderna. |\nSISTEMA DE AUTOLIMPIEZA MANOS LIBRES: Activa la función de autolimpieza con solo presionar un botón; limpia el rodillo y déjalo secar para que esté listo en la próxima sesión.|\nLIMPIEZA DE BORDES: Cepillo lateral integrado que llega a bordes y esquinas difíciles, dejando tu hogar impecable incluso en áreas de difícil acceso.|\nSISTEMA CONSTANT CLEAN: Mantiene el flujo continuo de agua limpia hacia el rodillo mientras succiona el agua sucia hacia un segundo tanque aislado.|\nCOMPATIBILIDAD EXCELENTE: Para una limpieza profunda adicional, se puede usar con detergentes de nuestra lista de compatibilidad, incluyendo los más comunes del hogar.|\nINCLUYE EN LA CAJA: Aspiradora inalámbrica en seco y húmedo, rodillo adicional de limpieza suave, cepillo lateral, filtros de espuma secos y anti-impacto, cargador, base de carga y limpieza, cepillo de limpieza.",
+    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x---clean-4-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000",
+    "skus": [
+      {
+        "sku_id": "343",
+        "sku_name": "Aspiradora Trapeadora X Clean 4 Digital Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 339990.0,
+    "list_price": 499990.0,
+    "on_sale": true
+  },
+  {
     "name": "Wok 28 cm acero Inoxidable Primary Tefal",
     "reference": "2100118816",
     "brand": "Tefal",
@@ -585,6 +606,27 @@
     "country": "Chile",
     "price": 18990.0,
     "list_price": 22990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Molinillo de Café 17 Niveles Krups",
+    "reference": "1500813230",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "17 configuraciones (de ultrafino a grueso) para seleccionar el molido perfecto según el método de preparación.|\nSelector de tazas para elegir la cantidad de molienda deseada (de 2 a 12 tazas).|\nContenedor de granos de café de 200 gramos.|\nPanel de control de acero inoxidable cepillado.|",
+    "url": "https://www.tefalstore.cl/molinillo-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205259/1.jpg?v=638942273969870000",
+    "skus": [
+      {
+        "sku_id": "262",
+        "sku_name": "Molinillo de Café 17 Niveles Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205259/1.jpg?v=638942273969870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 44990.0,
+    "list_price": 74990.0,
     "on_sale": true
   },
   {
@@ -1323,27 +1365,6 @@
     "on_sale": true
   },
   {
-    "name": "Molinillo de Café 17 Niveles Krups",
-    "reference": "1500813230",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "17 configuraciones (de ultrafino a grueso) para seleccionar el molido perfecto según el método de preparación.|\nSelector de tazas para elegir la cantidad de molienda deseada (de 2 a 12 tazas).|\nContenedor de granos de café de 200 gramos.|\nPanel de control de acero inoxidable cepillado.|",
-    "url": "https://www.tefalstore.cl/molinillo-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205259/1.jpg?v=638942273969870000",
-    "skus": [
-      {
-        "sku_id": "262",
-        "sku_name": "Molinillo de Café 17 Niveles Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205259/1.jpg?v=638942273969870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 44990.0,
-    "list_price": 74990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Antiadherente Easy Care 20 Piezas Negro Tefal",
     "reference": "2100124692",
     "brand": "Tefal",
@@ -1404,6 +1425,27 @@
     "country": "Chile",
     "price": 129990.0,
     "list_price": 179990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Bateria de cocina Antiadherente Super cook 12 PCS Tefal",
+    "reference": "2100124204",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente Powerglide con capa de anti-rayaduras reforzada con minerales. | Posee una base Optimal, que garantiza una distribución homogénea del calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. | Compatible con todo tipo de cocinas, menos inducción. | Incluye: Sartén 22/24 cm, Wok 28 cm, Olla 22/24/28 cm con tapa, 2 Cucharas, Espátula​.",
+    "url": "https://www.tefalstore.cl/set-12-pz-super-cook-black/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201294/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=638683179244470000",
+    "skus": [
+      {
+        "sku_id": "253",
+        "sku_name": "Bateria de cocina Antiadherente Super cook 12 PCS",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201294/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=638683179244470000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 84990.0,
+    "list_price": 129990.0,
     "on_sale": true
   },
   {
@@ -1482,6 +1524,27 @@
         "sku_id": "190",
         "sku_name": "Cafetera Espresso Full Auto Display Blanca + Lechero",
         "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204945/8000035488.png?v=638913888547370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 429990.0,
+    "list_price": 599990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera Espresso Full Auto Display Roja + Lechero",
+    "reference": "8000035487",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "Con KRUPS Essential, disfruta de todo el sabor de un café y un espresso perfectamente equilibrados.| 15 bares de presión que reproducen las mismas características de un barista, con boquilla de vapor para obtener la espuma perfecta.| Con un contenedor de granos de café de 260 gr y un depósito de agua de 1,7 Lt.| El diseño compacto de esta cafetera espresso totalmente automática no compromete la capacidad.| Pantalla LCD intuitiva extra grande.| Obtén un control perfecto, puedes ajustar la  intensidad y el tamaño del café.| Molinillo con  3 texturas de molienda. |Graba fácilmente tus configuraciones de café favoritas gracias al conveniente modo de memoria.| Incluye lechero para un delicioso café con leche y capuccino.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-full-auto-display-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205144/8000035487.png?v=638930215054270000",
+    "skus": [
+      {
+        "sku_id": "189",
+        "sku_name": "Cafetera Espresso Full Auto Display Roja + Lechero",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205144/8000035487.png?v=638930215054270000"
       }
     ],
     "site": "Tefal Store Chile",
@@ -1848,27 +1911,6 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Antiadherente Super cook 12 PCS Tefal",
-    "reference": "2100124204",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente Powerglide con capa de anti-rayaduras reforzada con minerales. | Posee una base Optimal, que garantiza una distribución homogénea del calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. | Compatible con todo tipo de cocinas, menos inducción. | Incluye: Sartén 22/24 cm, Wok 28 cm, Olla 22/24/28 cm con tapa, 2 Cucharas, Espátula​.",
-    "url": "https://www.tefalstore.cl/set-12-pz-super-cook-black/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201294/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=638683179244470000",
-    "skus": [
-      {
-        "sku_id": "253",
-        "sku_name": "Bateria de cocina Antiadherente Super cook 12 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201294/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=638683179244470000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 84990.0,
-    "list_price": 129990.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Personal Tritan Mix & Move 300W Moulinex",
     "reference": "7211004943",
     "brand": "Moulinex",
@@ -1929,27 +1971,6 @@
     "country": "Chile",
     "price": 24990.0,
     "list_price": 32990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cafetera Espresso Full Auto Display Roja + Lechero",
-    "reference": "8000035487",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "Con KRUPS Essential, disfruta de todo el sabor de un café y un espresso perfectamente equilibrados.| 15 bares de presión que reproducen las mismas características de un barista, con boquilla de vapor para obtener la espuma perfecta.| Con un contenedor de granos de café de 260 gr y un depósito de agua de 1,7 Lt.| El diseño compacto de esta cafetera espresso totalmente automática no compromete la capacidad.| Pantalla LCD intuitiva extra grande.| Obtén un control perfecto, puedes ajustar la  intensidad y el tamaño del café.| Molinillo con  3 texturas de molienda. |Graba fácilmente tus configuraciones de café favoritas gracias al conveniente modo de memoria.| Incluye lechero para un delicioso café con leche y capuccino.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-full-auto-display-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205144/8000035487.png?v=638930215054270000",
-    "skus": [
-      {
-        "sku_id": "189",
-        "sku_name": "Cafetera Espresso Full Auto Display Roja + Lechero",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205144/8000035487.png?v=638930215054270000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 429990.0,
-    "list_price": 599990.0,
     "on_sale": true
   },
   {
@@ -2253,12 +2274,12 @@
     "category": "Licuadoras",
     "description": "SUAVIDAD PERFECTA: La batidora de mano InfinyForce Pro de Moulinex garantiza una suavidad excepcional, para resultados de calidad de restaurante al alcance de tus manos. |\nMEZCLA DE ALTO RENDIMIENTO: Una batidora de inmersión equipada con cuchillas Powelix Life de larga duración para lograr suavidad, textura cremosa y mezclas sin esfuerzo. |\nPOTENCIA ROBUSTA: Un motor extrapotente de 1200 W combinado con una acción de vórtice en espiral de alta eficiencia para resultados de mezcla óptimos. |\nCONTROLES SENCILLOS: Control de velocidad ergonómico tipo gatillo para una precisión extrema.\nREPARABILIDAD DE 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más tiempo. |\nSIN DERRAMES NI SALPICADURAS: Un pie anti-salpicaduras evita derrames y desorden, para una experiencia más limpia y agradable y una cocina impecable. |\nCOMODIDAD TOTAL: Mango antideslizante Soft Touch para mayor comodidad y control, incluso con las manos húmedas. |\nLIMPIEZA SIN ESFUERZO: Piezas desmontables aptas para lavavajillas para una comodidad excepcional. |\nACCESORIOS VERSÁTILES: Opciones infinitas con un conjunto versátil de accesorios: un vaso de 800 ml, un accesorio picador de 500 ml, un batidor y un pie para puré. |\nPROCESADOR DE ALIMENTOS DE 5 FUNCIONES: Lleva tu cocina al siguiente nivel con un procesador de alimentos multifunción.",
     "url": "https://www.tefalstore.cl/licuadora-de-inmersion-minipimer-infinyforce-pro-4en1-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206027/qr-infinity.png?v=639149126982970000",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206028/mesa9.jpg?v=639150575918670000",
     "skus": [
       {
         "sku_id": "382",
         "sku_name": "Licuadora de Inmersión Minipimer Infinyforce Pro 4 en 1 1200 W Moulinex",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206027/qr-infinity.png?v=639149126982970000"
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206028/mesa9.jpg?v=639150575918670000"
       }
     ],
     "site": "Tefal Store Chile",
@@ -3756,27 +3777,6 @@
     "country": "Chile",
     "price": 179990.0,
     "list_price": 179990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Aspiradora Trapeadora X - Clean 4 Rowenta",
-    "reference": "2211401351",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Inalámbricas",
-    "description": "LIMPIEZA 2 EN 1: Aspiradora inalámbrica en seco y húmedo que ahorra tiempo al aspirar y lavar en una sola pasada, con resultados perfectos en todo tipo de suelos duros (madera, mármol, laminado y cerámica).|\nDETECCIÓN INTELIGENTE DE SUCIEDAD: Sensor automático con indicadores de color en pantalla LED—rojo para zonas sucias y azul para zonas limpias—y ajuste automático de la velocidad de rotación del rodillo y del flujo de agua para resultados óptimos.|\nAUTONOMÍA EXTRA LARGA: Limpieza sin cables con hasta 50 minutos de duración para cubrir hasta 350 m² (*según distribución y mobiliario del hogar).|\nLIMPIEZA SIN ESFUERZO: Diseño ultraligero con rodillo autopropulsado que reduce el esfuerzo de limpieza hasta en un 75 %, con ergonomía fluida y estética moderna. |\nSISTEMA DE AUTOLIMPIEZA MANOS LIBRES: Activa la función de autolimpieza con solo presionar un botón; limpia el rodillo y déjalo secar para que esté listo en la próxima sesión.|\nLIMPIEZA DE BORDES: Cepillo lateral integrado que llega a bordes y esquinas difíciles, dejando tu hogar impecable incluso en áreas de difícil acceso.|\nSISTEMA CONSTANT CLEAN: Mantiene el flujo continuo de agua limpia hacia el rodillo mientras succiona el agua sucia hacia un segundo tanque aislado.|\nCOMPATIBILIDAD EXCELENTE: Para una limpieza profunda adicional, se puede usar con detergentes de nuestra lista de compatibilidad, incluyendo los más comunes del hogar.|\nINCLUYE EN LA CAJA: Aspiradora inalámbrica en seco y húmedo, rodillo adicional de limpieza suave, cepillo lateral, filtros de espuma secos y anti-impacto, cargador, base de carga y limpieza, cepillo de limpieza.",
-    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x---clean-4-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000",
-    "skus": [
-      {
-        "sku_id": "343",
-        "sku_name": "Aspiradora Trapeadora X Clean 4 Digital Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 499990.0,
-    "list_price": 499990.0,
     "on_sale": false
   },
   {
