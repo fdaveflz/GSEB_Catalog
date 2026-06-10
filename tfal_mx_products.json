@@ -709,7 +709,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1919.0,
+    "price": 1899.0,
     "list_price": 2399.0,
     "on_sale": true
   },
@@ -772,9 +772,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2309.0,
+    "price": 1849.0,
     "list_price": 2309.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
@@ -835,9 +835,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1679.0,
+    "price": 1349.0,
     "list_price": 1679.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 4 cuchillos Ice Force de acero inoxidable",
@@ -856,9 +856,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
+    "price": 799.0,
     "list_price": 999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 20cm Emotion SS",
@@ -919,9 +919,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2409.0,
+    "price": 1949.0,
     "list_price": 2409.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Ventilador 3 en 1  Compact Force de 8\"",
@@ -1281,6 +1281,27 @@
     "on_sale": false
   },
   {
+    "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
+    "reference": "2100128300",
+    "brand": "T-fal",
+    "category": "Sets de sartenes",
+    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas, Fabricado en Francia",
+    "url": "https://www.t-fal.com.mx/set-renew-on-24-y-28-cm-ceramico-inoceram-y-base-de-induccion/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000",
+    "skus": [
+      {
+        "sku_id": "1048",
+        "sku_name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
+    "on_sale": false
+  },
+  {
     "name": "Bloque 6 cuchillos Eversharp Pro afilador incluido color negro",
     "reference": "2100139801",
     "brand": "T-fal",
@@ -1297,9 +1318,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2999.0,
+    "price": 2399.0,
     "list_price": 2999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
@@ -1318,9 +1339,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 309.0,
+    "price": 249.0,
     "list_price": 309.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén Delight 28 cm Mineralia+ con inducción",
@@ -1507,9 +1528,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3989.0,
+    "price": 3199.0,
     "list_price": 3989.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
@@ -2263,9 +2284,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3499.0,
+    "price": 2799.0,
     "list_price": 3499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora 2v vaso vidrio Ultraforce+",
@@ -2284,9 +2305,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1099.0,
+    "price": 899.0,
     "list_price": 1099.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora 2 V Vaso Vidrio Power Mix",
@@ -2352,27 +2373,6 @@
     "on_sale": false
   },
   {
-    "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
-    "reference": "2100128300",
-    "brand": "T-fal",
-    "category": "Sets de sartenes",
-    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas, Fabricado en Francia",
-    "url": "https://www.t-fal.com.mx/set-renew-on-24-y-28-cm-ceramico-inoceram-y-base-de-induccion/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000",
-    "skus": [
-      {
-        "sku_id": "1048",
-        "sku_name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
-    "on_sale": false
-  },
-  {
     "name": "Set de sartenes Delight 20, 24 y 28 cm Mineralia+ saludable",
     "reference": "9100049885",
     "brand": "T-fal",
@@ -2389,9 +2389,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3499.0,
+    "price": 2799.0,
     "list_price": 3499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bloque de 5 cuchillos de titanio con antiadherente Fresh Kitchen",
@@ -2410,9 +2410,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1899.0,
+    "price": 1499.0,
     "list_price": 1899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bloque de 5 cuchillos Ice Force de acero inoxidable",
@@ -2431,9 +2431,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1899.0,
+    "price": 1499.0,
     "list_price": 1899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cuchillo Eversharp Pro chef con bloque afilador color negro",
@@ -2452,9 +2452,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
+    "price": 1199.0,
     "list_price": 1499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén Renew On 20 cm cerámico, base de inducción y diseño ecológico",
@@ -2851,9 +2851,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 899.0,
+    "price": 699.0,
     "list_price": 899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Vaso Tritán Infinymix",
@@ -2872,7 +2872,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3849.0,
+    "price": 3699.0,
     "list_price": 4599.0,
     "on_sale": true
   },
@@ -2893,7 +2893,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1119.0,
+    "price": 1099.0,
     "list_price": 1399.0,
     "on_sale": true
   },
@@ -2956,9 +2956,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 6789.0,
+    "price": 5449.0,
     "list_price": 6789.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set Ingenio Delight sartén 28 cm + cazo 18 cm",
@@ -2998,9 +2998,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3199.0,
+    "price": 2549.0,
     "list_price": 3199.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Horno Tostador 9 L",
@@ -3124,9 +3124,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 719.0,
+    "price": 599.0,
     "list_price": 719.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 3 contenedores de plástico de 1L Master Seal Fresh",
@@ -3145,9 +3145,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 669.0,
+    "price": 549.0,
     "list_price": 669.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batidora de Inmersión Daily Chef",
@@ -3376,9 +3376,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2269.0,
+    "price": 1799.0,
     "list_price": 2269.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Mango Ingenio Basic desmontable ultra seguro",
@@ -3460,9 +3460,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
+    "price": 1199.0,
     "list_price": 1499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Espresseria Manual LA-T",
@@ -3481,9 +3481,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 4799.0,
+    "price": 3849.0,
     "list_price": 4799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Filtro Grand Cafe 1.8L",
@@ -3502,7 +3502,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1099.0,
+    "price": 1049.0,
     "list_price": 1299.0,
     "on_sale": true
   },
@@ -3523,9 +3523,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 449.0,
+    "price": 349.0,
     "list_price": 449.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Filtro Elegance 7 tazas",
@@ -3544,7 +3544,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 599.0,
+    "price": 549.0,
     "list_price": 699.0,
     "on_sale": true
   },
@@ -3565,9 +3565,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 899.0,
+    "price": 699.0,
     "list_price": 899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Mini Procesador de Alimentos Actimix",
