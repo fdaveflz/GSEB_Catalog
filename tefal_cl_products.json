@@ -1,5 +1,26 @@
 [
   {
+    "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
+    "reference": "2100121274",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Batería de cocina Daily Cook: las innovadoras ollas de cocina de Tefal Daily Cook hacen que cocinar sea fácil y sin complicaciones.| Todo se reduce a las funciones inteligentes y convenientes de Daily Cook que ayudará que todas tus comidas diarias sean fáciles de cocinar. |Una tapa de vidrio única con un diseño articulado que garantiza una limpieza mínima y una cocina sin desorden, así como manijas ergonómicas que se mantienen frescas que ofrecen comodidad y conveniencia mientras cocina.| Las marcas de medición muy visibles en el interior de las ollas garantizan resultados perfectos y sin complicaciones. |Compatible con todas las estufas, incluida la de inducción. |Disfruta de resultados perfectos gracias a su base de inducción que garantiza una cocción uniforme",
+    "url": "https://www.tefalstore.cl/bateria-10-piezas-daily-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639035775447200000",
+    "skus": [
+      {
+        "sku_id": "139",
+        "sku_name": "Bateria de cocina Acero Inoxidable DailyCook 10 Piezas",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639035775447200000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 79990.0,
+    "list_price": 119990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Acero Inoxidable Duetto 11 Piezas Tefal",
     "reference": "2100145345",
     "brand": "Tefal",
@@ -37,7 +58,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 349990.0,
+    "price": 399990.0,
     "list_price": 499990.0,
     "on_sale": true
   },
@@ -2583,6 +2604,27 @@
     "on_sale": true
   },
   {
+    "name": "Set Sartenes Ingenio 22/26 cm + mango",
+    "reference": "2100125616",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "\"De la cocina, al horno, a la mesa y al refrigerador, Ingenio es la respuesta a la versatilidad y apilabilidad de los utensilios de cocina.|\nSistema apilable para ahorrar espacio en tu cocina, mango seguro para intercambiar de sartén en sartén y de olla en olla. |\nRecubrimiento antiadherente de titanio para una mayor durabilidad. |\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, excepto las de inducción. |\nEste set de sartenes está compuesto por: Sartén 22/26 cm + mango\"",
+    "url": "https://www.tefalstore.cl/set-sartenes-ingenio-22-26-cm---mango/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200423/label-0.jpg?v=638506231925170000",
+    "skus": [
+      {
+        "sku_id": "277",
+        "sku_name": "Set Sartenes Ingenio 22/26 cm + mango",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200423/label-0.jpg?v=638506231925170000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 49990.0,
+    "list_price": 62990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Antiadherente Enhance 10 PCS Tefal",
     "reference": "2100126319",
     "brand": "Tefal",
@@ -3000,27 +3042,6 @@
     "country": "Chile",
     "price": 14990.0,
     "list_price": 18490.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set Sartenes Ingenio 22/26 cm + mango",
-    "reference": "2100125616",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "\"De la cocina, al horno, a la mesa y al refrigerador, Ingenio es la respuesta a la versatilidad y apilabilidad de los utensilios de cocina.|\nSistema apilable para ahorrar espacio en tu cocina, mango seguro para intercambiar de sartén en sartén y de olla en olla. |\nRecubrimiento antiadherente de titanio para una mayor durabilidad. |\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, excepto las de inducción. |\nEste set de sartenes está compuesto por: Sartén 22/26 cm + mango\"",
-    "url": "https://www.tefalstore.cl/set-sartenes-ingenio-22-26-cm---mango/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200423/label-0.jpg?v=638506231925170000",
-    "skus": [
-      {
-        "sku_id": "277",
-        "sku_name": "Set Sartenes Ingenio 22/26 cm + mango",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200423/label-0.jpg?v=638506231925170000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 49990.0,
-    "list_price": 62990.0,
     "on_sale": true
   },
   {
@@ -3586,8 +3607,8 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 449990.0,
-    "list_price": 449990.0,
+    "price": null,
+    "list_price": null,
     "on_sale": false
   },
   {
@@ -4218,27 +4239,6 @@
     "country": "Chile",
     "price": 129990.0,
     "list_price": 129990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
-    "reference": "2100121274",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Batería de cocina Daily Cook: las innovadoras ollas de cocina de Tefal Daily Cook hacen que cocinar sea fácil y sin complicaciones.| Todo se reduce a las funciones inteligentes y convenientes de Daily Cook que ayudará que todas tus comidas diarias sean fáciles de cocinar. |Una tapa de vidrio única con un diseño articulado que garantiza una limpieza mínima y una cocina sin desorden, así como manijas ergonómicas que se mantienen frescas que ofrecen comodidad y conveniencia mientras cocina.| Las marcas de medición muy visibles en el interior de las ollas garantizan resultados perfectos y sin complicaciones. |Compatible con todas las estufas, incluida la de inducción. |Disfruta de resultados perfectos gracias a su base de inducción que garantiza una cocción uniforme",
-    "url": "https://www.tefalstore.cl/bateria-10-piezas-daily-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639035775447200000",
-    "skus": [
-      {
-        "sku_id": "139",
-        "sku_name": "Bateria de cocina Acero Inoxidable DailyCook 10 Piezas",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639035775447200000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 119990.0,
-    "list_price": 119990.0,
     "on_sale": false
   },
   {
