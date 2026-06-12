@@ -483,6 +483,27 @@
     "on_sale": false
   },
   {
+    "name": "Tapa para cafetera compatible de repuesto universal",
+    "reference": "9100036276",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/tapa-para-cafetera-compatible-de-repuesto-universal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000",
+    "skus": [
+      {
+        "sku_id": "1106",
+        "sku_name": "Tapa para cafetera compatible de repuesto universal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 59.0,
+    "list_price": 59.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén Excellence+ 30cm Fusion Core",
     "reference": "2100139013",
     "brand": "T-fal",
@@ -1906,7 +1927,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2399.0,
+    "price": 1949.0,
     "list_price": 2999.0,
     "on_sale": true
   },
@@ -3588,27 +3609,6 @@
     "country": "México",
     "price": 1999.0,
     "list_price": 1999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Tapa para cafetera compatible de repuesto universal",
-    "reference": "9100036276",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/tapa-para-cafetera-compatible-de-repuesto-universal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000",
-    "skus": [
-      {
-        "sku_id": "1106",
-        "sku_name": "Tapa para cafetera compatible de repuesto universal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 59.0,
-    "list_price": 59.0,
     "on_sale": false
   },
   {
