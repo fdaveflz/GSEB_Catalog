@@ -84,27 +84,6 @@
     "on_sale": true
   },
   {
-    "name": "Ventilador de Pedestal  Air Maxx de 16\"",
-    "reference": "9100058356",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de pedestal T-fal Air MAXX: ¡Máxima frescura en todo momento! * Eficiencia que combina la forma cóncava de las 4 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 16\" que optimizan la distribución del viento y la fuerza del motor 60W con la energia precisa para refrescar tu espacio, * Cuenta con función IR MAXX para un flujo de aire optimizado. * Tecnología que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias * Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire. * Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil. * Garantia de 2 años contra defectos de materiales o fabricación.",
-    "url": "https://www.t-fal.com.mx/copy-of-ventilador-de-pedestal--air-maxx-de-16-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159622/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=639137884956700000",
-    "skus": [
-      {
-        "sku_id": "1110",
-        "sku_name": "Ventilador de Pedestal  Air Maxx de 16\"",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159622/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=639137884956700000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
-    "on_sale": false
-  },
-  {
     "name": "Tapa para cafetera compatible de repuesto universal",
     "reference": "9100043551",
     "brand": "T-fal",
@@ -483,6 +462,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador de Pedestal  Air Maxx de 16\"",
+    "reference": "9100058356",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de pedestal T-fal Air MAXX: ¡Máxima frescura en todo momento! * Eficiencia que combina la forma cóncava de las 4 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 16\" que optimizan la distribución del viento y la fuerza del motor 60W con la energia precisa para refrescar tu espacio, * Cuenta con función IR MAXX para un flujo de aire optimizado. * Tecnología que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias * Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire. * Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil. * Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/copy-of-ventilador-de-pedestal--air-maxx-de-16-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159622/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=639137884956700000",
+    "skus": [
+      {
+        "sku_id": "1110",
+        "sku_name": "Ventilador de Pedestal  Air Maxx de 16\"",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159622/5861032679_VE3199X0_FANAIRMAXX16-1-.jpg?v=639137884956700000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 999.0,
+    "list_price": 999.0,
+    "on_sale": false
+  },
+  {
     "name": "Tapa para cafetera compatible de repuesto universal",
     "reference": "9100036276",
     "brand": "T-fal",
@@ -754,6 +754,27 @@
     "price": 2399.0,
     "list_price": 2399.0,
     "on_sale": false
+  },
+  {
+    "name": "Extractor de Jugo Frutelia",
+    "reference": "8010000550",
+    "brand": "T-fal",
+    "category": "Exprimidores y extractores de jugo",
+    "description": "* Empieza cada mañana con el mejor aliado T-Fal “Frutelia” Extractor de Jugos con el poder de 350W, 2 velocidades y función pulso para cortar, exprimir y licuar cualquier fruta o verdura y obtener lo mejor de cada ingrediente.\n* Su depósito de pulpa de 950 ml tiene la capacidad perfecta para cualquier ocasión, tanto para un uso diario como para cuando tengas invitados: este tamaño te permitirá alargar tu sesiones de exprimido y extracción.\n* Posee un motor de alto rendimiento de 350w de potencia.\n* Su diseño coincide con la calidad de sus resultados, cuenta con estabilidad, base antideslizante para mantener el extractor fijo en la superficie sin riesgo de deslizamiento ni caída y dos asas ergonómicas de bloqueo fácil para un cómodo transporte y de cómodo almacenamiento.\n* Frutelia es el extractor ideal para consumir las vitaminas y minerales del día a día.",
+    "url": "https://www.t-fal.com.mx/extractor-de-jugo-frutelia/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA PLUS METAL 400W 00.webp?v=639144643119830000",
+    "skus": [
+      {
+        "sku_id": "990",
+        "sku_name": "Extractor de Jugo Frutelia",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA PLUS METAL 400W 00.webp?v=639144643119830000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1299.0,
+    "list_price": 1849.0,
+    "on_sale": true
   },
   {
     "name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
@@ -3042,27 +3063,6 @@
     "country": "México",
     "price": 1989.0,
     "list_price": 2699.0,
-    "on_sale": true
-  },
-  {
-    "name": "Extractor de Jugo Frutelia",
-    "reference": "8010000550",
-    "brand": "T-fal",
-    "category": "Exprimidores y extractores de jugo",
-    "description": "* Empieza cada mañana con el mejor aliado T-Fal “Frutelia” Extractor de Jugos con el poder de 350W, 2 velocidades y función pulso para cortar, exprimir y licuar cualquier fruta o verdura y obtener lo mejor de cada ingrediente.\n* Su depósito de pulpa de 950 ml tiene la capacidad perfecta para cualquier ocasión, tanto para un uso diario como para cuando tengas invitados: este tamaño te permitirá alargar tu sesiones de exprimido y extracción.\n* Posee un motor de alto rendimiento de 350w de potencia.\n* Su diseño coincide con la calidad de sus resultados, cuenta con estabilidad, base antideslizante para mantener el extractor fijo en la superficie sin riesgo de deslizamiento ni caída y dos asas ergonómicas de bloqueo fácil para un cómodo transporte y de cómodo almacenamiento.\n* Frutelia es el extractor ideal para consumir las vitaminas y minerales del día a día.",
-    "url": "https://www.t-fal.com.mx/extractor-de-jugo-frutelia/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA PLUS METAL 400W 00.webp?v=639144643119830000",
-    "skus": [
-      {
-        "sku_id": "990",
-        "sku_name": "Extractor de Jugo Frutelia",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA PLUS METAL 400W 00.webp?v=639144643119830000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1299.0,
-    "list_price": 1849.0,
     "on_sale": true
   },
   {
