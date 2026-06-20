@@ -310,7 +310,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 64990.0,
+    "price": 69990.0,
     "list_price": 109990.0,
     "on_sale": true
   },
@@ -688,7 +688,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 69990.0,
     "list_price": 129990.0,
     "on_sale": true
   },
@@ -961,7 +961,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 89990.0,
+    "price": 99990.0,
     "list_price": 169990.0,
     "on_sale": true
   },
@@ -1362,6 +1362,27 @@
     "country": "Chile",
     "price": 359990.0,
     "list_price": 499990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera de filtro Soleil 1,25L 1000W",
+    "reference": "7211003353",
+    "brand": "Moulinex",
+    "category": "Cafeteras Espresso",
+    "description": "Presenta líneas sencillas y una estética fresca y original que aporta un estilo retro en tu cocina. | Con una amplia capacidad de 1,25 L esta cafetera permite preparar café para 15 tazas, por lo que podrás disfrutar de un café delicioso durante toda la mañana. | La ventana transparente permite llenar y controlar fácilmente el nivel del depósito de agua y el soporte de filtro giratorio garantiza un fácil acceso. |Además, la cafetera espresso dispone de un sistema de protección antigoteo que permite verter el café en cualquier momento del ciclo de infusión sin miedo a que gotee y de una función de apagado automático que detiene el ciclo de conservación del calor tras 30 minutos para garantizar tu tranquilidad. | 1000 W de potencia y una jarra de vidrio que permite controlar el nivel de agua fácilmente. | Este producto no incluye filtro de papel, ni cuchara medidora.",
+    "url": "https://www.tefalstore.cl/cafetera-soleil/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204987/7211003353.jpg?v=638913904096570000",
+    "skus": [
+      {
+        "sku_id": "73",
+        "sku_name": "Cafetera de filtro Soleil 1,25L 1000W",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204987/7211003353.jpg?v=638913904096570000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 26990.0,
+    "list_price": 37990.0,
     "on_sale": true
   },
   {
@@ -2011,7 +2032,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 64990.0,
     "list_price": 119990.0,
     "on_sale": true
   },
@@ -2368,7 +2389,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 599990.0,
+    "price": 679990.0,
     "list_price": 999990.0,
     "on_sale": true
   },
@@ -2391,27 +2412,6 @@
     "country": "Chile",
     "price": 49990.0,
     "list_price": 79990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cafetera de filtro Soleil 1,25L 1000W",
-    "reference": "7211003353",
-    "brand": "Moulinex",
-    "category": "Cafeteras Espresso",
-    "description": "Presenta líneas sencillas y una estética fresca y original que aporta un estilo retro en tu cocina. | Con una amplia capacidad de 1,25 L esta cafetera permite preparar café para 15 tazas, por lo que podrás disfrutar de un café delicioso durante toda la mañana. | La ventana transparente permite llenar y controlar fácilmente el nivel del depósito de agua y el soporte de filtro giratorio garantiza un fácil acceso. |Además, la cafetera espresso dispone de un sistema de protección antigoteo que permite verter el café en cualquier momento del ciclo de infusión sin miedo a que gotee y de una función de apagado automático que detiene el ciclo de conservación del calor tras 30 minutos para garantizar tu tranquilidad. | 1000 W de potencia y una jarra de vidrio que permite controlar el nivel de agua fácilmente. | Este producto no incluye filtro de papel, ni cuchara medidora.",
-    "url": "https://www.tefalstore.cl/cafetera-soleil/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204987/7211003353.jpg?v=638913904096570000",
-    "skus": [
-      {
-        "sku_id": "73",
-        "sku_name": "Cafetera de filtro Soleil 1,25L 1000W",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204987/7211003353.jpg?v=638913904096570000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 26990.0,
-    "list_price": 37990.0,
     "on_sale": true
   },
   {
@@ -2788,7 +2788,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 72990.0,
+    "price": 89990.0,
     "list_price": 139990.0,
     "on_sale": true
   },
@@ -3439,7 +3439,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 44990.0,
+    "price": 54990.0,
     "list_price": 74990.0,
     "on_sale": true
   },
@@ -3691,7 +3691,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 69990.0,
     "list_price": 104990.0,
     "on_sale": true
   },
