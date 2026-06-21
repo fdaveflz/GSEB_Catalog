@@ -1344,27 +1344,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Full Auto",
-    "reference": "8000035039",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "Alto rendimiento y es fácil de usar para garantizar fácilmente su espresso perfecto. | Con 15 bares de presión que reproducen las mismas características de un barista con boquilla de vapor para obtener la espuma perfecta. | Exclusivo sistema Thermoblock que asegura la temperatura ideal y limita la formación de sarro. | Sistema de dosificación para tazas pequeñas y grandes. | Molinillo de metal incluido con capacidad 260 gr. | Potencia de 1450 W.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-full-auto/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204923/8000035039.png?v=638913884758530000",
-    "skus": [
-      {
-        "sku_id": "74",
-        "sku_name": "Cafetera Espresso Full Auto",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204923/8000035039.png?v=638913884758530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 359990.0,
-    "list_price": 499990.0,
-    "on_sale": true
-  },
-  {
     "name": "Cafetera de filtro Soleil 1,25L 1000W",
     "reference": "7211003353",
     "brand": "Moulinex",
@@ -1402,9 +1381,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 24990.0,
+    "price": 32990.0,
     "list_price": 32990.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Picadora 1,2,3 AD6011CL 1,25L 750W Moulinex",
@@ -2415,6 +2394,27 @@
     "on_sale": true
   },
   {
+    "name": "Cafetera Espresso Full Auto",
+    "reference": "8000035039",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "Alto rendimiento y es fácil de usar para garantizar fácilmente su espresso perfecto. | Con 15 bares de presión que reproducen las mismas características de un barista con boquilla de vapor para obtener la espuma perfecta. | Exclusivo sistema Thermoblock que asegura la temperatura ideal y limita la formación de sarro. | Sistema de dosificación para tazas pequeñas y grandes. | Molinillo de metal incluido con capacidad 260 gr. | Potencia de 1450 W.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-full-auto/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204923/8000035039.png?v=638913884758530000",
+    "skus": [
+      {
+        "sku_id": "74",
+        "sku_name": "Cafetera Espresso Full Auto",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204923/8000035039.png?v=638913884758530000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 359990.0,
+    "list_price": 499990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Antiadherente Platinum Negro 12 Piezas Tefal",
     "reference": "2100110382",
     "brand": "Tefal",
@@ -2688,6 +2688,27 @@
     "on_sale": true
   },
   {
+    "name": "Set 3 Tapas Plásticas 16/18/20 cm Ingenio Tefal",
+    "reference": "2100127868",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "¡Guardar tus comidas nunca ha sido tan fácil con nuestras tapas Ingenio! Solo pon nuestra tapa especial a tu olla, guárdalo en tu refrigerador y saca el mango.|\nTapas de plástico Ingenio 16/18/20 cm|\nCompatibles con nuestro set de ollas 16/18/20 cm Ingenio|\nCierre hermético para guardar tus alimentos son seguridad en tu refrigerador y  mantener tu comida fresca|\nAptas para Lavavajillas",
+    "url": "https://www.tefalstore.cl/set-3-tapas-plasticas-16-18-20-cm-ingenio-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203805/01-portada.png?v=638803459413730000",
+    "skus": [
+      {
+        "sku_id": "319",
+        "sku_name": "Set 3 Tapas Plásticas 16/18/20 cm Ingenio Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203805/01-portada.png?v=638803459413730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 14990.0,
+    "list_price": 18990.0,
+    "on_sale": true
+  },
+  {
     "name": "Set 3 Tapas de vidrio 16/18/20 cm Ingenio Tefal",
     "reference": "2100127978",
     "brand": "Tefal",
@@ -2727,27 +2748,6 @@
     "country": "Chile",
     "price": 139990.0,
     "list_price": 159990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cuchillo Chef 20cm Ice Force Tefal",
-    "reference": "2100104352",
-    "brand": "Tefal",
-    "category": "Cuchillo",
-    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal. |\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo chef 20cm es ideal para cortar, picar y rebanar todo tipo de alimentos.",
-    "url": "https://www.tefalstore.cl/cuchillo-chef-20cm-ice-force-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000",
-    "skus": [
-      {
-        "sku_id": "289",
-        "sku_name": "Cuchillo Chef 20cm Ice Force Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 14990.0,
-    "list_price": 24290.0,
     "on_sale": true
   },
   {
@@ -3129,27 +3129,6 @@
     "on_sale": true
   },
   {
-    "name": "Set 3 Tapas Plásticas 16/18/20 cm Ingenio Tefal",
-    "reference": "2100127868",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "¡Guardar tus comidas nunca ha sido tan fácil con nuestras tapas Ingenio! Solo pon nuestra tapa especial a tu olla, guárdalo en tu refrigerador y saca el mango.|\nTapas de plástico Ingenio 16/18/20 cm|\nCompatibles con nuestro set de ollas 16/18/20 cm Ingenio|\nCierre hermético para guardar tus alimentos son seguridad en tu refrigerador y  mantener tu comida fresca|\nAptas para Lavavajillas",
-    "url": "https://www.tefalstore.cl/set-3-tapas-plasticas-16-18-20-cm-ingenio-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203805/01-portada.png?v=638803459413730000",
-    "skus": [
-      {
-        "sku_id": "319",
-        "sku_name": "Set 3 Tapas Plásticas 16/18/20 cm Ingenio Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203805/01-portada.png?v=638803459413730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 14990.0,
-    "list_price": 18990.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Optimix Negra 2V 500W Moulinex",
     "reference": "5861035938",
     "brand": "Moulinex",
@@ -3504,6 +3483,27 @@
     "country": "Chile",
     "price": 24990.0,
     "list_price": 39990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cuchillo Chef 20cm Ice Force Tefal",
+    "reference": "2100104352",
+    "brand": "Tefal",
+    "category": "Cuchillo",
+    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal. |\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo chef 20cm es ideal para cortar, picar y rebanar todo tipo de alimentos.",
+    "url": "https://www.tefalstore.cl/cuchillo-chef-20cm-ice-force-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000",
+    "skus": [
+      {
+        "sku_id": "289",
+        "sku_name": "Cuchillo Chef 20cm Ice Force Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 14990.0,
+    "list_price": 24290.0,
     "on_sale": true
   },
   {
