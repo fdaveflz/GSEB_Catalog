@@ -37,29 +37,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2149.0,
+    "price": 1699.0,
     "list_price": 2149.0,
-    "on_sale": false
-  },
-  {
-    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-    "reference": "5861032684",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
-    "skus": [
-      {
-        "sku_id": "916",
-        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1749.0,
-    "list_price": 1799.0,
     "on_sale": true
   },
   {
@@ -105,27 +84,6 @@
     "on_sale": false
   },
   {
-    "name": "Jarra para cafetera CM3218MX original de repuesto",
-    "reference": "9100017766",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm3218mx-original-de-repuesto/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159607/9100017766_FS-9100017766_JARRA-PARA-CAFETERA-CM3218MX-01.jpg?v=639131799781500000",
-    "skus": [
-      {
-        "sku_id": "1107",
-        "sku_name": "Jarra para cafetera CM3218MX original de repuesto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159607/9100017766_FS-9100017766_JARRA-PARA-CAFETERA-CM3218MX-01.jpg?v=639131799781500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 129.0,
-    "list_price": 129.0,
-    "on_sale": false
-  },
-  {
     "name": "Set de 4 utensilios Resource hechos con materiales reciclados",
     "reference": "2100107080",
     "brand": "T-fal",
@@ -163,9 +121,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1049.0,
+    "price": 849.0,
     "list_price": 1049.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
@@ -247,7 +205,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2809.0,
+    "price": 2399.0,
     "list_price": 2999.0,
     "on_sale": true
   },
@@ -294,6 +252,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+    "reference": "5861032684",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
+    "skus": [
+      {
+        "sku_id": "916",
+        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1749.0,
+    "list_price": 1799.0,
+    "on_sale": true
+  },
+  {
     "name": "Ventilador de Pedestal Silence Force 18\" anti mosquitos",
     "reference": "5861032682",
     "brand": "T-fal",
@@ -310,9 +289,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1799.0,
+    "price": 1449.0,
     "list_price": 1799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
@@ -352,9 +331,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2299.0,
+    "price": 1849.0,
     "list_price": 2299.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
@@ -394,9 +373,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1989.0,
+    "price": 1599.0,
     "list_price": 1989.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Lichen Supercook 26 pzas",
@@ -415,9 +394,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2999.0,
+    "price": 2399.0,
     "list_price": 2999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Red Supercook 26 piezas",
@@ -436,9 +415,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2999.0,
+    "price": 2399.0,
     "list_price": 2999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Vertical 6 en 1 Inalámbrica X-Pert 9.60 + Plumero",
@@ -457,9 +436,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 5899.0,
+    "price": 4699.0,
     "list_price": 5899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Tapa para cafetera compatible de repuesto universal",
@@ -541,9 +520,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3699.0,
+    "price": 2949.0,
     "list_price": 3699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
@@ -793,9 +772,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2549.0,
+    "price": 3199.0,
     "list_price": 3199.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Extractor de Jugo Frutelia",
@@ -877,9 +856,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 799.0,
+    "price": 999.0,
     "list_price": 999.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Sartén 20cm Emotion SS",
@@ -966,25 +945,25 @@
     "on_sale": false
   },
   {
-    "name": "Vaporizador Pure Pop Verde, con estilo en cualquier lugar",
-    "reference": "1830009127",
+    "name": "Sartén 20cm Daily expert rojo",
+    "reference": "2100129936",
     "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* LISTO EN SEGUNDOS: Con solo 15 segundos de calentamiento, tu vaporizador está listo para dejar tu ropa impecable, ideal para retoques de último momento. * DISEÑO PORTÁTIL Y LIGERO: Compacto y fácil de transportar, es el compañero ideal para viajes o espacios reducidos, sin ocupar lugar y siempre a tu alcance. * CUIDADO SEGURO EN TODA TELA: El lado de terciopelo del pad protege incluso las telas más delicadas, asegurando un vapor eficaz y sin riesgos. * OLVÍDATE DE PELUSAS Y PELOS: Su innovadora almohadilla reversible incluye un lado quita pelusa que atrapa pelos de mascota y motas, manteniendo tu ropa perfecta. * PLANCHA CON ESTILO EN CUALQUIER LUGAR: Elimina arrugas, refresca y ayuda a reducir olores, dejando cada prenda con apariencia limpia y cuidada en cuestión de minutos.",
-    "url": "https://www.t-fal.com.mx/vaporizador-pure-pop-verde-con-estilo-en-cualquier-lugar-921/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157809/1830009127_DT2024X0_PUREPOP_-1-.jpg?v=638930412784400000",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Sartén de 20 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
+    "url": "https://www.t-fal.com.mx/sarten-20cm-daily-expert-rojo-931/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158432/2100129936_C2890202_SARTEN20CMDAILYEXPERT-1-.jpg?v=638950302804570000",
     "skus": [
       {
-        "sku_id": "921",
-        "sku_name": "Vaporizador Pure Pop Verde, con estilo en cualquier lugar",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157809/1830009127_DT2024X0_PUREPOP_-1-.jpg?v=638930412784400000"
+        "sku_id": "931",
+        "sku_name": "Sartén 20cm Daily expert rojo",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158432/2100129936_C2890202_SARTEN20CMDAILYEXPERT-1-.jpg?v=638950302804570000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 799.0,
-    "list_price": 799.0,
-    "on_sale": false
+    "price": 659.0,
+    "list_price": 849.0,
+    "on_sale": true
   },
   {
     "name": "Plancha Puregliss Black and Gold, planchado impecable",
@@ -1066,9 +1045,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2519.0,
+    "price": 1999.0,
     "list_price": 2519.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Hervidor Maxx Negro 1.5L",
@@ -1087,7 +1066,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 689.0,
+    "price": 549.0,
     "list_price": 699.0,
     "on_sale": true
   },
@@ -1108,9 +1087,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3999.0,
+    "price": 3199.0,
     "list_price": 3999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 20cm Delight",
@@ -1129,9 +1108,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 549.0,
     "list_price": 699.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Ventilador de Pedestal  Air Maxx de 16\"",
@@ -1173,6 +1152,27 @@
     "country": "México",
     "price": 1999.0,
     "list_price": 2499.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batería 12 piezas Refresh Ceramic Warm Beige",
+    "reference": "2100140958",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
+    "url": "https://www.t-fal.com.mx/bateria-12-piezas-refresh-ceramic-warm-beige/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000",
+    "skus": [
+      {
+        "sku_id": "1089",
+        "sku_name": "Batería 12 piezas Refresh Ceramic Warm Beige",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2149.0,
+    "list_price": 2699.0,
     "on_sale": true
   },
   {
@@ -1234,9 +1234,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1599.0,
+    "price": 1299.0,
     "list_price": 1599.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora 10 V Vaso Vidrio Infinyforce XL",
@@ -1255,30 +1255,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 849.0,
+    "price": 699.0,
     "list_price": 849.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaporizador vertical Origin Home, prendas siempre listas",
-    "reference": "7211005140",
-    "brand": "T-fal",
-    "category": "Vaporizadores verticales",
-    "description": "* VAPOR PARA TODAS LAS TELAS: Sus 3 niveles de vapor permiten cuidar desde prendas delicadas hasta telas más gruesas, siempre con resultados perfectos.\n* PERCHERO INTEGRADO: Su diseño tipo perchero permite colgar prendas largas como vestidos o abrigos, haciéndolo más práctico y cómodo.\n* REFRESCA Y SANITIZA: El poder del vapor no solo elimina arrugas, también ayuda a reducir olores y bacterias, ofreciendo ropa fresca y cuidada.\n* DISEÑO ESTÉTICO Y FUNCIONAL: Su estilo minimalista combina con cualquier espacio del hogar, mientras que el tanque removible facilita su uso diario.\n* LISTO EN SEGUNDOS: Con solo 45 segundos de calentamiento, podrás alisar y refrescar tu ropa rápidamente, sin necesidad de tabla de planchar.",
-    "url": "https://www.t-fal.com.mx/vaporizador-vertical-origin-home-prendas-siempre-listas/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159146/7211005140_IT3240X1_ORIGIN-HOME--3-.jpg?v=638965684272730000",
-    "skus": [
-      {
-        "sku_id": "1052",
-        "sku_name": "Vaporizador vertical Origin Home, prendas siempre listas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159146/7211005140_IT3240X1_ORIGIN-HOME--3-.jpg?v=638965684272730000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
@@ -1318,9 +1297,30 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2399.0,
+    "price": 2999.0,
     "list_price": 2999.0,
-    "on_sale": true
+    "on_sale": false
+  },
+  {
+    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+    "reference": "2100122016",
+    "brand": "T-fal",
+    "category": "Sets de cuchillos",
+    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
+    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
+    "skus": [
+      {
+        "sku_id": "1041",
+        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 309.0,
+    "list_price": 309.0,
+    "on_sale": false
   },
   {
     "name": "Sartén Delight 28 cm Mineralia+ con inducción",
@@ -1339,9 +1339,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1289.0,
+    "price": 1049.0,
     "list_price": 1289.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Crepera Crepparty",
@@ -1360,9 +1360,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1399.0,
+    "price": 1199.0,
     "list_price": 1399.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Procesador de Alimentos Chopper Power Max",
@@ -1465,9 +1465,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 909.0,
+    "price": 749.0,
     "list_price": 909.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Vaso Vidrio Ultraforce Cook",
@@ -1528,9 +1528,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
+    "price": 799.0,
     "list_price": 999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaporizador Pure Pop Azul, con estilo en cualquier lugar",
@@ -1554,48 +1554,6 @@
     "on_sale": false
   },
   {
-    "name": "Sartén 24cm Daily expert rojo",
-    "reference": "2100129934",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Sartén de 24 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
-    "url": "https://www.t-fal.com.mx/sarten-24cm-daily-expert-rojo-930/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158442/2100129934_C2890402_SARTEN24CMDAILYEXPERT-1-.jpg?v=638950304787830000",
-    "skus": [
-      {
-        "sku_id": "930",
-        "sku_name": "Sartén 24cm Daily expert rojo",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158442/2100129934_C2890402_SARTEN24CMDAILYEXPERT-1-.jpg?v=638950304787830000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 839.0,
-    "list_price": 1099.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén 20cm Daily expert rojo",
-    "reference": "2100129936",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Sartén de 20 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
-    "url": "https://www.t-fal.com.mx/sarten-20cm-daily-expert-rojo-931/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158432/2100129936_C2890202_SARTEN20CMDAILYEXPERT-1-.jpg?v=638950302804570000",
-    "skus": [
-      {
-        "sku_id": "931",
-        "sku_name": "Sartén 20cm Daily expert rojo",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158432/2100129936_C2890202_SARTEN20CMDAILYEXPERT-1-.jpg?v=638950302804570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 659.0,
-    "list_price": 849.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de vapor Ultragliss Plus Wine Gray, máximo vapor",
     "reference": "1830008079",
     "brand": "T-fal",
@@ -1615,27 +1573,6 @@
     "price": 1399.0,
     "list_price": 1399.0,
     "on_sale": false
-  },
-  {
-    "name": "Olla a presión Compact Easy 8L inox., compacta y segura",
-    "reference": "7114000623",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* La olla a presión Compact Easy de 8 litros es la solución perfecta para una cocina segura y eficiente. \n* Fabricada en acero inoxidable. \n* Ofrece una resistencia excepcional y cuenta con 5 sistemas de seguridad que garantizan un uso sin riesgos. \n* Además. \n* Es compatible con todas las fuentes de calor hasta inducción. \n* Lo que la hace extremadamente versátil. \n* Su diseño compacto facilita su almacenamiento y manejo. \n* Permitiendo que prepares tus comidas con facilidad. \n* Gracias a su durabilidad y seguridad. \n* La Compact Easy se convierte en una herramienta indispensable para cualquier cocina.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-compact-easy-8l-inox-compacta-y-segura-944/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157979/7114000623_P3534447_OLLAPRESIONCOMPACTEASY8LT-FAL1-1-.jpg?v=638930557128870000",
-    "skus": [
-      {
-        "sku_id": "944",
-        "sku_name": "Olla a presión Compact Easy 8L inox., compacta y segura",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157979/7114000623_P3534447_OLLAPRESIONCOMPACTEASY8LT-FAL1-1-.jpg?v=638930557128870000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2799.0,
-    "list_price": 3999.0,
-    "on_sale": true
   },
   {
     "name": "Olla a presión Compact Easy 6L inox., compacta y segura",
@@ -1717,9 +1654,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 499.0,
+    "price": 449.0,
     "list_price": 499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire 6L Infrared XXL, Calentamiento Dual",
@@ -1843,9 +1780,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 4375.0,
+    "price": 3499.0,
     "list_price": 4375.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Válvula de seguridad para olla a presión de aluminio de 12 y 16 litros.",
@@ -1885,9 +1822,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2499.0,
+    "price": 1999.0,
     "list_price": 2499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén Excellence+ 20cm Fusion Core",
@@ -1951,27 +1888,6 @@
     "price": 1599.0,
     "list_price": 1999.0,
     "on_sale": true
-  },
-  {
-    "name": "Batería 12 piezas Refresh Ceramic Warm Beige",
-    "reference": "2100140958",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
-    "url": "https://www.t-fal.com.mx/bateria-12-piezas-refresh-ceramic-warm-beige/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000",
-    "skus": [
-      {
-        "sku_id": "1089",
-        "sku_name": "Batería 12 piezas Refresh Ceramic Warm Beige",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2699.0,
-    "list_price": 2699.0,
-    "on_sale": false
   },
   {
     "name": "Sartén Excellence+ 24cm Fusion Core",
@@ -2205,6 +2121,27 @@
     "on_sale": false
   },
   {
+    "name": "Vaporizador vertical Origin Home, prendas siempre listas",
+    "reference": "7211005140",
+    "brand": "T-fal",
+    "category": "Vaporizadores verticales",
+    "description": "* VAPOR PARA TODAS LAS TELAS: Sus 3 niveles de vapor permiten cuidar desde prendas delicadas hasta telas más gruesas, siempre con resultados perfectos.\n* PERCHERO INTEGRADO: Su diseño tipo perchero permite colgar prendas largas como vestidos o abrigos, haciéndolo más práctico y cómodo.\n* REFRESCA Y SANITIZA: El poder del vapor no solo elimina arrugas, también ayuda a reducir olores y bacterias, ofreciendo ropa fresca y cuidada.\n* DISEÑO ESTÉTICO Y FUNCIONAL: Su estilo minimalista combina con cualquier espacio del hogar, mientras que el tanque removible facilita su uso diario.\n* LISTO EN SEGUNDOS: Con solo 45 segundos de calentamiento, podrás alisar y refrescar tu ropa rápidamente, sin necesidad de tabla de planchar.",
+    "url": "https://www.t-fal.com.mx/vaporizador-vertical-origin-home-prendas-siempre-listas/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159146/7211005140_IT3240X1_ORIGIN-HOME--3-.jpg?v=638965684272730000",
+    "skus": [
+      {
+        "sku_id": "1052",
+        "sku_name": "Vaporizador vertical Origin Home, prendas siempre listas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159146/7211005140_IT3240X1_ORIGIN-HOME--3-.jpg?v=638965684272730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1599.0,
+    "list_price": 1999.0,
+    "on_sale": true
+  },
+  {
     "name": "Set de 2 piezas de termos de 0.700 L  Bludrop",
     "reference": "9100055650",
     "brand": "T-fal",
@@ -2263,9 +2200,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3499.0,
+    "price": 2799.0,
     "list_price": 3499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bloque de 5 cuchillos de titanio con antiadherente Fresh Kitchen",
@@ -2331,27 +2268,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-    "reference": "2100122016",
-    "brand": "T-fal",
-    "category": "Sets de cuchillos",
-    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
-    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
-    "skus": [
-      {
-        "sku_id": "1041",
-        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 309.0,
-    "list_price": 309.0,
-    "on_sale": false
-  },
-  {
     "name": "Sartén Renew On 20 cm cerámico, base de inducción y diseño ecológico",
     "reference": "2100128297",
     "brand": "T-fal",
@@ -2368,9 +2284,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 849.0,
+    "price": 699.0,
     "list_price": 849.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "One pick pot pan 24cm Lichen",
@@ -2494,9 +2410,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1189.0,
+    "price": 949.0,
     "list_price": 1189.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Wok Delight 28 cm Mineralia+",
@@ -2536,9 +2452,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1749.0,
+    "price": 1399.0,
     "list_price": 1749.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Parrilla Compact Panini",
@@ -2683,9 +2599,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
+    "price": 799.0,
     "list_price": 999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Procesador de Alimentos Fresh Express",
@@ -3150,6 +3066,27 @@
     "on_sale": false
   },
   {
+    "name": "Vaporizador Pure Pop Verde, con estilo en cualquier lugar",
+    "reference": "1830009127",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* LISTO EN SEGUNDOS: Con solo 15 segundos de calentamiento, tu vaporizador está listo para dejar tu ropa impecable, ideal para retoques de último momento. * DISEÑO PORTÁTIL Y LIGERO: Compacto y fácil de transportar, es el compañero ideal para viajes o espacios reducidos, sin ocupar lugar y siempre a tu alcance. * CUIDADO SEGURO EN TODA TELA: El lado de terciopelo del pad protege incluso las telas más delicadas, asegurando un vapor eficaz y sin riesgos. * OLVÍDATE DE PELUSAS Y PELOS: Su innovadora almohadilla reversible incluye un lado quita pelusa que atrapa pelos de mascota y motas, manteniendo tu ropa perfecta. * PLANCHA CON ESTILO EN CUALQUIER LUGAR: Elimina arrugas, refresca y ayuda a reducir olores, dejando cada prenda con apariencia limpia y cuidada en cuestión de minutos.",
+    "url": "https://www.t-fal.com.mx/vaporizador-pure-pop-verde-con-estilo-en-cualquier-lugar-921/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157809/1830009127_DT2024X0_PUREPOP_-1-.jpg?v=638930412784400000",
+    "skus": [
+      {
+        "sku_id": "921",
+        "sku_name": "Vaporizador Pure Pop Verde, con estilo en cualquier lugar",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157809/1830009127_DT2024X0_PUREPOP_-1-.jpg?v=638930412784400000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 649.0,
+    "list_price": 799.0,
+    "on_sale": true
+  },
+  {
     "name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
     "reference": "1830008271",
     "brand": "T-fal",
@@ -3166,7 +3103,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1249.0,
+    "price": 1199.0,
     "list_price": 1499.0,
     "on_sale": true
   },
@@ -3187,9 +3124,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 799.0,
+    "price": 649.0,
     "list_price": 799.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 32cm Daily expert rojo",
@@ -3234,6 +3171,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén 24cm Daily expert rojo",
+    "reference": "2100129934",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Sartén de 24 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
+    "url": "https://www.t-fal.com.mx/sarten-24cm-daily-expert-rojo-930/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158442/2100129934_C2890402_SARTEN24CMDAILYEXPERT-1-.jpg?v=638950304787830000",
+    "skus": [
+      {
+        "sku_id": "930",
+        "sku_name": "Sartén 24cm Daily expert rojo",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158442/2100129934_C2890402_SARTEN24CMDAILYEXPERT-1-.jpg?v=638950304787830000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 839.0,
+    "list_price": 1099.0,
+    "on_sale": true
+  },
+  {
     "name": "Pozolera Supercook 26 cm con tapa vidrio",
     "reference": "9100055917",
     "brand": "T-fal",
@@ -3271,9 +3229,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1199.0,
+    "price": 949.0,
     "list_price": 1199.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha de vapor Express Steam Blue Salt, planchado rápido",
@@ -3313,9 +3271,30 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 899.0,
+    "price": 699.0,
     "list_price": 899.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Olla a presión Compact Easy 8L inox., compacta y segura",
+    "reference": "7114000623",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* La olla a presión Compact Easy de 8 litros es la solución perfecta para una cocina segura y eficiente. \n* Fabricada en acero inoxidable. \n* Ofrece una resistencia excepcional y cuenta con 5 sistemas de seguridad que garantizan un uso sin riesgos. \n* Además. \n* Es compatible con todas las fuentes de calor hasta inducción. \n* Lo que la hace extremadamente versátil. \n* Su diseño compacto facilita su almacenamiento y manejo. \n* Permitiendo que prepares tus comidas con facilidad. \n* Gracias a su durabilidad y seguridad. \n* La Compact Easy se convierte en una herramienta indispensable para cualquier cocina.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-compact-easy-8l-inox-compacta-y-segura-944/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157979/7114000623_P3534447_OLLAPRESIONCOMPACTEASY8LT-FAL1-1-.jpg?v=638930557128870000",
+    "skus": [
+      {
+        "sku_id": "944",
+        "sku_name": "Olla a presión Compact Easy 8L inox., compacta y segura",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157979/7114000623_P3534447_OLLAPRESIONCOMPACTEASY8LT-FAL1-1-.jpg?v=638930557128870000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2799.0,
+    "list_price": 3999.0,
+    "on_sale": true
   },
   {
     "name": "Juego Ingenio Delight sartenes 24 y 28 cm",
@@ -3334,9 +3313,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2199.0,
+    "price": 1749.0,
     "list_price": 2199.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Ingenio XL Force 5 piezas con inducción",
@@ -3376,9 +3355,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 449.0,
+    "price": 349.0,
     "list_price": 449.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de 5 contenedores de plástico  Master Seal Fresh",
@@ -3397,9 +3376,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 549.0,
+    "price": 449.0,
     "list_price": 549.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería Hard Titanium Pro 12 pzas inducción",
@@ -3418,7 +3397,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 9799.0,
+    "price": 9599.0,
     "list_price": 11999.0,
     "on_sale": true
   },
@@ -3439,9 +3418,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1199.0,
+    "price": 1499.0,
     "list_price": 1499.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Espresseria Manual LA-T",
@@ -3460,9 +3439,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3849.0,
+    "price": 4799.0,
     "list_price": 4799.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Cafetera Filtro Grand Cafe 1.8L",
@@ -3481,7 +3460,7 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1049.0,
+    "price": 1099.0,
     "list_price": 1299.0,
     "on_sale": true
   },
@@ -3544,9 +3523,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
+    "price": 899.0,
     "list_price": 899.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Mini Procesador de Alimentos Actimix",
@@ -3567,6 +3546,27 @@
     "country": "México",
     "price": 1399.0,
     "list_price": 1399.0,
+    "on_sale": false
+  },
+  {
+    "name": "Jarra para cafetera CM3218MX original de repuesto",
+    "reference": "9100017766",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm3218mx-original-de-repuesto/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159607/9100017766_FS-9100017766_JARRA-PARA-CAFETERA-CM3218MX-01.jpg?v=639131799781500000",
+    "skus": [
+      {
+        "sku_id": "1107",
+        "sku_name": "Jarra para cafetera CM3218MX original de repuesto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159607/9100017766_FS-9100017766_JARRA-PARA-CAFETERA-CM3218MX-01.jpg?v=639131799781500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 129.0,
+    "list_price": 129.0,
     "on_sale": false
   },
   {
