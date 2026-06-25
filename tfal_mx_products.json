@@ -1,26 +1,5 @@
 [
   {
-    "name": "Jarra para cafetera CM223DMX original de repuesto",
-    "reference": "9100036277",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
-    "skus": [
-      {
-        "sku_id": "1108",
-        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 139.0,
-    "list_price": 139.0,
-    "on_sale": false
-  },
-  {
     "name": "Plancha Puregliss Black and Silver, planchado impecable",
     "reference": "1830009672",
     "brand": "T-fal",
@@ -186,6 +165,27 @@
     "country": "México",
     "price": 2309.0,
     "list_price": 2309.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
+    "reference": "3110600762",
+    "brand": "T-fal",
+    "category": "Contenedores de vidrio y plástico",
+    "description": "* El set de 3 contenedores de vidrio Master Seal Glass de 0.450L está diseñado con silicón inyectado para máxima seguridad contra derrames y conservación eficaz de tus alimentos. \n* Estos contenedores de vidrio son ideales para un almacenamiento duradero. \n* Ofreciendo una gran resistencia y manteniendo tus alimentos frescos por más tiempo. \n* Gracias a su cierre hermético. \n* Estos recipientes se convierten en una herramienta esencial para mejorar la organización y garantizar la frescura en tu cocina.",
+    "url": "https://www.t-fal.com.mx/set-de-3-contenedores-de-vidrio-0-450-l-master-seal-glass/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000",
+    "skus": [
+      {
+        "sku_id": "986",
+        "sku_name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 669.0,
+    "list_price": 669.0,
     "on_sale": false
   },
   {
@@ -796,27 +796,6 @@
     "price": 1299.0,
     "list_price": 1849.0,
     "on_sale": true
-  },
-  {
-    "name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
-    "reference": "3110600762",
-    "brand": "T-fal",
-    "category": "Contenedores de vidrio y plástico",
-    "description": "* El set de 3 contenedores de vidrio Master Seal Glass de 0.450L está diseñado con silicón inyectado para máxima seguridad contra derrames y conservación eficaz de tus alimentos. \n* Estos contenedores de vidrio son ideales para un almacenamiento duradero. \n* Ofreciendo una gran resistencia y manteniendo tus alimentos frescos por más tiempo. \n* Gracias a su cierre hermético. \n* Estos recipientes se convierten en una herramienta esencial para mejorar la organización y garantizar la frescura en tu cocina.",
-    "url": "https://www.t-fal.com.mx/set-de-3-contenedores-de-vidrio-0-450-l-master-seal-glass/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000",
-    "skus": [
-      {
-        "sku_id": "986",
-        "sku_name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 669.0,
-    "list_price": 669.0,
-    "on_sale": false
   },
   {
     "name": "Set de 4 cuchillos Ice Force de acero inoxidable",
@@ -2461,7 +2440,7 @@
     "reference": "8010001249",
     "brand": "T-fal",
     "category": "Sandwicheras y Parillas",
-    "description": "* POTENCIA Y CONTROL PRECISO: La Parrilla Panini T-Fal 2 en 1 ofrece 850W de potencia y control de temperatura para lograr el dorado perfecto en cada alimento, haciendo de la cocción una experiencia única y eficiente. * COCCIÓN SALUDABLE: Con placas antiadherentes, cocina sin aceite y mantén el sabor, asegurando que tus comidas sean saludables y deliciosas sin renunciar a la calidad. * ADAPTABILIDAD Y UNIFORMIDAD: Su placa superior flotante ajusta al grosor de los alimentos, garantizando una cocción uniforme en sándwiches, carnes, pescados y verduras para resultados consistentes. * LIMPIEZA SENCILLA: Diseñada con canales que recogen la grasa natural, facilita la limpieza, mientras su asa de tacto frío ofrece confort y seguridad durante el uso. * ALMACENAMIENTO PRÁCTICO: Con un cierre que permite guardarla verticalmente, esta parrilla ahorra espacio en tu cocina, combinando practicidad y estilo en un solo producto.",
+    "description": "* POTENCIA Y CONTROL PRECISO: La Parrilla Panini T-Fal 2 en 1 ofrece 850W de potencia haciendo de la cocción una experiencia única y eficiente.<br>* COCCIÓN SALUDABLE: Con placas antiadherentes, cocina sin aceite y mantén el sabor, asegurando que tus comidas sean saludables y deliciosas sin renunciar a la calidad.<br>* ADAPTABILIDAD Y UNIFORMIDAD: Su placa superior flotante ajusta al grosor de los alimentos, garantizando una cocción uniforme en sándwiches, carnes, pescados y verduras para resultados consistentes.<br>* LIMPIEZA SENCILLA: Diseñada con canales que recogen la grasa natural, facilita la limpieza, mientras su asa de tacto frío ofrece confort y seguridad durante el uso.<br>* ALMACENAMIENTO PRÁCTICO: Con un cierre que permite guardarla verticalmente, esta parrilla ahorra espacio en tu cocina, combinando practicidad y estilo en un solo producto.",
     "url": "https://www.t-fal.com.mx/parrilla-compact-panini/p",
     "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159826/8010001249_SW3318MX_PARRILLA_COMPACT_PANINI-1-.jpg?v=639178461445600000",
     "skus": [
@@ -3546,6 +3525,27 @@
     "country": "México",
     "price": 1399.0,
     "list_price": 1399.0,
+    "on_sale": false
+  },
+  {
+    "name": "Jarra para cafetera CM223DMX original de repuesto",
+    "reference": "9100036277",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
+    "skus": [
+      {
+        "sku_id": "1108",
+        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 139.0,
+    "list_price": 139.0,
     "on_sale": false
   },
   {
