@@ -189,27 +189,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
-    "reference": "3110600762",
-    "brand": "T-fal",
-    "category": "Contenedores de vidrio y plástico",
-    "description": "* El set de 3 contenedores de vidrio Master Seal Glass de 0.450L está diseñado con silicón inyectado para máxima seguridad contra derrames y conservación eficaz de tus alimentos. \n* Estos contenedores de vidrio son ideales para un almacenamiento duradero. \n* Ofreciendo una gran resistencia y manteniendo tus alimentos frescos por más tiempo. \n* Gracias a su cierre hermético. \n* Estos recipientes se convierten en una herramienta esencial para mejorar la organización y garantizar la frescura en tu cocina.",
-    "url": "https://www.t-fal.com.mx/set-de-3-contenedores-de-vidrio-0-450-l-master-seal-glass/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000",
-    "skus": [
-      {
-        "sku_id": "986",
-        "sku_name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 669.0,
-    "list_price": 669.0,
-    "on_sale": false
-  },
-  {
     "name": "Batidora de Inmersión Turbomix",
     "reference": "8010000736",
     "brand": "T-fal",
@@ -396,6 +375,27 @@
     "country": "México",
     "price": 1919.0,
     "list_price": 2299.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla a presión 12L aluminio, segura y versátil",
+    "reference": "7114900079",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* La olla a presión de 12 litros. \n* Hecha de aluminio. \n* Garantiza seguridad y facilidad de uso para grandes preparaciones. \n* Equipada con 5 sistemas de seguridad. \n* Esta olla proporciona una experiencia de cocina sin riesgos. \n* Es ideal para cocinar grandes volúmenes de comida. \n* Ofreciendo versatilidad para una amplia variedad de recetas. \n* La construcción en aluminio asegura una estructura ligera y fácil manejo. \n* Permitiéndote cocinar eficientemente en cualquier ocasión. \n* Con esta olla a presión. \n* Podrás realizar grandes preparaciones de manera segura y rápida. \n* Manteniendo la frescura y calidad de tus alimentos.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-12l-aluminio-segura-y-versatil-942/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000",
+    "skus": [
+      {
+        "sku_id": "942",
+        "sku_name": "Olla a presión 12L aluminio, segura y versátil",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1599.0,
+    "list_price": 1989.0,
     "on_sale": true
   },
   {
@@ -777,6 +777,27 @@
     "on_sale": true
   },
   {
+    "name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
+    "reference": "3110600762",
+    "brand": "T-fal",
+    "category": "Contenedores de vidrio y plástico",
+    "description": "* El set de 3 contenedores de vidrio Master Seal Glass de 0.450L está diseñado con silicón inyectado para máxima seguridad contra derrames y conservación eficaz de tus alimentos. \n* Estos contenedores de vidrio son ideales para un almacenamiento duradero. \n* Ofreciendo una gran resistencia y manteniendo tus alimentos frescos por más tiempo. \n* Gracias a su cierre hermético. \n* Estos recipientes se convierten en una herramienta esencial para mejorar la organización y garantizar la frescura en tu cocina.",
+    "url": "https://www.t-fal.com.mx/set-de-3-contenedores-de-vidrio-0-450-l-master-seal-glass/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000",
+    "skus": [
+      {
+        "sku_id": "986",
+        "sku_name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 669.0,
+    "list_price": 669.0,
+    "on_sale": false
+  },
+  {
     "name": "Set de 4 cuchillos Ice Force de acero inoxidable",
     "reference": "2100119885",
     "brand": "T-fal",
@@ -964,27 +985,6 @@
     "price": 599.0,
     "list_price": 599.0,
     "on_sale": false
-  },
-  {
-    "name": "Olla a presión 12L aluminio, segura y versátil",
-    "reference": "7114900079",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* La olla a presión de 12 litros. \n* Hecha de aluminio. \n* Garantiza seguridad y facilidad de uso para grandes preparaciones. \n* Equipada con 5 sistemas de seguridad. \n* Esta olla proporciona una experiencia de cocina sin riesgos. \n* Es ideal para cocinar grandes volúmenes de comida. \n* Ofreciendo versatilidad para una amplia variedad de recetas. \n* La construcción en aluminio asegura una estructura ligera y fácil manejo. \n* Permitiéndote cocinar eficientemente en cualquier ocasión. \n* Con esta olla a presión. \n* Podrás realizar grandes preparaciones de manera segura y rápida. \n* Manteniendo la frescura y calidad de tus alimentos.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-12l-aluminio-segura-y-versatil-942/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000",
-    "skus": [
-      {
-        "sku_id": "942",
-        "sku_name": "Olla a presión 12L aluminio, segura y versátil",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1599.0,
-    "list_price": 1989.0,
-    "on_sale": true
   },
   {
     "name": "Hervidor Maxx Negro 1.5L",
