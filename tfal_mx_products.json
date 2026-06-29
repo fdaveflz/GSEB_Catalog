@@ -42,27 +42,6 @@
     "on_sale": true
   },
   {
-    "name": "Generador de vapor Express Easy, resultados impecables",
-    "reference": "1830009002",
-    "brand": "T-fal",
-    "category": "Generadores de vapor",
-    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor de 280 g/min incluso las arrugas más rebeldes desaparecen fácilmente dejando tus prendas suaves y con acabado impecable. * LISTO EN SEGUNDOS: En tan solo 2 minutos alcanza la temperatura ideal perfecto para esos retoques de último momento o para iniciar tus sesiones de planchado sin esperas. * DISEÑO ULTRA-COMPACTO: Su tamaño reducido cabe en cualquier espacio facilitando el guardado y ofreciendo comodidad al moverlo de un lugar a otro. * MÁS AUTONOMÍA PARA TI: El tanque de agua de 1.4 L permite planchar por más tiempo sin interrupciones con la ventaja de recargar en cualquier momento. * CUIDADO DURADERO: La tecnología Calc Clear evita la acumulación de sarro alargando la vida del producto y asegurando un rendimiento constante día tras día.",
-    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-easy-resultados-impecables-950/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000",
-    "skus": [
-      {
-        "sku_id": "950",
-        "sku_name": "Generador de vapor Express Easy, resultados impecables",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 2499.0,
-    "on_sale": true
-  },
-  {
     "name": "Tapa para cafetera compatible de repuesto universal",
     "reference": "9100043551",
     "brand": "T-fal",
@@ -3924,6 +3903,27 @@
     "country": "México",
     "price": 2299.0,
     "list_price": 2299.0,
+    "on_sale": false
+  },
+  {
+    "name": "Generador de vapor Express Easy, resultados impecables",
+    "reference": "1830009002",
+    "brand": "T-fal",
+    "category": "Generadores de vapor",
+    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor de 280 g/min incluso las arrugas más rebeldes desaparecen fácilmente dejando tus prendas suaves y con acabado impecable. * LISTO EN SEGUNDOS: En tan solo 2 minutos alcanza la temperatura ideal perfecto para esos retoques de último momento o para iniciar tus sesiones de planchado sin esperas. * DISEÑO ULTRA-COMPACTO: Su tamaño reducido cabe en cualquier espacio facilitando el guardado y ofreciendo comodidad al moverlo de un lugar a otro. * MÁS AUTONOMÍA PARA TI: El tanque de agua de 1.4 L permite planchar por más tiempo sin interrupciones con la ventaja de recargar en cualquier momento. * CUIDADO DURADERO: La tecnología Calc Clear evita la acumulación de sarro alargando la vida del producto y asegurando un rendimiento constante día tras día.",
+    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-easy-resultados-impecables-950/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000",
+    "skus": [
+      {
+        "sku_id": "950",
+        "sku_name": "Generador de vapor Express Easy, resultados impecables",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2499.0,
+    "list_price": 2499.0,
     "on_sale": false
   },
   {
