@@ -42,27 +42,6 @@
     "on_sale": true
   },
   {
-    "name": "Olla a Presion IMUSA Talent Master Cierre Externo 7L",
-    "reference": "7114000584",
-    "brand": "IMUSA",
-    "category": "Ollas a presión",
-    "description": "Sistema Abre IMUSA el cual permite abrir y cerrar la olla con un solo giro| Su válvula de presión es ajustable para elegir el nivel de presión adecuado para cocinar alimentos duros o blandos| Disco base en acero inoxidable el cual permite usar la olla a presión en estufas de inducción| Moderna, robusta y compacta",
-    "url": "https://www.imusa.com.co/olla-a-presion-imusa-talent-master-cierre-externo-7l/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171991/PDP-OAP7lts-1200X1200.png?v=639059853201200000",
-    "skus": [
-      {
-        "sku_id": "309",
-        "sku_name": "Olla a Presion IMUSA Talent Master Cierre Externo 7L",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171991/PDP-OAP7lts-1200X1200.png?v=639059853201200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 359900.0,
-    "list_price": 519900.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Personal IMUSA Blend Up de 1000W con 8 Programas Automáticos",
     "reference": "7211419813",
     "brand": "IMUSA",
@@ -81,27 +60,6 @@
     "country": "Colombia",
     "price": 369900.0,
     "list_price": 479899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Aspiradora Trapeadora T-fal X-Clean 4, Inalámbrica, Función 2 en 1 para suelos duros",
-    "reference": "2211401398",
-    "brand": "TEFAL",
-    "category": "Aspiradoras",
-    "description": "LIMPIEZA 2 EN 1: Aspira y trapea al mismo tiempo, ideal para pisos duros como baldosa, mármol o madera. |DETECCIÓN INTELIGENTE DE SUCIEDAD: LED rojo para sucio, azul para limpio y ajuste automático de potencia según necesidad. |GRAN AUTONOMÍA: Hasta 50 minutos de uso sin cables para limpiar hasta 350 m² con una sola carga*. Ideal para todos los hogares. |LIMPIEZA SIN ESFUERZO: Rodillos autopropulsados y diseño ergonómico que reduce el esfuerzo físico hasta en un 25%. |REPARABILIDAD POR 15 AÑOS: Repara tu equipo en nuestros centros autorizados y prolonga su vida útil. |SISTEMA DE AUTOLIMPIEZA: Presiona un botón para lavar y secar el rodillo sin usar las manos. Además, el sistema separa el agua limpia y sucia para mejores resultados. |LIMPIEZA DE ESQUINAS: Cepillo lateral que limpia bordes y rincones difíciles de alcanzar con gran precisión. |COMPATIBLE CON DETERGENTES: Potencia tu limpieza usando detergentes comunes aprobados. Ideal para eliminar suciedad difícil.",
-    "url": "https://www.imusa.com.co/aspiradora-trapeadora-t-fal-x-clean-4-inalambrica-funcion-2-en-1-para-suelos-duros/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171326/Mesa-de-trabajo-7.jpg?v=638925090313730000",
-    "skus": [
-      {
-        "sku_id": "1540",
-        "sku_name": "Aspiradora Trapeadora T-fal X-Clean 4, Inalámbrica, Función 2 en 1para suelos duros",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171326/Mesa-de-trabajo-7.jpg?v=638925090313730000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 1799900.0,
-    "list_price": 1999899.0,
     "on_sale": true
   },
   {
@@ -248,6 +206,27 @@
     "site": "IMUSA Colombia",
     "country": "Colombia",
     "price": 349900.0,
+    "list_price": 519900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla a Presion IMUSA Talent Master Cierre Externo 7L",
+    "reference": "7114000584",
+    "brand": "IMUSA",
+    "category": "Ollas a presión",
+    "description": "Sistema Abre IMUSA el cual permite abrir y cerrar la olla con un solo giro| Su válvula de presión es ajustable para elegir el nivel de presión adecuado para cocinar alimentos duros o blandos| Disco base en acero inoxidable el cual permite usar la olla a presión en estufas de inducción| Moderna, robusta y compacta",
+    "url": "https://www.imusa.com.co/olla-a-presion-imusa-talent-master-cierre-externo-7l/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171991/PDP-OAP7lts-1200X1200.png?v=639059853201200000",
+    "skus": [
+      {
+        "sku_id": "309",
+        "sku_name": "Olla a Presion IMUSA Talent Master Cierre Externo 7L",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171991/PDP-OAP7lts-1200X1200.png?v=639059853201200000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 359900.0,
     "list_price": 519900.0,
     "on_sale": true
   },
@@ -504,6 +483,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora Trapeadora T-fal X-Clean 4, Inalámbrica, Función 2 en 1 para suelos duros",
+    "reference": "2211401398",
+    "brand": "TEFAL",
+    "category": "Aspiradoras",
+    "description": "LIMPIEZA 2 EN 1: Aspira y trapea al mismo tiempo, ideal para pisos duros como baldosa, mármol o madera. |DETECCIÓN INTELIGENTE DE SUCIEDAD: LED rojo para sucio, azul para limpio y ajuste automático de potencia según necesidad. |GRAN AUTONOMÍA: Hasta 50 minutos de uso sin cables para limpiar hasta 350 m² con una sola carga*. Ideal para todos los hogares. |LIMPIEZA SIN ESFUERZO: Rodillos autopropulsados y diseño ergonómico que reduce el esfuerzo físico hasta en un 25%. |REPARABILIDAD POR 15 AÑOS: Repara tu equipo en nuestros centros autorizados y prolonga su vida útil. |SISTEMA DE AUTOLIMPIEZA: Presiona un botón para lavar y secar el rodillo sin usar las manos. Además, el sistema separa el agua limpia y sucia para mejores resultados. |LIMPIEZA DE ESQUINAS: Cepillo lateral que limpia bordes y rincones difíciles de alcanzar con gran precisión. |COMPATIBLE CON DETERGENTES: Potencia tu limpieza usando detergentes comunes aprobados. Ideal para eliminar suciedad difícil.",
+    "url": "https://www.imusa.com.co/aspiradora-trapeadora-t-fal-x-clean-4-inalambrica-funcion-2-en-1-para-suelos-duros/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171326/Mesa-de-trabajo-7.jpg?v=638925090313730000",
+    "skus": [
+      {
+        "sku_id": "1540",
+        "sku_name": "Aspiradora Trapeadora T-fal X-Clean 4, Inalámbrica, Función 2 en 1para suelos duros",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171326/Mesa-de-trabajo-7.jpg?v=638925090313730000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 1799900.0,
+    "list_price": 1999899.0,
+    "on_sale": true
+  },
+  {
     "name": "Olla a Presión IMUSA SecuryPlus 7 Litros Cierre Interno",
     "reference": "5861027841",
     "brand": "IMUSA",
@@ -567,24 +567,24 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de Cocina IMUSA Maestro 8 Piezas Acero Inoxidable",
-    "reference": "2100137800",
+    "name": "Bateria de Cocina IMUSA Maestro 7 Piezas Acero Inoxidable",
+    "reference": "2100137799",
     "brand": "IMUSA",
     "category": "Baterías y Sets de Cocina",
     "description": "Acero Inoxidable 18/10 de alta calidad: ideal para preparaciones en horno o estufa. |Diseño seguro y ergonómico. |Apto para todo tipo de estufas, incluyendo inducción. |Mangos robustos. |Base con tecnhologia thermofusion: distribución homogénea del calor y sellado de alimentos perfectos. |Vertederos: ideales para servir sin derrames. |Tapas con Drenaje: no hay necesidad de utilizar colador para tus preparaciones. |Sin recubrimiento antiadherente: cocina como un profesional.",
-    "url": "https://www.imusa.com.co/bateria-cocina-imusa-maestro-8-piezas-acero-inoxidable/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170544/2100137800-1.jpg?v=638791364325770000",
+    "url": "https://www.imusa.com.co/bateria-cocina-imusa-maestro-7-piezas-acero-inoxidable/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172401/2100137799-1.jpg?v=639112720160270000",
     "skus": [
       {
-        "sku_id": "1468",
-        "sku_name": "Bateria de Cocina IMUSA Maestro 8 Piezas Acero Inoxidable",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170544/2100137800-1.jpg?v=638791364325770000"
+        "sku_id": "1467",
+        "sku_name": "Bateria de Cocina IMUSA Maestro 7 Piezas Acero Inoxidable",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172401/2100137799-1.jpg?v=639112720160270000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 639900.0,
-    "list_price": 799900.0,
+    "price": 499900.0,
+    "list_price": 619899.0,
     "on_sale": true
   },
   {
@@ -1024,9 +1024,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 50899.0,
+    "price": 39900.0,
     "list_price": 50899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set X3 de Cuchillos IMUSA Talent Madera",
@@ -1218,24 +1218,24 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de Cocina IMUSA Maestro 7 Piezas Acero Inoxidable",
-    "reference": "2100137799",
+    "name": "Bateria de Cocina IMUSA Maestro 8 Piezas Acero Inoxidable",
+    "reference": "2100137800",
     "brand": "IMUSA",
     "category": "Baterías y Sets de Cocina",
     "description": "Acero Inoxidable 18/10 de alta calidad: ideal para preparaciones en horno o estufa. |Diseño seguro y ergonómico. |Apto para todo tipo de estufas, incluyendo inducción. |Mangos robustos. |Base con tecnhologia thermofusion: distribución homogénea del calor y sellado de alimentos perfectos. |Vertederos: ideales para servir sin derrames. |Tapas con Drenaje: no hay necesidad de utilizar colador para tus preparaciones. |Sin recubrimiento antiadherente: cocina como un profesional.",
-    "url": "https://www.imusa.com.co/bateria-cocina-imusa-maestro-7-piezas-acero-inoxidable/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172401/2100137799-1.jpg?v=639112720160270000",
+    "url": "https://www.imusa.com.co/bateria-cocina-imusa-maestro-8-piezas-acero-inoxidable/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170544/2100137800-1.jpg?v=638791364325770000",
     "skus": [
       {
-        "sku_id": "1467",
-        "sku_name": "Bateria de Cocina IMUSA Maestro 7 Piezas Acero Inoxidable",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172401/2100137799-1.jpg?v=639112720160270000"
+        "sku_id": "1468",
+        "sku_name": "Bateria de Cocina IMUSA Maestro 8 Piezas Acero Inoxidable",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170544/2100137800-1.jpg?v=638791364325770000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 499900.0,
-    "list_price": 619899.0,
+    "price": 639900.0,
+    "list_price": 799900.0,
     "on_sale": true
   },
   {
@@ -1279,27 +1279,6 @@
     "price": 159899.0,
     "list_price": 159899.0,
     "on_sale": false
-  },
-  {
-    "name": "Freidora de aire IMUSA Max 5L mecánica inox",
-    "reference": "5861035503",
-    "brand": "IMUSA",
-    "category": "Freidoras de aire",
-    "description": "Gran capacidad de 5 litros para porciones familiares. |Hecha en Colombia, calidad y diseño confiable. |Cocina más saludable con menos aceite y gran sabor. |Mecánica y fácil de usar para cualquier receta.",
-    "url": "https://www.imusa.com.co/freidora-aire-imusa-max-5-l-mecanica-inox/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170449/5861035503-1.jpg?v=638791151650100000",
-    "skus": [
-      {
-        "sku_id": "1460",
-        "sku_name": "Freidora de aire IMUSA Max 5L mecánica inox",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170449/5861035503-1.jpg?v=638791151650100000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 299900.0,
-    "list_price": 499899.0,
-    "on_sale": true
   },
   {
     "name": "Freidora de aire IMUSA Max 5L digital negra",
@@ -1995,6 +1974,27 @@
     "on_sale": true
   },
   {
+    "name": "Cuchillo IMUSA Santoku 12cm Talent Acero Inoxidable",
+    "reference": "2100124292",
+    "brand": "IMUSA",
+    "category": "Cuchillos",
+    "description": "Cuchillo Santoku | Zona ergonómica | Mayor seguridad | Cuchilla de alta calidad | Excelente rendimiento",
+    "url": "https://www.imusa.com.co/cuchillo-imusa-santoku-12cm-talent-acero-inoxidable/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163040/2100124292-1.jpg?v=637907660938330000",
+    "skus": [
+      {
+        "sku_id": "578",
+        "sku_name": "Cuchillo IMUSA Santoku 12cm Talent Acero Inoxidable",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163040/2100124292-1.jpg?v=637907660938330000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 37900.0,
+    "list_price": 37900.0,
+    "on_sale": false
+  },
+  {
     "name": "Cuchillo IMUSA Chef  15cm Talent Acero Inoxidable",
     "reference": "2100124290",
     "brand": "IMUSA",
@@ -2119,27 +2119,6 @@
     "price": 38500.0,
     "list_price": 59899.0,
     "on_sale": true
-  },
-  {
-    "name": "Espátula para Pescado TEFAL Fresh Kitchen en PET",
-    "reference": "2100057709",
-    "brand": "TEFAL",
-    "category": "Utensilios de cocina",
-    "description": "Hecho a partir de plástico PET reciclado al 90% ¡ayudando al medido al ambiente!| Alta resistencia a temperaturas, de hasta 220 °C, para unos resultados eficientes día tras día.|No raya el recubrimiento antiadherente de los utensilios de cocina |Fácil de limpiar y tiene alta resistencia a manchas| Apto para el lavavajillas, para una limpieza fácil y una comodidad excepcional en tu cocina diaria",
-    "url": "https://www.imusa.com.co/espatula-para-pescado-tefal-fresh-kitchen-en-pet/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159392/3168430116368-1.jpg?v=637866228259200000",
-    "skus": [
-      {
-        "sku_id": "398",
-        "sku_name": "Espátula para Pescado TEFAL Fresh Kitchen en PET",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159392/3168430116368-1.jpg?v=637866228259200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 14899.0,
-    "list_price": 14899.0,
-    "on_sale": false
   },
   {
     "name": "Espátula TEFAL Fresh Kitchen en PET",
@@ -2412,27 +2391,6 @@
     "country": "Colombia",
     "price": 112900.0,
     "list_price": 112900.0,
-    "on_sale": false
-  },
-  {
-    "name": "Plancha IMUSA Talent antiadherente con venas",
-    "reference": "5861029295",
-    "brand": "IMUSA",
-    "category": "Planchas para asar",
-    "description": "Plancha con Venas, ideal para asados y preparaciones deliciosas con Antiadherente Triforce que es 3 veces más durable. | Espesor de 1,7mm con gran base difusora especial para distribuir de manera uniforme el calor | Podrás cocinar en estufa vitrocerámica, gas y eléctrica",
-    "url": "https://www.imusa.com.co/plancha-imusa-talent-antiadherente-con-venas/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162510/5861029295-1.jpg?v=637890244913070000",
-    "skus": [
-      {
-        "sku_id": "36",
-        "sku_name": "Plancha IMUSA Talent antiadherente con venas",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162510/5861029295-1.jpg?v=637890244913070000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 119899.0,
-    "list_price": 119899.0,
     "on_sale": false
   },
   {
@@ -3001,6 +2959,27 @@
     "price": 199900.0,
     "list_price": 199900.0,
     "on_sale": false
+  },
+  {
+    "name": "Freidora de aire IMUSA Max 5L mecánica inox",
+    "reference": "5861035503",
+    "brand": "IMUSA",
+    "category": "Freidoras de aire",
+    "description": "Gran capacidad de 5 litros para porciones familiares. |Hecha en Colombia, calidad y diseño confiable. |Cocina más saludable con menos aceite y gran sabor. |Mecánica y fácil de usar para cualquier receta.",
+    "url": "https://www.imusa.com.co/freidora-aire-imusa-max-5-l-mecanica-inox/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170449/5861035503-1.jpg?v=638791151650100000",
+    "skus": [
+      {
+        "sku_id": "1460",
+        "sku_name": "Freidora de aire IMUSA Max 5L mecánica inox",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170449/5861035503-1.jpg?v=638791151650100000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 299900.0,
+    "list_price": 499899.0,
+    "on_sale": true
   },
   {
     "name": "Licuadora IMUSA Ultraforce + con control de perilla, 2 velocidades, motor de 1000W, Vaso de Vidrio 2.2L, Acero Inoxidable",
@@ -3675,24 +3654,24 @@
     "on_sale": false
   },
   {
-    "name": "Cuchillo IMUSA Santoku 12cm Talent Acero Inoxidable",
-    "reference": "2100124292",
+    "name": "Cuchillo IMUSA para Pelar   9cm IMUSA Talent Acero Inoxidable",
+    "reference": "2100124289",
     "brand": "IMUSA",
     "category": "Cuchillos",
-    "description": "Cuchillo Santoku | Zona ergonómica | Mayor seguridad | Cuchilla de alta calidad | Excelente rendimiento",
-    "url": "https://www.imusa.com.co/cuchillo-imusa-santoku-12cm-talent-acero-inoxidable/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163040/2100124292-1.jpg?v=637907660938330000",
+    "description": "Cuchillo para pelar | Zona ergonómica | Mayor seguridad | Cuchilla de alta calidad | Excelente rendimiento",
+    "url": "https://www.imusa.com.co/cuchillo-imusa-para-pelar-9cm-imusa-talent-acero-inoxidable/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163010/2100124289-1.jpg?v=637907660801570000",
     "skus": [
       {
-        "sku_id": "578",
-        "sku_name": "Cuchillo IMUSA Santoku 12cm Talent Acero Inoxidable",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163040/2100124292-1.jpg?v=637907660938330000"
+        "sku_id": "575",
+        "sku_name": "Cuchillo IMUSA para Pelar   9cm IMUSA Talent Acero Inoxidable",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163010/2100124289-1.jpg?v=637907660801570000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 37900.0,
-    "list_price": 37900.0,
+    "price": 30899.0,
+    "list_price": 30899.0,
     "on_sale": false
   },
   {
@@ -3840,6 +3819,27 @@
     "country": "Colombia",
     "price": 17000.0,
     "list_price": 17000.0,
+    "on_sale": false
+  },
+  {
+    "name": "Espátula para Pescado TEFAL Fresh Kitchen en PET",
+    "reference": "2100057709",
+    "brand": "TEFAL",
+    "category": "Utensilios de cocina",
+    "description": "Hecho a partir de plástico PET reciclado al 90% ¡ayudando al medido al ambiente!| Alta resistencia a temperaturas, de hasta 220 °C, para unos resultados eficientes día tras día.|No raya el recubrimiento antiadherente de los utensilios de cocina |Fácil de limpiar y tiene alta resistencia a manchas| Apto para el lavavajillas, para una limpieza fácil y una comodidad excepcional en tu cocina diaria",
+    "url": "https://www.imusa.com.co/espatula-para-pescado-tefal-fresh-kitchen-en-pet/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159392/3168430116368-1.jpg?v=637866228259200000",
+    "skus": [
+      {
+        "sku_id": "398",
+        "sku_name": "Espátula para Pescado TEFAL Fresh Kitchen en PET",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159392/3168430116368-1.jpg?v=637866228259200000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 14899.0,
+    "list_price": 14899.0,
     "on_sale": false
   },
   {
@@ -4116,27 +4116,6 @@
     "on_sale": false
   },
   {
-    "name": "Ventilador SAMURAI AirProtect Maxx 2 en 1 Blanco",
-    "reference": "5861027399",
-    "brand": "SAMURAI",
-    "category": "Ventiladores multiples",
-    "description": "Ventilador 2 en 1 con Tecnología MAXX.| 3 velocidades para ajustar el flujo de aire a tu gusto.| Sistema de oscilación horizontal y función inclinable.| Exclusivo sistema fácil y seguro para ajustar la inclinación vertical.| Malla frontal removible, lo que facilita la limpieza.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-airprotect-maxx-2-en-1-blanco/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162389/5861027399-1.jpg?v=637890190265470000",
-    "skus": [
-      {
-        "sku_id": "101",
-        "sku_name": "Ventilador SAMURAI AirProtect Maxx 2 en 1 Blanco",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162389/5861027399-1.jpg?v=637890190265470000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 199900.0,
-    "list_price": 256899.0,
-    "on_sale": true
-  },
-  {
     "name": "Perol IMUSA Smart antiadherente 16 cm",
     "reference": "5861029984",
     "brand": "IMUSA",
@@ -4197,6 +4176,27 @@
     "country": "Colombia",
     "price": 60899.0,
     "list_price": 60899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Plancha IMUSA Talent antiadherente con venas",
+    "reference": "5861029295",
+    "brand": "IMUSA",
+    "category": "Planchas para asar",
+    "description": "Plancha con Venas, ideal para asados y preparaciones deliciosas con Antiadherente Triforce que es 3 veces más durable. | Espesor de 1,7mm con gran base difusora especial para distribuir de manera uniforme el calor | Podrás cocinar en estufa vitrocerámica, gas y eléctrica",
+    "url": "https://www.imusa.com.co/plancha-imusa-talent-antiadherente-con-venas/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162510/5861029295-1.jpg?v=637890244913070000",
+    "skus": [
+      {
+        "sku_id": "36",
+        "sku_name": "Plancha IMUSA Talent antiadherente con venas",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162510/5861029295-1.jpg?v=637890244913070000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 119899.0,
+    "list_price": 119899.0,
     "on_sale": false
   },
   {
@@ -4491,6 +4491,27 @@
     "country": "Colombia",
     "price": 119900.0,
     "list_price": 134899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sanduchera IMUSA Panini Basic, Recubrimiento Antiadherente, 2 Porciones, 700 Watts",
+    "reference": "1510002823",
+    "brand": "IMUSA",
+    "category": "Grill Y Sanducheras",
+    "description": "PLACAS ANTIADHERENTES TIPO PANINI: Evitan que los alimentos se peguen, garantizando una cocción uniforme y fácil desmolde. |EFICIENCIA EN LA COCINA: Prepara dos porciones simultáneamente, ahorrando tiempo y esfuerzo. |FÁCIL DE LIMPIAR Y ALMACENAR: Gracias a su diseño compacto y materiales antiadherentes, permite una limpieza rápida y sin complicaciones. Ideal para espacios reducidos. |LUCES INDICADORAS: Te avisan cuándo está encendida y lista para usar, brindando mayor seguridad y control durante la cocción. |CIERRE SEGURO Y SIN COMPLICACIONES: Diseñado con un sistema de bloqueo que evita aperturas accidentales, brindándote tranquilidad y protección en cada uso. |RESPALDO DE CALIDAD IMUSA Y 2 AÑOS DE GARANTÍA: ofreciendo durabilidad, respaldo local y excelente desempeño en tu cocina día tras día.",
+    "url": "https://www.imusa.com.co/sanduchera-imusa-panini-basic-recubrimiento-antiadherente-2-porciones-700-watts/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171362/1510002823-1.jpg?v=638925005031200000",
+    "skus": [
+      {
+        "sku_id": "1536",
+        "sku_name": "Sanduchera IMUSA Panini Basic, Recubrimiento Antiadherente, 2 Porciones, 700 Watts",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171362/1510002823-1.jpg?v=638925005031200000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 89900.0,
+    "list_price": 124900.0,
     "on_sale": true
   },
   {
@@ -5061,27 +5082,6 @@
     "on_sale": false
   },
   {
-    "name": "Licuadora IMUSA Powermix Glass 2 Velocidades Blanca",
-    "reference": "5861030844",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "Vaso Vidrio con capacidad de 1,25 Litros para licuar y triturar lo que desees| 2 Velocidades + Función pulso.| Potencia de 550 Watts| Cuchillas de larga duración ZELKROM, no pierden filo y de acero inoxidable.| Sistema de acople hecho en Carbon Drive o Policarbonato, 2 veces más resistente.",
-    "url": "https://www.imusa.com.co/licuadora-imusa-powermix-glass-2-velocidades-blanca/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163333/5861030844-1.jpg?v=637908133264270000",
-    "skus": [
-      {
-        "sku_id": "610",
-        "sku_name": "Licuadora IMUSA Powermix Glass 2 Velocidades Blanca",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163333/5861030844-1.jpg?v=637908133264270000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 112900.0,
-    "list_price": 219900.0,
-    "on_sale": true
-  },
-  {
     "name": "Recipiente IMUSA MasterFresh 0.25L",
     "reference": "3110600962",
     "brand": "IMUSA",
@@ -5100,27 +5100,6 @@
     "country": "Colombia",
     "price": 17800.0,
     "list_price": 17800.0,
-    "on_sale": false
-  },
-  {
-    "name": "Cuchillo IMUSA para Pelar   9cm IMUSA Talent Acero Inoxidable",
-    "reference": "2100124289",
-    "brand": "IMUSA",
-    "category": "Cuchillos",
-    "description": "Cuchillo para pelar | Zona ergonómica | Mayor seguridad | Cuchilla de alta calidad | Excelente rendimiento",
-    "url": "https://www.imusa.com.co/cuchillo-imusa-para-pelar-9cm-imusa-talent-acero-inoxidable/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163010/2100124289-1.jpg?v=637907660801570000",
-    "skus": [
-      {
-        "sku_id": "575",
-        "sku_name": "Cuchillo IMUSA para Pelar   9cm IMUSA Talent Acero Inoxidable",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163010/2100124289-1.jpg?v=637907660801570000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 30899.0,
-    "list_price": 30899.0,
     "on_sale": false
   },
   {
@@ -5544,27 +5523,6 @@
     "on_sale": true
   },
   {
-    "name": "Sanduchera IMUSA Panini Basic, Recubrimiento Antiadherente, 2 Porciones, 700 Watts",
-    "reference": "1510002823",
-    "brand": "IMUSA",
-    "category": "Grill Y Sanducheras",
-    "description": "PLACAS ANTIADHERENTES TIPO PANINI: Evitan que los alimentos se peguen, garantizando una cocción uniforme y fácil desmolde. |EFICIENCIA EN LA COCINA: Prepara dos porciones simultáneamente, ahorrando tiempo y esfuerzo. |FÁCIL DE LIMPIAR Y ALMACENAR: Gracias a su diseño compacto y materiales antiadherentes, permite una limpieza rápida y sin complicaciones. Ideal para espacios reducidos. |LUCES INDICADORAS: Te avisan cuándo está encendida y lista para usar, brindando mayor seguridad y control durante la cocción. |CIERRE SEGURO Y SIN COMPLICACIONES: Diseñado con un sistema de bloqueo que evita aperturas accidentales, brindándote tranquilidad y protección en cada uso. |RESPALDO DE CALIDAD IMUSA Y 2 AÑOS DE GARANTÍA: ofreciendo durabilidad, respaldo local y excelente desempeño en tu cocina día tras día.",
-    "url": "https://www.imusa.com.co/sanduchera-imusa-panini-basic-recubrimiento-antiadherente-2-porciones-700-watts/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171362/1510002823-1.jpg?v=638925005031200000",
-    "skus": [
-      {
-        "sku_id": "1536",
-        "sku_name": "Sanduchera IMUSA Panini Basic, Recubrimiento Antiadherente, 2 Porciones, 700 Watts",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171362/1510002823-1.jpg?v=638925005031200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 89900.0,
-    "list_price": 124900.0,
-    "on_sale": true
-  },
-  {
     "name": "Crepera TEFAL Renew 25 cm Antiadherente Cerámico",
     "reference": "2100128307",
     "brand": "TEFAL",
@@ -5838,6 +5796,48 @@
     "on_sale": false
   },
   {
+    "name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
+    "reference": "5861032007",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "¡Resultados perfectos en tus preparaciones! Perfecta para triturar hielo y fruta. La licuadora vaso de vidrio 5 velocidades de Línea POWERMIX cuenta con una potencia de 550 watts, un vaso con una capacidad de 1.25 litros y 5 velocidades incluidas la función de pulso y auto limpieza, tiene cuchillas  ZLEKROM en acero inoxidable con refuerzo en cromo, lo que la hace potente para todo corte, cuenta con un motor de larga duración y sistema de seguridad guarda cable. ¡Llévala para Triturar todo lo que quieras!",
+    "url": "https://www.imusa.com.co/licuadora-imusa-powermix-glass-5-velocidades-negra/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000",
+    "skus": [
+      {
+        "sku_id": "625",
+        "sku_name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 119900.0,
+    "list_price": 234900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Licuadora IMUSA Powermix Glass 2 Velocidades Blanca",
+    "reference": "5861030844",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "Vaso Vidrio con capacidad de 1,25 Litros para licuar y triturar lo que desees| 2 Velocidades + Función pulso.| Potencia de 550 Watts| Cuchillas de larga duración ZELKROM, no pierden filo y de acero inoxidable.| Sistema de acople hecho en Carbon Drive o Policarbonato, 2 veces más resistente.",
+    "url": "https://www.imusa.com.co/licuadora-imusa-powermix-glass-2-velocidades-blanca/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163333/5861030844-1.jpg?v=637908133264270000",
+    "skus": [
+      {
+        "sku_id": "610",
+        "sku_name": "Licuadora IMUSA Powermix Glass 2 Velocidades Blanca",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163333/5861030844-1.jpg?v=637908133264270000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 112900.0,
+    "list_price": 219900.0,
+    "on_sale": true
+  },
+  {
     "name": "Olla Imusa 24cm Antiadherente Tapa Vidrio Talent Pro",
     "reference": "5861031619",
     "brand": "IMUSA",
@@ -6109,27 +6109,6 @@
     "price": 60699.0,
     "list_price": 60699.0,
     "on_sale": false
-  },
-  {
-    "name": "Ventilador SAMURAI Air Protec Maxx 2en1 Negro",
-    "reference": "5861027400",
-    "brand": "SAMURAI",
-    "category": "Ventiladores multiples",
-    "description": "Ventilador 2 en 1 con Tecnología MAXX.| 3 velocidades para ajustar el flujo de aire a tu gusto.| Sistema de oscilación horizontal y función inclinable.| Exclusivo sistema fácil y seguro para ajustar la inclinación vertical.| Malla frontal removible, lo que facilita la limpieza.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-air-protec-maxx-2en1-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162396/5861027400-2.jpg?v=637890190303470000",
-    "skus": [
-      {
-        "sku_id": "90",
-        "sku_name": "Ventilador SAMURAI Air Protec Maxx 2en1 Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162396/5861027400-2.jpg?v=637890190303470000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 199900.0,
-    "list_price": 265899.0,
-    "on_sale": true
   },
   {
     "name": "Máquina de Espresso Manual con Molino KRUPS Precision, Espresso Perfecto, Interfaz Intuitiva, Aluminio",
@@ -7872,27 +7851,6 @@
     "country": "Colombia",
     "price": 184900.0,
     "list_price": 270003.0,
-    "on_sale": true
-  },
-  {
-    "name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
-    "reference": "5861032007",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "¡Resultados perfectos en tus preparaciones! Perfecta para triturar hielo y fruta. La licuadora vaso de vidrio 5 velocidades de Línea POWERMIX cuenta con una potencia de 550 watts, un vaso con una capacidad de 1.25 litros y 5 velocidades incluidas la función de pulso y auto limpieza, tiene cuchillas  ZLEKROM en acero inoxidable con refuerzo en cromo, lo que la hace potente para todo corte, cuenta con un motor de larga duración y sistema de seguridad guarda cable. ¡Llévala para Triturar todo lo que quieras!",
-    "url": "https://www.imusa.com.co/licuadora-imusa-powermix-glass-5-velocidades-negra/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000",
-    "skus": [
-      {
-        "sku_id": "625",
-        "sku_name": "Licuadora IMUSA Powermix Glass 5 Velocidades Negra",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163608/5861032007-1.jpg?v=637909859251500000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 119900.0,
-    "list_price": 234900.0,
     "on_sale": true
   },
   {
@@ -11568,6 +11526,48 @@
     "country": "Colombia",
     "price": 292899.0,
     "list_price": 292899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Ventilador SAMURAI AirProtect Maxx 2 en 1 Blanco",
+    "reference": "5861027399",
+    "brand": "SAMURAI",
+    "category": "Ventiladores multiples",
+    "description": "Ventilador 2 en 1 con Tecnología MAXX.| 3 velocidades para ajustar el flujo de aire a tu gusto.| Sistema de oscilación horizontal y función inclinable.| Exclusivo sistema fácil y seguro para ajustar la inclinación vertical.| Malla frontal removible, lo que facilita la limpieza.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-airprotect-maxx-2-en-1-blanco/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162389/5861027399-1.jpg?v=637890190265470000",
+    "skus": [
+      {
+        "sku_id": "101",
+        "sku_name": "Ventilador SAMURAI AirProtect Maxx 2 en 1 Blanco",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162389/5861027399-1.jpg?v=637890190265470000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 256899.0,
+    "list_price": 256899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Ventilador SAMURAI Air Protec Maxx 2en1 Negro",
+    "reference": "5861027400",
+    "brand": "SAMURAI",
+    "category": "Ventiladores multiples",
+    "description": "Ventilador 2 en 1 con Tecnología MAXX.| 3 velocidades para ajustar el flujo de aire a tu gusto.| Sistema de oscilación horizontal y función inclinable.| Exclusivo sistema fácil y seguro para ajustar la inclinación vertical.| Malla frontal removible, lo que facilita la limpieza.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-air-protec-maxx-2en1-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162396/5861027400-2.jpg?v=637890190303470000",
+    "skus": [
+      {
+        "sku_id": "90",
+        "sku_name": "Ventilador SAMURAI Air Protec Maxx 2en1 Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162396/5861027400-2.jpg?v=637890190303470000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 265899.0,
+    "list_price": 265899.0,
     "on_sale": false
   },
   {
