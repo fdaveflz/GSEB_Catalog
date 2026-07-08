@@ -399,48 +399,6 @@
     "on_sale": true
   },
   {
-    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032672",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
-    "skus": [
-      {
-        "sku_id": "1082",
-        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 34.0,
-    "list_price": 34.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032671",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
-    "skus": [
-      {
-        "sku_id": "1076",
-        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 249.0,
-    "list_price": 249.0,
-    "on_sale": false
-  },
-  {
     "name": "Empaque/Junta para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
     "reference": "5861036614",
     "brand": "T-fal",
@@ -1300,6 +1258,27 @@
     "price": 1919.0,
     "list_price": 2599.0,
     "on_sale": true
+  },
+  {
+    "name": "Licuadora 10 V Vaso Vidrio Infinyforce XL",
+    "reference": "5861033121",
+    "brand": "T-fal",
+    "category": "Licuadoras",
+    "description": "* VERSATILIDAD DE 10 FUNCIONES: Ofrece programas para crear desde salsas y purés hasta sopas y postres, incluyendo función Pulso para un control adicional, adaptándose a todas tus necesidades culinarias.\n* GRAN CAPACIDAD Y RESISTENCIA: Con un vaso de vidrio templado de 2.2 L, soporta temperaturas de hasta 80°C, permitiendo preparar el licuado completo de toda la familia en una sola operación sin preocuparte por el choque térmico.\n* TECNOLOGÍA POWELIX EFICIENTE: La licuadora T-Fal Infinyforce XL utiliza 6 cuchillas de acero inoxidable, dos de ellas dentadas, para ofrecer una eficiencia hasta 3 veces mayor y resultados homogéneos con ingredientes duros.\n* DURABILIDAD Y FÁCIL LIMPIEZA: Equipado con un acople Carbon Drive robusto que no se oxida ni se barre, garantiza una larga vida útil. Además, los componentes del vaso son desmontables para simplificar el proceso de limpieza.\n* MOTOR POTENTE DE 550 W: Su motor de alto desempeño permite mezclar ingredientes duros y triturar hielo, asegurando potencia y eficacia en cada uso, con una optimización de flujo de aire que prolonga su duración.",
+    "url": "https://www.t-fal.com.mx/licuadora-10-v-vaso-vidrio-infinyforce-xl/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159356/84B3C5C287BC5B94C3301B1328BA768E_87600587-7b08-4929-b2f4-fb8ec98b9e2e_5861033121_LN8205MX_LIC-INFINYFORCEXL10RJMX-1-.webp?v=639113756644500000",
+    "skus": [
+      {
+        "sku_id": "1007",
+        "sku_name": "Licuadora 10 V Vaso Vidrio Infinyforce XL",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159356/84B3C5C287BC5B94C3301B1328BA768E_87600587-7b08-4929-b2f4-fb8ec98b9e2e_5861033121_LN8205MX_LIC-INFINYFORCEXL10RJMX-1-.webp?v=639113756644500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 899.0,
+    "list_price": 899.0,
+    "on_sale": false
   },
   {
     "name": "Licuadora 8 V Vaso Vidrio Ultraforce",
@@ -2709,27 +2688,6 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora 10 V Vaso Vidrio Infinyforce XL",
-    "reference": "5861033121",
-    "brand": "T-fal",
-    "category": "Licuadoras",
-    "description": "* VERSATILIDAD DE 10 FUNCIONES: Ofrece programas para crear desde salsas y purés hasta sopas y postres, incluyendo función Pulso para un control adicional, adaptándose a todas tus necesidades culinarias.\n* GRAN CAPACIDAD Y RESISTENCIA: Con un vaso de vidrio templado de 2.2 L, soporta temperaturas de hasta 80°C, permitiendo preparar el licuado completo de toda la familia en una sola operación sin preocuparte por el choque térmico.\n* TECNOLOGÍA POWELIX EFICIENTE: La licuadora T-Fal Infinyforce XL utiliza 6 cuchillas de acero inoxidable, dos de ellas dentadas, para ofrecer una eficiencia hasta 3 veces mayor y resultados homogéneos con ingredientes duros.\n* DURABILIDAD Y FÁCIL LIMPIEZA: Equipado con un acople Carbon Drive robusto que no se oxida ni se barre, garantiza una larga vida útil. Además, los componentes del vaso son desmontables para simplificar el proceso de limpieza.\n* MOTOR POTENTE DE 550 W: Su motor de alto desempeño permite mezclar ingredientes duros y triturar hielo, asegurando potencia y eficacia en cada uso, con una optimización de flujo de aire que prolonga su duración.",
-    "url": "https://www.t-fal.com.mx/licuadora-10-v-vaso-vidrio-infinyforce-xl/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159356/84B3C5C287BC5B94C3301B1328BA768E_87600587-7b08-4929-b2f4-fb8ec98b9e2e_5861033121_LN8205MX_LIC-INFINYFORCEXL10RJMX-1-.webp?v=639113756644500000",
-    "skus": [
-      {
-        "sku_id": "1007",
-        "sku_name": "Licuadora 10 V Vaso Vidrio Infinyforce XL",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159356/84B3C5C287BC5B94C3301B1328BA768E_87600587-7b08-4929-b2f4-fb8ec98b9e2e_5861033121_LN8205MX_LIC-INFINYFORCEXL10RJMX-1-.webp?v=639113756644500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 899.0,
-    "list_price": 899.0,
-    "on_sale": false
-  },
-  {
     "name": "Licuadora Vaso Tritán Infinymix",
     "reference": "7211419427",
     "brand": "T-fal",
@@ -3927,6 +3885,27 @@
     "on_sale": false
   },
   {
+    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032672",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
+    "skus": [
+      {
+        "sku_id": "1082",
+        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 34.0,
+    "list_price": 34.0,
+    "on_sale": false
+  },
+  {
     "name": "Empaque/Junta para ollas de presión de aluminio de 4 y 6 litros.",
     "reference": "9100057310",
     "brand": "T-fal",
@@ -3945,6 +3924,27 @@
     "country": "México",
     "price": 69.0,
     "list_price": 69.0,
+    "on_sale": false
+  },
+  {
+    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032671",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
+    "skus": [
+      {
+        "sku_id": "1076",
+        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 249.0,
+    "list_price": 249.0,
     "on_sale": false
   },
   {
