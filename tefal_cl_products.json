@@ -1,5 +1,26 @@
 [
   {
+    "name": "Cafetera Espresso Coffee Crush Experience Krups",
+    "reference": "8010001480",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000",
+    "skus": [
+      {
+        "sku_id": "409",
+        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 369990.0,
+    "list_price": 449990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
     "reference": "2100121274",
     "brand": "Tefal",
@@ -37,7 +58,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 119990.0,
+    "price": 109990.0,
     "list_price": 149990.0,
     "on_sale": true
   },
@@ -247,7 +268,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 69990.0,
+    "price": 65990.0,
     "list_price": 104990.0,
     "on_sale": true
   },
@@ -273,45 +294,24 @@
     "on_sale": true
   },
   {
-    "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
-    "reference": "2100139002",
+    "name": "Olla a Presión Clipso Acero Inoxidable 7,5L Tefal",
+    "reference": "7114000494",
     "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
-    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-ceramica-fusioncore-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000",
+    "category": "Ollas a Presión",
+    "description": "La capacidad de 7,5L facilita la cocción de grandes porciones familiares, ya sea preparando comidas para la semana o cocinando para muchas personas durante las vacaciones. | La sólida y duradera estructura de acero inoxidable garantiza una cocción óptima y un rendimiento duradero. | Cuenta con base encapsulada que distribuye el calor de manera uniforme y se puede usar de manera segura en cualquier tipo de cocina, incluida la de inducción. | Las características de seguridad incluyen el innovador sistema Clipso de abertura y cierre con una mano, la imposibilidad de abrir cuando está en uso y bajo presión, una válvula de liberación de vapor variable para mayor control y asas laterales para un transporte seguro. | La olla a presión de acero inoxidable Clipso puede colocarse de manera segura en el lavavajillas (sin el sellador y la válvula de presión), se incluyen una canasta de vapor y un soporte para cocinar en varios niveles, junto con un libro de recetas con consejos de cocina.",
+    "url": "https://www.tefalstore.cl/olla-a-presion-clipso-acero-inoxidable-7-5-l/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205548/7114000494.png?v=639035775724000000",
     "skus": [
       {
-        "sku_id": "395",
-        "sku_name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000"
+        "sku_id": "14",
+        "sku_name": "Olla a Presión Clipso Acero Inoxidable 7,5L",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205548/7114000494.png?v=639035775724000000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 31990.0,
-    "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sarten 28 CM Excellence Plus Fusion Core Tefal",
-    "reference": "2100139012",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal,\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit!,\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!,\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.),\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable!,\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!,\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
-    "url": "https://www.tefalstore.cl/sarten-28-cm-excellence-plus-fusion-core-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206113/mesa-de-trabajo-1.jpg?v=639159219626630000",
-    "skus": [
-      {
-        "sku_id": "392",
-        "sku_name": "Sarten 28 CM Excellence Plus Fusion Core Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206113/mesa-de-trabajo-1.jpg?v=639159219626630000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 44990.0,
-    "list_price": 49990.0,
+    "price": 69990.0,
+    "list_price": 99990.0,
     "on_sale": true
   },
   {
@@ -333,27 +333,6 @@
     "country": "Chile",
     "price": 139990.0,
     "list_price": 229990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Wok 28cm Excellence Cerámica FusionCore Tefal",
-    "reference": "2100137571",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
-    "url": "https://www.tefalstore.cl/wok-28cm-excellence-ceramica-fusioncore-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000",
-    "skus": [
-      {
-        "sku_id": "389",
-        "sku_name": "Wok 28 cm Excellence Cerámica FusionCore Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 43990.0,
-    "list_price": 54990.0,
     "on_sale": true
   },
   {
@@ -394,7 +373,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 229990.0,
+    "price": 219990.0,
     "list_price": 349990.0,
     "on_sale": true
   },
@@ -415,7 +394,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 89990.0,
     "list_price": 189990.0,
     "on_sale": true
   },
@@ -457,7 +436,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 94990.0,
+    "price": 89990.0,
     "list_price": 149990.0,
     "on_sale": true
   },
@@ -474,27 +453,6 @@
         "sku_id": "324",
         "sku_name": "Tapa de Cristal 24 cm Ingenio Tefal",
         "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205399/01-portada.jpg?v=639020070109130000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 14990.0,
-    "list_price": 24870.0,
-    "on_sale": true
-  },
-  {
-    "name": "Tapa de Cristal 26 cm Ingenio Tefal",
-    "reference": "2100127841",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "¡Simplifica tu cocina, simplifica tu vida! Tapas de vidrio que ofrecen una experiencia de cocina más fácil, desde la estufa hasta el refrigerador y el lavavajilla.|\nCuentan con ingeniosas asas plegables que las hacen 100% apilables|\nTotalmente compatible con los utensilios de cocina Ingenio, ofreciendo el ajuste perfecto para el mango removible Ingenio|\nAcelera tu tiempo de cocción y monitorea tu progreso con total facilidad|\nApto para lavavajillas",
-    "url": "https://www.tefalstore.cl/tapa-de-cristal-26-cm-ingenio-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203822/01-portada.jpg?v=638803486880700000",
-    "skus": [
-      {
-        "sku_id": "323",
-        "sku_name": "Tapa de Cristal 26 cm Ingenio Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203822/01-portada.jpg?v=638803486880700000"
       }
     ],
     "site": "Tefal Store Chile",
@@ -541,7 +499,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 69990.0,
+    "price": 58990.0,
     "list_price": 99990.0,
     "on_sale": true
   },
@@ -648,27 +606,6 @@
     "country": "Chile",
     "price": 36990.0,
     "list_price": 46990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén de cerámica 20 cm Reinvent Tefal",
-    "reference": "2100128282",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "Prepara tus recetas favoritas con la línea de cerámica Reinvent de Tefal|\nCuentan con un nuevo revestimiento antiadherente de cerámica Inoceram, para que tus comidas queden deliciosas sin agregar una gota de aceite a tus preparaciones.|\nEco diseñado, con materiales de menor impacto para el medio ambiente. Cuerpo de aluminio fabricado con materiales reciclados*|\nTecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.| Todos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluida las de inducción.|\nDiseñado y fabricado en Francia.",
-    "url": "https://www.tefalstore.cl/sarten-20-reinvent/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204826/sarten-20-cm-reinvent-1.jpg?v=638905438232930000",
-    "skus": [
-      {
-        "sku_id": "280",
-        "sku_name": "Sartén 20 Reinvent",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204826/sarten-20-cm-reinvent-1.jpg?v=638905438232930000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 32990.0,
     "on_sale": true
   },
   {
@@ -856,29 +793,8 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 759990.0,
+    "price": 749990.0,
     "list_price": 1299990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla a Presión Secure Compact Acero Inoxidable 8L Tefal",
-    "reference": "7114000623",
-    "brand": "Tefal",
-    "category": "Ollas a Presión",
-    "description": "¡Máxima Seguridad!| Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 8L| Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.| Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.| Compatible con todas las cocinas, incluida inducción.| Capacidad: 8L hasta 6 personas.",
-    "url": "https://www.tefalstore.cl/olla-a-presion-secure-compact-8l/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205692/7114000623.png?v=639077127727100000",
-    "skus": [
-      {
-        "sku_id": "168",
-        "sku_name": "Olla a Presión Secure Compact 8L Acero Inoxidable",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205692/7114000623.png?v=639077127727100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 54990.0,
-    "list_price": 69990.0,
     "on_sale": true
   },
   {
@@ -945,27 +861,6 @@
     "on_sale": true
   },
   {
-    "name": "Hervidor Soleil Marfil 1,7L Moulinex",
-    "reference": "7211003346",
-    "brand": "Moulinex",
-    "category": "Hervidores",
-    "description": "Cuenta con una amplia capacidad de 1,7 Lts que permite llenar hasta 7 tazas, con 2400 W de potencia. | Es perfecto para compartir momentos con tu familia y amigos. | Su útil tapa con bisagras facilita la limpieza y el llenado, mientras que la resistencia oculta permite una limpieza más fácil. | Equipado con un indicador dual de llenado que permite controlar el nivel del agua de forma clara y sencilla desde cualquier ángulo, con filtro anti-cal extraíble para conseguir un agua más limpia y bebidas más deliciosas, y una boquilla de precisión para evitar derrames. | Cuenta con un interruptor de encendido/apagado luminoso para un uso sencillo y sin preocupaciones, su base giratoria 360° multi-posición lo hacen más seguro al momento de manipular.",
-    "url": "https://www.tefalstore.cl/hervidor-soleil/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205291/7211003346.jpg?v=638943198650730000",
-    "skus": [
-      {
-        "sku_id": "71",
-        "sku_name": "Hervidor Soleil Marfil 1,7L",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205291/7211003346.jpg?v=638943198650730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 32990.0,
-    "on_sale": true
-  },
-  {
     "name": "Picadora 1,2,3 AD6011CL 1,25L 750W Moulinex",
     "reference": "5861021250",
     "brand": "Moulinex",
@@ -1026,27 +921,6 @@
     "country": "Chile",
     "price": 18990.0,
     "list_price": 27990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla a Presión Clipso Acero Inoxidable 7,5L Tefal",
-    "reference": "7114000494",
-    "brand": "Tefal",
-    "category": "Ollas a Presión",
-    "description": "La capacidad de 7,5L facilita la cocción de grandes porciones familiares, ya sea preparando comidas para la semana o cocinando para muchas personas durante las vacaciones. | La sólida y duradera estructura de acero inoxidable garantiza una cocción óptima y un rendimiento duradero. | Cuenta con base encapsulada que distribuye el calor de manera uniforme y se puede usar de manera segura en cualquier tipo de cocina, incluida la de inducción. | Las características de seguridad incluyen el innovador sistema Clipso de abertura y cierre con una mano, la imposibilidad de abrir cuando está en uso y bajo presión, una válvula de liberación de vapor variable para mayor control y asas laterales para un transporte seguro. | La olla a presión de acero inoxidable Clipso puede colocarse de manera segura en el lavavajillas (sin el sellador y la válvula de presión), se incluyen una canasta de vapor y un soporte para cocinar en varios niveles, junto con un libro de recetas con consejos de cocina.",
-    "url": "https://www.tefalstore.cl/olla-a-presion-clipso-acero-inoxidable-7-5-l/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205548/7114000494.png?v=639035775724000000",
-    "skus": [
-      {
-        "sku_id": "14",
-        "sku_name": "Olla a Presión Clipso Acero Inoxidable 7,5L",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205548/7114000494.png?v=639035775724000000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 99990.0,
     "on_sale": true
   },
   {
@@ -1150,7 +1024,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 499990.0,
+    "price": 459990.0,
     "list_price": 649990.0,
     "on_sale": true
   },
@@ -1173,6 +1047,27 @@
     "country": "Chile",
     "price": 34990.0,
     "list_price": 41990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
+    "reference": "2100139002",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
+    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-ceramica-fusioncore-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000",
+    "skus": [
+      {
+        "sku_id": "395",
+        "sku_name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 31990.0,
+    "list_price": 39990.0,
     "on_sale": true
   },
   {
@@ -1276,7 +1171,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 489990.0,
+    "price": 459990.0,
     "list_price": 599990.0,
     "on_sale": true
   },
@@ -1297,7 +1192,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 149990.0,
+    "price": 142990.0,
     "list_price": 249990.0,
     "on_sale": true
   },
@@ -1381,7 +1276,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 69990.0,
+    "price": 64990.0,
     "list_price": 109990.0,
     "on_sale": true
   },
@@ -1465,7 +1360,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 399990.0,
+    "price": 379990.0,
     "list_price": 499990.0,
     "on_sale": true
   },
@@ -1785,6 +1680,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén de cerámica 20 cm Reinvent Tefal",
+    "reference": "2100128282",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "Prepara tus recetas favoritas con la línea de cerámica Reinvent de Tefal|\nCuentan con un nuevo revestimiento antiadherente de cerámica Inoceram, para que tus comidas queden deliciosas sin agregar una gota de aceite a tus preparaciones.|\nEco diseñado, con materiales de menor impacto para el medio ambiente. Cuerpo de aluminio fabricado con materiales reciclados*|\nTecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.| Todos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, incluida las de inducción.|\nDiseñado y fabricado en Francia.",
+    "url": "https://www.tefalstore.cl/sarten-20-reinvent/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204826/sarten-20-cm-reinvent-1.jpg?v=638905438232930000",
+    "skus": [
+      {
+        "sku_id": "280",
+        "sku_name": "Sartén 20 Reinvent",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204826/sarten-20-cm-reinvent-1.jpg?v=638905438232930000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24990.0,
+    "list_price": 32990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Acero Inoxidable Elementary 7 PCS Tefal",
     "reference": "2100102570",
     "brand": "Tefal",
@@ -1864,7 +1780,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 149990.0,
+    "price": 139990.0,
     "list_price": 219990.0,
     "on_sale": true
   },
@@ -2037,6 +1953,27 @@
     "on_sale": true
   },
   {
+    "name": "Olla a Presión Secure Compact Acero Inoxidable 8L Tefal",
+    "reference": "7114000623",
+    "brand": "Tefal",
+    "category": "Ollas a Presión",
+    "description": "¡Máxima Seguridad!| Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 8L| Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.| Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.| Compatible con todas las cocinas, incluida inducción.| Capacidad: 8L hasta 6 personas.",
+    "url": "https://www.tefalstore.cl/olla-a-presion-secure-compact-8l/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205692/7114000623.png?v=639077127727100000",
+    "skus": [
+      {
+        "sku_id": "168",
+        "sku_name": "Olla a Presión Secure Compact 8L Acero Inoxidable",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205692/7114000623.png?v=639077127727100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 49990.0,
+    "list_price": 69990.0,
+    "on_sale": true
+  },
+  {
     "name": "Olla Multifunción Turbo Cuisine 5L",
     "reference": "7211004600",
     "brand": "Moulinex",
@@ -2116,7 +2053,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 629990.0,
+    "price": 599990.0,
     "list_price": 999990.0,
     "on_sale": true
   },
@@ -2184,6 +2121,48 @@
     "on_sale": true
   },
   {
+    "name": "Sarten 28 CM Excellence Plus Fusion Core Tefal",
+    "reference": "2100139012",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal,\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit!,\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!,\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.),\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable!,\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!,\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
+    "url": "https://www.tefalstore.cl/sarten-28-cm-excellence-plus-fusion-core-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206113/mesa-de-trabajo-1.jpg?v=639159219626630000",
+    "skus": [
+      {
+        "sku_id": "392",
+        "sku_name": "Sarten 28 CM Excellence Plus Fusion Core Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206113/mesa-de-trabajo-1.jpg?v=639159219626630000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 44990.0,
+    "list_price": 49990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sarten 20 cm Excellence Cerámica Fusioncore Tefal",
+    "reference": "2100139003",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
+    "url": "https://www.tefalstore.cl/sarten-20-cm-excellence-ceramica-fusioncore-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205828/01-portada.jpg?v=639106669027470000",
+    "skus": [
+      {
+        "sku_id": "388",
+        "sku_name": "Sarten 20 CM Excellence Ceramica Fusioncore Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205828/01-portada.jpg?v=639106669027470000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 27990.0,
+    "list_price": 32990.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora de Inmersión Minipimer Infinyforce Pro 4 en 1 1200 W Moulinex",
     "reference": "7211003929",
     "brand": "Moulinex",
@@ -2202,6 +2181,27 @@
     "country": "Chile",
     "price": 64990.0,
     "list_price": 99990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
+    "reference": "2100139800",
+    "brand": "Tefal",
+    "category": "Cuchillo",
+    "description": "AFILADO HOY, AFILADO MAÑANA: Redescubre el corte perfecto día tras día, año tras año, ya que tu cuchillo se afila automáticamente antes de cada uso | LA MEJOR TECNOLOGÍA DE AFILADO AUTOMÁTICO A LO LARGO DEL TIEMPO*: Oculto en el bloque, un sistema patentado guía las hojas y las afila completamente con la presión adecuada |AFILADO SIN ESFUERZO: Desliza tu cuchillo en el bloque de cuchillos después de su uso y estará afilado de nuevo, con un proceso automático sin manos y sin esfuerzo | AFILADOR INTEGRADO: Afilado fácil dentro del propio bloque de cuchillos | RESULTADOS DE CORTE AFILADOS: Disfruta del corte perfecto en todo momento, ya sea carpaccio de piña, pollo asado o una coliflor entera asada | HOJAS AFILADAS DE ACERO INOXIDABLE ALEMÁN: La hoja de acero inoxidable alemán de alta calidad aporta una durabilidad superior, resistencia al óxido y un afilado duradero | CONTROL TOTAL PARA UN CORTE AFILADO: Con un diseño perfectamente equilibrado, protector de dedos para seguridad y mango ergonómico, cortar nunca ha sido tan placentero | 10 AÑOS DE GARANTÍA: Calidad respaldada por una garantía de 10 años en la hoja y el mecanismo de afilado.",
+    "url": "https://www.tefalstore.cl/set-taco-de-5-cuchillos-con-afilador-eversharp-pro-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000",
+    "skus": [
+      {
+        "sku_id": "378",
+        "sku_name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 94990.0,
+    "list_price": 109990.0,
     "on_sale": true
   },
   {
@@ -2433,6 +2433,27 @@
     "country": "Chile",
     "price": 29990.0,
     "list_price": 39990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Aspiradora Vertical X-Nano Essential Rowenta",
+    "reference": "7211004797",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "ULTRA LIVIANA: Limpieza potente en un formato ultra liviano, para una aspiradora inalámbrica de alta tecnología que solo pesa 1 kg* en tu mano (*cuando se usa en modo de mano). | LIMPIEZA EN CUALQUIER LUGAR: El diseño delgado permite llegar con facilidad incluso a los espacios más estrechos | MULTIFUNCIÓN: Cobertura de piso a techo con la versatilidad de una escoba y una aspiradora de mano todo-en-uno.| BATERÍA DE LARGA DURACIÓN: Hasta 40 minutos de autonomía sin pérdida de potencia, usando el modo Eco manual, con carga rápida de 3 horas para mayor comodidad. | REPARABILIDAD POR 15 AÑOS: Reparaciones de bajo costo con entrega rápida en más de 6.200 centros de servicio en todo el mundo, como parte de nuestro compromiso con el medio ambiente | SIEMPRE A MANO: Base mural que ahorra espacio y no requiere perforación. | MANTENCIÓN SIN COMPLICACIONES: El contenedor de polvo de gran capacidad es una solución higiénica que permite una mantención simple y poco frecuente. | COBERTURA TOTAL: El cabezal motorizado de alto rendimiento gira 4.200 veces por minuto para eliminar eficazmente el polvo incrustado.",
+    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-nano-essential-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204782/01-portada.png?v=638899416599900000",
+    "skus": [
+      {
+        "sku_id": "339",
+        "sku_name": "Aspiradora Vertical X-NANO ESSENTIAL",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204782/01-portada.png?v=638899416599900000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 79990.0,
+    "list_price": 149990.0,
     "on_sale": true
   },
   {
@@ -2730,6 +2751,27 @@
     "on_sale": true
   },
   {
+    "name": "Freidora de Aire Easy Fry & Grill Digital 4,2L Moulinex",
+    "reference": "1510002176",
+    "brand": "Moulinex",
+    "category": "Freidoras de Aire",
+    "description": "Freidora saludable 2 en 1! Una freidora y una parrilla, todo en uno! Más que una simple freidora, su exclusiva tecnología dual también ofrece una rejilla para parrilla de aluminio fundido a presión, para carnes o verduras tiernas y jugosas cocinadas a la perfección. |Por supuesto, la función clásica de freidora de aire promete todos sus resultados dorados y crujientes con poco o ningún aceite agregado.| Con 8 programas automáticos, un control de temperatura desde 80°C a 200°C, un panel de control digital intuitivo y una conveniente función de temporizador, lograr resultados perfectos es fácil. |Incluso es posible deshidratar los alimentos para hacer deliciosos bocadillos saludables  como frutas o verduras secas.| Posee una capacidad XL 4,2L hasta 6 personas, Easy Fry & Grill Precisión para  toda la familia. |¡Es la alternativa perfecta a un horno clásico, para obtener resultados rápidos y un menor consumo de energía! ¿Qué esperas para tener la tuya?",
+    "url": "https://www.tefalstore.cl/freidora-de-aire-easy-fry---grill-digital/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000",
+    "skus": [
+      {
+        "sku_id": "159",
+        "sku_name": "Freidora de Aire Easy Fry & Grill Digital 4,2L",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 64990.0,
+    "list_price": 129990.0,
+    "on_sale": true
+  },
+  {
     "name": "Sartén 24 cm Super Cook",
     "reference": "2100123984",
     "brand": "Tefal",
@@ -2814,6 +2856,27 @@
     "on_sale": true
   },
   {
+    "name": "Hervidor Soleil Marfil 1,7L Moulinex",
+    "reference": "7211003346",
+    "brand": "Moulinex",
+    "category": "Hervidores",
+    "description": "Cuenta con una amplia capacidad de 1,7 Lts que permite llenar hasta 7 tazas, con 2400 W de potencia. | Es perfecto para compartir momentos con tu familia y amigos. | Su útil tapa con bisagras facilita la limpieza y el llenado, mientras que la resistencia oculta permite una limpieza más fácil. | Equipado con un indicador dual de llenado que permite controlar el nivel del agua de forma clara y sencilla desde cualquier ángulo, con filtro anti-cal extraíble para conseguir un agua más limpia y bebidas más deliciosas, y una boquilla de precisión para evitar derrames. | Cuenta con un interruptor de encendido/apagado luminoso para un uso sencillo y sin preocupaciones, su base giratoria 360° multi-posición lo hacen más seguro al momento de manipular.",
+    "url": "https://www.tefalstore.cl/hervidor-soleil/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205291/7211003346.jpg?v=638943198650730000",
+    "skus": [
+      {
+        "sku_id": "71",
+        "sku_name": "Hervidor Soleil Marfil 1,7L",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205291/7211003346.jpg?v=638943198650730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 19990.0,
+    "list_price": 32990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Antiadherente Platinum Negro 12 Piezas Tefal",
     "reference": "2100110382",
     "brand": "Tefal",
@@ -2872,7 +2935,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 89990.0,
     "list_price": 149990.0,
     "on_sale": true
   },
@@ -2935,7 +2998,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 109990.0,
+    "price": 99990.0,
     "list_price": 159990.0,
     "on_sale": true
   },
@@ -2982,27 +3045,6 @@
     "on_sale": true
   },
   {
-    "name": "Sarten 20 cm Excellence Cerámica Fusioncore Tefal",
-    "reference": "2100139003",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
-    "url": "https://www.tefalstore.cl/sarten-20-cm-excellence-ceramica-fusioncore-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205828/01-portada.jpg?v=639106669027470000",
-    "skus": [
-      {
-        "sku_id": "388",
-        "sku_name": "Sarten 20 CM Excellence Ceramica Fusioncore Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205828/01-portada.jpg?v=639106669027470000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 27990.0,
-    "list_price": 32990.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Vertical X-FORCE Flex 16.6 Animal Aqua Head Rowenta",
     "reference": "2211401420",
     "brand": "Rowenta",
@@ -3019,7 +3061,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 699990.0,
+    "price": 649990.0,
     "list_price": 899990.0,
     "on_sale": true
   },
@@ -3040,7 +3082,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 79990.0,
+    "price": 74990.0,
     "list_price": 129990.0,
     "on_sale": true
   },
@@ -3063,27 +3105,6 @@
     "country": "Chile",
     "price": 109990.0,
     "list_price": 169990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
-    "reference": "2100139800",
-    "brand": "Tefal",
-    "category": "Cuchillo",
-    "description": "AFILADO HOY, AFILADO MAÑANA: Redescubre el corte perfecto día tras día, año tras año, ya que tu cuchillo se afila automáticamente antes de cada uso | LA MEJOR TECNOLOGÍA DE AFILADO AUTOMÁTICO A LO LARGO DEL TIEMPO*: Oculto en el bloque, un sistema patentado guía las hojas y las afila completamente con la presión adecuada |AFILADO SIN ESFUERZO: Desliza tu cuchillo en el bloque de cuchillos después de su uso y estará afilado de nuevo, con un proceso automático sin manos y sin esfuerzo | AFILADOR INTEGRADO: Afilado fácil dentro del propio bloque de cuchillos | RESULTADOS DE CORTE AFILADOS: Disfruta del corte perfecto en todo momento, ya sea carpaccio de piña, pollo asado o una coliflor entera asada | HOJAS AFILADAS DE ACERO INOXIDABLE ALEMÁN: La hoja de acero inoxidable alemán de alta calidad aporta una durabilidad superior, resistencia al óxido y un afilado duradero | CONTROL TOTAL PARA UN CORTE AFILADO: Con un diseño perfectamente equilibrado, protector de dedos para seguridad y mango ergonómico, cortar nunca ha sido tan placentero | 10 AÑOS DE GARANTÍA: Calidad respaldada por una garantía de 10 años en la hoja y el mecanismo de afilado.",
-    "url": "https://www.tefalstore.cl/set-taco-de-5-cuchillos-con-afilador-eversharp-pro-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000",
-    "skus": [
-      {
-        "sku_id": "378",
-        "sku_name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 94990.0,
-    "list_price": 109990.0,
     "on_sale": true
   },
   {
@@ -3145,7 +3166,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 89990.0,
+    "price": 84990.0,
     "list_price": 129990.0,
     "on_sale": true
   },
@@ -3166,7 +3187,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 89990.0,
+    "price": 84990.0,
     "list_price": 129990.0,
     "on_sale": true
   },
@@ -3187,7 +3208,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 89990.0,
     "list_price": 149990.0,
     "on_sale": true
   },
@@ -3210,27 +3231,6 @@
     "country": "Chile",
     "price": 139990.0,
     "list_price": 199990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Aspiradora Vertical X-Nano Essential Rowenta",
-    "reference": "7211004797",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Inalámbricas",
-    "description": "ULTRA LIVIANA: Limpieza potente en un formato ultra liviano, para una aspiradora inalámbrica de alta tecnología que solo pesa 1 kg* en tu mano (*cuando se usa en modo de mano). | LIMPIEZA EN CUALQUIER LUGAR: El diseño delgado permite llegar con facilidad incluso a los espacios más estrechos | MULTIFUNCIÓN: Cobertura de piso a techo con la versatilidad de una escoba y una aspiradora de mano todo-en-uno.| BATERÍA DE LARGA DURACIÓN: Hasta 40 minutos de autonomía sin pérdida de potencia, usando el modo Eco manual, con carga rápida de 3 horas para mayor comodidad. | REPARABILIDAD POR 15 AÑOS: Reparaciones de bajo costo con entrega rápida en más de 6.200 centros de servicio en todo el mundo, como parte de nuestro compromiso con el medio ambiente | SIEMPRE A MANO: Base mural que ahorra espacio y no requiere perforación. | MANTENCIÓN SIN COMPLICACIONES: El contenedor de polvo de gran capacidad es una solución higiénica que permite una mantención simple y poco frecuente. | COBERTURA TOTAL: El cabezal motorizado de alto rendimiento gira 4.200 veces por minuto para eliminar eficazmente el polvo incrustado.",
-    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-nano-essential-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204782/01-portada.png?v=638899416599900000",
-    "skus": [
-      {
-        "sku_id": "339",
-        "sku_name": "Aspiradora Vertical X-NANO ESSENTIAL",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204782/01-portada.png?v=638899416599900000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 89990.0,
-    "list_price": 149990.0,
     "on_sale": true
   },
   {
@@ -3649,7 +3649,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 449990.0,
+    "price": 429990.0,
     "list_price": 599990.0,
     "on_sale": true
   },
@@ -3670,7 +3670,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 449990.0,
+    "price": 429990.0,
     "list_price": 599990.0,
     "on_sale": true
   },
@@ -3691,29 +3691,8 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 24990.0,
+    "price": 23990.0,
     "list_price": 32990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Freidora de Aire Easy Fry & Grill Digital 4,2L Moulinex",
-    "reference": "1510002176",
-    "brand": "Moulinex",
-    "category": "Freidoras de Aire",
-    "description": "Freidora saludable 2 en 1! Una freidora y una parrilla, todo en uno! Más que una simple freidora, su exclusiva tecnología dual también ofrece una rejilla para parrilla de aluminio fundido a presión, para carnes o verduras tiernas y jugosas cocinadas a la perfección. |Por supuesto, la función clásica de freidora de aire promete todos sus resultados dorados y crujientes con poco o ningún aceite agregado.| Con 8 programas automáticos, un control de temperatura desde 80°C a 200°C, un panel de control digital intuitivo y una conveniente función de temporizador, lograr resultados perfectos es fácil. |Incluso es posible deshidratar los alimentos para hacer deliciosos bocadillos saludables  como frutas o verduras secas.| Posee una capacidad XL 4,2L hasta 6 personas, Easy Fry & Grill Precisión para  toda la familia. |¡Es la alternativa perfecta a un horno clásico, para obtener resultados rápidos y un menor consumo de energía! ¿Qué esperas para tener la tuya?",
-    "url": "https://www.tefalstore.cl/freidora-de-aire-easy-fry---grill-digital/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000",
-    "skus": [
-      {
-        "sku_id": "159",
-        "sku_name": "Freidora de Aire Easy Fry & Grill Digital 4,2L",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 64990.0,
-    "list_price": 129990.0,
     "on_sale": true
   },
   {
@@ -3864,24 +3843,24 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Coffee Crush Experience Krups",
-    "reference": "8010001480",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000",
+    "name": "Wok 28cm Excellence Cerámica FusionCore Tefal",
+    "reference": "2100137571",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
+    "url": "https://www.tefalstore.cl/wok-28cm-excellence-ceramica-fusioncore-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000",
     "skus": [
       {
-        "sku_id": "409",
-        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000"
+        "sku_id": "389",
+        "sku_name": "Wok 28 cm Excellence Cerámica FusionCore Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 449990.0,
-    "list_price": 449990.0,
+    "price": 54990.0,
+    "list_price": 54990.0,
     "on_sale": false
   },
   {
@@ -3987,6 +3966,27 @@
     "country": "Chile",
     "price": 79990.0,
     "list_price": 79990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Tapa de Cristal 26 cm Ingenio Tefal",
+    "reference": "2100127841",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "¡Simplifica tu cocina, simplifica tu vida! Tapas de vidrio que ofrecen una experiencia de cocina más fácil, desde la estufa hasta el refrigerador y el lavavajilla.|\nCuentan con ingeniosas asas plegables que las hacen 100% apilables|\nTotalmente compatible con los utensilios de cocina Ingenio, ofreciendo el ajuste perfecto para el mango removible Ingenio|\nAcelera tu tiempo de cocción y monitorea tu progreso con total facilidad|\nApto para lavavajillas",
+    "url": "https://www.tefalstore.cl/tapa-de-cristal-26-cm-ingenio-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203822/01-portada.jpg?v=638803486880700000",
+    "skus": [
+      {
+        "sku_id": "323",
+        "sku_name": "Tapa de Cristal 26 cm Ingenio Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203822/01-portada.jpg?v=638803486880700000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24870.0,
+    "list_price": 24870.0,
     "on_sale": false
   },
   {
