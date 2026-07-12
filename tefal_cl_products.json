@@ -210,27 +210,6 @@
     "on_sale": true
   },
   {
-    "name": "Picadora Manual 5-Second Chopper",
-    "reference": "2100105212",
-    "brand": "Tefal",
-    "category": "Picadoras y Ralladores",
-    "description": "5-Second Chopper: La revolución del corte para picar de forma perfecta en un abrir y cerrar de ojos. |  La tecnología inteligente y el diseño de esta picadora manual de alimentos garantizan resultados eficientes en todo tipo de ingredientes. | Simplemente coloca la base para picar, agrega los ingredientes, cierra la tapa y tire del asa. | Esta picadora manual ecológica está equipada con cuchillas independientes de acero inoxidable ultrarresistentes que pueden hacer frente a cualquier tipo de alimento, así como un sistema de bloqueo seguro que promete total tranquilidad. |Recipiente cristalino, con una generosa capacidad de 900 ml, permite controlar fácilmente el progreso del corte, con una base antideslizante para una total comodidad y estabilidad.",
-    "url": "https://www.tefalstore.cl/picadora-manual-5-second-chopper/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199440/label-1.png?v=638367118612200000",
-    "skus": [
-      {
-        "sku_id": "194",
-        "sku_name": "Picadora Manual 5-Second Chopper",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199440/label-1.png?v=638367118612200000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 14990.0,
-    "list_price": 21990.0,
-    "on_sale": true
-  },
-  {
     "name": "Tostador Soleil Moulinex",
     "reference": "7211003349",
     "brand": "Moulinex",
@@ -312,6 +291,27 @@
     "country": "Chile",
     "price": 69990.0,
     "list_price": 99990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Aspiradora Trapeadora X Clean 7 Digital Rowenta",
+    "reference": "7211005391",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "PODEROSA LIMPIEZA 2 EN 1: Enfrenta cualquier tipo de suciedad húmeda y seca, con modo automático de detección de polvo y un rodillo que siempre limpia con agua fresca.|\n\nLIMPIEZA EN TODAS PARTES: Diseño plano de 180° para llegar debajo de los muebles, con luces LED que iluminan la suciedad oculta y un cepillo de borde delgado para una limpieza impecable a lo largo de las paredes.|\n\nMANTENIMIENTO SIMPLIFICADO: Ciclo de autolimpieza de 180 segundos con agua fresca y secado directo con aire caliente de hasta 60 °C en un solo clic para evitar olores.|\n\nLIMPIEZA SIN ESFUERZO: El sistema de rodillo autopropulsado ofrece un dispositivo ultraligero que pesa solo 0,9 kg en la mano.|\n\nREPARABILIDAD DE 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más tiempo.|\n\nLARGA DURACIÓN: Hasta 50 minutos de autonomía* para cubrir toda tu casa, con un gran tanque de agua de 650 ml para limpiar sin interrupciones.|\n\nGUÍA INTUITIVA Y COMPLETA: Una experiencia de limpieza sin complicaciones con asistencia por voz e información mostrada en tiempo real en una gran pantalla LED.|\nSISTEMA ANTIENREDO: Un peine metálico con 164 dientes cepilla cabellos y pelos de mascotas para evitar que se enreden en el rodillo, facilitando el mantenimiento.\n\nACCIÓN DESINFECTANTE: Lleva tu limpieza aún más lejos con detergentes compatibles que ofrecen beneficios desinfectantes.",
+    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x-clean-7-digital-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205978/large-rwt-gz5736e0-x-clean7-h1.jpg?v=639138724383600000",
+    "skus": [
+      {
+        "sku_id": "402",
+        "sku_name": "Aspiradora Trapeadora X Clean 7 Digital Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205978/large-rwt-gz5736e0-x-clean7-h1.jpg?v=639138724383600000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 459990.0,
+    "list_price": 649990.0,
     "on_sale": true
   },
   {
@@ -777,6 +777,27 @@
     "on_sale": true
   },
   {
+    "name": "Picadora Manual 5-Second Chopper",
+    "reference": "2100105212",
+    "brand": "Tefal",
+    "category": "Picadoras y Ralladores",
+    "description": "5-Second Chopper: La revolución del corte para picar de forma perfecta en un abrir y cerrar de ojos. |  La tecnología inteligente y el diseño de esta picadora manual de alimentos garantizan resultados eficientes en todo tipo de ingredientes. | Simplemente coloca la base para picar, agrega los ingredientes, cierra la tapa y tire del asa. | Esta picadora manual ecológica está equipada con cuchillas independientes de acero inoxidable ultrarresistentes que pueden hacer frente a cualquier tipo de alimento, así como un sistema de bloqueo seguro que promete total tranquilidad. |Recipiente cristalino, con una generosa capacidad de 900 ml, permite controlar fácilmente el progreso del corte, con una base antideslizante para una total comodidad y estabilidad.",
+    "url": "https://www.tefalstore.cl/picadora-manual-5-second-chopper/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199440/label-1.png?v=638367118612200000",
+    "skus": [
+      {
+        "sku_id": "194",
+        "sku_name": "Picadora Manual 5-Second Chopper",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199440/label-1.png?v=638367118612200000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 14990.0,
+    "list_price": 21990.0,
+    "on_sale": true
+  },
+  {
     "name": "Cafetera Espresso Intuition Preference Touch + Lechero",
     "reference": "8010000990",
     "brand": "Krups",
@@ -1005,27 +1026,6 @@
     "country": "Chile",
     "price": 39990.0,
     "list_price": 49990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Aspiradora Trapeadora X Clean 7 Digital Rowenta",
-    "reference": "7211005391",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Inalámbricas",
-    "description": "PODEROSA LIMPIEZA 2 EN 1: Enfrenta cualquier tipo de suciedad húmeda y seca, con modo automático de detección de polvo y un rodillo que siempre limpia con agua fresca.|\n\nLIMPIEZA EN TODAS PARTES: Diseño plano de 180° para llegar debajo de los muebles, con luces LED que iluminan la suciedad oculta y un cepillo de borde delgado para una limpieza impecable a lo largo de las paredes.|\n\nMANTENIMIENTO SIMPLIFICADO: Ciclo de autolimpieza de 180 segundos con agua fresca y secado directo con aire caliente de hasta 60 °C en un solo clic para evitar olores.|\n\nLIMPIEZA SIN ESFUERZO: El sistema de rodillo autopropulsado ofrece un dispositivo ultraligero que pesa solo 0,9 kg en la mano.|\n\nREPARABILIDAD DE 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más tiempo.|\n\nLARGA DURACIÓN: Hasta 50 minutos de autonomía* para cubrir toda tu casa, con un gran tanque de agua de 650 ml para limpiar sin interrupciones.|\n\nGUÍA INTUITIVA Y COMPLETA: Una experiencia de limpieza sin complicaciones con asistencia por voz e información mostrada en tiempo real en una gran pantalla LED.|\nSISTEMA ANTIENREDO: Un peine metálico con 164 dientes cepilla cabellos y pelos de mascotas para evitar que se enreden en el rodillo, facilitando el mantenimiento.\n\nACCIÓN DESINFECTANTE: Lleva tu limpieza aún más lejos con detergentes compatibles que ofrecen beneficios desinfectantes.",
-    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x-clean-7-digital-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205978/large-rwt-gz5736e0-x-clean7-h1.jpg?v=639138724383600000",
-    "skus": [
-      {
-        "sku_id": "402",
-        "sku_name": "Aspiradora Trapeadora X Clean 7 Digital Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205978/large-rwt-gz5736e0-x-clean7-h1.jpg?v=639138724383600000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 459990.0,
-    "list_price": 649990.0,
     "on_sale": true
   },
   {
@@ -1320,27 +1320,6 @@
     "country": "Chile",
     "price": 22990.0,
     "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Hervidor Morning 1,7L Negro Moulinex",
-    "reference": "7211419022",
-    "brand": "Moulinex",
-    "category": "Hervidores",
-    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas.|\nLA CANTIDAD PERFECTA: Indicador de una taza y marcas de nivel de agua fáciles de leer, para preparar la cantidad justa para una taza de té.|\nFÁCIL DE USAR: Apertura automática con una sola mano, ideal para servir con comodidad. Su diseño ancho facilita el llenado y la limpieza.|\nAGUA MÁS LIMPIA: Filtro antisarro para un agua más limpia y bebidas con mejor sabor, de diseño removible para una limpieza sencilla.|\nREPARABILIDAD DURANTE 15 AÑOS A PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de servicio en todo el mundo para que dure mucho más.|\nAMPLIA CAPACIDAD: Hervidor eléctrico con 1,7 L de capacidad, ideal para toda la familia y para todas tus bebidas calientes.|\nHERVIDO RÁPIDO: 2400 W de potencia para un calentamiento rápido y bebidas calientes en pocos minutos.|\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme y accesible desde cualquier ángulo.|\nTRANQUILIDAD TOTAL: Función de apagado automático, para usarlo con confianza y olvidarte sin preocupaciones.",
-    "url": "https://www.tefalstore.cl/hervidor-morning-1-7l-negro-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205046/01-portada.png?v=638924206393870000",
-    "skus": [
-      {
-        "sku_id": "349",
-        "sku_name": "Hervidor Morning 1,7L Negro",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205046/01-portada.png?v=638924206393870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 22990.0,
-    "list_price": 28990.0,
     "on_sale": true
   },
   {
@@ -2058,6 +2037,27 @@
     "on_sale": true
   },
   {
+    "name": "Hervidor Soleil Marfil 1,7L Moulinex",
+    "reference": "7211003346",
+    "brand": "Moulinex",
+    "category": "Hervidores",
+    "description": "Cuenta con una amplia capacidad de 1,7 Lts que permite llenar hasta 7 tazas, con 2400 W de potencia. | Es perfecto para compartir momentos con tu familia y amigos. | Su útil tapa con bisagras facilita la limpieza y el llenado, mientras que la resistencia oculta permite una limpieza más fácil. | Equipado con un indicador dual de llenado que permite controlar el nivel del agua de forma clara y sencilla desde cualquier ángulo, con filtro anti-cal extraíble para conseguir un agua más limpia y bebidas más deliciosas, y una boquilla de precisión para evitar derrames. | Cuenta con un interruptor de encendido/apagado luminoso para un uso sencillo y sin preocupaciones, su base giratoria 360° multi-posición lo hacen más seguro al momento de manipular.",
+    "url": "https://www.tefalstore.cl/hervidor-soleil/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205291/7211003346.jpg?v=638943198650730000",
+    "skus": [
+      {
+        "sku_id": "71",
+        "sku_name": "Hervidor Soleil Marfil 1,7L",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205291/7211003346.jpg?v=638943198650730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 19990.0,
+    "list_price": 32990.0,
+    "on_sale": true
+  },
+  {
     "name": "Panquequera 25 cm Unlimited",
     "reference": "2100112284",
     "brand": "Tefal",
@@ -2604,6 +2604,27 @@
     "on_sale": true
   },
   {
+    "name": "Cuchillo Multiuso 11cm Ice Force Tefal",
+    "reference": "2100104353",
+    "brand": "Tefal",
+    "category": "Cuchillo",
+    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal.|\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo multiuso 11cm es ideal para cortar todo tipo de alimentos.",
+    "url": "https://www.tefalstore.cl/cuchillo-multiuso-11cm-ice-force-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205410/foto-1.jpg?v=639035774380700000",
+    "skus": [
+      {
+        "sku_id": "286",
+        "sku_name": "Cuchillo Multiuso 11cm Ice Force Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205410/foto-1.jpg?v=639035774380700000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 7990.0,
+    "list_price": 11490.0,
+    "on_sale": true
+  },
+  {
     "name": "Set Sartenes ingenio 22/24/26 cm + mango",
     "reference": "2100126163",
     "brand": "Tefal",
@@ -2853,27 +2874,6 @@
     "country": "Chile",
     "price": 69990.0,
     "list_price": 109990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Hervidor Soleil Marfil 1,7L Moulinex",
-    "reference": "7211003346",
-    "brand": "Moulinex",
-    "category": "Hervidores",
-    "description": "Cuenta con una amplia capacidad de 1,7 Lts que permite llenar hasta 7 tazas, con 2400 W de potencia. | Es perfecto para compartir momentos con tu familia y amigos. | Su útil tapa con bisagras facilita la limpieza y el llenado, mientras que la resistencia oculta permite una limpieza más fácil. | Equipado con un indicador dual de llenado que permite controlar el nivel del agua de forma clara y sencilla desde cualquier ángulo, con filtro anti-cal extraíble para conseguir un agua más limpia y bebidas más deliciosas, y una boquilla de precisión para evitar derrames. | Cuenta con un interruptor de encendido/apagado luminoso para un uso sencillo y sin preocupaciones, su base giratoria 360° multi-posición lo hacen más seguro al momento de manipular.",
-    "url": "https://www.tefalstore.cl/hervidor-soleil/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205291/7211003346.jpg?v=638943198650730000",
-    "skus": [
-      {
-        "sku_id": "71",
-        "sku_name": "Hervidor Soleil Marfil 1,7L",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205291/7211003346.jpg?v=638943198650730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 19990.0,
-    "list_price": 32990.0,
     "on_sale": true
   },
   {
@@ -3213,6 +3213,27 @@
     "on_sale": true
   },
   {
+    "name": "Hervidor Morning 1,7L Negro Moulinex",
+    "reference": "7211419022",
+    "brand": "Moulinex",
+    "category": "Hervidores",
+    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas.|\nLA CANTIDAD PERFECTA: Indicador de una taza y marcas de nivel de agua fáciles de leer, para preparar la cantidad justa para una taza de té.|\nFÁCIL DE USAR: Apertura automática con una sola mano, ideal para servir con comodidad. Su diseño ancho facilita el llenado y la limpieza.|\nAGUA MÁS LIMPIA: Filtro antisarro para un agua más limpia y bebidas con mejor sabor, de diseño removible para una limpieza sencilla.|\nREPARABILIDAD DURANTE 15 AÑOS A PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de servicio en todo el mundo para que dure mucho más.|\nAMPLIA CAPACIDAD: Hervidor eléctrico con 1,7 L de capacidad, ideal para toda la familia y para todas tus bebidas calientes.|\nHERVIDO RÁPIDO: 2400 W de potencia para un calentamiento rápido y bebidas calientes en pocos minutos.|\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme y accesible desde cualquier ángulo.|\nTRANQUILIDAD TOTAL: Función de apagado automático, para usarlo con confianza y olvidarte sin preocupaciones.",
+    "url": "https://www.tefalstore.cl/hervidor-morning-1-7l-negro-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205046/01-portada.png?v=638924206393870000",
+    "skus": [
+      {
+        "sku_id": "349",
+        "sku_name": "Hervidor Morning 1,7L Negro",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205046/01-portada.png?v=638924206393870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 22990.0,
+    "list_price": 28990.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora PerfectMix Cook 1400W 2L Moulinex",
     "reference": "7211004631",
     "brand": "Moulinex",
@@ -3462,27 +3483,6 @@
     "country": "Chile",
     "price": 14990.0,
     "list_price": 18490.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cuchillo Multiuso 11cm Ice Force Tefal",
-    "reference": "2100104353",
-    "brand": "Tefal",
-    "category": "Cuchillo",
-    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal.|\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo multiuso 11cm es ideal para cortar todo tipo de alimentos.",
-    "url": "https://www.tefalstore.cl/cuchillo-multiuso-11cm-ice-force-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205410/foto-1.jpg?v=639035774380700000",
-    "skus": [
-      {
-        "sku_id": "286",
-        "sku_name": "Cuchillo Multiuso 11cm Ice Force Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205410/foto-1.jpg?v=639035774380700000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 7990.0,
-    "list_price": 11490.0,
     "on_sale": true
   },
   {
