@@ -630,27 +630,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de 4 cuchillos Ice Force de acero inoxidable",
-    "reference": "2100119885",
-    "brand": "T-fal",
-    "category": "Sets de cuchillos",
-    "description": "* El set de 4 cuchillos Ice Force incluye un pelador de 9 cm. \n* Un utilitario de 12 cm. \n* Un chef de 20 cm y un rebanador de 20 cm. \n* Todos fabricados en acero inoxidable alemán y forjados a temperaturas extremas para garantizar su durabilidad y resistencia. \n* Las hojas muy afiladas facilitan los cortes precisos. \n* Mientras que el diseño ergonómico asegura un agarre cómodo y seguro. \n* Este set es ideal para todo tipo de preparaciones. \n* Proporcionando herramientas de alta calidad para mejorar la eficiencia en la cocina. \n* Con tecnología Ice Force. \n* los cuchillos mantienen una larga vida útil. \n* Siendo una opción superior para cualquier cocina.",
-    "url": "https://www.t-fal.com.mx/set-de-4-cuchillos-ice-force-de-acero-inoxidable/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158077/2100119885_K2324S74_SET_4_PIEZAS_ICE_FORCE_-1-.jpg?v=638932151519100000",
-    "skus": [
-      {
-        "sku_id": "973",
-        "sku_name": "Set de 4 cuchillos Ice Force de acero inoxidable",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158077/2100119885_K2324S74_SET_4_PIEZAS_ICE_FORCE_-1-.jpg?v=638932151519100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
-    "on_sale": false
-  },
-  {
     "name": "Sartén 20cm Emotion SS",
     "reference": "2100117986",
     "brand": "T-fal",
@@ -1425,6 +1404,27 @@
     "country": "México",
     "price": 1999.0,
     "list_price": 1999.0,
+    "on_sale": false
+  },
+  {
+    "name": "Vaporizador Origin Travel, plegable y portátil",
+    "reference": "1830009412",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* DISEÑO PLEGABLE Y PORTÁTIL: Su cabezal plegable lo hace súper compacto y práctico, ideal para guardarlo en la maleta o tenerlo siempre a mano en casa.\n* REFRESCA Y ELIMINA ARRUGAS: El poder del vapor alisa rápidamente las arrugas y ayuda a refrescar los tejidos, devolviendo a tu ropa un aspecto limpio y cuidado.\n* LISTO EN SEGUNDOS: Con un calentamiento de solo 25 segundos, tu vaporizador está siempre preparado para dejar tu ropa sin arrugas en cualquier momento.\n* CUIDADO FÁCIL Y SEGURO: Su diseño intuitivo y ligero permite usarlo sin complicaciones, asegurando una experiencia rápida, práctica y sin riesgos para tus prendas.\n* ACCESORIOS ÚTILES: Incluye cepillo para telas gruesas y bolsa de viaje, ofreciéndote más versatilidad y comodidad en cualquier lugar.",
+    "url": "https://www.t-fal.com.mx/vaporizador-origin-travel-plegable-y-portatil-920/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157803/1830009412_DT1031X0_ORIGINTRAVEL_-1-.jpg?v=638930412038470000",
+    "skus": [
+      {
+        "sku_id": "920",
+        "sku_name": "Vaporizador Origin Travel, plegable y portátil",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157803/1830009412_DT1031X0_ORIGINTRAVEL_-1-.jpg?v=638930412038470000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 699.0,
+    "list_price": 699.0,
     "on_sale": false
   },
   {
@@ -3045,6 +3045,27 @@
     "on_sale": false
   },
   {
+    "name": "Set de 4 cuchillos Ice Force de acero inoxidable",
+    "reference": "2100119885",
+    "brand": "T-fal",
+    "category": "Sets de cuchillos",
+    "description": "* El set de 4 cuchillos Ice Force incluye un pelador de 9 cm. \n* Un utilitario de 12 cm. \n* Un chef de 20 cm y un rebanador de 20 cm. \n* Todos fabricados en acero inoxidable alemán y forjados a temperaturas extremas para garantizar su durabilidad y resistencia. \n* Las hojas muy afiladas facilitan los cortes precisos. \n* Mientras que el diseño ergonómico asegura un agarre cómodo y seguro. \n* Este set es ideal para todo tipo de preparaciones. \n* Proporcionando herramientas de alta calidad para mejorar la eficiencia en la cocina. \n* Con tecnología Ice Force. \n* los cuchillos mantienen una larga vida útil. \n* Siendo una opción superior para cualquier cocina.",
+    "url": "https://www.t-fal.com.mx/set-de-4-cuchillos-ice-force-de-acero-inoxidable/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158077/2100119885_K2324S74_SET_4_PIEZAS_ICE_FORCE_-1-.jpg?v=638932151519100000",
+    "skus": [
+      {
+        "sku_id": "973",
+        "sku_name": "Set de 4 cuchillos Ice Force de acero inoxidable",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158077/2100119885_K2324S74_SET_4_PIEZAS_ICE_FORCE_-1-.jpg?v=638932151519100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 999.0,
+    "list_price": 999.0,
+    "on_sale": false
+  },
+  {
     "name": "Freidora de Aire 6 L Infrared",
     "reference": "7211419336",
     "brand": "T-fal",
@@ -3087,27 +3108,6 @@
     "on_sale": true
   },
   {
-    "name": "Vaporizador Origin Travel, plegable y portátil",
-    "reference": "1830009412",
-    "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* DISEÑO PLEGABLE Y PORTÁTIL: Su cabezal plegable lo hace súper compacto y práctico, ideal para guardarlo en la maleta o tenerlo siempre a mano en casa.\n* REFRESCA Y ELIMINA ARRUGAS: El poder del vapor alisa rápidamente las arrugas y ayuda a refrescar los tejidos, devolviendo a tu ropa un aspecto limpio y cuidado.\n* LISTO EN SEGUNDOS: Con un calentamiento de solo 25 segundos, tu vaporizador está siempre preparado para dejar tu ropa sin arrugas en cualquier momento.\n* CUIDADO FÁCIL Y SEGURO: Su diseño intuitivo y ligero permite usarlo sin complicaciones, asegurando una experiencia rápida, práctica y sin riesgos para tus prendas.\n* ACCESORIOS ÚTILES: Incluye cepillo para telas gruesas y bolsa de viaje, ofreciéndote más versatilidad y comodidad en cualquier lugar.",
-    "url": "https://www.t-fal.com.mx/vaporizador-origin-travel-plegable-y-portatil-920/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157803/1830009412_DT1031X0_ORIGINTRAVEL_-1-.jpg?v=638930412038470000",
-    "skus": [
-      {
-        "sku_id": "920",
-        "sku_name": "Vaporizador Origin Travel, plegable y portátil",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157803/1830009412_DT1031X0_ORIGINTRAVEL_-1-.jpg?v=638930412038470000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 699.0,
-    "list_price": 699.0,
-    "on_sale": false
-  },
-  {
     "name": "Vaporizador Pure Pop Verde, con estilo en cualquier lugar",
     "reference": "1830009127",
     "brand": "T-fal",
@@ -3127,27 +3127,6 @@
     "price": 799.0,
     "list_price": 799.0,
     "on_sale": false
-  },
-  {
-    "name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
-    "reference": "1830008271",
-    "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* EL VAPORIZADOR MÁS PODEROSO DE T-FAL: Con niveles ajustables de vapor y modo Turbo, ofrece un flujo intenso capaz de alisar hasta los pliegues más rebeldes con rapidez.\n* TRANQUILIDAD GARANTIZADA: La función Auto-off apaga el vaporizador automáticamente cuando no está en uso, brindando seguridad y confianza en cada planchado.\n* LISTO EN SEGUNDOS: En sólo 25 segundos, el vaporizador está preparado para eliminar arrugas y refrescar tus prendas, ideal para salidas de último momento.\n* SUELA CERÁMICA: Su suela calefactada con recubrimiento cerámico evita la condensación, dejando tu ropa seca, alisada y lista para usar inmediatamente.\n* TANQUE XXL REMOVIBLE: El tanque de agua de 200 ml permite sesiones más largas sin interrupciones, con diseño desmontable que facilita el llenado y la comodidad diaria.",
-    "url": "https://www.t-fal.com.mx/vaporizador-x-cel-steam-force-el-vapor-mas-poderoso-922/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157815/1830008271_DT8221X1_XCELSTEAMFORCE_-1-.jpg?v=638930413470830000",
-    "skus": [
-      {
-        "sku_id": "922",
-        "sku_name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157815/1830008271_DT8221X1_XCELSTEAMFORCE_-1-.jpg?v=638930413470830000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1249.0,
-    "list_price": 1499.0,
-    "on_sale": true
   },
   {
     "name": "Vaporizador Access Steam Easy, elimina arrugas rápido",
@@ -4113,6 +4092,27 @@
     "country": "México",
     "price": 3499.0,
     "list_price": 3499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
+    "reference": "1830008271",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* EL VAPORIZADOR MÁS PODEROSO DE T-FAL: Con niveles ajustables de vapor y modo Turbo, ofrece un flujo intenso capaz de alisar hasta los pliegues más rebeldes con rapidez.\n* TRANQUILIDAD GARANTIZADA: La función Auto-off apaga el vaporizador automáticamente cuando no está en uso, brindando seguridad y confianza en cada planchado.\n* LISTO EN SEGUNDOS: En sólo 25 segundos, el vaporizador está preparado para eliminar arrugas y refrescar tus prendas, ideal para salidas de último momento.\n* SUELA CERÁMICA: Su suela calefactada con recubrimiento cerámico evita la condensación, dejando tu ropa seca, alisada y lista para usar inmediatamente.\n* TANQUE XXL REMOVIBLE: El tanque de agua de 200 ml permite sesiones más largas sin interrupciones, con diseño desmontable que facilita el llenado y la comodidad diaria.",
+    "url": "https://www.t-fal.com.mx/vaporizador-x-cel-steam-force-el-vapor-mas-poderoso-922/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157815/1830008271_DT8221X1_XCELSTEAMFORCE_-1-.jpg?v=638930413470830000",
+    "skus": [
+      {
+        "sku_id": "922",
+        "sku_name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157815/1830008271_DT8221X1_XCELSTEAMFORCE_-1-.jpg?v=638930413470830000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1499.0,
+    "list_price": 1499.0,
     "on_sale": false
   },
   {
