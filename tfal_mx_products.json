@@ -1,26 +1,5 @@
 [
   {
-    "name": "Tapa para cafetera compatible de repuesto universal",
-    "reference": "9100043551",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
-    "skus": [
-      {
-        "sku_id": "1109",
-        "sku_name": "Tapa para cafetera compatible de repuesto universal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 199.0,
-    "list_price": 199.0,
-    "on_sale": false
-  },
-  {
     "name": "Jarra para cafetera CM223DMX original de repuesto",
     "reference": "9100036277",
     "brand": "T-fal",
@@ -1363,6 +1342,27 @@
     "price": 6789.0,
     "list_price": 6789.0,
     "on_sale": false
+  },
+  {
+    "name": "Freidora de Aceite 1.8 L Oleo Clean Compact",
+    "reference": "7211419066",
+    "brand": "T-fal",
+    "category": "Freidoras de aire y aceite",
+    "description": "* Disfruta de una experiencia de fritura revolucionaria con la Freidora de Aceite Oleo Clean Compact. Con tecnología avanzada y un diseño intuitivo, esta freidora garantiza resultados perfectos cada vez, haciendo la limpieza y el uso fáciles y sin esfuerzo. Ideal para familias y amantes de la cocina que buscan calidad y practicidad.\n* Tecnología patentada de filtración de aceite: Filtra y almacena automáticamente el aceite usado en la caja proporcionada, manteniendo tu cocina libre de olores intensos y cochambre, y asegurando una fácil limpieza.\n* Control preciso de temperatura: Ajusta la temperatura de 135 °C a 190 °C para resultados de fritura óptimos, garantizando que tu comida se fríe a la perfección y conserva los sabores auténticos.\n* Capacidad generosa: Con capacidad de aceite de 1.8 L y comida de 1.8 K, esta freidora ofrece calentamiento uniforme y resultados dorados.\n* Fritura segura y sin esfuerzo: Incluye tapa de bloqueo, ventana de visualización, asas de tacto frío y apagado automático, proporcionando tranquilidad y seguridad durante la fritura.\n* Limpieza ultra fácil: Componentes aptos para lavaplatos, incluyendo cesta de cocina, tazón, tapa y caja de aceite. Disfruta de la comodidad de una fritura profesional en casa sin complicaciones",
+    "url": "https://www.t-fal.com.mx/freidora-de-aceite-1-8-l-oleo-clean-compact/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158572/7211419066_FR702D51_FREIDORA_1.8L_OLEOCLEANCOMPACT-1-.jpg?v=638950332847800000",
+    "skus": [
+      {
+        "sku_id": "992",
+        "sku_name": "Freidora de Aceite 1.8 L Oleo Clean Compact",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158572/7211419066_FR702D51_FREIDORA_1.8L_OLEOCLEANCOMPACT-1-.jpg?v=638950332847800000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1989.0,
+    "list_price": 2699.0,
+    "on_sale": true
   },
   {
     "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
@@ -2835,27 +2835,6 @@
     "on_sale": true
   },
   {
-    "name": "Freidora de Aceite 1.8 L Oleo Clean Compact",
-    "reference": "7211419066",
-    "brand": "T-fal",
-    "category": "Freidoras de aire y aceite",
-    "description": "* Disfruta de una experiencia de fritura revolucionaria con la Freidora de Aceite Oleo Clean Compact. Con tecnología avanzada y un diseño intuitivo, esta freidora garantiza resultados perfectos cada vez, haciendo la limpieza y el uso fáciles y sin esfuerzo. Ideal para familias y amantes de la cocina que buscan calidad y practicidad.\n* Tecnología patentada de filtración de aceite: Filtra y almacena automáticamente el aceite usado en la caja proporcionada, manteniendo tu cocina libre de olores intensos y cochambre, y asegurando una fácil limpieza.\n* Control preciso de temperatura: Ajusta la temperatura de 135 °C a 190 °C para resultados de fritura óptimos, garantizando que tu comida se fríe a la perfección y conserva los sabores auténticos.\n* Capacidad generosa: Con capacidad de aceite de 1.8 L y comida de 1.8 K, esta freidora ofrece calentamiento uniforme y resultados dorados.\n* Fritura segura y sin esfuerzo: Incluye tapa de bloqueo, ventana de visualización, asas de tacto frío y apagado automático, proporcionando tranquilidad y seguridad durante la fritura.\n* Limpieza ultra fácil: Componentes aptos para lavaplatos, incluyendo cesta de cocina, tazón, tapa y caja de aceite. Disfruta de la comodidad de una fritura profesional en casa sin complicaciones",
-    "url": "https://www.t-fal.com.mx/freidora-de-aceite-1-8-l-oleo-clean-compact/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158572/7211419066_FR702D51_FREIDORA_1.8L_OLEOCLEANCOMPACT-1-.jpg?v=638950332847800000",
-    "skus": [
-      {
-        "sku_id": "992",
-        "sku_name": "Freidora de Aceite 1.8 L Oleo Clean Compact",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158572/7211419066_FR702D51_FREIDORA_1.8L_OLEOCLEANCOMPACT-1-.jpg?v=638950332847800000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1989.0,
-    "list_price": 2699.0,
-    "on_sale": true
-  },
-  {
     "name": "Exprimidor de jugo Citrus Press Pro",
     "reference": "8010000421",
     "brand": "T-fal",
@@ -3658,7 +3637,7 @@
     "reference": "1830009871",
     "brand": "T-fal",
     "category": "Vaporizadores de mano",
-    "description": "SOLUCIÓN 3 EN 1: Vaporiza, plancha y elimina pelusa con un solo equipo, cambiando fácilmente entre uso horizontal y vertical.<br> VAPOR EXTRA POTENTE: Hasta 300% más vapor en modo Boost y calentamiento en solo 25 segundos para eliminar arrugas rápidamente.<br> CUIDADO COMPLETO: Incluye 2 almohadillas reversibles para remover pelusa, cabello y micro-polvo, incluso en telas delicadas.<br> MAYOR AUTONOMÍA: Tanque removible de 180 ml que brinda hasta 12 minutos de vapor continuo para cuidar varias prendas sin recargar.<br> REFRESCA Y SANITIZA: El poder natural del vapor ayuda a eliminar hasta 99.99% de virus, bacterias y gérmenes, además de reducir olores.",
+    "description": "* SOLUCIÓN 3 EN 1: Vaporiza, plancha y elimina pelusa con un solo equipo, cambiando fácilmente entre uso horizontal y vertical.<br>* VAPOR EXTRA POTENTE: Hasta 300% más vapor en modo Boost y calentamiento en solo 25 segundos para eliminar arrugas rápidamente.<br>* CUIDADO COMPLETO: Incluye 2 almohadillas reversibles para remover pelusa, cabello y micro-polvo, incluso en telas delicadas.<br>* MAYOR AUTONOMÍA: Tanque removible de 180 ml que brinda hasta 12 minutos de vapor continuo para cuidar varias prendas sin recargar.<br>* REFRESCA Y SANITIZA: El poder natural del vapor ayuda a eliminar hasta 99.99% de virus, bacterias y gérmenes, además de reducir olores.",
     "url": "https://www.t-fal.com.mx/vaporizador-pure-force-3-en-1-vapor-planchado-y-eliminacion-de-pelusa-dt8765x1/p",
     "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159886/1830009871_DT8765X1_T-FAL-Pure-Force-3-en-1-01-.webp?v=639193013818070000",
     "skus": [
@@ -3712,8 +3691,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
+    "price": null,
+    "list_price": null,
     "on_sale": false
   },
   {
@@ -3777,6 +3756,27 @@
     "country": "México",
     "price": 1399.0,
     "list_price": 1399.0,
+    "on_sale": false
+  },
+  {
+    "name": "Tapa para cafetera compatible de repuesto universal",
+    "reference": "9100043551",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
+    "skus": [
+      {
+        "sku_id": "1109",
+        "sku_name": "Tapa para cafetera compatible de repuesto universal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 199.0,
+    "list_price": 199.0,
     "on_sale": false
   },
   {
