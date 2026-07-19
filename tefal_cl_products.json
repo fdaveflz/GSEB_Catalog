@@ -378,27 +378,6 @@
     "on_sale": true
   },
   {
-    "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
-    "reference": "2100139002",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
-    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-ceramica-fusioncore-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000",
-    "skus": [
-      {
-        "sku_id": "395",
-        "sku_name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 31990.0,
-    "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Vertical X-Force 8.8 Animal Rowenta",
     "reference": "7211005441",
     "brand": "Rowenta",
@@ -459,6 +438,27 @@
     "country": "Chile",
     "price": 229990.0,
     "list_price": 349990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Aspiradora Compact Power Cyclonic XXL 2,5lt Rowenta Celeste",
+    "reference": "7211005059",
+    "brand": "Rowenta",
+    "category": "Aspiradoras de Arrastre",
+    "description": "La Aspiradora Compact Power Cyclonic XXL 2,5lt es la más potente de Rowenta. |\nCon un motor de bajo consumo de hasta 900 W para una excelente succión en todos los suelos y superficies.|\nCapacidad XXL con un depósito de polvo de 2,5 L fácil de extraer para una máxima autonomía y mayor comodidad.|\nDiseño compacto que ahorra espacio para un almacenamiento sencillo y gran maniobrabilidad.|\nFiltración avanzada de 3 niveles que captura más del 99,98 % de las partículas de polvo.|\nCalidad respaldada por nuestra garantía de reparabilidad de 15 años, para ayudar a proteger el medio ambiente y reducir los residuos.|\nAmplio radio de limpieza de 8,80 m para cubrir grandes superficies sin necesidad de desenchufar.",
+    "url": "https://www.tefalstore.cl/aspiradora-compact-power-cyclonic-xxl-2-5lt-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205645/01-imagen.jpg?v=639059194311270000",
+    "skus": [
+      {
+        "sku_id": "363",
+        "sku_name": "Aspiradora Compact Power Cyclonic XXL 2,5L",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205645/01-imagen.jpg?v=639059194311270000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 69990.0,
+    "list_price": 109990.0,
     "on_sale": true
   },
   {
@@ -1239,27 +1239,6 @@
     "on_sale": true
   },
   {
-    "name": "Aspiradora Compact Power Cyclonic XXL 2,5lt Rowenta Celeste",
-    "reference": "7211005059",
-    "brand": "Rowenta",
-    "category": "Aspiradoras de Arrastre",
-    "description": "La Aspiradora Compact Power Cyclonic XXL 2,5lt es la más potente de Rowenta. |\nCon un motor de bajo consumo de hasta 900 W para una excelente succión en todos los suelos y superficies.|\nCapacidad XXL con un depósito de polvo de 2,5 L fácil de extraer para una máxima autonomía y mayor comodidad.|\nDiseño compacto que ahorra espacio para un almacenamiento sencillo y gran maniobrabilidad.|\nFiltración avanzada de 3 niveles que captura más del 99,98 % de las partículas de polvo.|\nCalidad respaldada por nuestra garantía de reparabilidad de 15 años, para ayudar a proteger el medio ambiente y reducir los residuos.|\nAmplio radio de limpieza de 8,80 m para cubrir grandes superficies sin necesidad de desenchufar.",
-    "url": "https://www.tefalstore.cl/aspiradora-compact-power-cyclonic-xxl-2-5lt-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205645/01-imagen.jpg?v=639059194311270000",
-    "skus": [
-      {
-        "sku_id": "363",
-        "sku_name": "Aspiradora Compact Power Cyclonic XXL 2,5L",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205645/01-imagen.jpg?v=639059194311270000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 109990.0,
-    "on_sale": true
-  },
-  {
     "name": "Cafetera Espresso Authentic Grey Krups",
     "reference": "8010001296",
     "brand": "Krups",
@@ -1320,6 +1299,27 @@
     "country": "Chile",
     "price": 399990.0,
     "list_price": 499990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Aspiradora Vertical X-Nano Essential Rowenta",
+    "reference": "7211004797",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "ULTRA LIVIANA: Limpieza potente en un formato ultra liviano, para una aspiradora inalámbrica de alta tecnología que solo pesa 1 kg* en tu mano (*cuando se usa en modo de mano). | LIMPIEZA EN CUALQUIER LUGAR: El diseño delgado permite llegar con facilidad incluso a los espacios más estrechos | MULTIFUNCIÓN: Cobertura de piso a techo con la versatilidad de una escoba y una aspiradora de mano todo-en-uno.| BATERÍA DE LARGA DURACIÓN: Hasta 40 minutos de autonomía sin pérdida de potencia, usando el modo Eco manual, con carga rápida de 3 horas para mayor comodidad. | REPARABILIDAD POR 15 AÑOS: Reparaciones de bajo costo con entrega rápida en más de 6.200 centros de servicio en todo el mundo, como parte de nuestro compromiso con el medio ambiente | SIEMPRE A MANO: Base mural que ahorra espacio y no requiere perforación. | MANTENCIÓN SIN COMPLICACIONES: El contenedor de polvo de gran capacidad es una solución higiénica que permite una mantención simple y poco frecuente. | COBERTURA TOTAL: El cabezal motorizado de alto rendimiento gira 4.200 veces por minuto para eliminar eficazmente el polvo incrustado.",
+    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-nano-essential-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204782/01-portada.png?v=638899416599900000",
+    "skus": [
+      {
+        "sku_id": "339",
+        "sku_name": "Aspiradora Vertical X-NANO ESSENTIAL",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204782/01-portada.png?v=638899416599900000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 89990.0,
+    "list_price": 149990.0,
     "on_sale": true
   },
   {
@@ -1866,6 +1866,27 @@
     "country": "Chile",
     "price": 129990.0,
     "list_price": 169990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla Cocotte Air 24 cm",
+    "reference": "2100127041",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
+    "url": "https://www.tefalstore.cl/olla-cocotte-24-cm-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000",
+    "skus": [
+      {
+        "sku_id": "197",
+        "sku_name": "Olla Cocotte Air 24 cm",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 44990.0,
+    "list_price": 62990.0,
     "on_sale": true
   },
   {
@@ -2457,27 +2478,6 @@
     "on_sale": true
   },
   {
-    "name": "Aspiradora Vertical X-Nano Essential Rowenta",
-    "reference": "7211004797",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Inalámbricas",
-    "description": "ULTRA LIVIANA: Limpieza potente en un formato ultra liviano, para una aspiradora inalámbrica de alta tecnología que solo pesa 1 kg* en tu mano (*cuando se usa en modo de mano). | LIMPIEZA EN CUALQUIER LUGAR: El diseño delgado permite llegar con facilidad incluso a los espacios más estrechos | MULTIFUNCIÓN: Cobertura de piso a techo con la versatilidad de una escoba y una aspiradora de mano todo-en-uno.| BATERÍA DE LARGA DURACIÓN: Hasta 40 minutos de autonomía sin pérdida de potencia, usando el modo Eco manual, con carga rápida de 3 horas para mayor comodidad. | REPARABILIDAD POR 15 AÑOS: Reparaciones de bajo costo con entrega rápida en más de 6.200 centros de servicio en todo el mundo, como parte de nuestro compromiso con el medio ambiente | SIEMPRE A MANO: Base mural que ahorra espacio y no requiere perforación. | MANTENCIÓN SIN COMPLICACIONES: El contenedor de polvo de gran capacidad es una solución higiénica que permite una mantención simple y poco frecuente. | COBERTURA TOTAL: El cabezal motorizado de alto rendimiento gira 4.200 veces por minuto para eliminar eficazmente el polvo incrustado.",
-    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-nano-essential-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204782/01-portada.png?v=638899416599900000",
-    "skus": [
-      {
-        "sku_id": "339",
-        "sku_name": "Aspiradora Vertical X-NANO ESSENTIAL",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204782/01-portada.png?v=638899416599900000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 89990.0,
-    "list_price": 149990.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Ciclónica Compact Power XXL 2,5L Rowenta Negra",
     "reference": "7211005060",
     "brand": "Rowenta",
@@ -2769,27 +2769,6 @@
     "country": "Chile",
     "price": 59990.0,
     "list_price": 89990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla Cocotte Air 24 cm",
-    "reference": "2100127041",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
-    "url": "https://www.tefalstore.cl/olla-cocotte-24-cm-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000",
-    "skus": [
-      {
-        "sku_id": "197",
-        "sku_name": "Olla Cocotte Air 24 cm",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 44990.0,
-    "list_price": 62990.0,
     "on_sale": true
   },
   {
@@ -3903,6 +3882,27 @@
     "country": "Chile",
     "price": null,
     "list_price": null,
+    "on_sale": false
+  },
+  {
+    "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
+    "reference": "2100139002",
+    "brand": "Tefal",
+    "category": "Ollas, Sartenes y Woks",
+    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
+    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-ceramica-fusioncore-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000",
+    "skus": [
+      {
+        "sku_id": "395",
+        "sku_name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 39990.0,
+    "list_price": 39990.0,
     "on_sale": false
   },
   {
