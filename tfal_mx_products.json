@@ -21,12 +21,12 @@
     "on_sale": true
   },
   {
-    "name": "Tapa para cafetera compatible de repuesto universal",
+    "name": "Jarra y tapa para cafetera CM771D55 original de repuesto",
     "reference": "9100043551",
     "brand": "T-fal",
     "category": "Accesorios Y Repuestos",
     "description": "<br>",
-    "url": "https://www.t-fal.com.mx/tapa-para-cafeteras-compatible-repuesto-universal/p",
+    "url": "https://www.t-fal.com.mx/jarra-y-tapa-para-cafetera-cm771d55/p",
     "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
     "skus": [
       {
@@ -147,27 +147,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-    "reference": "2100122016",
-    "brand": "T-fal",
-    "category": "Sets de cuchillos",
-    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
-    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
-    "skus": [
-      {
-        "sku_id": "1041",
-        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 309.0,
-    "list_price": 309.0,
-    "on_sale": false
-  },
-  {
     "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
     "reference": "5861032684",
     "brand": "T-fal",
@@ -270,27 +249,6 @@
     "country": "México",
     "price": 2699.0,
     "list_price": 2699.0,
-    "on_sale": false
-  },
-  {
-    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032672",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
-    "skus": [
-      {
-        "sku_id": "1082",
-        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 34.0,
-    "list_price": 34.0,
     "on_sale": false
   },
   {
@@ -880,27 +838,6 @@
     "price": 59.0,
     "list_price": 59.0,
     "on_sale": false
-  },
-  {
-    "name": "Juego de sartenes Stone Force 20 y 26 cm Platinum non-stick y Termo-Señal",
-    "reference": "2100136116",
-    "brand": "T-fal",
-    "category": "Sets de sartenes",
-    "description": "* Antiadherente Mineralia+<br>* Thermo-Signal<br>* Multi-layer technology",
-    "url": "https://www.t-fal.com.mx/juego-de-sartenes-stone-force-20-y-26-cm-platinum-non-stick-y-termo-señal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159483/2100136116_E275S263_T-FALSTONEFORCE8-10.5IN2PF-01-.jpg?v=639123199747100000",
-    "skus": [
-      {
-        "sku_id": "1096",
-        "sku_name": "Juego de sartenes Stone Force 20 y 26 cm Platinum non-stick y Termo-Señal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159483/2100136116_E275S263_T-FALSTONEFORCE8-10.5IN2PF-01-.jpg?v=639123199747100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 2499.0,
-    "on_sale": true
   },
   {
     "name": "Sartén Excellence+ 20cm Fusion Core",
@@ -1825,6 +1762,27 @@
     "price": 2499.0,
     "list_price": 2499.0,
     "on_sale": false
+  },
+  {
+    "name": "Juego de sartenes Stone Force 20 y 26 cm Platinum non-stick y Termo-Señal",
+    "reference": "2100136116",
+    "brand": "T-fal",
+    "category": "Sets de sartenes",
+    "description": "* Antiadherente Mineralia+<br>* Thermo-Signal<br>* Multi-layer technology",
+    "url": "https://www.t-fal.com.mx/juego-de-sartenes-stone-force-20-y-26-cm-platinum-non-stick-y-termo-señal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159483/2100136116_E275S263_T-FALSTONEFORCE8-10.5IN2PF-01-.jpg?v=639123199747100000",
+    "skus": [
+      {
+        "sku_id": "1096",
+        "sku_name": "Juego de sartenes Stone Force 20 y 26 cm Platinum non-stick y Termo-Señal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159483/2100136116_E275S263_T-FALSTONEFORCE8-10.5IN2PF-01-.jpg?v=639123199747100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 2499.0,
+    "on_sale": true
   },
   {
     "name": "Crepera Excellence+ 25cm Fusion Core",
@@ -3675,6 +3633,27 @@
     "on_sale": false
   },
   {
+    "name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
+    "reference": "5861023491",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/set-de-cuchillas-para-licuadoras-vaso-vidrio-del-rango-optimix--powermix-e-infinyforce-1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159898/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639201561623070000",
+    "skus": [
+      {
+        "sku_id": "1134",
+        "sku_name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159898/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639201561623070000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 59.0,
+    "list_price": 59.0,
+    "on_sale": false
+  },
+  {
     "name": "Juego de sartenes 24/28cm Halo Eucalyptus",
     "reference": "2100145703",
     "brand": "T-fal",
@@ -3754,8 +3733,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
+    "price": null,
+    "list_price": null,
     "on_sale": false
   },
   {
@@ -3796,8 +3775,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 369.0,
-    "list_price": 369.0,
+    "price": null,
+    "list_price": null,
     "on_sale": false
   },
   {
@@ -3990,24 +3969,24 @@
     "on_sale": false
   },
   {
-    "name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
-    "reference": "5861036616",
+    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032672",
     "brand": "T-fal",
     "category": "Accesorios Y Repuestos",
     "description": "<br>",
-    "url": "https://www.t-fal.com.mx/set-de-cuchillas-para-licuadoras-vaso-vidrio-del-rango-optimix--powermix-e-infinyforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159404/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639119570253130000",
+    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
     "skus": [
       {
-        "sku_id": "1083",
-        "sku_name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159404/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639119570253130000"
+        "sku_id": "1082",
+        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 59.0,
-    "list_price": 59.0,
+    "price": 34.0,
+    "list_price": 34.0,
     "on_sale": false
   },
   {
@@ -4050,6 +4029,27 @@
     "country": "México",
     "price": 69.0,
     "list_price": 69.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+    "reference": "2100122016",
+    "brand": "T-fal",
+    "category": "Sets de cuchillos",
+    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
+    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
+    "skus": [
+      {
+        "sku_id": "1041",
+        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 309.0,
+    "list_price": 309.0,
     "on_sale": false
   },
   {
