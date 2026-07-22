@@ -21,27 +21,6 @@
     "on_sale": true
   },
   {
-    "name": "Jarra y tapa para cafetera CM771D55 original de repuesto",
-    "reference": "9100043551",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/jarra-y-tapa-para-cafetera-cm771d55/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
-    "skus": [
-      {
-        "sku_id": "1109",
-        "sku_name": "Tapa para cafetera compatible de repuesto universal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 199.0,
-    "list_price": 199.0,
-    "on_sale": false
-  },
-  {
     "name": "Jarra para cafetera CM223DMX original de repuesto",
     "reference": "9100036277",
     "brand": "T-fal",
@@ -3798,6 +3777,27 @@
     "country": "México",
     "price": 1399.0,
     "list_price": 1399.0,
+    "on_sale": false
+  },
+  {
+    "name": "Jarra y tapa para cafetera CM771D55 original de repuesto",
+    "reference": "9100043551",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/jarra-y-tapa-para-cafetera-cm771d55/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000",
+    "skus": [
+      {
+        "sku_id": "1109",
+        "sku_name": "Tapa para cafetera compatible de repuesto universal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159614/9100043551_SS-9100043551_Cafetera-Tapa-01.jpg?v=639131799512100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 199.0,
+    "list_price": 199.0,
     "on_sale": false
   },
   {
