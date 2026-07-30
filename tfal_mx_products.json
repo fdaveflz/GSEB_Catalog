@@ -21,6 +21,27 @@
     "on_sale": false
   },
   {
+    "name": "Generador de vapor Express Easy, resultados impecables",
+    "reference": "1830009002",
+    "brand": "T-fal",
+    "category": "Generadores de vapor",
+    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor de 280 g/min incluso las arrugas más rebeldes desaparecen fácilmente dejando tus prendas suaves y con acabado impecable. * LISTO EN SEGUNDOS: En tan solo 2 minutos alcanza la temperatura ideal perfecto para esos retoques de último momento o para iniciar tus sesiones de planchado sin esperas. * DISEÑO ULTRA-COMPACTO: Su tamaño reducido cabe en cualquier espacio facilitando el guardado y ofreciendo comodidad al moverlo de un lugar a otro. * MÁS AUTONOMÍA PARA TI: El tanque de agua de 1.4 L permite planchar por más tiempo sin interrupciones con la ventaja de recargar en cualquier momento. * CUIDADO DURADERO: La tecnología Calc Clear evita la acumulación de sarro alargando la vida del producto y asegurando un rendimiento constante día tras día.",
+    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-easy-resultados-impecables-950/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000",
+    "skus": [
+      {
+        "sku_id": "950",
+        "sku_name": "Generador de vapor Express Easy, resultados impecables",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 2499.0,
+    "on_sale": true
+  },
+  {
     "name": "Jarra para cafetera CM223DMX original de repuesto",
     "reference": "9100036277",
     "brand": "T-fal",
@@ -61,27 +82,6 @@
     "price": 129.0,
     "list_price": 129.0,
     "on_sale": false
-  },
-  {
-    "name": "Plancha Puregliss Black and Silver, planchado impecable",
-    "reference": "1830009672",
-    "brand": "T-fal",
-    "category": "Planchas de vapor",
-    "description": "* Cartucho anti-sarro mantiene alto rendimiento.<br>* Suela Durilium Airglide Autoclean: La mejor suela de T-fal.<br>* Golpe de vapor elimina arrugas difíciles.<br>* Auto off brinda seguridad al planchar.",
-    "url": "https://www.t-fal.com.mx/plancha-puregliss-black-and-silver--planchado-impecable/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159495/1830009672_FV8067X0_PureglissSilver-01-.jpg?v=639123224084030000",
-    "skus": [
-      {
-        "sku_id": "1095",
-        "sku_name": "Plancha Puregliss Black and Silver, planchado impecable",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159495/1830009672_FV8067X0_PureglissSilver-01-.jpg?v=639123224084030000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 2149.0,
-    "on_sale": true
   },
   {
     "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
@@ -231,24 +231,45 @@
     "on_sale": false
   },
   {
-    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-    "reference": "9100057190",
+    "name": "Plancha Puregliss Black and Silver, planchado impecable",
+    "reference": "1830009672",
     "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
+    "category": "Planchas de vapor",
+    "description": "* Cartucho anti-sarro mantiene alto rendimiento.<br>* Suela Durilium Airglide Autoclean: La mejor suela de T-fal.<br>* Golpe de vapor elimina arrugas difíciles.<br>* Auto off brinda seguridad al planchar.",
+    "url": "https://www.t-fal.com.mx/plancha-puregliss-black-and-silver--planchado-impecable/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159495/1830009672_FV8067X0_PureglissSilver-01-.jpg?v=639123224084030000",
     "skus": [
       {
-        "sku_id": "1081",
-        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
+        "sku_id": "1095",
+        "sku_name": "Plancha Puregliss Black and Silver, planchado impecable",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159495/1830009672_FV8067X0_PureglissSilver-01-.jpg?v=639123224084030000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 99.0,
-    "list_price": 99.0,
+    "price": 1999.0,
+    "list_price": 2149.0,
+    "on_sale": true
+  },
+  {
+    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032672",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
+    "skus": [
+      {
+        "sku_id": "1082",
+        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 34.0,
+    "list_price": 34.0,
     "on_sale": false
   },
   {
@@ -816,27 +837,6 @@
     "country": "México",
     "price": 2699.0,
     "list_price": 2699.0,
-    "on_sale": false
-  },
-  {
-    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032672",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
-    "skus": [
-      {
-        "sku_id": "1082",
-        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 34.0,
-    "list_price": 34.0,
     "on_sale": false
   },
   {
@@ -4032,6 +4032,27 @@
     "on_sale": false
   },
   {
+    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+    "reference": "9100057190",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
+    "skus": [
+      {
+        "sku_id": "1081",
+        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 99.0,
+    "list_price": 99.0,
+    "on_sale": false
+  },
+  {
     "name": "Empaque/Junta para ollas de presión de aluminio de 4 y 6 litros.",
     "reference": "9100057310",
     "brand": "T-fal",
@@ -4176,27 +4197,6 @@
     "country": "México",
     "price": 2299.0,
     "list_price": 2299.0,
-    "on_sale": false
-  },
-  {
-    "name": "Generador de vapor Express Easy, resultados impecables",
-    "reference": "1830009002",
-    "brand": "T-fal",
-    "category": "Generadores de vapor",
-    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor de 280 g/min incluso las arrugas más rebeldes desaparecen fácilmente dejando tus prendas suaves y con acabado impecable. * LISTO EN SEGUNDOS: En tan solo 2 minutos alcanza la temperatura ideal perfecto para esos retoques de último momento o para iniciar tus sesiones de planchado sin esperas. * DISEÑO ULTRA-COMPACTO: Su tamaño reducido cabe en cualquier espacio facilitando el guardado y ofreciendo comodidad al moverlo de un lugar a otro. * MÁS AUTONOMÍA PARA TI: El tanque de agua de 1.4 L permite planchar por más tiempo sin interrupciones con la ventaja de recargar en cualquier momento. * CUIDADO DURADERO: La tecnología Calc Clear evita la acumulación de sarro alargando la vida del producto y asegurando un rendimiento constante día tras día.",
-    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-easy-resultados-impecables-950/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000",
-    "skus": [
-      {
-        "sku_id": "950",
-        "sku_name": "Generador de vapor Express Easy, resultados impecables",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2499.0,
-    "list_price": 2499.0,
     "on_sale": false
   }
 ]
