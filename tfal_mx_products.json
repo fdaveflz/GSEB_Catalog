@@ -63,27 +63,6 @@
     "on_sale": false
   },
   {
-    "name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
-    "reference": "5861036615",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-1-75lts-para-licuadoras-del-rango-optimix--powermix-e-infinyforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159389/5861036615_XF25E0IX_VASOVIDRIOINFINY-OPTIMIX-POWERMIXACC-01-.jpg?v=639119569704630000",
-    "skus": [
-      {
-        "sku_id": "1084",
-        "sku_name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159389/5861036615_XF25E0IX_VASOVIDRIOINFINY-OPTIMIX-POWERMIXACC-01-.jpg?v=639119569704630000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 179.0,
-    "list_price": 179.0,
-    "on_sale": false
-  },
-  {
     "name": "Set de 4 utensilios Resource hechos con materiales reciclados",
     "reference": "2100107080",
     "brand": "T-fal",
@@ -231,24 +210,45 @@
     "on_sale": true
   },
   {
-    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-    "reference": "9100057190",
+    "name": "Sartén Excellence+ 30cm Fusion Core",
+    "reference": "2100139013",
     "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
+    "category": "Sartenes y ollas individuales",
+    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
+    "url": "https://www.t-fal.com.mx/sarten-excellence--30cm-fusion-core/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159477/2100139013_G3300702_SARTEN30CMCCEXCELLENCE--01-.jpg?v=639123224580430000",
     "skus": [
       {
-        "sku_id": "1081",
-        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
+        "sku_id": "1092",
+        "sku_name": "Sartén Excellence+ 30cm Fusion Core",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159477/2100139013_G3300702_SARTEN30CMCCEXCELLENCE--01-.jpg?v=639123224580430000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 99.0,
-    "list_price": 99.0,
+    "price": 1839.0,
+    "list_price": 2299.0,
+    "on_sale": true
+  },
+  {
+    "name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
+    "reference": "5861036615",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-1-75lts-para-licuadoras-del-rango-optimix--powermix-e-infinyforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159389/5861036615_XF25E0IX_VASOVIDRIOINFINY-OPTIMIX-POWERMIXACC-01-.jpg?v=639119569704630000",
+    "skus": [
+      {
+        "sku_id": "1084",
+        "sku_name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159389/5861036615_XF25E0IX_VASOVIDRIOINFINY-OPTIMIX-POWERMIXACC-01-.jpg?v=639119569704630000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 179.0,
+    "list_price": 179.0,
     "on_sale": false
   },
   {
@@ -291,27 +291,6 @@
     "country": "México",
     "price": 389.0,
     "list_price": 389.0,
-    "on_sale": false
-  },
-  {
-    "name": "Batería 20 piezas Easy Care",
-    "reference": "2100124664",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* 20 piezas que te brindan todo lo necesario para cocinar tus recetas favoritas con los sartenes, ollas y accesorios necesarios",
-    "url": "https://www.t-fal.com.mx/bateria-20-piezas-easy-care/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159241/2100124664_B466SK84_BATERIA-20PCSEASYCBF2021NEGRASAMS_01.jpg?v=639086915157630000",
-    "skus": [
-      {
-        "sku_id": "1065",
-        "sku_name": "Batería 20 piezas Easy Care",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159241/2100124664_B466SK84_BATERIA-20PCSEASYCBF2021NEGRASAMS_01.jpg?v=639086915157630000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 3219.0,
-    "list_price": 3219.0,
     "on_sale": false
   },
   {
@@ -462,24 +441,24 @@
     "on_sale": true
   },
   {
-    "name": "Sartén 20cm Emotion SS",
-    "reference": "2100117986",
+    "name": "Sartén 30cm Emotion SS",
+    "reference": "2100117989",
     "brand": "T-fal",
     "category": "Sartenes y ollas individuales",
-    "description": "* Sartén Emotion de 20 cm fabricada en acero inoxidable de gran calidad. \n* resistente al uso diario y con acabado elegante que aporta estilo a tu cocina. \n* Tecnología Thermo-Signal en el centro de la sartén. \n* que cambia de color para indicar el momento óptimo de inicio de la cocción. \n* Su base de inducción ofrece un calentamiento rápido y uniforme. \n* Asegurando cocciones homogéneas y evitando puntos calientes. \n* Mango ergonómico con inserto de acero que garantiza un agarre seguro y cómodo. \n* Incluso a altas temperaturas y durante el uso prolongado. \n* Compatible con todas las fuentes de calor. \n* Incluida inducción. \n* Apta para horno y lavavajillas.",
-    "url": "https://www.t-fal.com.mx/sarten-20cm-emotion-ss/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158071/2100117986_E3000204_Sarten_20cm_Emotion_SS-1-.jpg?v=638932151136500000",
+    "description": "* Sartén Emotion de 30 cm fabricada en acero inoxidable de gran calidad. \n* resistente al uso diario y con acabado elegante que aporta estilo a tu cocina. \n* Tecnología Thermo-Signal en el centro de la sartén. \n* que cambia de color para indicar el momento óptimo de inicio de la cocción. \n* Su base de inducción ofrece un calentamiento rápido y uniforme. \n* Asegurando cocciones homogéneas y evitando puntos calientes. \n* Mango ergonómico con inserto de acero que garantiza un agarre seguro y cómodo. \n* Incluso a altas temperaturas y durante el uso prolongado. \n* Compatible con todas las fuentes de calor. \n* Incluida inducción. \n* Apta para horno y lavavajillas.",
+    "url": "https://www.t-fal.com.mx/sarten-30cm-emotion-ss/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158065/2100117989_E3000704_Sarten_30cm_Emotion_SS-1-.jpg?v=638932150849300000",
     "skus": [
       {
-        "sku_id": "972",
-        "sku_name": "Sartén 20cm Emotion SS",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158071/2100117986_E3000204_Sarten_20cm_Emotion_SS-1-.jpg?v=638932151136500000"
+        "sku_id": "971",
+        "sku_name": "Sartén 30cm Emotion SS",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158065/2100117989_E3000704_Sarten_30cm_Emotion_SS-1-.jpg?v=638932150849300000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 549.0,
-    "list_price": 549.0,
+    "price": 699.0,
+    "list_price": 699.0,
     "on_sale": false
   },
   {
@@ -651,6 +630,27 @@
     "on_sale": false
   },
   {
+    "name": "Generador de vapor Express Anti-calcio, resultados perfectos",
+    "reference": "1830008962",
+    "brand": "T-fal",
+    "category": "Generadores de vapor",
+    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor profesional de 400 g/min, incluso las arrugas más difíciles en telas gruesas desaparecen en segundos.\n* DURABILIDAD GARANTIZADA: Su colector de sarro removible alarga la vida útil del producto y asegura un rendimiento óptimo día tras día, con tecnología silenciosa para mayor comodidad.\n* LISTO EN SEGUNDOS: En solo 2 minutos el generador está listo para usar, brindando potencia inmediata para sesiones de planchado rápidas y sin interrupciones.\n* CUIDADO SEGURO EN TODA TELA: La tecnología No-Setting ajusta automáticamente la combinación perfecta de vapor y temperatura, protegiendo incluso las prendas más delicadas.\n* AUTONOMÍA ILIMITADA: Gracias al depósito XL de 1.8 L con rellenado continuo, podrás planchar grandes cantidades de ropa sin pausas ni complicaciones.",
+    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-anti-calcio-resultados-perfectos-951/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158021/1830008962_SV8062X0_ExpressAnticalBlack-Silver-01-.jpg?v=638930562887270000",
+    "skus": [
+      {
+        "sku_id": "951",
+        "sku_name": "Generador de vapor Express Anti-calcio, resultados perfectos",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158021/1830008962_SV8062X0_ExpressAnticalBlack-Silver-01-.jpg?v=638930562887270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 3999.0,
+    "list_price": 3999.0,
+    "on_sale": false
+  },
+  {
     "name": "Batería Red Supercook 26 piezas",
     "reference": "2100131913",
     "brand": "T-fal",
@@ -690,6 +690,27 @@
     "country": "México",
     "price": 5899.0,
     "list_price": 5899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Vaporizador Pure Force 3 en 1: Vapor, Planchado y Eliminación de Pelusa",
+    "reference": "1830009871",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* SOLUCIÓN 3 EN 1: Vaporiza, plancha y elimina pelusa con un solo equipo, cambiando fácilmente entre uso horizontal y vertical.<br>* VAPOR EXTRA POTENTE: Hasta 300% más vapor en modo Boost y calentamiento en solo 25 segundos para eliminar arrugas rápidamente.<br>* CUIDADO COMPLETO: Incluye 2 almohadillas reversibles para remover pelusa, cabello y micro-polvo, incluso en telas delicadas.<br>* MAYOR AUTONOMÍA: Tanque removible de 180 ml que brinda hasta 12 minutos de vapor continuo para cuidar varias prendas sin recargar.<br>* REFRESCA Y SANITIZA: El poder natural del vapor ayuda a eliminar hasta 99.99% de virus, bacterias y gérmenes, además de reducir olores.",
+    "url": "https://www.t-fal.com.mx/vaporizador-pure-force-3-en-1-vapor-planchado-y-eliminacion-de-pelusa-dt8765x1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159886/1830009871_DT8765X1_T-FAL-Pure-Force-3-en-1-01-.webp?v=639193013818070000",
+    "skus": [
+      {
+        "sku_id": "1132",
+        "sku_name": "Vaporizador Pure Force 3 en 1: Vapor, Planchado y Eliminación de Pelusa",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159886/1830009871_DT8765X1_T-FAL-Pure-Force-3-en-1-01-.webp?v=639193013818070000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
     "on_sale": false
   },
   {
@@ -840,27 +861,6 @@
     "on_sale": false
   },
   {
-    "name": "Tapa de vidrio templado de 30 cm con válvula de liberación de presión",
-    "reference": "2028097812",
-    "brand": "T-fal",
-    "category": "Tapas de vidrio",
-    "description": "*Monitoreo visual sin interrupciones:El vidrio templado permite supervisar el avance de la cocción en tiempo real sin necesidad de levantar la tapa, manteniendo el calor constante dentro del utensilio.<br> *Control inteligente de vapor: Incluye una válvula de liberación de presión que gestiona el exceso de vapor de manera segura, evitando derrames y garantizando una cocción precisa.<br> *Sellado de máxima jugosidad: Su borde de acero inoxidable de alta calidad asegura un ajuste perfecto que retiene la humedad y los nutrientes, logrando resultados más sabrosos y tiernos.<br> *Resistencia y seguridad térmica: Fabricadas con materiales diseñados para soportar altas temperaturas y cambios bruscos de calor, ofreciendo durabilidad excepcional en el uso diario.<br> *Higiene y limpieza profunda: Gracias a su superficie lisa y materiales premium, son totalmente aptas para lavavajillas, facilitando la limpieza y evitando la acumulación de olores.",
-    "url": "https://www.t-fal.com.mx/tapa-de-vidrio-templado-de-28-cm-con-valvula-de-liberacion-de-presion/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159276/2028097812_28097812_TAPADEVIDRIO30CM-1-.jpg?v=639092783670730000",
-    "skus": [
-      {
-        "sku_id": "1071",
-        "sku_name": "Tapa de vidrio templado de 30 cm con válvula de liberación de presión",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159276/2028097812_28097812_TAPADEVIDRIO30CM-1-.jpg?v=639092783670730000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 329.0,
-    "list_price": 329.0,
-    "on_sale": false
-  },
-  {
     "name": "Tapa de vidrio templado de 20 cm con válvula de liberación de presión",
     "reference": "2028097312",
     "brand": "T-fal",
@@ -985,6 +985,27 @@
     "price": 699.0,
     "list_price": 699.0,
     "on_sale": false
+  },
+  {
+    "name": "Sandwichera 3 en 1 Ultracompact",
+    "reference": "8010001328",
+    "brand": "T-fal",
+    "category": "Sandwicheras y Parillas",
+    "description": "* VERSATILIDAD 3 EN 1: La sandwichera te permite disfrutar de sándwiches dorados, waffles y paninis, todo con un solo producto, asegurando una experiencia culinaria completa y variada.\n* PLACAS INTERCAMBIABLES: Las placas son fáciles de quitar y poner, facilitando la limpieza y el almacenamiento, mientras te ofrecen la flexibilidad de preparar diferentes tipos de alimentos sin complicaciones.\n* TECNOLOGÍA ANTIADHERENTE T-FAL: Garantiza una cocción perfecta sin que los alimentos se peguen, además de ser segura para tus comidas al estar libre de PFOA´s, haciendo que la limpieza sea rápida y sencilla.\n* DISEÑO COMPACTO: Su tamaño compacto permite que la sandwichera se guarde cómodamente en cualquier espacio de la cocina, sin ocupar más lugar del necesario, ideal para optimizar el espacio disponible.\n* CIERRES Y MANGOS SEGUROS: Cuenta con cierres seguros y mangos resistentes al calor, proporcionando un uso cómodo y seguro, convirtiéndose en el complemento perfecto para añadir versatilidad y comodidad a tus preparaciones diarias.",
+    "url": "https://www.t-fal.com.mx/sandwichera-3-en-1-ultracompact/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158753/8010001328_SW383DX0_SANDWICHERA3en1_ULTRACOMPACT-1-.jpg?v=638950366632000000",
+    "skus": [
+      {
+        "sku_id": "1023",
+        "sku_name": "Sandwichera 3 en 1 Ultracompact",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158753/8010001328_SW383DX0_SANDWICHERA3en1_ULTRACOMPACT-1-.jpg?v=638950366632000000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1199.0,
+    "list_price": 1699.0,
+    "on_sale": true
   },
   {
     "name": "Procesador de Alimentos Chopper Power Max",
@@ -1218,27 +1239,6 @@
     "on_sale": false
   },
   {
-    "name": "Sartén 30cm Emotion SS",
-    "reference": "2100117989",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Sartén Emotion de 30 cm fabricada en acero inoxidable de gran calidad. \n* resistente al uso diario y con acabado elegante que aporta estilo a tu cocina. \n* Tecnología Thermo-Signal en el centro de la sartén. \n* que cambia de color para indicar el momento óptimo de inicio de la cocción. \n* Su base de inducción ofrece un calentamiento rápido y uniforme. \n* Asegurando cocciones homogéneas y evitando puntos calientes. \n* Mango ergonómico con inserto de acero que garantiza un agarre seguro y cómodo. \n* Incluso a altas temperaturas y durante el uso prolongado. \n* Compatible con todas las fuentes de calor. \n* Incluida inducción. \n* Apta para horno y lavavajillas.",
-    "url": "https://www.t-fal.com.mx/sarten-30cm-emotion-ss/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158065/2100117989_E3000704_Sarten_30cm_Emotion_SS-1-.jpg?v=638932150849300000",
-    "skus": [
-      {
-        "sku_id": "971",
-        "sku_name": "Sartén 30cm Emotion SS",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158065/2100117989_E3000704_Sarten_30cm_Emotion_SS-1-.jpg?v=638932150849300000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 699.0,
-    "list_price": 699.0,
-    "on_sale": false
-  },
-  {
     "name": "Milkpot Opti’Space 16 cm de acero con tapa",
     "reference": "2100130060",
     "brand": "T-fal",
@@ -1449,24 +1449,24 @@
     "on_sale": false
   },
   {
-    "name": "Generador de vapor Express Anti-calcio, resultados perfectos",
-    "reference": "1830008962",
+    "name": "Cafetera Filtro Heliora Petit 4 tazas",
+    "reference": "1500636903",
     "brand": "T-fal",
-    "category": "Generadores de vapor",
-    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor profesional de 400 g/min, incluso las arrugas más difíciles en telas gruesas desaparecen en segundos.\n* DURABILIDAD GARANTIZADA: Su colector de sarro removible alarga la vida útil del producto y asegura un rendimiento óptimo día tras día, con tecnología silenciosa para mayor comodidad.\n* LISTO EN SEGUNDOS: En solo 2 minutos el generador está listo para usar, brindando potencia inmediata para sesiones de planchado rápidas y sin interrupciones.\n* CUIDADO SEGURO EN TODA TELA: La tecnología No-Setting ajusta automáticamente la combinación perfecta de vapor y temperatura, protegiendo incluso las prendas más delicadas.\n* AUTONOMÍA ILIMITADA: Gracias al depósito XL de 1.8 L con rellenado continuo, podrás planchar grandes cantidades de ropa sin pausas ni complicaciones.",
-    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-anti-calcio-resultados-perfectos-951/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158021/1830008962_SV8062X0_ExpressAnticalBlack-Silver-01-.jpg?v=638930562887270000",
+    "category": "Cafeteras y Hervidores",
+    "description": "* PRÁCTICA Y COMPACTA: Su diseño compacto y funcional la hace ideal para cualquier cocina. Ocupando el mínimo espacio sin sacrificar rendimiento ni estilo. * SISTEMA ANTI GOTEO: Equipado con un sistema anti goteo que asegura que no haya derrames ni goteos después de servir. Manteniendo tu cocina limpia y sin desorden. * CAPACIDAD PARA 4 TAZAS: Con una capacidad de hasta 4 tazas. Es perfecta para disfrutar de un buen café en solitario o compartirlo con alguien más. * FILTRO PERMANENTE: Gracias a su filtro permanente. No necesitarás filtros desechables. Lo que la convierte en una opción más económica y amigable con el medio ambiente. * CUCHARA MEDIDORA INCLUIDA: Viene con una cuchara medidora para ayudarte a usar la cantidad exacta de café molido. Garantizando la intensidad perfecta para tu bebida. * SE ADECUA A CUALQUIER ESPACIO: Su tamaño compacto permite que se ajuste fácilmente a cualquier rincón de tu cocina. Sin ocupar demasiado espacio ni perder funcionalidad.",
+    "url": "https://www.t-fal.com.mx/cafetera-filtro-heliora-petit-4-tazas-951/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000",
     "skus": [
       {
-        "sku_id": "951",
-        "sku_name": "Generador de vapor Express Anti-calcio, resultados perfectos",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158021/1830008962_SV8062X0_ExpressAnticalBlack-Silver-01-.jpg?v=638930562887270000"
+        "sku_id": "961",
+        "sku_name": "Cafetera Filtro Heliora Petit 4 tazas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3999.0,
-    "list_price": 3999.0,
+    "price": 449.0,
+    "list_price": 449.0,
     "on_sale": false
   },
   {
@@ -1509,27 +1509,6 @@
     "country": "México",
     "price": 349.0,
     "list_price": 349.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaporizador Pure Force 3 en 1: Vapor, Planchado y Eliminación de Pelusa",
-    "reference": "1830009871",
-    "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* SOLUCIÓN 3 EN 1: Vaporiza, plancha y elimina pelusa con un solo equipo, cambiando fácilmente entre uso horizontal y vertical.<br>* VAPOR EXTRA POTENTE: Hasta 300% más vapor en modo Boost y calentamiento en solo 25 segundos para eliminar arrugas rápidamente.<br>* CUIDADO COMPLETO: Incluye 2 almohadillas reversibles para remover pelusa, cabello y micro-polvo, incluso en telas delicadas.<br>* MAYOR AUTONOMÍA: Tanque removible de 180 ml que brinda hasta 12 minutos de vapor continuo para cuidar varias prendas sin recargar.<br>* REFRESCA Y SANITIZA: El poder natural del vapor ayuda a eliminar hasta 99.99% de virus, bacterias y gérmenes, además de reducir olores.",
-    "url": "https://www.t-fal.com.mx/vaporizador-pure-force-3-en-1-vapor-planchado-y-eliminacion-de-pelusa-dt8765x1/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159886/1830009871_DT8765X1_T-FAL-Pure-Force-3-en-1-01-.webp?v=639193013818070000",
-    "skus": [
-      {
-        "sku_id": "1132",
-        "sku_name": "Vaporizador Pure Force 3 en 1: Vapor, Planchado y Eliminación de Pelusa",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159886/1830009871_DT8765X1_T-FAL-Pure-Force-3-en-1-01-.webp?v=639193013818070000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
     "on_sale": false
   },
   {
@@ -1827,27 +1806,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén Excellence+ 30cm Fusion Core",
-    "reference": "2100139013",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
-    "url": "https://www.t-fal.com.mx/sarten-excellence--30cm-fusion-core/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159477/2100139013_G3300702_SARTEN30CMCCEXCELLENCE--01-.jpg?v=639123224580430000",
-    "skus": [
-      {
-        "sku_id": "1092",
-        "sku_name": "Sartén Excellence+ 30cm Fusion Core",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159477/2100139013_G3300702_SARTEN30CMCCEXCELLENCE--01-.jpg?v=639123224580430000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1839.0,
-    "list_price": 2299.0,
-    "on_sale": true
-  },
-  {
     "name": "Crepera Excellence+ 25cm Fusion Core",
     "reference": "2100139010",
     "brand": "T-fal",
@@ -1995,6 +1953,27 @@
     "on_sale": true
   },
   {
+    "name": "Tapa de vidrio templado de 30 cm con válvula de liberación de presión",
+    "reference": "2028097812",
+    "brand": "T-fal",
+    "category": "Tapas de vidrio",
+    "description": "*Monitoreo visual sin interrupciones:El vidrio templado permite supervisar el avance de la cocción en tiempo real sin necesidad de levantar la tapa, manteniendo el calor constante dentro del utensilio.<br> *Control inteligente de vapor: Incluye una válvula de liberación de presión que gestiona el exceso de vapor de manera segura, evitando derrames y garantizando una cocción precisa.<br> *Sellado de máxima jugosidad: Su borde de acero inoxidable de alta calidad asegura un ajuste perfecto que retiene la humedad y los nutrientes, logrando resultados más sabrosos y tiernos.<br> *Resistencia y seguridad térmica: Fabricadas con materiales diseñados para soportar altas temperaturas y cambios bruscos de calor, ofreciendo durabilidad excepcional en el uso diario.<br> *Higiene y limpieza profunda: Gracias a su superficie lisa y materiales premium, son totalmente aptas para lavavajillas, facilitando la limpieza y evitando la acumulación de olores.",
+    "url": "https://www.t-fal.com.mx/tapa-de-vidrio-templado-de-28-cm-con-valvula-de-liberacion-de-presion/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159276/2028097812_28097812_TAPADEVIDRIO30CM-1-.jpg?v=639092783670730000",
+    "skus": [
+      {
+        "sku_id": "1071",
+        "sku_name": "Tapa de vidrio templado de 30 cm con válvula de liberación de presión",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159276/2028097812_28097812_TAPADEVIDRIO30CM-1-.jpg?v=639092783670730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 329.0,
+    "list_price": 329.0,
+    "on_sale": false
+  },
+  {
     "name": "Batería 16 piezas Culinare",
     "reference": "2100112169",
     "brand": "T-fal",
@@ -2034,6 +2013,27 @@
     "country": "México",
     "price": 3499.0,
     "list_price": 3499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Batería 20 piezas Easy Care",
+    "reference": "2100124664",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* 20 piezas que te brindan todo lo necesario para cocinar tus recetas favoritas con los sartenes, ollas y accesorios necesarios",
+    "url": "https://www.t-fal.com.mx/bateria-20-piezas-easy-care/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159241/2100124664_B466SK84_BATERIA-20PCSEASYCBF2021NEGRASAMS_01.jpg?v=639086915157630000",
+    "skus": [
+      {
+        "sku_id": "1065",
+        "sku_name": "Batería 20 piezas Easy Care",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159241/2100124664_B466SK84_BATERIA-20PCSEASYCBF2021NEGRASAMS_01.jpg?v=639086915157630000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 3219.0,
+    "list_price": 3219.0,
     "on_sale": false
   },
   {
@@ -2496,27 +2496,6 @@
     "country": "México",
     "price": 1039.0,
     "list_price": 1049.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sandwichera 3 en 1 Ultracompact",
-    "reference": "8010001328",
-    "brand": "T-fal",
-    "category": "Sandwicheras y Parillas",
-    "description": "* VERSATILIDAD 3 EN 1: La sandwichera te permite disfrutar de sándwiches dorados, waffles y paninis, todo con un solo producto, asegurando una experiencia culinaria completa y variada.\n* PLACAS INTERCAMBIABLES: Las placas son fáciles de quitar y poner, facilitando la limpieza y el almacenamiento, mientras te ofrecen la flexibilidad de preparar diferentes tipos de alimentos sin complicaciones.\n* TECNOLOGÍA ANTIADHERENTE T-FAL: Garantiza una cocción perfecta sin que los alimentos se peguen, además de ser segura para tus comidas al estar libre de PFOA´s, haciendo que la limpieza sea rápida y sencilla.\n* DISEÑO COMPACTO: Su tamaño compacto permite que la sandwichera se guarde cómodamente en cualquier espacio de la cocina, sin ocupar más lugar del necesario, ideal para optimizar el espacio disponible.\n* CIERRES Y MANGOS SEGUROS: Cuenta con cierres seguros y mangos resistentes al calor, proporcionando un uso cómodo y seguro, convirtiéndose en el complemento perfecto para añadir versatilidad y comodidad a tus preparaciones diarias.",
-    "url": "https://www.t-fal.com.mx/sandwichera-3-en-1-ultracompact/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158753/8010001328_SW383DX0_SANDWICHERA3en1_ULTRACOMPACT-1-.jpg?v=638950366632000000",
-    "skus": [
-      {
-        "sku_id": "1023",
-        "sku_name": "Sandwichera 3 en 1 Ultracompact",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158753/8010001328_SW383DX0_SANDWICHERA3en1_ULTRACOMPACT-1-.jpg?v=638950366632000000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1199.0,
-    "list_price": 1699.0,
     "on_sale": true
   },
   {
@@ -3087,6 +3066,27 @@
     "on_sale": false
   },
   {
+    "name": "Sartén 20cm Emotion SS",
+    "reference": "2100117986",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Sartén Emotion de 20 cm fabricada en acero inoxidable de gran calidad. \n* resistente al uso diario y con acabado elegante que aporta estilo a tu cocina. \n* Tecnología Thermo-Signal en el centro de la sartén. \n* que cambia de color para indicar el momento óptimo de inicio de la cocción. \n* Su base de inducción ofrece un calentamiento rápido y uniforme. \n* Asegurando cocciones homogéneas y evitando puntos calientes. \n* Mango ergonómico con inserto de acero que garantiza un agarre seguro y cómodo. \n* Incluso a altas temperaturas y durante el uso prolongado. \n* Compatible con todas las fuentes de calor. \n* Incluida inducción. \n* Apta para horno y lavavajillas.",
+    "url": "https://www.t-fal.com.mx/sarten-20cm-emotion-ss/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158071/2100117986_E3000204_Sarten_20cm_Emotion_SS-1-.jpg?v=638932151136500000",
+    "skus": [
+      {
+        "sku_id": "972",
+        "sku_name": "Sartén 20cm Emotion SS",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158071/2100117986_E3000204_Sarten_20cm_Emotion_SS-1-.jpg?v=638932151136500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 549.0,
+    "list_price": 549.0,
+    "on_sale": false
+  },
+  {
     "name": "Freidora de Aire 6 L Infrared",
     "reference": "7211419336",
     "brand": "T-fal",
@@ -3612,27 +3612,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Filtro Heliora Petit 4 tazas",
-    "reference": "1500636903",
-    "brand": "T-fal",
-    "category": "Cafeteras y Hervidores",
-    "description": "* PRÁCTICA Y COMPACTA: Su diseño compacto y funcional la hace ideal para cualquier cocina. Ocupando el mínimo espacio sin sacrificar rendimiento ni estilo. * SISTEMA ANTI GOTEO: Equipado con un sistema anti goteo que asegura que no haya derrames ni goteos después de servir. Manteniendo tu cocina limpia y sin desorden. * CAPACIDAD PARA 4 TAZAS: Con una capacidad de hasta 4 tazas. Es perfecta para disfrutar de un buen café en solitario o compartirlo con alguien más. * FILTRO PERMANENTE: Gracias a su filtro permanente. No necesitarás filtros desechables. Lo que la convierte en una opción más económica y amigable con el medio ambiente. * CUCHARA MEDIDORA INCLUIDA: Viene con una cuchara medidora para ayudarte a usar la cantidad exacta de café molido. Garantizando la intensidad perfecta para tu bebida. * SE ADECUA A CUALQUIER ESPACIO: Su tamaño compacto permite que se ajuste fácilmente a cualquier rincón de tu cocina. Sin ocupar demasiado espacio ni perder funcionalidad.",
-    "url": "https://www.t-fal.com.mx/cafetera-filtro-heliora-petit-4-tazas-951/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000",
-    "skus": [
-      {
-        "sku_id": "961",
-        "sku_name": "Cafetera Filtro Heliora Petit 4 tazas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 449.0,
-    "list_price": 449.0,
-    "on_sale": false
-  },
-  {
     "name": "Cafetera Filtro Elegance 7 tazas",
     "reference": "8010000623",
     "brand": "T-fal",
@@ -3775,8 +3754,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": null,
-    "list_price": null,
+    "price": 999.0,
+    "list_price": 999.0,
     "on_sale": false
   },
   {
@@ -3966,6 +3945,27 @@
     "country": "México",
     "price": 34.0,
     "list_price": 34.0,
+    "on_sale": false
+  },
+  {
+    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+    "reference": "9100057190",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
+    "skus": [
+      {
+        "sku_id": "1081",
+        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 99.0,
+    "list_price": 99.0,
     "on_sale": false
   },
   {
