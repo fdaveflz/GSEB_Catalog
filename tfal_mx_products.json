@@ -105,27 +105,6 @@
     "on_sale": false
   },
   {
-    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-    "reference": "5861032684",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
-    "skus": [
-      {
-        "sku_id": "916",
-        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1749.0,
-    "list_price": 1799.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
     "reference": "1830009484",
     "brand": "T-fal",
@@ -228,6 +207,27 @@
     "country": "México",
     "price": 179.0,
     "list_price": 179.0,
+    "on_sale": false
+  },
+  {
+    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+    "reference": "9100057190",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
+    "skus": [
+      {
+        "sku_id": "1081",
+        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 99.0,
+    "list_price": 99.0,
     "on_sale": false
   },
   {
@@ -1111,27 +1111,6 @@
     "price": 899.0,
     "list_price": 899.0,
     "on_sale": false
-  },
-  {
-    "name": "Licuadora 8 V Vaso Vidrio Ultraforce",
-    "reference": "5861035500",
-    "brand": "T-fal",
-    "category": "Licuadoras",
-    "description": "* GRAN CAPACIDAD DE LICUADO: Su vaso de vidrio templado de 2.2L (1.8L útiles) permite preparar licuados grandes para toda la familia en una sola operación, ideal para cualquier reunión.\n* POTENTE Y SILENCIOSA: Con 1000 watts de potencia pico, esta licuadora ahorra tiempo en cada preparación ofreciendo resultados excelentes sin el ruido molesto.\n* CORTE EFICIENTE CON TECNOLOGÍA POWELIX PRO: Equipada con 6 cuchillas de acero inoxidable, procesando hasta los ingredientes más duros, brindando hasta 4 veces más eficiencia en cada mezcla.\n* ROBUSTEZ Y DURABILIDAD: Acople Carbon Drive de policarbonato que no se barre ni se oxida, garantizando una mayor duración y fiabilidad a largo plazo.\n* FÁCIL LIMPIEZA Y GARANTÍA CONFIABLE: Los componentes del vaso son desmontables para un lavado sencillo. Respaldada por una garantía T-FAL de 2 años, asegurando tranquilidad y satisfacción.",
-    "url": "https://www.t-fal.com.mx/licuadora-8-v-vaso-vidrio-ultraforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158208/5861035500_LN348DX0_Ultraforce_-1-.jpg?v=638942319433270000",
-    "skus": [
-      {
-        "sku_id": "1005",
-        "sku_name": "Licuadora 8 V Vaso Vidrio Ultraforce",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158208/5861035500_LN348DX0_Ultraforce_-1-.jpg?v=638942319433270000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1289.0,
-    "list_price": 1649.0,
-    "on_sale": true
   },
   {
     "name": "Licuadora Vaso Vidrio Ultraforce Pro Inox",
@@ -2709,6 +2688,27 @@
     "on_sale": true
   },
   {
+    "name": "Licuadora 8 V Vaso Vidrio Ultraforce",
+    "reference": "5861035500",
+    "brand": "T-fal",
+    "category": "Licuadoras",
+    "description": "* GRAN CAPACIDAD DE LICUADO: Su vaso de vidrio templado de 2.2L (1.8L útiles) permite preparar licuados grandes para toda la familia en una sola operación, ideal para cualquier reunión.\n* POTENTE Y SILENCIOSA: Con 1000 watts de potencia pico, esta licuadora ahorra tiempo en cada preparación ofreciendo resultados excelentes sin el ruido molesto.\n* CORTE EFICIENTE CON TECNOLOGÍA POWELIX PRO: Equipada con 6 cuchillas de acero inoxidable, procesando hasta los ingredientes más duros, brindando hasta 4 veces más eficiencia en cada mezcla.\n* ROBUSTEZ Y DURABILIDAD: Acople Carbon Drive de policarbonato que no se barre ni se oxida, garantizando una mayor duración y fiabilidad a largo plazo.\n* FÁCIL LIMPIEZA Y GARANTÍA CONFIABLE: Los componentes del vaso son desmontables para un lavado sencillo. Respaldada por una garantía T-FAL de 2 años, asegurando tranquilidad y satisfacción.",
+    "url": "https://www.t-fal.com.mx/licuadora-8-v-vaso-vidrio-ultraforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158208/5861035500_LN348DX0_Ultraforce_-1-.jpg?v=638942319433270000",
+    "skus": [
+      {
+        "sku_id": "1005",
+        "sku_name": "Licuadora 8 V Vaso Vidrio Ultraforce",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158208/5861035500_LN348DX0_Ultraforce_-1-.jpg?v=638942319433270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1289.0,
+    "list_price": 1649.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora 12 V Vaso Vidrio Infinyforce XL",
     "reference": "5861031952",
     "brand": "T-fal",
@@ -3085,27 +3085,6 @@
     "price": 549.0,
     "list_price": 549.0,
     "on_sale": false
-  },
-  {
-    "name": "Freidora de Aire 6 L Infrared",
-    "reference": "7211419336",
-    "brand": "T-fal",
-    "category": "Freidoras de aire y aceite",
-    "description": "* Experimenta la freidora de aire más avanzada con la nueva tecnología Infrared, la cual penetra tus alimentos desde el centro * Esta freidora garantiza resultados deliciosos y crujientes sin esfuerzo.\n* Elemento calefactor rápido: Alcanza 400 °C en tan solo 45 segundos, proporcionando una cocción rápida y eficiente.\n* Acabado perfecto: Penetración de calor Infrared que asegura carnes jugosas por dentro y textura crujiente por fuera.\n* Ventana iluminada: Observa el proceso de cocción sin perder el calor, garantizando alimentos perfectamente cocinados.\n* Ingenioso diseño de flujo de aire: No requiere agitar los alimentos, incluso hasta 300 g de patatas fritas congeladas se cocinan uniformemente.\n* Fácil de usar: Siéntate y disfruta de comidas deliciosas con facilidad, gracias a la tecnología avanzada y diseño intuitivo.",
-    "url": "https://www.t-fal.com.mx/freidora-de-aire-6-l-infrared/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000",
-    "skus": [
-      {
-        "sku_id": "969",
-        "sku_name": "Freidora de Aire 6 L Infrared",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2399.0,
-    "list_price": 2409.0,
-    "on_sale": true
   },
   {
     "name": "Batería Natural Force 9 pzas Mineralia+",
@@ -3948,27 +3927,6 @@
     "on_sale": false
   },
   {
-    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-    "reference": "9100057190",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
-    "skus": [
-      {
-        "sku_id": "1081",
-        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 99.0,
-    "list_price": 99.0,
-    "on_sale": false
-  },
-  {
     "name": "Empaque/Junta para ollas de presión de aluminio de 4 y 6 litros.",
     "reference": "9100057310",
     "brand": "T-fal",
@@ -4050,6 +4008,48 @@
     "country": "México",
     "price": 3499.0,
     "list_price": 3499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Freidora de Aire 6 L Infrared",
+    "reference": "7211419336",
+    "brand": "T-fal",
+    "category": "Freidoras de aire y aceite",
+    "description": "* Experimenta la freidora de aire más avanzada con la nueva tecnología Infrared, la cual penetra tus alimentos desde el centro * Esta freidora garantiza resultados deliciosos y crujientes sin esfuerzo.\n* Elemento calefactor rápido: Alcanza 400 °C en tan solo 45 segundos, proporcionando una cocción rápida y eficiente.\n* Acabado perfecto: Penetración de calor Infrared que asegura carnes jugosas por dentro y textura crujiente por fuera.\n* Ventana iluminada: Observa el proceso de cocción sin perder el calor, garantizando alimentos perfectamente cocinados.\n* Ingenioso diseño de flujo de aire: No requiere agitar los alimentos, incluso hasta 300 g de patatas fritas congeladas se cocinan uniformemente.\n* Fácil de usar: Siéntate y disfruta de comidas deliciosas con facilidad, gracias a la tecnología avanzada y diseño intuitivo.",
+    "url": "https://www.t-fal.com.mx/freidora-de-aire-6-l-infrared/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000",
+    "skus": [
+      {
+        "sku_id": "969",
+        "sku_name": "Freidora de Aire 6 L Infrared",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2409.0,
+    "list_price": 2409.0,
+    "on_sale": false
+  },
+  {
+    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+    "reference": "5861032684",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
+    "skus": [
+      {
+        "sku_id": "916",
+        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1799.0,
+    "list_price": 1799.0,
     "on_sale": false
   }
 ]
