@@ -231,27 +231,6 @@
     "on_sale": false
   },
   {
-    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-    "reference": "9100057190",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
-    "skus": [
-      {
-        "sku_id": "1081",
-        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 99.0,
-    "list_price": 99.0,
-    "on_sale": false
-  },
-  {
     "name": "Freidora de Aire 7L Infrared, Calentamiento Dual, Doble Ventana",
     "reference": "7211419908",
     "brand": "T-fal",
@@ -1048,27 +1027,6 @@
     "price": 1399.0,
     "list_price": 1999.0,
     "on_sale": true
-  },
-  {
-    "name": "Robot de Cocina Easy Soup",
-    "reference": "7211419521",
-    "brand": "T-fal",
-    "category": "Licuadoras",
-    "description": "* VERSATILIDAD CON 5 PROGRAMAS AUTOMÁTICOS: Este robot de cocina ofrece programas específicamente diseñados para preparar sopas, cremas, papillas y batidos, además de contar con una función de autolimpieza para mayor comodidad.\n* CAPACIDAD ÓPTIMA DE 1.2 L: Su tamaño ideal permite elaborar de 1 a 4 porciones, perfecto para familias pequeñas o preparaciones individuales, maximizando la eficiencia en la cocina.\n* FUNCIÓN AUTOMÁTICA DE MANTENER CALIENTE: Mantiene tus comidas a la temperatura adecuada con una función automática que conserva el calor durante 40 minutos después de la preparación.\n* POTENTE MOTOR DE 800 WATTS: Con alta potencia, garantiza un rendimiento eficaz al mezclar y calentar ingredientes, optimizando tiempo y resultados en cada preparación.\n* DISEÑO COMPACTO Y FÁCIL DE LIMPIAR: Su exterior de plástico es sencillo de limpiar, y el diseño compacto hace que se ajuste perfectamente a cualquier espacio de cocina, sin ocupar demasiado lugar.",
-    "url": "https://www.t-fal.com.mx/robot-de-cocina-easy-soup/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159742/7211419521_BL8411X0_SOUP MAKER 00.webp?v=639150824575100000",
-    "skus": [
-      {
-        "sku_id": "1009",
-        "sku_name": "Robot de Cocina Easy Soup",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159742/7211419521_BL8411X0_SOUP MAKER 00.webp?v=639150824575100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2399.0,
-    "list_price": 2399.0,
-    "on_sale": false
   },
   {
     "name": "Licuadora Vaso Vidrio Ultraforce Auto",
@@ -2667,6 +2625,27 @@
     "on_sale": true
   },
   {
+    "name": "Robot de Cocina Easy Soup",
+    "reference": "7211419521",
+    "brand": "T-fal",
+    "category": "Licuadoras",
+    "description": "* VERSATILIDAD CON 5 PROGRAMAS AUTOMÁTICOS: Este robot de cocina ofrece programas específicamente diseñados para preparar sopas, cremas, papillas y batidos, además de contar con una función de autolimpieza para mayor comodidad.\n* CAPACIDAD ÓPTIMA DE 1.2 L: Su tamaño ideal permite elaborar de 1 a 4 porciones, perfecto para familias pequeñas o preparaciones individuales, maximizando la eficiencia en la cocina.\n* FUNCIÓN AUTOMÁTICA DE MANTENER CALIENTE: Mantiene tus comidas a la temperatura adecuada con una función automática que conserva el calor durante 40 minutos después de la preparación.\n* POTENTE MOTOR DE 800 WATTS: Con alta potencia, garantiza un rendimiento eficaz al mezclar y calentar ingredientes, optimizando tiempo y resultados en cada preparación.\n* DISEÑO COMPACTO Y FÁCIL DE LIMPIAR: Su exterior de plástico es sencillo de limpiar, y el diseño compacto hace que se ajuste perfectamente a cualquier espacio de cocina, sin ocupar demasiado lugar.",
+    "url": "https://www.t-fal.com.mx/robot-de-cocina-easy-soup/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159742/7211419521_BL8411X0_SOUP MAKER 00.webp?v=639150824575100000",
+    "skus": [
+      {
+        "sku_id": "1009",
+        "sku_name": "Robot de Cocina Easy Soup",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159742/7211419521_BL8411X0_SOUP MAKER 00.webp?v=639150824575100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2399.0,
+    "list_price": 2399.0,
+    "on_sale": false
+  },
+  {
     "name": "Licuadora Vaso Tritán Infinymix",
     "reference": "7211419427",
     "brand": "T-fal",
@@ -3924,6 +3903,27 @@
     "country": "México",
     "price": 34.0,
     "list_price": 34.0,
+    "on_sale": false
+  },
+  {
+    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+    "reference": "9100057190",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
+    "skus": [
+      {
+        "sku_id": "1081",
+        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 99.0,
+    "list_price": 99.0,
     "on_sale": false
   },
   {
