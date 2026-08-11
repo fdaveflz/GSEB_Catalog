@@ -294,6 +294,27 @@
     "on_sale": false
   },
   {
+    "name": "Sandwichera 3 en 1 Ultracompact",
+    "reference": "8010001328",
+    "brand": "T-fal",
+    "category": "Sandwicheras y Parillas",
+    "description": "* VERSATILIDAD 3 EN 1: La sandwichera te permite disfrutar de sándwiches dorados, waffles y paninis, todo con un solo producto, asegurando una experiencia culinaria completa y variada.\n* PLACAS INTERCAMBIABLES: Las placas son fáciles de quitar y poner, facilitando la limpieza y el almacenamiento, mientras te ofrecen la flexibilidad de preparar diferentes tipos de alimentos sin complicaciones.\n* TECNOLOGÍA ANTIADHERENTE T-FAL: Garantiza una cocción perfecta sin que los alimentos se peguen, además de ser segura para tus comidas al estar libre de PFOA´s, haciendo que la limpieza sea rápida y sencilla.\n* DISEÑO COMPACTO: Su tamaño compacto permite que la sandwichera se guarde cómodamente en cualquier espacio de la cocina, sin ocupar más lugar del necesario, ideal para optimizar el espacio disponible.\n* CIERRES Y MANGOS SEGUROS: Cuenta con cierres seguros y mangos resistentes al calor, proporcionando un uso cómodo y seguro, convirtiéndose en el complemento perfecto para añadir versatilidad y comodidad a tus preparaciones diarias.",
+    "url": "https://www.t-fal.com.mx/sandwichera-3-en-1-ultracompact/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158753/8010001328_SW383DX0_SANDWICHERA3en1_ULTRACOMPACT-1-.jpg?v=638950366632000000",
+    "skus": [
+      {
+        "sku_id": "1023",
+        "sku_name": "Sandwichera 3 en 1 Ultracompact",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158753/8010001328_SW383DX0_SANDWICHERA3en1_ULTRACOMPACT-1-.jpg?v=638950366632000000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1199.0,
+    "list_price": 1699.0,
+    "on_sale": true
+  },
+  {
     "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
     "reference": "7114900087",
     "brand": "T-fal",
@@ -966,25 +987,25 @@
     "on_sale": false
   },
   {
-    "name": "Sandwichera 3 en 1 Ultracompact",
-    "reference": "8010001328",
+    "name": "Crepera Crepparty",
+    "reference": "2100039513",
     "brand": "T-fal",
     "category": "Sandwicheras y Parillas",
-    "description": "* VERSATILIDAD 3 EN 1: La sandwichera te permite disfrutar de sándwiches dorados, waffles y paninis, todo con un solo producto, asegurando una experiencia culinaria completa y variada.\n* PLACAS INTERCAMBIABLES: Las placas son fáciles de quitar y poner, facilitando la limpieza y el almacenamiento, mientras te ofrecen la flexibilidad de preparar diferentes tipos de alimentos sin complicaciones.\n* TECNOLOGÍA ANTIADHERENTE T-FAL: Garantiza una cocción perfecta sin que los alimentos se peguen, además de ser segura para tus comidas al estar libre de PFOA´s, haciendo que la limpieza sea rápida y sencilla.\n* DISEÑO COMPACTO: Su tamaño compacto permite que la sandwichera se guarde cómodamente en cualquier espacio de la cocina, sin ocupar más lugar del necesario, ideal para optimizar el espacio disponible.\n* CIERRES Y MANGOS SEGUROS: Cuenta con cierres seguros y mangos resistentes al calor, proporcionando un uso cómodo y seguro, convirtiéndose en el complemento perfecto para añadir versatilidad y comodidad a tus preparaciones diarias.",
-    "url": "https://www.t-fal.com.mx/sandwichera-3-en-1-ultracompact/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158753/8010001328_SW383DX0_SANDWICHERA3en1_ULTRACOMPACT-1-.jpg?v=638950366632000000",
+    "description": "* VERSATILIDAD CULINARIA: La Crepera Eléctrica T-fal transforma cada comida en una ocasión especial, permitiéndote preparar crepas, hot cakes, huevos al gusto y verduras asadas de manera práctica y deliciosa.\n* TECNOLOGÍA ANTIADHERENTE T-FAL: Con su revestimiento único y libre de PFOA, garantiza que tus alimentos se cocinen perfectamente sin pegarse, además de ser fácil de limpiar para tu comodidad y seguridad.\n* INDICADOR TERMO SPOT: El ingenioso Termo Spot te avisa cuando la temperatura es ideal para cocinar, asegurando resultados óptimos y brindando la confianza de cocinar siempre en el momento justo.\n* ACCESORIOS INCLUIDOS: Incluye un esparcidor para masa de crepas y una espátula de madera, haciendo el proceso de preparación más fácil, divertido y profesional, ideal para cualquier cocina.\n* TU MEJOR ALIADA DIARIO: Perfecta para el desayuno cotidiano o cenas especiales, esta crepera se convierte en un compañero indispensable que eleva tus creaciones culinarias a nuevos niveles.",
+    "url": "https://www.t-fal.com.mx/crepera-crepparty/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158733/2100039513_PY301072_CREPERA-1-.jpg?v=638950362669100000",
     "skus": [
       {
-        "sku_id": "1023",
-        "sku_name": "Sandwichera 3 en 1 Ultracompact",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158753/8010001328_SW383DX0_SANDWICHERA3en1_ULTRACOMPACT-1-.jpg?v=638950366632000000"
+        "sku_id": "1021",
+        "sku_name": "Crepera Crepparty",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158733/2100039513_PY301072_CREPERA-1-.jpg?v=638950362669100000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1199.0,
-    "list_price": 1699.0,
-    "on_sale": true
+    "price": 1399.0,
+    "list_price": 1399.0,
+    "on_sale": false
   },
   {
     "name": "Procesador de Alimentos Chopper Power Max",
@@ -1678,6 +1699,27 @@
     "price": 99.0,
     "list_price": 99.0,
     "on_sale": false
+  },
+  {
+    "name": "Freidora de Aire 6 L Infrared",
+    "reference": "7211419910",
+    "brand": "T-fal",
+    "category": "Freidoras de aire y aceite",
+    "description": "* Experimenta la freidora de aire más avanzada con la nueva tecnología Infrared, la cual penetra tus alimentos desde el centro <br>* Esta freidora garantiza resultados deliciosos y crujientes sin esfuerzo.<br>* Elemento calefactor rápido: Alcanza 400 °C en tan solo 45 segundos, proporcionando una cocción rápida y eficiente.<br>* Acabado perfecto: Penetración de calor Infrared que asegura carnes jugosas por dentro y textura crujiente por fuera.<br>* Ventana iluminada: Observa el proceso de cocción sin perder el calor, garantizando alimentos perfectamente cocinados.<br>* Ingenioso diseño de flujo de aire: No requiere agitar los alimentos, incluso hasta 300 g de patatas fritas congeladas se cocinan uniformemente.<br>* Fácil de usar: Siéntate y disfruta de comidas deliciosas con facilidad, gracias a la tecnología avanzada y diseño intuitivo.",
+    "url": "https://www.t-fal.com.mx/freidora-de-aire-6-l-infrared-1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159533/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639124828850100000",
+    "skus": [
+      {
+        "sku_id": "1098",
+        "sku_name": "Freidora de Aire 6 L Infrared",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159533/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639124828850100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2399.0,
+    "list_price": 2999.0,
+    "on_sale": true
   },
   {
     "name": "Sartén 26 cm Pro Tri-Ply SS Acero Inoxidable",
@@ -2434,27 +2476,6 @@
     "price": 1039.0,
     "list_price": 1049.0,
     "on_sale": true
-  },
-  {
-    "name": "Crepera Crepparty",
-    "reference": "2100039513",
-    "brand": "T-fal",
-    "category": "Sandwicheras y Parillas",
-    "description": "* VERSATILIDAD CULINARIA: La Crepera Eléctrica T-fal transforma cada comida en una ocasión especial, permitiéndote preparar crepas, hot cakes, huevos al gusto y verduras asadas de manera práctica y deliciosa.\n* TECNOLOGÍA ANTIADHERENTE T-FAL: Con su revestimiento único y libre de PFOA, garantiza que tus alimentos se cocinen perfectamente sin pegarse, además de ser fácil de limpiar para tu comodidad y seguridad.\n* INDICADOR TERMO SPOT: El ingenioso Termo Spot te avisa cuando la temperatura es ideal para cocinar, asegurando resultados óptimos y brindando la confianza de cocinar siempre en el momento justo.\n* ACCESORIOS INCLUIDOS: Incluye un esparcidor para masa de crepas y una espátula de madera, haciendo el proceso de preparación más fácil, divertido y profesional, ideal para cualquier cocina.\n* TU MEJOR ALIADA DIARIO: Perfecta para el desayuno cotidiano o cenas especiales, esta crepera se convierte en un compañero indispensable que eleva tus creaciones culinarias a nuevos niveles.",
-    "url": "https://www.t-fal.com.mx/crepera-crepparty/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158733/2100039513_PY301072_CREPERA-1-.jpg?v=638950362669100000",
-    "skus": [
-      {
-        "sku_id": "1021",
-        "sku_name": "Crepera Crepparty",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158733/2100039513_PY301072_CREPERA-1-.jpg?v=638950362669100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1399.0,
-    "list_price": 1399.0,
-    "on_sale": false
   },
   {
     "name": "Procesador de Alimentos Choppeo",
@@ -4008,27 +4029,6 @@
     "country": "México",
     "price": 3499.0,
     "list_price": 3499.0,
-    "on_sale": false
-  },
-  {
-    "name": "Freidora de Aire 6 L Infrared",
-    "reference": "7211419336",
-    "brand": "T-fal",
-    "category": "Freidoras de aire y aceite",
-    "description": "* Experimenta la freidora de aire más avanzada con la nueva tecnología Infrared, la cual penetra tus alimentos desde el centro * Esta freidora garantiza resultados deliciosos y crujientes sin esfuerzo.\n* Elemento calefactor rápido: Alcanza 400 °C en tan solo 45 segundos, proporcionando una cocción rápida y eficiente.\n* Acabado perfecto: Penetración de calor Infrared que asegura carnes jugosas por dentro y textura crujiente por fuera.\n* Ventana iluminada: Observa el proceso de cocción sin perder el calor, garantizando alimentos perfectamente cocinados.\n* Ingenioso diseño de flujo de aire: No requiere agitar los alimentos, incluso hasta 300 g de patatas fritas congeladas se cocinan uniformemente.\n* Fácil de usar: Siéntate y disfruta de comidas deliciosas con facilidad, gracias a la tecnología avanzada y diseño intuitivo.",
-    "url": "https://www.t-fal.com.mx/freidora-de-aire-6-l-infrared/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000",
-    "skus": [
-      {
-        "sku_id": "969",
-        "sku_name": "Freidora de Aire 6 L Infrared",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159301/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639102349552600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2409.0,
-    "list_price": 2409.0,
     "on_sale": false
   },
   {
