@@ -21,39 +21,18 @@
     "on_sale": true
   },
   {
-    "name": "Jarra para cafetera CM223DMX original de repuesto",
-    "reference": "9100036277",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
-    "skus": [
-      {
-        "sku_id": "1108",
-        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 139.0,
-    "list_price": 139.0,
-    "on_sale": false
-  },
-  {
     "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
     "reference": "2100139936",
     "brand": "T-fal",
     "category": "Baterías de cocina",
     "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
     "url": "https://www.t-fal.com.mx/bateria-20-piezas-refresh-ceramic-eucalyptus/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159553/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639125003380200000",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159911/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639220698965630000",
     "skus": [
       {
         "sku_id": "1091",
         "sku_name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159553/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639125003380200000"
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159911/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639220698965630000"
       }
     ],
     "site": "T-Fal México",
@@ -228,6 +207,27 @@
     "country": "México",
     "price": 179.0,
     "list_price": 179.0,
+    "on_sale": false
+  },
+  {
+    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+    "reference": "9100057190",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
+    "skus": [
+      {
+        "sku_id": "1081",
+        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 99.0,
+    "list_price": 99.0,
     "on_sale": false
   },
   {
@@ -672,6 +672,27 @@
     "on_sale": false
   },
   {
+    "name": "Removedor de Pelusas para Ropa y Telas",
+    "reference": "1830007640",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "",
+    "url": "https://www.t-fal.com.mx/removedor-de-pelusas-para-ropa-y-telas-jb1011q0/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159903/1830007640_JB1011Q0_Lint-Remover-01.webp?v=639208671014800000",
+    "skus": [
+      {
+        "sku_id": "1135",
+        "sku_name": "Removedor de Pelusas para Ropa y Telas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159903/1830007640_JB1011Q0_Lint-Remover-01.webp?v=639208671014800000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 349.0,
+    "list_price": 349.0,
+    "on_sale": false
+  },
+  {
     "name": "Vaporizador Pure Force 3 en 1: Vapor, Planchado y Eliminación de Pelusa",
     "reference": "1830009871",
     "brand": "T-fal",
@@ -984,27 +1005,6 @@
     "country": "México",
     "price": 699.0,
     "list_price": 699.0,
-    "on_sale": false
-  },
-  {
-    "name": "Crepera Crepparty",
-    "reference": "2100039513",
-    "brand": "T-fal",
-    "category": "Sandwicheras y Parillas",
-    "description": "* VERSATILIDAD CULINARIA: La Crepera Eléctrica T-fal transforma cada comida en una ocasión especial, permitiéndote preparar crepas, hot cakes, huevos al gusto y verduras asadas de manera práctica y deliciosa.\n* TECNOLOGÍA ANTIADHERENTE T-FAL: Con su revestimiento único y libre de PFOA, garantiza que tus alimentos se cocinen perfectamente sin pegarse, además de ser fácil de limpiar para tu comodidad y seguridad.\n* INDICADOR TERMO SPOT: El ingenioso Termo Spot te avisa cuando la temperatura es ideal para cocinar, asegurando resultados óptimos y brindando la confianza de cocinar siempre en el momento justo.\n* ACCESORIOS INCLUIDOS: Incluye un esparcidor para masa de crepas y una espátula de madera, haciendo el proceso de preparación más fácil, divertido y profesional, ideal para cualquier cocina.\n* TU MEJOR ALIADA DIARIO: Perfecta para el desayuno cotidiano o cenas especiales, esta crepera se convierte en un compañero indispensable que eleva tus creaciones culinarias a nuevos niveles.",
-    "url": "https://www.t-fal.com.mx/crepera-crepparty/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158733/2100039513_PY301072_CREPERA-1-.jpg?v=638950362669100000",
-    "skus": [
-      {
-        "sku_id": "1021",
-        "sku_name": "Crepera Crepparty",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158733/2100039513_PY301072_CREPERA-1-.jpg?v=638950362669100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1399.0,
-    "list_price": 1399.0,
     "on_sale": false
   },
   {
@@ -1426,27 +1426,6 @@
     "price": 689.0,
     "list_price": 699.0,
     "on_sale": true
-  },
-  {
-    "name": "Removedor de Pelusas para Ropa y Telas",
-    "reference": "1830007640",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "",
-    "url": "https://www.t-fal.com.mx/removedor-de-pelusas-para-ropa-y-telas-jb1011q0/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159903/1830007640_JB1011Q0_Lint-Remover-01.webp?v=639208671014800000",
-    "skus": [
-      {
-        "sku_id": "1135",
-        "sku_name": "Removedor de Pelusas para Ropa y Telas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159903/1830007640_JB1011Q0_Lint-Remover-01.webp?v=639208671014800000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 349.0,
-    "list_price": 349.0,
-    "on_sale": false
   },
   {
     "name": "Batería 10 pzas Excellence inducción",
@@ -3775,8 +3754,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": null,
-    "list_price": null,
+    "price": 369.0,
+    "list_price": 369.0,
     "on_sale": false
   },
   {
@@ -3819,6 +3798,27 @@
     "country": "México",
     "price": 199.0,
     "list_price": 199.0,
+    "on_sale": false
+  },
+  {
+    "name": "Jarra para cafetera CM223DMX original de repuesto",
+    "reference": "9100036277",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
+    "skus": [
+      {
+        "sku_id": "1108",
+        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 139.0,
+    "list_price": 139.0,
     "on_sale": false
   },
   {
@@ -3927,27 +3927,6 @@
     "on_sale": false
   },
   {
-    "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-    "reference": "9100057190",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/valvula-de-control-para-olla-a-presion-de-aluminio-de-22-litros-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000",
-    "skus": [
-      {
-        "sku_id": "1081",
-        "sku_name": "Válvula de control para olla a presión de aluminio de 22 litros.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159419/9100057190_SS-7129901068M_VALVCONTOAPALU22L-01-.jpg?v=639119574337400000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 99.0,
-    "list_price": 99.0,
-    "on_sale": false
-  },
-  {
     "name": "Empaque/Junta para ollas de presión de aluminio de 4 y 6 litros.",
     "reference": "9100057310",
     "brand": "T-fal",
@@ -3987,6 +3966,27 @@
     "country": "México",
     "price": 1299.0,
     "list_price": 1299.0,
+    "on_sale": false
+  },
+  {
+    "name": "Crepera Crepparty",
+    "reference": "2100039513",
+    "brand": "T-fal",
+    "category": "Sandwicheras y Parillas",
+    "description": "* VERSATILIDAD CULINARIA: La Crepera Eléctrica T-fal transforma cada comida en una ocasión especial, permitiéndote preparar crepas, hot cakes, huevos al gusto y verduras asadas de manera práctica y deliciosa.\n* TECNOLOGÍA ANTIADHERENTE T-FAL: Con su revestimiento único y libre de PFOA, garantiza que tus alimentos se cocinen perfectamente sin pegarse, además de ser fácil de limpiar para tu comodidad y seguridad.\n* INDICADOR TERMO SPOT: El ingenioso Termo Spot te avisa cuando la temperatura es ideal para cocinar, asegurando resultados óptimos y brindando la confianza de cocinar siempre en el momento justo.\n* ACCESORIOS INCLUIDOS: Incluye un esparcidor para masa de crepas y una espátula de madera, haciendo el proceso de preparación más fácil, divertido y profesional, ideal para cualquier cocina.\n* TU MEJOR ALIADA DIARIO: Perfecta para el desayuno cotidiano o cenas especiales, esta crepera se convierte en un compañero indispensable que eleva tus creaciones culinarias a nuevos niveles.",
+    "url": "https://www.t-fal.com.mx/crepera-crepparty/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158733/2100039513_PY301072_CREPERA-1-.jpg?v=638950362669100000",
+    "skus": [
+      {
+        "sku_id": "1021",
+        "sku_name": "Crepera Crepparty",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158733/2100039513_PY301072_CREPERA-1-.jpg?v=638950362669100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1399.0,
+    "list_price": 1399.0,
     "on_sale": false
   },
   {
