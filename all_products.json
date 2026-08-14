@@ -163,7 +163,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 899900.0,
+    "price": 788320.0,
     "list_price": 1212800.0,
     "on_sale": true
   },
@@ -226,7 +226,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 849900.0,
+    "price": 727934.0,
     "list_price": 1119899.0,
     "on_sale": true
   },
@@ -247,7 +247,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 639900.0,
+    "price": 519935.0,
     "list_price": 799900.0,
     "on_sale": true
   },
@@ -268,7 +268,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 459900.0,
+    "price": 402934.0,
     "list_price": 619899.0,
     "on_sale": true
   },
@@ -462,27 +462,6 @@
     "on_sale": true
   },
   {
-    "name": "Cuchillos de Chef EverSharp 6 piezas con Base de Afilador Integrado",
-    "reference": "2100139801",
-    "brand": "TEFAL",
-    "category": "Cuchillos",
-    "description": "AFILADO HOY Y SIEMPRE: redescubre el placer de un corte idóneo día tras día y año tras año, gracias a un sistema de afilado automático que mantiene tus cuchillos siempre listos sin esfuerzo. |TECNOLOGÍA DE AFILADO: oculto dentro del bloque, el sistema de afilado patentado guía la cuchilla óptimamente y la afila completamente con la presión adecuada. |RESULTADOS ÓPTIMOS DE CORTE: disfruta siempre del corte idóneo, ya se trate de un cuchillo de chef para cortar un carpaccio de piña o de un cuchillo santoku para preparar un delicado sashimi de salmón. |CUCHILLAS ALEMANAS AFILADAS DE ACERO INOXIDABLE: las cuchillas de acero inoxidable alemán de alta calidad aportan una durabilidad superior, resistencia a la oxidación y un afilado duradero. |CONTROL TOTAL PARA UN CORTE AFILADO: con un diseño equilibrado, protector de dedos para mayor seguridad y mango ergonómico, cortar nunca ha sido tan agradable.",
-    "url": "https://www.imusa.com.co/cuchillos-de-chef-eversharp-6-piezas-con-base-de-afilador-integrado/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172455/Mesa-de-trabajo-8.jpg?v=639120403236400000",
-    "skus": [
-      {
-        "sku_id": "1694",
-        "sku_name": "Cuchillos de Chef EverSharp 6 piezas con Base de Afilador Integrado",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172455/Mesa-de-trabajo-8.jpg?v=639120403236400000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 399900.0,
-    "list_price": 499899.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Personal IMUSA Blend Up de 1000W con 8 Programas Automáticos",
     "reference": "7211419813",
     "brand": "IMUSA",
@@ -646,7 +625,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 699900.0,
+    "price": 584934.0,
     "list_price": 899899.0,
     "on_sale": true
   },
@@ -730,7 +709,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 829900.0,
+    "price": 760435.0,
     "list_price": 1169900.0,
     "on_sale": true
   },
@@ -751,7 +730,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 499900.0,
+    "price": 474434.0,
     "list_price": 729899.0,
     "on_sale": true
   },
@@ -900,6 +879,27 @@
     "country": "Colombia",
     "price": 169900.0,
     "list_price": 289899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cuchillos de Chef EverSharp 6 piezas con Base de Afilador Integrado",
+    "reference": "2100139801",
+    "brand": "TEFAL",
+    "category": "Cuchillos",
+    "description": "AFILADO HOY Y SIEMPRE: redescubre el placer de un corte idóneo día tras día y año tras año, gracias a un sistema de afilado automático que mantiene tus cuchillos siempre listos sin esfuerzo. |TECNOLOGÍA DE AFILADO: oculto dentro del bloque, el sistema de afilado patentado guía la cuchilla óptimamente y la afila completamente con la presión adecuada. |RESULTADOS ÓPTIMOS DE CORTE: disfruta siempre del corte idóneo, ya se trate de un cuchillo de chef para cortar un carpaccio de piña o de un cuchillo santoku para preparar un delicado sashimi de salmón. |CUCHILLAS ALEMANAS AFILADAS DE ACERO INOXIDABLE: las cuchillas de acero inoxidable alemán de alta calidad aportan una durabilidad superior, resistencia a la oxidación y un afilado duradero. |CONTROL TOTAL PARA UN CORTE AFILADO: con un diseño equilibrado, protector de dedos para mayor seguridad y mango ergonómico, cortar nunca ha sido tan agradable.",
+    "url": "https://www.imusa.com.co/cuchillos-de-chef-eversharp-6-piezas-con-base-de-afilador-integrado/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172455/Mesa-de-trabajo-8.jpg?v=639120403236400000",
+    "skus": [
+      {
+        "sku_id": "1694",
+        "sku_name": "Cuchillos de Chef EverSharp 6 piezas con Base de Afilador Integrado",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172455/Mesa-de-trabajo-8.jpg?v=639120403236400000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 399900.0,
+    "list_price": 499899.0,
     "on_sale": true
   },
   {
@@ -1129,7 +1129,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 349900.0,
+    "price": 339991.0,
     "list_price": 399989.0,
     "on_sale": true
   },
@@ -1192,7 +1192,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 669900.0,
+    "price": 584934.0,
     "list_price": 899899.0,
     "on_sale": true
   },
@@ -1722,27 +1722,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén IMUSA Gusto 28 cm aluminio fundido",
-    "reference": "5861031708",
-    "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Sartén con Venas elaborado en Aluminio fundido con Recubrimiento Antiadherente NADA SE LE PEGA y con acabado en EFECTO PIEDRA para una cocina moderna y elegante| Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm. | Mangos robustos y suaves al tacto para un mayor confort| Apto para lavavajillas y horno",
-    "url": "https://www.imusa.com.co/sarten-imusa-gusto-28-cm-aluminio-fundido/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159601/7702073811929-1.jpg?v=637866229331000000",
-    "skus": [
-      {
-        "sku_id": "497",
-        "sku_name": "Sartén IMUSA Gusto 28 cm aluminio fundido",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159601/7702073811929-1.jpg?v=637866229331000000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 129900.0,
-    "list_price": 129900.0,
-    "on_sale": false
-  },
-  {
     "name": "Accesorio Vaso Plástico Licuadora IMUSA Powermix",
     "reference": "5861024150",
     "brand": "IMUSA",
@@ -1803,27 +1782,6 @@
     "country": "Colombia",
     "price": 141865.0,
     "list_price": 166899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla a Presion IMUSA Smart Cierre Interno 3L",
-    "reference": "5861027451",
-    "brand": "IMUSA",
-    "category": "Ollas a presión",
-    "description": "Su sistema Practiclic IMUSA permite abrir y cerrar la olla con un solo click. | Válvula de dos posiciones que indica cuándo la Olla a Presión está en su punto de presión de cocción. | Sistema SecuryPlus para garantizar siempre tu seguridad en la cocina",
-    "url": "https://www.imusa.com.co/olla-a-presion-imusa-smart-cierre-interno-3l/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159204/7702073030542-1.jpg?v=637866227267200000",
-    "skus": [
-      {
-        "sku_id": "310",
-        "sku_name": "Olla a Presion IMUSA Smart Cierre Interno 3L",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159204/7702073030542-1.jpg?v=637866227267200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 129900.0,
-    "list_price": 146899.0,
     "on_sale": true
   },
   {
@@ -1969,8 +1927,29 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 1199900.0,
+    "price": 1299900.0,
     "list_price": 1699899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla Arrocera IMUSA 3 Tazas Gris",
+    "reference": "8010001473",
+    "brand": "IMUSA",
+    "category": "Arroceras",
+    "description": "Cocina arroz perfecto en minutos.|Compacta y versátil, perfecta para espacios pequeños.|Incluye medidas precisas.|Función de mantener caliente para disfrutar el arroz en su punto.|Bandeja antiadherente que facilita la limpieza.",
+    "url": "https://www.imusa.com.co/olla-arrocera-imusa-3-tazas-gris/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172945/5861027268-6033400-ARROCERA-GR-3T-8.png?v=639173864069300000",
+    "skus": [
+      {
+        "sku_id": "1728",
+        "sku_name": "Olla Arrocera IMUSA 3 Tazas Gris",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172945/5861027268-6033400-ARROCERA-GR-3T-8.png?v=639173864069300000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 129900.0,
+    "list_price": 189900.0,
     "on_sale": true
   },
   {
@@ -2562,27 +2541,6 @@
     "on_sale": false
   },
   {
-    "name": "Plancha Vertical T-FAL Access Steam Easy Roja",
-    "reference": "1830008918",
-    "brand": "TEFAL",
-    "category": "Planchas verticales",
-    "description": "1400 Watts de potencia y vapor continuo de 25 g/min para gran eficiencia. |Suela metálica antigoteo. |Rápido calentamiento en 15 segundos. |Excelente autonomía de 7 minutos de uso continuo. |Cable extralargo de 2.6 metros para planchar cómodamente. |Depósito de agua extraíble de 150ml para un fácil llenado. |Elimina hasta el 99% de las bacterias. |Apta y segura para todo tipo de textiles |No necesita mesa para planchar.",
-    "url": "https://www.imusa.com.co/plancha-vertical-t-fal-access-steam-easy-roja/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169041/1830008918-1.jpg?v=638593493626570000",
-    "skus": [
-      {
-        "sku_id": "985",
-        "sku_name": "Plancha Vertical T-FAL Access Steam Easy Roja",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169041/1830008918-1.jpg?v=638593493626570000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 174900.0,
-    "list_price": 313900.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora IMUSA Ultraforce 2X, con control de perilla, 3 programas, motor de 1100W, Vaso de Vidrio 2L, Negra, con Picatodo",
     "reference": "7211419261",
     "brand": "IMUSA",
@@ -3040,7 +2998,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 759900.0,
+    "price": 600535.0,
     "list_price": 923900.0,
     "on_sale": true
   },
@@ -3523,7 +3481,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 899900.0,
+    "price": 812435.0,
     "list_price": 1249900.0,
     "on_sale": true
   },
@@ -3546,27 +3504,6 @@
     "country": "Colombia",
     "price": 89900.0,
     "list_price": 115300.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cuchillo Chef TEFAL IceForce 20cm",
-    "reference": "2100104352",
-    "brand": "TEFAL",
-    "category": "Cuchillos",
-    "description": "¡Seguridad y precisión en los cortes con alto desempeño!| Tecnología ICEFORCE, la cuchilla se pone bajo -120ºC de temperatura para un acabado perfecto y un rendimiento de Óptimo.| Elaborados en acero inoxidable Alemán, con acabado perfecto y mejor rendimiento| Máxima durabilidad para un corte perfecto.| Su mango brinda seguridad en el agarre y con remaches que combinan lo tradicional con el diseño.",
-    "url": "https://www.imusa.com.co/cuchillo-chef-tefal-iceforce-20cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160121/3168430274242-1.jpg?v=637866620093470000",
-    "skus": [
-      {
-        "sku_id": "233",
-        "sku_name": "Cuchillo Chef TEFAL IceForce 20cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160121/3168430274242-1.jpg?v=637866620093470000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 79900.0,
-    "list_price": 116899.0,
     "on_sale": true
   },
   {
@@ -3672,27 +3609,6 @@
     "country": "Colombia",
     "price": 199900.0,
     "list_price": 265899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Calefactor SAMURAI Mini Excel Negro",
-    "reference": "1830006473",
-    "brand": "SAMURAI",
-    "category": "Calefactores",
-    "description": "Tecnologia en cerámica que lo hace eficiente, rápido y seguro.| Tiene temperatura ajustable ideal para adaptarse a cada necesidad y cuenta con función silencio para proporcionar un mejor descanso. | Seguridad reforzada, se apaga automáticamente cuando no está funcionando correctamente y produce una alerta| Mantiene la temperatura estable, 21°C a una potencia de 900W para ahorar hasta un 50% de energia",
-    "url": "https://www.imusa.com.co/calefactor-samurai-mini-excel-negro-/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161694/1830006473-1.jpg?v=637889250144330000",
-    "skus": [
-      {
-        "sku_id": "85",
-        "sku_name": "Calefactor SAMURAI Mini Excel Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161694/1830006473-1.jpg?v=637889250144330000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 354900.0,
-    "list_price": 442900.0,
     "on_sale": true
   },
   {
@@ -3925,27 +3841,6 @@
     "price": 14899.0,
     "list_price": 14899.0,
     "on_sale": false
-  },
-  {
-    "name": "Olla Arrocera IMUSA 3 Tazas Gris",
-    "reference": "8010001473",
-    "brand": "IMUSA",
-    "category": "Arroceras",
-    "description": "Cocina arroz perfecto en minutos.|Compacta y versátil, perfecta para espacios pequeños.|Incluye medidas precisas.|Función de mantener caliente para disfrutar el arroz en su punto.|Bandeja antiadherente que facilita la limpieza.",
-    "url": "https://www.imusa.com.co/olla-arrocera-imusa-3-tazas-gris/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172945/5861027268-6033400-ARROCERA-GR-3T-8.png?v=639173864069300000",
-    "skus": [
-      {
-        "sku_id": "1728",
-        "sku_name": "Olla Arrocera IMUSA 3 Tazas Gris",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172945/5861027268-6033400-ARROCERA-GR-3T-8.png?v=639173864069300000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 129900.0,
-    "list_price": 189900.0,
-    "on_sale": true
   },
   {
     "name": "Olla Arrocera IMUSA 10 tazas en acero",
@@ -4416,12 +4311,12 @@
     "category": "Espresseria",
     "description": "USO SIN ESFUERZO: Espressería Automática KRUPS con pantalla táctil a color deslizante tipo smartphone. |ALTAMENTE INTUITIVO: Los indicadores luminosos intuitivos ofrecen una experiencia de café simplificada y personalizada. |SILENCIOSA: La tecnología Silence te permite relajarte mientras preparas tu café. |BEBIDAS PERSONALIZABLES: 15 bebidas personalizables, así como un sistema OTC integrado, con un generador de espuma perfecto.",
     "url": "https://www.imusa.com.co/cafetera-espresseria-krups-intuition-preference-panel-digital/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169398/8010001193-2.jpg?v=638664597124600000",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173324/8010001193-2.jpg?v=639222291449430000",
     "skus": [
       {
         "sku_id": "1017",
         "sku_name": "Cafetera Espresso Intuition Preference+ KRUPS Full Automática con Panel Digital Gris",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169398/8010001193-2.jpg?v=638664597124600000"
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173324/8010001193-2.jpg?v=639222291449430000"
       }
     ],
     "site": "IMUSA Colombia",
@@ -5061,6 +4956,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén Imusa 30cm Antiadherente Talent Pro",
+    "reference": "5861031614",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Sartén 30cm de diámetro con Antiadherente Triforce Gold Efecto Piedra, dura 5 veces más. | Espesor de 2.2mm para obtener resultados perfectos. | Base difusora, cocción uniforme y antideslizante. | Podrás llevar al horno, estufa y en tu mesa. | Accesorios en Acero Inoxidable, elegantes y versatiles para llegar a la mesa.",
+    "url": "https://www.imusa.com.co/sarten-imusa-30cm-antiadherente-talentpro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163371/5861031614-1.jpg?v=637908133476470000",
+    "skus": [
+      {
+        "sku_id": "615",
+        "sku_name": "Sartén Imusa 30cm Antiadherente Talent Pro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163371/5861031614-1.jpg?v=637908133476470000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 104899.0,
+    "list_price": 104899.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén Imusa 20cm Antiadherente Talent Pro",
     "reference": "5861031612",
     "brand": "IMUSA",
@@ -5544,6 +5460,27 @@
     "on_sale": false
   },
   {
+    "name": "Cuchillo Chef TEFAL IceForce 20cm",
+    "reference": "2100104352",
+    "brand": "TEFAL",
+    "category": "Cuchillos",
+    "description": "¡Seguridad y precisión en los cortes con alto desempeño!| Tecnología ICEFORCE, la cuchilla se pone bajo -120ºC de temperatura para un acabado perfecto y un rendimiento de Óptimo.| Elaborados en acero inoxidable Alemán, con acabado perfecto y mejor rendimiento| Máxima durabilidad para un corte perfecto.| Su mango brinda seguridad en el agarre y con remaches que combinan lo tradicional con el diseño.",
+    "url": "https://www.imusa.com.co/cuchillo-chef-tefal-iceforce-20cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160121/3168430274242-1.jpg?v=637866620093470000",
+    "skus": [
+      {
+        "sku_id": "233",
+        "sku_name": "Cuchillo Chef TEFAL IceForce 20cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160121/3168430274242-1.jpg?v=637866620093470000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 79900.0,
+    "list_price": 116899.0,
+    "on_sale": true
+  },
+  {
     "name": "Cuchillo para Pelar TEFAL IceForce 9cm",
     "reference": "2100104350",
     "brand": "TEFAL",
@@ -5649,6 +5586,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador SAMURAI Turbo Silence Maxx Compact 2en1 Negro",
+    "reference": "5861023662",
+    "brand": "SAMURAI",
+    "category": "Ventiladores multiples",
+    "description": "Ventilador 2 en 1 con Tecnología MAXX.| Cuenta con 3 velocidades excelentes y silenciosas para cualquier situación.| Tecnología Turbo Silence que proporciona un flujo de aire mayor, pero con un ruido significativamente menor. | Su diseño y construcción son únicos, su combinación de motor, hélice y mallas lo hacen más silencioso incluso a su máxima velocidad. | Sistema de inclinación vertical y un sistema de oscilación horizontal.\"",
+    "url": "https://www.imusa.com.co/ventilador-samurai-turbo-silence-maxx-compact-2en1-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169686/5861023662-1.jpg.jpg?v=638751425188170000",
+    "skus": [
+      {
+        "sku_id": "103",
+        "sku_name": "Ventilador SAMURAI Turbo Silence Maxx Compact 2en1 Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169686/5861023662-1.jpg.jpg?v=638751425188170000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 199900.0,
+    "list_price": 292899.0,
+    "on_sale": true
+  },
+  {
     "name": "Calefactor SAMURAI Compact Power dos velocidades",
     "reference": "1830007532",
     "brand": "SAMURAI",
@@ -5667,6 +5625,27 @@
     "country": "Colombia",
     "price": 185900.0,
     "list_price": 244899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Calefactor SAMURAI Mini Excel Negro",
+    "reference": "1830006473",
+    "brand": "SAMURAI",
+    "category": "Calefactores",
+    "description": "Tecnologia en cerámica que lo hace eficiente, rápido y seguro.| Tiene temperatura ajustable ideal para adaptarse a cada necesidad y cuenta con función silencio para proporcionar un mejor descanso. | Seguridad reforzada, se apaga automáticamente cuando no está funcionando correctamente y produce una alerta| Mantiene la temperatura estable, 21°C a una potencia de 900W para ahorar hasta un 50% de energia",
+    "url": "https://www.imusa.com.co/calefactor-samurai-mini-excel-negro-/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161694/1830006473-1.jpg?v=637889250144330000",
+    "skus": [
+      {
+        "sku_id": "85",
+        "sku_name": "Calefactor SAMURAI Mini Excel Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161694/1830006473-1.jpg?v=637889250144330000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 354900.0,
+    "list_price": 442900.0,
     "on_sale": true
   },
   {
@@ -6216,27 +6195,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén Imusa 30cm Antiadherente Talent Pro",
-    "reference": "5861031614",
-    "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Sartén 30cm de diámetro con Antiadherente Triforce Gold Efecto Piedra, dura 5 veces más. | Espesor de 2.2mm para obtener resultados perfectos. | Base difusora, cocción uniforme y antideslizante. | Podrás llevar al horno, estufa y en tu mesa. | Accesorios en Acero Inoxidable, elegantes y versatiles para llegar a la mesa.",
-    "url": "https://www.imusa.com.co/sarten-imusa-30cm-antiadherente-talentpro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163371/5861031614-1.jpg?v=637908133476470000",
-    "skus": [
-      {
-        "sku_id": "615",
-        "sku_name": "Sartén Imusa 30cm Antiadherente Talent Pro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163371/5861031614-1.jpg?v=637908133476470000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 104899.0,
-    "list_price": 104899.0,
-    "on_sale": false
-  },
-  {
     "name": "Licuadora IMUSA Infiny Force XL 10 Velocidades Negra",
     "reference": "5861032023",
     "brand": "IMUSA",
@@ -6255,27 +6213,6 @@
     "country": "Colombia",
     "price": 179900.0,
     "list_price": 279899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Batería de Cocina IMUSA 8 piezas Primary Acero Inoxidable",
-    "reference": "2100123912",
-    "brand": "IMUSA",
-    "category": "Baterías y Sets de Cocina",
-    "description": "Batería de 8Piezas Fabricadas en Acero Inoxidable Premium| Las piezas cuentan con marcas de medición para mejor precisión, ideal para saber hasta que punto agregar los ingredientes de tus preparaciones.| Tapa de vidrio que facilita la supervisión de las preparaciones, altamente resistente y posee válvula de escape del vapor| Apto para todo tipo de estufa, inclluyendo inducción.",
-    "url": "https://www.imusa.com.co/bateria-de-cocina-imusa-8piezas-primary-acero-inoxidable/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162976/2100123912-1.jpg?v=637907660635530000",
-    "skus": [
-      {
-        "sku_id": "570",
-        "sku_name": "Batería de Cocina IMUSA 8 piezas Primary Acero Inoxidable",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162976/2100123912-1.jpg?v=637907660635530000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 574900.0,
-    "list_price": 749899.0,
     "on_sale": true
   },
   {
@@ -6463,7 +6400,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 328000.0,
+    "price": 299176.0,
     "list_price": 351972.0,
     "on_sale": true
   },
@@ -6505,8 +6442,50 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 1199900.0,
+    "price": 1124369.0,
     "list_price": 1729799.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batería de Cocina IMUSA Fresh Green 6 Piezas Antiadherente",
+    "reference": "5861037425",
+    "brand": "IMUSA",
+    "category": "Baterías y Sets de Cocina",
+    "description": "Antiadherente 3 veces más resistente comparado con la linea básica de Imusa | Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar | Antiadherente confiable | Mangos, asas y pomos robustos y durables | Base difusora para una distribución uniforme el calor y resultados perfectos | Antiadherente interior y exterior para una mayor facilidad al lavar",
+    "url": "https://www.imusa.com.co/bateria-de-cocina-imusa-fresh-green-6-piezas-antiadherente/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173208/5861037425-1.jpg?v=639199105806630000",
+    "skus": [
+      {
+        "sku_id": "1744",
+        "sku_name": "Batería de Cocina IMUSA Fresh Green 6 Piezas Antiadherente",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173208/5861037425-1.jpg?v=639199105806630000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 239900.0,
+    "list_price": 349900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batería de Cocina IMUSA Fresh Blue 6 Piezas Antiadherente",
+    "reference": "5861037416",
+    "brand": "IMUSA",
+    "category": "Baterías y Sets de Cocina",
+    "description": "Antiadherente 3 veces más resistente comparado con la linea básica de Imusa | Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar | Antiadherente confiable | Mangos, asas y pomos robustos y durables | Base difusora para una distribución uniforme el calor y resultados perfectos | Antiadherente interior y exterior para una mayor facilidad al lavar",
+    "url": "https://www.imusa.com.co/bateria-de-cocina-imusa-fresh-blue-6-piezas-antiadherente/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173196/5861037416-1.jpg?v=639199097398300000",
+    "skus": [
+      {
+        "sku_id": "1743",
+        "sku_name": "Batería de Cocina IMUSA Fresh Blue 6 Piezas Antiadherente",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173196/5861037416-1.jpg?v=639199097398300000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 239900.0,
+    "list_price": 349900.0,
     "on_sale": true
   },
   {
@@ -8505,6 +8484,27 @@
     "on_sale": false
   },
   {
+    "name": "Batería de Cocina IMUSA 8 piezas Primary Acero Inoxidable",
+    "reference": "2100123912",
+    "brand": "IMUSA",
+    "category": "Baterías y Sets de Cocina",
+    "description": "Batería de 8Piezas Fabricadas en Acero Inoxidable Premium| Las piezas cuentan con marcas de medición para mejor precisión, ideal para saber hasta que punto agregar los ingredientes de tus preparaciones.| Tapa de vidrio que facilita la supervisión de las preparaciones, altamente resistente y posee válvula de escape del vapor| Apto para todo tipo de estufa, inclluyendo inducción.",
+    "url": "https://www.imusa.com.co/bateria-de-cocina-imusa-8piezas-primary-acero-inoxidable/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162976/2100123912-1.jpg?v=637907660635530000",
+    "skus": [
+      {
+        "sku_id": "570",
+        "sku_name": "Batería de Cocina IMUSA 8 piezas Primary Acero Inoxidable",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162976/2100123912-1.jpg?v=637907660635530000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 487434.0,
+    "list_price": 749899.0,
+    "on_sale": true
+  },
+  {
     "name": "Accesorios para Freidora IMUSA Easy Fry XXL 5,6L",
     "reference": "1510001802",
     "brand": "IMUSA",
@@ -8566,27 +8566,6 @@
     "price": 147700.0,
     "list_price": 147700.0,
     "on_sale": false
-  },
-  {
-    "name": "Ventilador SAMURAI Ultra Silence Force Pared negro",
-    "reference": "5861030796",
-    "brand": "SAMURAI",
-    "category": "Ventiladores de pared",
-    "description": "¡Ventilador hasta 3 veces más SILENCIOSO!| 4 Funciones para todo los momentos del día: Ultra Silencioso, Eco Fresh, Comfort y Fuerza Máxima.| Innovador sistema de inclinación accionada por botón lateral.| Oscilación horizontal de 90 grados, para una óptima distribución del aire.| Consumo optimizado para largas sesiones de ventilación.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-ultra-silence-force-pared-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160237/7702073345103-1.jpg?v=637866627976300000",
-    "skus": [
-      {
-        "sku_id": "367",
-        "sku_name": "Ventilador SAMURAI Ultra Silence Force Pared negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160237/7702073345103-1.jpg?v=637866627976300000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 234900.0,
-    "list_price": 316900.0,
-    "on_sale": true
   },
   {
     "name": "Recipiente TEFAL MasterSeal to Go hermético para Yogurt 0-6L",
@@ -8776,69 +8755,6 @@
     "price": 229900.0,
     "list_price": 289899.0,
     "on_sale": true
-  },
-  {
-    "name": "Ventilador SAMURAI Turbo Silence Maxx Compact 2en1 Negro",
-    "reference": "5861023662",
-    "brand": "SAMURAI",
-    "category": "Ventiladores multiples",
-    "description": "Ventilador 2 en 1 con Tecnología MAXX.| Cuenta con 3 velocidades excelentes y silenciosas para cualquier situación.| Tecnología Turbo Silence que proporciona un flujo de aire mayor, pero con un ruido significativamente menor. | Su diseño y construcción son únicos, su combinación de motor, hélice y mallas lo hacen más silencioso incluso a su máxima velocidad. | Sistema de inclinación vertical y un sistema de oscilación horizontal.\"",
-    "url": "https://www.imusa.com.co/ventilador-samurai-turbo-silence-maxx-compact-2en1-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169686/5861023662-1.jpg.jpg?v=638751425188170000",
-    "skus": [
-      {
-        "sku_id": "103",
-        "sku_name": "Ventilador SAMURAI Turbo Silence Maxx Compact 2en1 Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169686/5861023662-1.jpg.jpg?v=638751425188170000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 199900.0,
-    "list_price": 292899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Batería de Cocina IMUSA Fresh Green 6 Piezas Antiadherente",
-    "reference": "5861037425",
-    "brand": "IMUSA",
-    "category": "Baterías y Sets de Cocina",
-    "description": "Antiadherente 3 veces más resistente comparado con la linea básica de Imusa | Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar | Antiadherente confiable | Mangos, asas y pomos robustos y durables | Base difusora para una distribución uniforme el calor y resultados perfectos | Antiadherente interior y exterior para una mayor facilidad al lavar",
-    "url": "https://www.imusa.com.co/bateria-de-cocina-imusa-fresh-green-6-piezas-antiadherente/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173208/5861037425-1.jpg?v=639199105806630000",
-    "skus": [
-      {
-        "sku_id": "1744",
-        "sku_name": "Batería de Cocina IMUSA Fresh Green 6 Piezas Antiadherente",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173208/5861037425-1.jpg?v=639199105806630000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 349900.0,
-    "list_price": 349900.0,
-    "on_sale": false
-  },
-  {
-    "name": "Batería de Cocina IMUSA Fresh Blue 6 Piezas Antiadherente",
-    "reference": "5861037416",
-    "brand": "IMUSA",
-    "category": "Baterías y Sets de Cocina",
-    "description": "Antiadherente 3 veces más resistente comparado con la linea básica de Imusa | Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar | Antiadherente confiable | Mangos, asas y pomos robustos y durables | Base difusora para una distribución uniforme el calor y resultados perfectos | Antiadherente interior y exterior para una mayor facilidad al lavar",
-    "url": "https://www.imusa.com.co/bateria-de-cocina-imusa-fresh-blue-6-piezas-antiadherente/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173196/5861037416-1.jpg?v=639199097398300000",
-    "skus": [
-      {
-        "sku_id": "1743",
-        "sku_name": "Batería de Cocina IMUSA Fresh Blue 6 Piezas Antiadherente",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173196/5861037416-1.jpg?v=639199097398300000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 349900.0,
-    "list_price": 349900.0,
-    "on_sale": false
   },
   {
     "name": "Olla Arrocera IMUSA 5 Tazas Gris",
@@ -9972,6 +9888,27 @@
     "country": "Colombia",
     "price": 164899.0,
     "list_price": 164899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Plancha Vertical T-FAL Access Steam Easy Roja",
+    "reference": "1830008918",
+    "brand": "TEFAL",
+    "category": "Planchas verticales",
+    "description": "1400 Watts de potencia y vapor continuo de 25 g/min para gran eficiencia. |Suela metálica antigoteo. |Rápido calentamiento en 15 segundos. |Excelente autonomía de 7 minutos de uso continuo. |Cable extralargo de 2.6 metros para planchar cómodamente. |Depósito de agua extraíble de 150ml para un fácil llenado. |Elimina hasta el 99% de las bacterias. |Apta y segura para todo tipo de textiles |No necesita mesa para planchar.",
+    "url": "https://www.imusa.com.co/plancha-vertical-t-fal-access-steam-easy-roja/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169041/1830008918-1.jpg?v=638593493626570000",
+    "skus": [
+      {
+        "sku_id": "985",
+        "sku_name": "Plancha Vertical T-FAL Access Steam Easy Roja",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169041/1830008918-1.jpg?v=638593493626570000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 313900.0,
+    "list_price": 313900.0,
     "on_sale": false
   },
   {
@@ -11235,6 +11172,27 @@
     "on_sale": false
   },
   {
+    "name": "Sartén IMUSA Gusto 28 cm aluminio fundido",
+    "reference": "5861031708",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Sartén con Venas elaborado en Aluminio fundido con Recubrimiento Antiadherente NADA SE LE PEGA y con acabado en EFECTO PIEDRA para una cocina moderna y elegante| Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm. | Mangos robustos y suaves al tacto para un mayor confort| Apto para lavavajillas y horno",
+    "url": "https://www.imusa.com.co/sarten-imusa-gusto-28-cm-aluminio-fundido/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159601/7702073811929-1.jpg?v=637866229331000000",
+    "skus": [
+      {
+        "sku_id": "497",
+        "sku_name": "Sartén IMUSA Gusto 28 cm aluminio fundido",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159601/7702073811929-1.jpg?v=637866229331000000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 129900.0,
+    "list_price": 129900.0,
+    "on_sale": false
+  },
+  {
     "name": "Termo TEFAL Coffee To Go 0.3 litros gris",
     "reference": "3100518739",
     "brand": "TEFAL",
@@ -11508,6 +11466,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador SAMURAI Ultra Silence Force Pared negro",
+    "reference": "5861030796",
+    "brand": "SAMURAI",
+    "category": "Ventiladores de pared",
+    "description": "¡Ventilador hasta 3 veces más SILENCIOSO!| 4 Funciones para todo los momentos del día: Ultra Silencioso, Eco Fresh, Comfort y Fuerza Máxima.| Innovador sistema de inclinación accionada por botón lateral.| Oscilación horizontal de 90 grados, para una óptima distribución del aire.| Consumo optimizado para largas sesiones de ventilación.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-ultra-silence-force-pared-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160237/7702073345103-1.jpg?v=637866627976300000",
+    "skus": [
+      {
+        "sku_id": "367",
+        "sku_name": "Ventilador SAMURAI Ultra Silence Force Pared negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160237/7702073345103-1.jpg?v=637866627976300000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 316900.0,
+    "list_price": 316900.0,
+    "on_sale": false
+  },
+  {
     "name": "Ventilador SAMURAI Ultra Silence Force 2en1 blanco",
     "reference": "5861030024",
     "brand": "SAMURAI",
@@ -11568,6 +11547,27 @@
     "country": "Colombia",
     "price": 524899.0,
     "list_price": 524899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Olla a Presion IMUSA Smart Cierre Interno 3L",
+    "reference": "5861027451",
+    "brand": "IMUSA",
+    "category": "Ollas a presión",
+    "description": "Su sistema Practiclic IMUSA permite abrir y cerrar la olla con un solo click. | Válvula de dos posiciones que indica cuándo la Olla a Presión está en su punto de presión de cocción. | Sistema SecuryPlus para garantizar siempre tu seguridad en la cocina",
+    "url": "https://www.imusa.com.co/olla-a-presion-imusa-smart-cierre-interno-3l/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159204/7702073030542-1.jpg?v=637866227267200000",
+    "skus": [
+      {
+        "sku_id": "310",
+        "sku_name": "Olla a Presion IMUSA Smart Cierre Interno 3L",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159204/7702073030542-1.jpg?v=637866227267200000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 146899.0,
+    "list_price": 146899.0,
     "on_sale": false
   },
   {
@@ -12096,25 +12096,25 @@
     "on_sale": false
   },
   {
-    "name": "Jarra para cafetera CM223DMX original de repuesto",
-    "reference": "9100036277",
+    "name": "Generador de vapor Express Easy, resultados impecables",
+    "reference": "1830009002",
     "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
+    "category": "Generadores de vapor",
+    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor de 280 g/min incluso las arrugas más rebeldes desaparecen fácilmente dejando tus prendas suaves y con acabado impecable. * LISTO EN SEGUNDOS: En tan solo 2 minutos alcanza la temperatura ideal perfecto para esos retoques de último momento o para iniciar tus sesiones de planchado sin esperas. * DISEÑO ULTRA-COMPACTO: Su tamaño reducido cabe en cualquier espacio facilitando el guardado y ofreciendo comodidad al moverlo de un lugar a otro. * MÁS AUTONOMÍA PARA TI: El tanque de agua de 1.4 L permite planchar por más tiempo sin interrupciones con la ventaja de recargar en cualquier momento. * CUIDADO DURADERO: La tecnología Calc Clear evita la acumulación de sarro alargando la vida del producto y asegurando un rendimiento constante día tras día.",
+    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-easy-resultados-impecables-950/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000",
     "skus": [
       {
-        "sku_id": "1108",
-        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
+        "sku_id": "950",
+        "sku_name": "Generador de vapor Express Easy, resultados impecables",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 139.0,
-    "list_price": 139.0,
-    "on_sale": false
+    "price": 1999.0,
+    "list_price": 2499.0,
+    "on_sale": true
   },
   {
     "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
@@ -12285,6 +12285,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén Excellence+ 20cm Fusion Core",
+    "reference": "2100139014",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
+    "url": "https://www.t-fal.com.mx/sarten-excellence--20cm-fusion-core/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000",
+    "skus": [
+      {
+        "sku_id": "1094",
+        "sku_name": "Sartén Excellence+ 20cm Fusion Core",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1199.0,
+    "list_price": 1499.0,
+    "on_sale": true
+  },
+  {
     "name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
     "reference": "5861036615",
     "brand": "T-fal",
@@ -12324,6 +12345,27 @@
     "country": "México",
     "price": 34.0,
     "list_price": 34.0,
+    "on_sale": false
+  },
+  {
+    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032671",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
+    "skus": [
+      {
+        "sku_id": "1076",
+        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 249.0,
+    "list_price": 249.0,
     "on_sale": false
   },
   {
@@ -12432,27 +12474,6 @@
     "on_sale": false
   },
   {
-    "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
-    "reference": "7114900087",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* Con una generosa capacidad de 22 litros, esta olla a presión está especialmente diseñada para realizar grandes preparaciones garantizando máxima seguridad y facilidad de uso.\n* Equipada con 5 sistemas de seguridad integrados que proporcionan una experiencia de cocina sin riesgos, asegurando que prepares grandes cantidad de comidas eficientemente.\n* Su construcción en aluminio ofrece un manejo liviano y fácil, permitiendo que puedas moverla y utilizarla sin esfuerzo incluso durante largas jornadas de cocina.\n* Su versatilidad excepcional es perfecta para una variead de recetas, destacando por su capacidad de satisfacer diferentes necesidades culinarias con gran facilidad.\n* La elección ideal para quienes necesitan cocinar grandes volúmenes de alimentos rápidamente, asegurando la frescura y calidad en cada preparación.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-de-22-l-de-aluminio-segura-y-facil-de-utilizar/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000",
-    "skus": [
-      {
-        "sku_id": "1017",
-        "sku_name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2799.0,
-    "list_price": 2799.0,
-    "on_sale": false
-  },
-  {
     "name": "Horno Eléctrico 40 L",
     "reference": "1510001927",
     "brand": "T-fal",
@@ -12514,6 +12535,27 @@
     "price": 669.0,
     "list_price": 669.0,
     "on_sale": false
+  },
+  {
+    "name": "Vaporizador vertical Pro Style, vapor profesional en casa",
+    "reference": "1830007416",
+    "brand": "T-fal",
+    "category": "Vaporizadores verticales",
+    "description": "* ADIÓS A LAS ARRUGAS: El cabezal XL metálico con punta de precisión ofrece mayor cobertura y elimina arrugas fácilmente, incluso en prendas grandes o gruesas.\n* IDEAL PARA PRENDAS LARGAS: Cuida tus prendas prendas largas y delicadas como vestidos, abrigos o trajes, sin esfuerzo y en un movimiento. \n* ADAPTADO A TODAS LAS TELAS: Sus 3 niveles de vapor se ajustan a cualquier tipo de tejido, desde los más delicados hasta los más resistentes, cuidando siempre tus prendas.\n* REFRESCA Y SANITIZA: El vapor no solo elimina arrugas, también ayuda a reducir olores y hasta el 99.99% de bacterias, ofreciendo frescura y mayor higiene diaria.\n* MANTENIMIENTO SENCILLO: El sistema anti-sarro y el tanque removible facilitan el cuidado del aparato, asegurando un rendimiento óptimo y duradero en cada uso.",
+    "url": "https://www.t-fal.com.mx/vaporizador-vertical-pro-style-vapor-profesional-en-casa/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159140/1830007416_IT3420X1_CENT-VAP-FASHION-STEAM--3-.jpg?v=638965683349500000",
+    "skus": [
+      {
+        "sku_id": "978",
+        "sku_name": "Vaporizador vertical Pro Style, vapor profesional en casa",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159140/1830007416_IT3420X1_CENT-VAP-FASHION-STEAM--3-.jpg?v=638965683349500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2809.0,
+    "list_price": 2999.0,
+    "on_sale": true
   },
   {
     "name": "Sartén 30cm Emotion SS",
@@ -12894,48 +12936,6 @@
     "on_sale": false
   },
   {
-    "name": "Sartén Excellence+ 20cm Fusion Core",
-    "reference": "2100139014",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
-    "url": "https://www.t-fal.com.mx/sarten-excellence--20cm-fusion-core/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000",
-    "skus": [
-      {
-        "sku_id": "1094",
-        "sku_name": "Sartén Excellence+ 20cm Fusion Core",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1199.0,
-    "list_price": 1499.0,
-    "on_sale": true
-  },
-  {
-    "name": "Juego de sartenes Delight 20 y 24 cm Mineralia+ y Termo-Señal",
-    "reference": "9100061964",
-    "brand": "T-fal",
-    "category": "Sets de sartenes",
-    "description": "* Mineralia + Thermo-Signal.<br>* Mango cómodo.<br>* Compatible con inducción.",
-    "url": "https://www.t-fal.com.mx/juego-de-sartenes-delight-20-y-24-cm-mineralia--y-termo-señal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159489/9100061964_G0120482M25_JGO2024CMDELIGHT_01.jpg?v=639123199973400000",
-    "skus": [
-      {
-        "sku_id": "1093",
-        "sku_name": "Juego de sartenes Delight 20 y 24 cm Mineralia+ y Termo-Señal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159489/9100061964_G0120482M25_JGO2024CMDELIGHT_01.jpg?v=639123199973400000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1679.0,
-    "list_price": 1679.0,
-    "on_sale": false
-  },
-  {
     "name": "Sartén Excellence+ 30cm Fusion Core",
     "reference": "2100139013",
     "brand": "T-fal",
@@ -12975,27 +12975,6 @@
     "country": "México",
     "price": 2699.0,
     "list_price": 2699.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032671",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/vaso-de-vidrio-de-2-2-lts-del-rango-infinyforce-xl-y-ultraforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000",
-    "skus": [
-      {
-        "sku_id": "1076",
-        "sku_name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159444/5861032671_XF2100MX_VASOVIDRIOINFINYFORCACCXL-01-.jpg?v=639119630005730000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 249.0,
-    "list_price": 249.0,
     "on_sale": false
   },
   {
@@ -13503,6 +13482,27 @@
     "on_sale": false
   },
   {
+    "name": "Olla a presión Compact Easy 6L inox., compacta y segura",
+    "reference": "7114000624",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* La olla a presión Compact Easy de 6 litros es la solución perfecta para una cocina segura y eficiente. \n* Fabricada en acero inoxidable. \n* Ofrece una resistencia excepcional y cuenta con 5 sistemas de seguridad que garantizan un uso sin riesgos. \n* Además. \n* es compatible con todas las fuentes de calor hasta inducción. \n* Lo que la hace extremadamente versátil. \n* Su diseño compacto facilita su almacenamiento y manejo. \n* Permitiendo que prepares tus comidas con facilidad. \n* Gracias a su durabilidad y seguridad. \n* La Compact Easy se convierte en una herramienta indispensable para cualquier cocina.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-compact-easy-6l-inox-compacta-y-segura-945/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157985/7114000624_P3530733_OLLAPRESIONCOMPACTEASY6LT-FAL-01-.jpg?v=638930557839800000",
+    "skus": [
+      {
+        "sku_id": "945",
+        "sku_name": "Olla a presión Compact Easy 6L inox., compacta y segura",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157985/7114000624_P3530733_OLLAPRESIONCOMPACTEASY6LT-FAL-01-.jpg?v=638930557839800000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2519.0,
+    "list_price": 2519.0,
+    "on_sale": false
+  },
+  {
     "name": "Batería Ingenio XL Force 12 pzas, antiadherente, apilable",
     "reference": "2100125652",
     "brand": "T-fal",
@@ -13857,6 +13857,27 @@
     "country": "México",
     "price": 2499.0,
     "list_price": 2499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Juego de sartenes Delight 20 y 24 cm Mineralia+ y Termo-Señal",
+    "reference": "9100061964",
+    "brand": "T-fal",
+    "category": "Sets de sartenes",
+    "description": "* Mineralia + Thermo-Signal.<br>* Mango cómodo.<br>* Compatible con inducción.",
+    "url": "https://www.t-fal.com.mx/juego-de-sartenes-delight-20-y-24-cm-mineralia--y-termo-señal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159489/9100061964_G0120482M25_JGO2024CMDELIGHT_01.jpg?v=639123199973400000",
+    "skus": [
+      {
+        "sku_id": "1093",
+        "sku_name": "Juego de sartenes Delight 20 y 24 cm Mineralia+ y Termo-Señal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159489/9100061964_G0120482M25_JGO2024CMDELIGHT_01.jpg?v=639123199973400000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1679.0,
+    "list_price": 1679.0,
     "on_sale": false
   },
   {
@@ -14637,6 +14658,27 @@
     "on_sale": false
   },
   {
+    "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
+    "reference": "7114900087",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* Con una generosa capacidad de 22 litros, esta olla a presión está especialmente diseñada para realizar grandes preparaciones garantizando máxima seguridad y facilidad de uso.\n* Equipada con 5 sistemas de seguridad integrados que proporcionan una experiencia de cocina sin riesgos, asegurando que prepares grandes cantidad de comidas eficientemente.\n* Su construcción en aluminio ofrece un manejo liviano y fácil, permitiendo que puedas moverla y utilizarla sin esfuerzo incluso durante largas jornadas de cocina.\n* Su versatilidad excepcional es perfecta para una variead de recetas, destacando por su capacidad de satisfacer diferentes necesidades culinarias con gran facilidad.\n* La elección ideal para quienes necesitan cocinar grandes volúmenes de alimentos rápidamente, asegurando la frescura y calidad en cada preparación.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-de-22-l-de-aluminio-segura-y-facil-de-utilizar/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000",
+    "skus": [
+      {
+        "sku_id": "1017",
+        "sku_name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2799.0,
+    "list_price": 2799.0,
+    "on_sale": false
+  },
+  {
     "name": "Olla a presión Clipso Tempo de aluminio antiadherente color negro",
     "reference": "1510002963",
     "brand": "T-fal",
@@ -15409,8 +15451,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 699.0,
-    "list_price": 699.0,
+    "price": 1099.0,
+    "list_price": 1099.0,
     "on_sale": false
   },
   {
@@ -15453,27 +15495,6 @@
     "country": "México",
     "price": 899.0,
     "list_price": 899.0,
-    "on_sale": false
-  },
-  {
-    "name": "Olla a presión Compact Easy 6L inox., compacta y segura",
-    "reference": "7114000624",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* La olla a presión Compact Easy de 6 litros es la solución perfecta para una cocina segura y eficiente. \n* Fabricada en acero inoxidable. \n* Ofrece una resistencia excepcional y cuenta con 5 sistemas de seguridad que garantizan un uso sin riesgos. \n* Además. \n* es compatible con todas las fuentes de calor hasta inducción. \n* Lo que la hace extremadamente versátil. \n* Su diseño compacto facilita su almacenamiento y manejo. \n* Permitiendo que prepares tus comidas con facilidad. \n* Gracias a su durabilidad y seguridad. \n* La Compact Easy se convierte en una herramienta indispensable para cualquier cocina.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-compact-easy-6l-inox-compacta-y-segura-945/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157985/7114000624_P3530733_OLLAPRESIONCOMPACTEASY6LT-FAL-01-.jpg?v=638930557839800000",
-    "skus": [
-      {
-        "sku_id": "945",
-        "sku_name": "Olla a presión Compact Easy 6L inox., compacta y segura",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157985/7114000624_P3530733_OLLAPRESIONCOMPACTEASY6LT-FAL-01-.jpg?v=638930557839800000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2519.0,
-    "list_price": 2519.0,
     "on_sale": false
   },
   {
@@ -15918,6 +15939,27 @@
     "on_sale": false
   },
   {
+    "name": "Jarra para cafetera CM223DMX original de repuesto",
+    "reference": "9100036277",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
+    "skus": [
+      {
+        "sku_id": "1108",
+        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 139.0,
+    "list_price": 139.0,
+    "on_sale": false
+  },
+  {
     "name": "Jarra para cafetera CM3218MX original de repuesto",
     "reference": "9100017766",
     "brand": "T-fal",
@@ -16104,48 +16146,6 @@
     "country": "México",
     "price": 3499.0,
     "list_price": 3499.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaporizador vertical Pro Style, vapor profesional en casa",
-    "reference": "1830007416",
-    "brand": "T-fal",
-    "category": "Vaporizadores verticales",
-    "description": "* ADIÓS A LAS ARRUGAS: El cabezal XL metálico con punta de precisión ofrece mayor cobertura y elimina arrugas fácilmente, incluso en prendas grandes o gruesas.\n* IDEAL PARA PRENDAS LARGAS: Cuida tus prendas prendas largas y delicadas como vestidos, abrigos o trajes, sin esfuerzo y en un movimiento. \n* ADAPTADO A TODAS LAS TELAS: Sus 3 niveles de vapor se ajustan a cualquier tipo de tejido, desde los más delicados hasta los más resistentes, cuidando siempre tus prendas.\n* REFRESCA Y SANITIZA: El vapor no solo elimina arrugas, también ayuda a reducir olores y hasta el 99.99% de bacterias, ofreciendo frescura y mayor higiene diaria.\n* MANTENIMIENTO SENCILLO: El sistema anti-sarro y el tanque removible facilitan el cuidado del aparato, asegurando un rendimiento óptimo y duradero en cada uso.",
-    "url": "https://www.t-fal.com.mx/vaporizador-vertical-pro-style-vapor-profesional-en-casa/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159140/1830007416_IT3420X1_CENT-VAP-FASHION-STEAM--3-.jpg?v=638965683349500000",
-    "skus": [
-      {
-        "sku_id": "978",
-        "sku_name": "Vaporizador vertical Pro Style, vapor profesional en casa",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159140/1830007416_IT3420X1_CENT-VAP-FASHION-STEAM--3-.jpg?v=638965683349500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2999.0,
-    "list_price": 2999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Generador de vapor Express Easy, resultados impecables",
-    "reference": "1830009002",
-    "brand": "T-fal",
-    "category": "Generadores de vapor",
-    "description": "* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor de 280 g/min incluso las arrugas más rebeldes desaparecen fácilmente dejando tus prendas suaves y con acabado impecable. * LISTO EN SEGUNDOS: En tan solo 2 minutos alcanza la temperatura ideal perfecto para esos retoques de último momento o para iniciar tus sesiones de planchado sin esperas. * DISEÑO ULTRA-COMPACTO: Su tamaño reducido cabe en cualquier espacio facilitando el guardado y ofreciendo comodidad al moverlo de un lugar a otro. * MÁS AUTONOMÍA PARA TI: El tanque de agua de 1.4 L permite planchar por más tiempo sin interrupciones con la ventaja de recargar en cualquier momento. * CUIDADO DURADERO: La tecnología Calc Clear evita la acumulación de sarro alargando la vida del producto y asegurando un rendimiento constante día tras día.",
-    "url": "https://www.t-fal.com.mx/generador-de-vapor-express-easy-resultados-impecables-950/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000",
-    "skus": [
-      {
-        "sku_id": "950",
-        "sku_name": "Generador de vapor Express Easy, resultados impecables",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158015/1830009002_SV6115X0_ExpressEssentialBlue-01-.jpg?v=638930561745570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2499.0,
-    "list_price": 2499.0,
     "on_sale": false
   },
   {
@@ -16923,27 +16923,6 @@
     "country": "Chile",
     "price": 69990.0,
     "list_price": 99990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén 20 cm Unlimited",
-    "reference": "2100115594",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "Sartén anti-rayaduras Tefal Unlimited: el mejor revestimiento antiadherente y anti-rayaduras. | No se raya, no se pega ni se rompe: elegir la sartén adecuada puede marcar la diferencia. | Tefal está a la altura de las circunstancias y ha diseñado un menaje de cocina que resiste a las situaciones más extremas. | El sartén Unlimited de Tefal, es extremadamente duradero y dispone de unos estándares de calidad impecables. | El nuevo revestimiento de titanio antirayaduras y antiadherente dura seis veces más*. | Combina la comodidad de un revestimiento antiadherente con una extrema resistencia a las rayaduras, hasta con utensilios de metal. |Resultados que hacen agua la boca con muy poco esfuerzo. | Podrás cocinar a la plancha sin siquiera añadir aceite. |Este sartén antiadherente ha sido diseñado para enfrentarse a cualquier reto culinario sin defraudarte, además de ofrecerte un rendimiento que marca la diferencia. | Lleva tus habilidades de cocina a nuevas costas con el mejor menaje antiadherente de Tefal.",
-    "url": "https://www.tefalstore.cl/tefal-sarten-20-cm-unlimited/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205741/2100115594.png?v=639090084952970000",
-    "skus": [
-      {
-        "sku_id": "12",
-        "sku_name": "Sartén 20 cm Unlimited",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205741/2100115594.png?v=639090084952970000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 21990.0,
-    "list_price": 32990.0,
     "on_sale": true
   },
   {
@@ -17766,27 +17745,6 @@
     "on_sale": true
   },
   {
-    "name": "Aspiradora Vertical X-FORCE Flex 14.8 Aqua Head Rowenta",
-    "reference": "2211401335",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Inalámbricas",
-    "description": "POTENCIA DE SUCCIÓN EXTRA: Di adiós al polvo y los residuos en todo tipo de suelos, incluso alfombras, gracias a un cepillo de última generación y una succión extra de hasta 240 Air Watts* para eliminar la suciedad más incrustada (*usando el modo boost en posición de mano).|\nLIMPIEZA INTELIGENTE: Ajuste automático de la potencia de succión según el tipo de suelo para una limpieza sencilla y un uso óptimo de la energía y la autonomía con el sistema Smart Control Display.|\nTIEMPO DE FUNCIONAMIENTO EXTRA-LARGO: Disfruta hasta 1h30* de succión ultrapotente con una sola carga para limpiar todo tu espacio sin interrupciones (*cuando se usa en modo de mano en posición Eco).|\nLIMPIEZA PROFUNDA SIN ESFUERZO: Experimenta una limpieza sin complicaciones gracias a un diseño delgado y compacto (peso en modo de mano: 1,8 kg) que ofrece una potencia impresionante para una limpieza práctica.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6.200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—parte de nuestro compromiso de ayudar a proteger el medio ambiente y reducir los desechos.|\nACCIÓN DE LIMPIEZA 2 EN 1: El cabezal Aerospin aqua aspira y lava al mismo tiempo, con mopas de microfibra rotativas que eliminan manchas incrustadas—para sesiones de limpieza más cortas y resultados impecables.|\nALCANZA LO INALCANZABLE: La tecnología Flex llega profundamente debajo de los muebles para una limpieza completa sin necesidad de agacharse, con barras LED para detectar el polvo en áreas con poca luz.|\nPOSIBILIDADES INFINITAS: Una solución de limpieza 4 en 1 para dejar tu hogar impecable en todas partes, no solo en los suelos, con limpieza profunda potente, cobertura versátil y acceso a cada rincón.|\nALTA FILTRACIÓN: Libera aire limpio gracias a un avanzado sistema de filtración ubicado en la parte trasera del motor que atrapa el 99,9% del polvo y las partículas.|\nQUÉ INCLUYE LA CAJA: Aspiradora inalámbrica tipo escoba X-Force Flex 14.80, base de carga, cargador, herramienta para ranuras, cepillo para sofá, 2 cepillos Easy, cabezal Aerospin aqua (+ 2 mopas).",
-    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-force-flex-14-8-aqua-head-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205792/01-portada.jpg?v=639098766823270000",
-    "skus": [
-      {
-        "sku_id": "384",
-        "sku_name": "Aspiradora Vertical X-FORCE Flex 14.8 Aqua Head Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205792/01-portada.jpg?v=639098766823270000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 489990.0,
-    "list_price": 599990.0,
-    "on_sale": true
-  },
-  {
     "name": "Set de Ollas Acero Inoxidable 5 Piezas Comfort Max Tefal",
     "reference": "2100087300",
     "brand": "Tefal",
@@ -18543,6 +18501,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén 28 cm XL Intense",
+    "reference": "2100124840",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "Descubre el sartén perfecto: la gama XL Intense de Tefal ha sido diseñada para satisfacer tus necesidades diarias en la cocina, combinando un rendimiento de larga duración con una gran capacidad para preparar cantidades abundantes de comida. | Tefal pone todo lo que necesitas para preparar unos platos deliciosos y saludables al alcance de tu mano: un revestimiento antiadherente Titanium x2 altamente resistente, una durabilidad excepcional, así como un menaje de cocina respetuoso con el medioambiente gracias al ahorro de energía durante la cocción y de agua durante su limpieza. | Gracias a la tecnología Thermo-Signal™, podrás obtener resultados exquisitos sin necesidad de ser un experto en la cocina, y la base difusora del calor garantiza una cocción perfectamente homogénea. Todo ello, en un formato XL de gran capacidad. | Este sartén fácil de usar aportará un toque saludable a tus comidas diarias: prepara un pollo a la plancha para una deliciosa ensalada César, unas quesadillas irresistibles, unos huevos revueltos para tus brunch de domingo y mucho más. XL Intense te ofrece una cocina casera versátil y saludable, sin dejar de lado el sabor.",
+    "url": "https://www.tefalstore.cl/tefal-sarten-28-cm-xl-intense/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202592/2100121068-01.jpg?v=638784418120800000",
+    "skus": [
+      {
+        "sku_id": "121",
+        "sku_name": "Sartén 28 cm XL Intense",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202592/2100121068-01.jpg?v=638784418120800000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 18990.0,
+    "list_price": 28990.0,
+    "on_sale": true
+  },
+  {
     "name": "Cafetera Espresso My Coffee Steam Digital Krups",
     "reference": "8010001466",
     "brand": "Krups",
@@ -18648,6 +18627,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora Vertical X-FORCE Flex 14.8 Aqua Head Rowenta",
+    "reference": "2211401335",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "POTENCIA DE SUCCIÓN EXTRA: Di adiós al polvo y los residuos en todo tipo de suelos, incluso alfombras, gracias a un cepillo de última generación y una succión extra de hasta 240 Air Watts* para eliminar la suciedad más incrustada (*usando el modo boost en posición de mano).|\nLIMPIEZA INTELIGENTE: Ajuste automático de la potencia de succión según el tipo de suelo para una limpieza sencilla y un uso óptimo de la energía y la autonomía con el sistema Smart Control Display.|\nTIEMPO DE FUNCIONAMIENTO EXTRA-LARGO: Disfruta hasta 1h30* de succión ultrapotente con una sola carga para limpiar todo tu espacio sin interrupciones (*cuando se usa en modo de mano en posición Eco).|\nLIMPIEZA PROFUNDA SIN ESFUERZO: Experimenta una limpieza sin complicaciones gracias a un diseño delgado y compacto (peso en modo de mano: 1,8 kg) que ofrece una potencia impresionante para una limpieza práctica.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6.200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—parte de nuestro compromiso de ayudar a proteger el medio ambiente y reducir los desechos.|\nACCIÓN DE LIMPIEZA 2 EN 1: El cabezal Aerospin aqua aspira y lava al mismo tiempo, con mopas de microfibra rotativas que eliminan manchas incrustadas—para sesiones de limpieza más cortas y resultados impecables.|\nALCANZA LO INALCANZABLE: La tecnología Flex llega profundamente debajo de los muebles para una limpieza completa sin necesidad de agacharse, con barras LED para detectar el polvo en áreas con poca luz.|\nPOSIBILIDADES INFINITAS: Una solución de limpieza 4 en 1 para dejar tu hogar impecable en todas partes, no solo en los suelos, con limpieza profunda potente, cobertura versátil y acceso a cada rincón.|\nALTA FILTRACIÓN: Libera aire limpio gracias a un avanzado sistema de filtración ubicado en la parte trasera del motor que atrapa el 99,9% del polvo y las partículas.|\nQUÉ INCLUYE LA CAJA: Aspiradora inalámbrica tipo escoba X-Force Flex 14.80, base de carga, cargador, herramienta para ranuras, cepillo para sofá, 2 cepillos Easy, cabezal Aerospin aqua (+ 2 mopas).",
+    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-force-flex-14-8-aqua-head-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205792/01-portada.jpg?v=639098766823270000",
+    "skus": [
+      {
+        "sku_id": "384",
+        "sku_name": "Aspiradora Vertical X-FORCE Flex 14.8 Aqua Head Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205792/01-portada.jpg?v=639098766823270000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 489990.0,
+    "list_price": 599990.0,
+    "on_sale": true
+  },
+  {
     "name": "Olla 24 cm + tapa Super Cook Tefal",
     "reference": "2100142381",
     "brand": "Tefal",
@@ -18685,9 +18685,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 46990.0,
+    "price": 26990.0,
     "list_price": 46990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Jarra Térmica Ponza 1,9L Gris Tefal",
@@ -19005,27 +19005,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén 28 cm XL Intense",
-    "reference": "2100124840",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "Descubre el sartén perfecto: la gama XL Intense de Tefal ha sido diseñada para satisfacer tus necesidades diarias en la cocina, combinando un rendimiento de larga duración con una gran capacidad para preparar cantidades abundantes de comida. | Tefal pone todo lo que necesitas para preparar unos platos deliciosos y saludables al alcance de tu mano: un revestimiento antiadherente Titanium x2 altamente resistente, una durabilidad excepcional, así como un menaje de cocina respetuoso con el medioambiente gracias al ahorro de energía durante la cocción y de agua durante su limpieza. | Gracias a la tecnología Thermo-Signal™, podrás obtener resultados exquisitos sin necesidad de ser un experto en la cocina, y la base difusora del calor garantiza una cocción perfectamente homogénea. Todo ello, en un formato XL de gran capacidad. | Este sartén fácil de usar aportará un toque saludable a tus comidas diarias: prepara un pollo a la plancha para una deliciosa ensalada César, unas quesadillas irresistibles, unos huevos revueltos para tus brunch de domingo y mucho más. XL Intense te ofrece una cocina casera versátil y saludable, sin dejar de lado el sabor.",
-    "url": "https://www.tefalstore.cl/tefal-sarten-28-cm-xl-intense/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202592/2100121068-01.jpg?v=638784418120800000",
-    "skus": [
-      {
-        "sku_id": "121",
-        "sku_name": "Sartén 28 cm XL Intense",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202592/2100121068-01.jpg?v=638784418120800000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 18990.0,
-    "list_price": 28990.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Blendforce 5V + Pulse 800W Moulinex",
     "reference": "7211004072",
     "brand": "Moulinex",
@@ -19105,9 +19084,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 19990.0,
+    "price": 14990.0,
     "list_price": 19990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Wok 26 CM Renew Ceramica Tefal",
@@ -19273,9 +19252,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 29990.0,
+    "price": 19990.0,
     "list_price": 29990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Alisador de pelo Thermocare 5 Niveles Rowenta",
@@ -19378,9 +19357,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 124990.0,
+    "price": 109990.0,
     "list_price": 124990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería de cocina acero inoxidable 10 piezas Intuition Tefal",
@@ -19399,9 +19378,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 137990.0,
+    "price": 119990.0,
     "list_price": 137990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Hervidor Subito 5 1,7 L Rojo Moulinex",
@@ -20619,6 +20598,27 @@
     "country": "Chile",
     "price": 48990.0,
     "list_price": 48990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Sartén 20 cm Unlimited",
+    "reference": "2100115594",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "Sartén anti-rayaduras Tefal Unlimited: el mejor revestimiento antiadherente y anti-rayaduras. | No se raya, no se pega ni se rompe: elegir la sartén adecuada puede marcar la diferencia. | Tefal está a la altura de las circunstancias y ha diseñado un menaje de cocina que resiste a las situaciones más extremas. | El sartén Unlimited de Tefal, es extremadamente duradero y dispone de unos estándares de calidad impecables. | El nuevo revestimiento de titanio antirayaduras y antiadherente dura seis veces más*. | Combina la comodidad de un revestimiento antiadherente con una extrema resistencia a las rayaduras, hasta con utensilios de metal. |Resultados que hacen agua la boca con muy poco esfuerzo. | Podrás cocinar a la plancha sin siquiera añadir aceite. |Este sartén antiadherente ha sido diseñado para enfrentarse a cualquier reto culinario sin defraudarte, además de ofrecerte un rendimiento que marca la diferencia. | Lleva tus habilidades de cocina a nuevas costas con el mejor menaje antiadherente de Tefal.",
+    "url": "https://www.tefalstore.cl/tefal-sarten-20-cm-unlimited/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205741/2100115594.png?v=639090084952970000",
+    "skus": [
+      {
+        "sku_id": "12",
+        "sku_name": "Sartén 20 cm Unlimited",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205741/2100115594.png?v=639090084952970000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 32990.0,
+    "list_price": 32990.0,
     "on_sale": false
   },
   {
