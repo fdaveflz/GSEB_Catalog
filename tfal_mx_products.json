@@ -504,6 +504,27 @@
     "on_sale": true
   },
   {
+    "name": "Batería Excite Bronze 14 pzas antiadherente",
+    "reference": "2100108568",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Recubrimiento antiadherente de alta resistencia que permite cocinar con menos grasa y asegura una limpieza sencilla tras cada uso. \n* Tapas de vidrio con salida de vapor. \n* Diseñadas para controlar el proceso de cocción sin necesidad de levantarlas ni perder calor. \n* Base difusora que distribuye el calor uniformemente. \n* Evitando puntos calientes y garantizando resultados homogéneos en cada preparación. \n* Incluye utensilios prácticos como escurridor y cucharas medidoras. \n* libres de BPA y resistentes al calor para mayor seguridad. \n* Compatible con todas las cocinas excepto inducción y apta para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/bateria-excite-bronze-14-pzas-antiadherente/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000",
+    "skus": [
+      {
+        "sku_id": "966",
+        "sku_name": "Batería Excite Bronze 14 pzas antiadherente",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
+    "on_sale": false
+  },
+  {
     "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
     "reference": "5861032684",
     "brand": "T-fal",
@@ -606,27 +627,6 @@
     "country": "México",
     "price": 2149.0,
     "list_price": 2149.0,
-    "on_sale": false
-  },
-  {
-    "name": "Olla a presión 12L aluminio, segura y versátil",
-    "reference": "7114900079",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* La olla a presión de 12 litros. \n* Hecha de aluminio. \n* Garantiza seguridad y facilidad de uso para grandes preparaciones. \n* Equipada con 5 sistemas de seguridad. \n* Esta olla proporciona una experiencia de cocina sin riesgos. \n* Es ideal para cocinar grandes volúmenes de comida. \n* Ofreciendo versatilidad para una amplia variedad de recetas. \n* La construcción en aluminio asegura una estructura ligera y fácil manejo. \n* Permitiéndote cocinar eficientemente en cualquier ocasión. \n* Con esta olla a presión. \n* Podrás realizar grandes preparaciones de manera segura y rápida. \n* Manteniendo la frescura y calidad de tus alimentos.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-12l-aluminio-segura-y-versatil-942/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000",
-    "skus": [
-      {
-        "sku_id": "942",
-        "sku_name": "Olla a presión 12L aluminio, segura y versátil",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1989.0,
-    "list_price": 1989.0,
     "on_sale": false
   },
   {
@@ -1216,27 +1216,6 @@
     "price": 909.0,
     "list_price": 1199.0,
     "on_sale": true
-  },
-  {
-    "name": "Batería Excite Bronze 14 pzas antiadherente",
-    "reference": "2100108568",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Recubrimiento antiadherente de alta resistencia que permite cocinar con menos grasa y asegura una limpieza sencilla tras cada uso. \n* Tapas de vidrio con salida de vapor. \n* Diseñadas para controlar el proceso de cocción sin necesidad de levantarlas ni perder calor. \n* Base difusora que distribuye el calor uniformemente. \n* Evitando puntos calientes y garantizando resultados homogéneos en cada preparación. \n* Incluye utensilios prácticos como escurridor y cucharas medidoras. \n* libres de BPA y resistentes al calor para mayor seguridad. \n* Compatible con todas las cocinas excepto inducción y apta para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/bateria-excite-bronze-14-pzas-antiadherente/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000",
-    "skus": [
-      {
-        "sku_id": "966",
-        "sku_name": "Batería Excite Bronze 14 pzas antiadherente",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
-    "on_sale": false
   },
   {
     "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
@@ -3402,6 +3381,27 @@
     "on_sale": false
   },
   {
+    "name": "Olla a presión 12L aluminio, segura y versátil",
+    "reference": "7114900079",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* La olla a presión de 12 litros. \n* Hecha de aluminio. \n* Garantiza seguridad y facilidad de uso para grandes preparaciones. \n* Equipada con 5 sistemas de seguridad. \n* Esta olla proporciona una experiencia de cocina sin riesgos. \n* Es ideal para cocinar grandes volúmenes de comida. \n* Ofreciendo versatilidad para una amplia variedad de recetas. \n* La construcción en aluminio asegura una estructura ligera y fácil manejo. \n* Permitiéndote cocinar eficientemente en cualquier ocasión. \n* Con esta olla a presión. \n* Podrás realizar grandes preparaciones de manera segura y rápida. \n* Manteniendo la frescura y calidad de tus alimentos.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-12l-aluminio-segura-y-versatil-942/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000",
+    "skus": [
+      {
+        "sku_id": "942",
+        "sku_name": "Olla a presión 12L aluminio, segura y versátil",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157967/7114900079_YL307LA7_OLLADEPRESION12QTALUMINIOT-FAL-1-.jpg?v=638930555893300000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1989.0,
+    "list_price": 1989.0,
+    "on_sale": false
+  },
+  {
     "name": "Juego Ingenio Delight sartenes 24 y 28 cm",
     "reference": "2100128753",
     "brand": "T-fal",
@@ -3658,7 +3658,7 @@
     "reference": "9100059390",
     "brand": "T-fal",
     "category": "Aspiradoras inalámbricas",
-    "description": "* Aspiradora inalámbrica vertical con 140 W de potencia para un rendimiento de limpieza profunda, desde el piso hasta el techo.\n* Tecnología aerodinámica en un diseño súper ligero: solo 1.2 kg en modo de mano y 2 kg como aspiradora tipo stick.\n* Batería de larga duración con hasta 45 minutos de funcionamiento en modo Eco y ciclo de carga rápida de 3 horas.\n* Cabezal de succión LED de alto rendimiento para limpiar todo tipo de pisos, alfombras y tapetes. Incluye paño multiusos.\n* Mantenimiento sencillo con un contenedor de polvo fácil de vaciar y filtro lavable, incluyendo un accesorio especializado para pelo de mascotas.",
+    "description": "* Aspiradora inalámbrica vertical con 140 W de potencia para un rendimiento de limpieza profunda, desde el piso hasta el techo. * Tecnología aerodinámica en un diseño súper ligero: solo 1.2 kg en modo de mano y 2 kg como aspiradora tipo stick. * Batería de larga duración con hasta 45 minutos de funcionamiento en modo Eco y ciclo de carga rápida de 3 horas. * Cabezal de succión LED de alto rendimiento para limpiar todo tipo de pisos, alfombras y tapetes. Incluye paño multiusos. * Mantenimiento sencillo con un contenedor de polvo fácil de vaciar y filtro lavable, incluyendo un accesorio especializado para pelo de mascotas.",
     "url": "https://www.t-fal.com.mx/aspiradora-vertical-6-en-1-inalambrica-x-pert-7-60-947/p",
     "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158404/7211005233_TY6A73I0_X-Pert7-1-.jpg?v=638950276341170000",
     "skus": [
