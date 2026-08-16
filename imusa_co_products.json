@@ -42,6 +42,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador SAMURAI ULTRA SILENCE FORCE 5 Velocidades, 2 En 1: Pedestal o Pared, Negro",
+    "reference": "5861036309",
+    "brand": "SAMURAI",
+    "category": "Ventiladores multiples",
+    "description": "5 VELOCIDADES + MODO ULTRA SILENCIOSO: Personaliza el flujo de aire y disfruta de un ventilador silencioso ideal para el hogar. |TECNOLOGÍA EXCLUSIVA POWERZONE: Disfruta de un flujo de aire ultra concentrado y potente que refresca más rápido cualquier espacio. |MOTOR POWERTECH RESIST: Con más de 6.000 horas de funcionamiento continuo, este ventilador de alta resistencia ofrece una vida útil prolongada. |6 ASPAS AERODINÁMICAS: Diseñadas para maximizar el caudal de aire con menos ruido y mejorar la eficiencia energética sin comprometer la potencia. |MALLAS REMOVIBLES Y SEGURAS: Limpieza rápida y segura gracias a su diseño desmontable, protegiendo al usuario. |TUBO TELESCÓPICO AJUSTABLE HASTA 1,35 M: Ajusta la altura según tu necesidad. Ideal para todo tipo de salas, habitaciones y espacios. |INCLINACIÓN VERTICAL DE 3 POSICIONES: Sistema exclusivo que permite dirigir el flujo de aire de forma precisa. |OSCILACIÓN HORIZONTAL DE 90°: Distribuye el aire de forma homogénea en todo el ambiente.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-ultra-silence-force-5-velocidades-2-en-1-pedestal-o-pared-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171504/Foto-Portada-USF-5V-con-2-en-1.jpg?v=638968470183870000",
+    "skus": [
+      {
+        "sku_id": "1538",
+        "sku_name": "Ventilador SAMURAI ULTRA SILENCE FORCE 5 Velocidades, 2 En 1: Pedestal o Pared, Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171504/Foto-Portada-USF-5V-con-2-en-1.jpg?v=638968470183870000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 258929.0,
+    "list_price": 369899.0,
+    "on_sale": true
+  },
+  {
     "name": "Batería de Cocina TEFAL DUETTO+ en Acero Inoxidable Premium de 7 piezas",
     "reference": "2100136192",
     "brand": "TEFAL",
@@ -142,7 +163,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 419900.0,
+    "price": 363930.0,
     "list_price": 519900.0,
     "on_sale": true
   },
@@ -165,27 +186,6 @@
     "country": "Colombia",
     "price": 848960.0,
     "list_price": 1212800.0,
-    "on_sale": true
-  },
-  {
-    "name": "Ventilador SAMURAI ULTRA SILENCE FORCE 5 Velocidades, 2 En 1: Pedestal o Pared, Negro",
-    "reference": "5861036309",
-    "brand": "SAMURAI",
-    "category": "Ventiladores multiples",
-    "description": "5 VELOCIDADES + MODO ULTRA SILENCIOSO: Personaliza el flujo de aire y disfruta de un ventilador silencioso ideal para el hogar. |TECNOLOGÍA EXCLUSIVA POWERZONE: Disfruta de un flujo de aire ultra concentrado y potente que refresca más rápido cualquier espacio. |MOTOR POWERTECH RESIST: Con más de 6.000 horas de funcionamiento continuo, este ventilador de alta resistencia ofrece una vida útil prolongada. |6 ASPAS AERODINÁMICAS: Diseñadas para maximizar el caudal de aire con menos ruido y mejorar la eficiencia energética sin comprometer la potencia. |MALLAS REMOVIBLES Y SEGURAS: Limpieza rápida y segura gracias a su diseño desmontable, protegiendo al usuario. |TUBO TELESCÓPICO AJUSTABLE HASTA 1,35 M: Ajusta la altura según tu necesidad. Ideal para todo tipo de salas, habitaciones y espacios. |INCLINACIÓN VERTICAL DE 3 POSICIONES: Sistema exclusivo que permite dirigir el flujo de aire de forma precisa. |OSCILACIÓN HORIZONTAL DE 90°: Distribuye el aire de forma homogénea en todo el ambiente.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-ultra-silence-force-5-velocidades-2-en-1-pedestal-o-pared-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171504/Foto-Portada-USF-5V-con-2-en-1.jpg?v=638968470183870000",
-    "skus": [
-      {
-        "sku_id": "1538",
-        "sku_name": "Ventilador SAMURAI ULTRA SILENCE FORCE 5 Velocidades, 2 En 1: Pedestal o Pared, Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171504/Foto-Portada-USF-5V-con-2-en-1.jpg?v=638968470183870000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 258929.0,
-    "list_price": 369899.0,
     "on_sale": true
   },
   {
@@ -247,7 +247,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 639900.0,
+    "price": 559930.0,
     "list_price": 799900.0,
     "on_sale": true
   },
@@ -436,9 +436,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 39999.0,
+    "price": 27999.0,
     "list_price": 39999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Easy Fry Turbo IMUSA Freidora de Aire, Tecnología Infra-Heat, 2X más rápida, 7L",
@@ -562,7 +562,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 99900.0,
+    "price": 98349.0,
     "list_price": 140499.0,
     "on_sale": true
   },
@@ -604,7 +604,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 289900.0,
+    "price": 279900.0,
     "list_price": 467900.0,
     "on_sale": true
   },
@@ -688,7 +688,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 279900.0,
+    "price": 267329.0,
     "list_price": 381899.0,
     "on_sale": true
   },
@@ -819,6 +819,27 @@
     "on_sale": true
   },
   {
+    "name": "Olla a Presion IMUSA Smart Cierre Interno 4.5 L",
+    "reference": "5861027392",
+    "brand": "IMUSA",
+    "category": "Ollas a presión",
+    "description": "Su sistema Practiclic IMUSA permite abrir y cerrar la olla con un solo click. | Válvula de dos posiciones que indica cuándo la Olla a Presión está en su punto de presión de cocción. | Sistema SecuryPlus para garantizar siempre tu seguridad en la cocina",
+    "url": "https://www.imusa.com.co/olla-a-presion-imusa-smart-cierre-interno-4-5-l/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159193/7702073030528-1.jpg?v=637866227213270000",
+    "skus": [
+      {
+        "sku_id": "308",
+        "sku_name": "Olla a Presion IMUSA Smart Cierre Interno 4.5 L",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159193/7702073030528-1.jpg?v=637866227213270000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 109830.0,
+    "list_price": 156900.0,
+    "on_sale": true
+  },
+  {
     "name": "Chocolatera Aluminio IMUSA 2 L",
     "reference": "5850000602",
     "brand": "IMUSA",
@@ -856,9 +877,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 109600.0,
+    "price": 76720.0,
     "list_price": 109600.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Ventilador SAMURAI Turbo Silence Maxx Compact 2en1 Negro",
+    "reference": "5861023662",
+    "brand": "SAMURAI",
+    "category": "Ventiladores multiples",
+    "description": "Ventilador 2 en 1 con Tecnología MAXX.| Cuenta con 3 velocidades excelentes y silenciosas para cualquier situación.| Tecnología Turbo Silence que proporciona un flujo de aire mayor, pero con un ruido significativamente menor. | Su diseño y construcción son únicos, su combinación de motor, hélice y mallas lo hacen más silencioso incluso a su máxima velocidad. | Sistema de inclinación vertical y un sistema de oscilación horizontal.\"",
+    "url": "https://www.imusa.com.co/ventilador-samurai-turbo-silence-maxx-compact-2en1-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169686/5861023662-1.jpg.jpg?v=638751425188170000",
+    "skus": [
+      {
+        "sku_id": "103",
+        "sku_name": "Ventilador SAMURAI Turbo Silence Maxx Compact 2en1 Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169686/5861023662-1.jpg.jpg?v=638751425188170000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 199900.0,
+    "list_price": 292899.0,
+    "on_sale": true
   },
   {
     "name": "Cafetera automática espresso compacta KRUPS Coffee Crush Extra con molinillo, 15 Bares",
@@ -919,7 +961,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 399900.0,
+    "price": 349929.0,
     "list_price": 499899.0,
     "on_sale": true
   },
@@ -982,9 +1024,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 170700.0,
+    "price": 119490.0,
     "list_price": 170700.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén IMUSA Cambiatón 2026 20cm Antiadherente",
@@ -1003,9 +1045,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 46900.0,
+    "price": 32830.0,
     "list_price": 46900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a presión Turbo Cook 6L IMUSA",
@@ -1024,7 +1066,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 419900.0,
+    "price": 363930.0,
     "list_price": 519900.0,
     "on_sale": true
   },
@@ -1172,6 +1214,27 @@
     "site": "IMUSA Colombia",
     "country": "Colombia",
     "price": 179900.0,
+    "list_price": 279899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Procesador de alimentos IMUSA Choppeo, 500 Watts, 2 velocidades, recipiente en vidrio",
+    "reference": "7211419858",
+    "brand": "IMUSA",
+    "category": "Picatodo",
+    "description": "Capacidad XXL: vaso de vidrio de 2 L (1 L útil) para preparar recetas en grandes cantidades. |Vidrio resistente: borosilicato ultra resistente a golpes y cambios de temperatura. |2 velocidades versátiles: ideal para picar, triturar o mezclar desde cebolla hasta guacamole. |Potencia y rapidez: motor de 500W y 4 cuchillas de acero inoxidable para resultados perfectos. |Seguridad avanzada: doble sistema de detección del vaso antes de iniciar. |Mantiene la frescura: tapa especial para conservar el sabor y aroma de tus ingredientes. |Limpieza fácil: piezas desmontables aptas para lavavajillas y cuchillas extraíbles.",
+    "url": "https://www.imusa.com.co/procesador-de-alimentos-imusa-choppeo-500-watts-2-velocidades-recipiente-en-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171335/Mesa-de-trabajo-1.jpg?v=638925090443200000",
+    "skus": [
+      {
+        "sku_id": "1539",
+        "sku_name": "Procesador de alimentos IMUSA Choppeo, 500 Watts, 2 velocidades, recipiente en vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171335/Mesa-de-trabajo-1.jpg?v=638925090443200000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 195929.0,
     "list_price": 279899.0,
     "on_sale": true
   },
@@ -1638,6 +1701,27 @@
     "on_sale": true
   },
   {
+    "name": "Olla a presión TEFAL SECURE CHRONO AUSTRAL 6L",
+    "reference": "7114000651",
+    "brand": "TEFAL",
+    "category": "Ollas a presión",
+    "description": "OLLA A PRESIÓN SECURE CHRONO AUSTRAL 6 LITROS, tamaño perfecto para el hogar, esta nueva olla a presión es segura y fácil de abrir. Gracias a los dos niveles de cocción puedes tener los vegetales y carne en el punto que deseas. Su material de acero inoxidable hace que se conserven más los nutrientes de la comida.  Estamos orgullosos de ser un aliado en la cocina de aquellos que cuidan cada detalle en la preparación de los alimentos y su forma de servirlos.                                     \n|Abrir y cerrar a un solo CLIC\n|Válvula de presión ajustable\n|Indicador de presión que impide la apertura de la olla cuando está en funcionamiento\n|Olla apta para uso en láminas de inducción magnética",
+    "url": "https://www.imusa.com.co/olla-a-presion-tefal-secure-chrono-austral-6l/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167398/7114000651-1.jpg?v=638290512882970000",
+    "skus": [
+      {
+        "sku_id": "876",
+        "sku_name": "Olla a presión TEFAL SECURE CHRONO AUSTRAL 6L",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167398/7114000651-1.jpg?v=638290512882970000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 254900.0,
+    "list_price": 439900.0,
+    "on_sale": true
+  },
+  {
     "name": "Cuchillo Chef IMUSA Talent Madera de 15cm",
     "reference": "5861032487",
     "brand": "IMUSA",
@@ -1698,6 +1782,27 @@
     "country": "Colombia",
     "price": 1899900.0,
     "list_price": 3224900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Repuesto Cuchillas para Licuadoradoras IMUSA Infinyforce XL/ Ultraforce",
+    "reference": "5861032677",
+    "brand": "IMUSA",
+    "category": "Licuadoras",
+    "description": "¡RESULTADOS PERFECTOS Y SIN ESFUERZOS!|Cuchillascon tecnología POWELIX para Licuadoras IMUSA Infinyforce, podrás procesar hasta los ingredientes más duros con la cuchilla elaborada en Acero inoxidable de Alta Resistencia, cuenta con 6 cuchillas contramarcadas y más grandes para trituar de una mejor manera los alimentos,  ¡Es 3 veces más eficiente! y cuenta con corte de alto desempeño dado que estas son extremadamente afiladas y garantizan un licuado homogéneo, adicional, logran un remolino perfecto de los alimentos para texturas uniformes.\n|Compatible con productos: Licuadora IMUSA Ultraforce - Licuadora IMUSA Infinyforce XL\n|Cuenta con respaldo de la marca IMUSA y garantía de 3 meses\n|Nota: No compatible con las licuadoras Imusa Infiny Force rango tradicional (10v, 12v, 14v, 16v plus, Automatic y Automatic Pro)",
+    "url": "https://www.imusa.com.co/repuesto-cuchillas-para-licuadora-imusa-infinyforce/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165567/5861032677-1.jpg?v=638064724633800000",
+    "skus": [
+      {
+        "sku_id": "752",
+        "sku_name": "Repuesto Cuchillas para Licuadoradoras IMUSA Infinyforce XL/ Ultraforce",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165567/5861032677-1.jpg?v=638064724633800000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 20300.0,
+    "list_price": 29000.0,
     "on_sale": true
   },
   {
@@ -1764,48 +1869,6 @@
     "on_sale": true
   },
   {
-    "name": "Plancha para Asar  IMUSA  Antiadherente Talent",
-    "reference": "5861029294",
-    "brand": "IMUSA",
-    "category": "Planchas para asar",
-    "description": "Plancha para Asar Cuadrada con revestimiento Antiadherente Triforce, 3 veces más durable.| Espesor de 1,7mm, grosor ideal para obetener resultados perfectos.| Base difusora especial para distribuir de manera uniforme el calor e i deal para estufa vitrocerámica, gas y eléctrica| Mangos ergonómicos para asegurar tu agarre.",
-    "url": "https://www.imusa.com.co/plancha-para-asar-imusa-antiadherente-talent/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164190/5861029294-1.jpg?v=637955723905670000",
-    "skus": [
-      {
-        "sku_id": "678",
-        "sku_name": "Plancha para Asar  IMUSA  Antiadherente Talent",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164190/5861029294-1.jpg?v=637955723905670000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 76230.0,
-    "list_price": 108900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cuchillo Chef TEFAL Autoafilable Eversharp 16.5 cm",
-    "reference": "2100119195",
-    "brand": "TEFAL",
-    "category": "Cuchillos",
-    "description": "Cuchilla en acero inoxidable alemán de alta calidad y durabilidad. | Cuenta con Sistema de Bloqueo para mayor seguridad y cómodidad. | La tecnología de afilado patentada de doble pivote y el sistema de guía de la hoja garantizan un ángulo de afilado óptimo.",
-    "url": "https://www.imusa.com.co/cuchillo-chef-tefal-autoafilable-eversharp-16-5-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163957/2100119195-1.jpg?v=637928179329970000",
-    "skus": [
-      {
-        "sku_id": "667",
-        "sku_name": "Cuchillo Chef TEFAL Autoafilable Eversharp 16.5 cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163957/2100119195-1.jpg?v=637928179329970000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 94359.0,
-    "list_price": 134799.0,
-    "on_sale": true
-  },
-  {
     "name": "Batería IMUSA Gusto Aluminio de 7 Piezas",
     "reference": "5861031711",
     "brand": "IMUSA",
@@ -1866,69 +1929,6 @@
     "country": "Colombia",
     "price": 11900.0,
     "list_price": 17000.0,
-    "on_sale": true
-  },
-  {
-    "name": "Ventilador SAMURAI Ultra Silence Force mesa negro",
-    "reference": "5861031125",
-    "brand": "SAMURAI",
-    "category": "Ventiladores mesa",
-    "description": "¡Ventilador hasta 3 veces más SILENCIOSO!| 4 Funciones para todo los momentos del día: Ultra Silencioso, Eco Fresh, Comfort y Fuerza Máxima.| Innovador sistema de inclinación accionada por botón lateral.| Oscilación horizontal de 90 grados, para una óptima distribución del aire.| Consumo optimizado para largas sesiones de ventilación.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-ultra-silence-force-mesa-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160258/7702073341013-1.jpg?v=637866628099370000",
-    "skus": [
-      {
-        "sku_id": "370",
-        "sku_name": "Ventilador SAMURAI Ultra Silence Force mesa negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160258/7702073341013-1.jpg?v=637866628099370000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 216929.0,
-    "list_price": 309899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla a Presión IMUSA Smart Cierre Interno 6L",
-    "reference": "5861027393",
-    "brand": "IMUSA",
-    "category": "Ollas a presión",
-    "description": "Capacidad de 6 Litros, amplia para realizar preparaciones familiares en el día a día o para eventos especiales.|Sistema ABRE IMUSA el cual permite abrir y cerrar con un clic| Válvula de dos posiciones que indica cuándo la Olla a Presión está en su punto de presión de cocción| Sistema SecuryPlus para garantizar siempre tu seguridad en la cocina",
-    "url": "https://www.imusa.com.co/olla-a-presion-imusa-smart-cierre-interno-6l/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159215/7702073030535-1.jpg?v=637866227322930000",
-    "skus": [
-      {
-        "sku_id": "312",
-        "sku_name": "Olla a Presión IMUSA Smart Cierre Interno 6L",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159215/7702073030535-1.jpg?v=637866227322930000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 141865.0,
-    "list_price": 166899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla a Presion IMUSA Smart Cierre Interno 4.5 L",
-    "reference": "5861027392",
-    "brand": "IMUSA",
-    "category": "Ollas a presión",
-    "description": "Su sistema Practiclic IMUSA permite abrir y cerrar la olla con un solo click. | Válvula de dos posiciones que indica cuándo la Olla a Presión está en su punto de presión de cocción. | Sistema SecuryPlus para garantizar siempre tu seguridad en la cocina",
-    "url": "https://www.imusa.com.co/olla-a-presion-imusa-smart-cierre-interno-4-5-l/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159193/7702073030528-1.jpg?v=637866227213270000",
-    "skus": [
-      {
-        "sku_id": "308",
-        "sku_name": "Olla a Presion IMUSA Smart Cierre Interno 4.5 L",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159193/7702073030528-1.jpg?v=637866227213270000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 109830.0,
-    "list_price": 156900.0,
     "on_sale": true
   },
   {
@@ -2055,6 +2055,48 @@
     "country": "Colombia",
     "price": 22680.0,
     "list_price": 32400.0,
+    "on_sale": true
+  },
+  {
+    "name": "Ventilador SAMURAI Air Protec Maxx 2en1 Negro",
+    "reference": "5861027400",
+    "brand": "SAMURAI",
+    "category": "Ventiladores multiples",
+    "description": "Ventilador 2 en 1 con Tecnología MAXX.| 3 velocidades para ajustar el flujo de aire a tu gusto.| Sistema de oscilación horizontal y función inclinable.| Exclusivo sistema fácil y seguro para ajustar la inclinación vertical.| Malla frontal removible, lo que facilita la limpieza.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-air-protec-maxx-2en1-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162396/5861027400-2.jpg?v=637890190303470000",
+    "skus": [
+      {
+        "sku_id": "90",
+        "sku_name": "Ventilador SAMURAI Air Protec Maxx 2en1 Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162396/5861027400-2.jpg?v=637890190303470000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 186129.0,
+    "list_price": 265899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Perol IMUSA Talent con tapa de vidrio 10cm",
+    "reference": "5861029283",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Perol 10cm de diámetro con su Antiadherente Triforce, 3 veces más durable. | Espesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees. | Base difusora especial para distribuir de manera uniforme el calor. | Ideal para estufa vitrocerámica, gas y eléctrica.",
+    "url": "https://www.imusa.com.co/perol-imusa-talent-con-tapa-de-vidrio-10cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162480/5861029283-1.jpg?v=637890244753800000",
+    "skus": [
+      {
+        "sku_id": "57",
+        "sku_name": "Perol IMUSA Talent con tapa de vidrio 10cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162480/5861029283-1.jpg?v=637890244753800000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 39829.0,
+    "list_price": 56899.0,
     "on_sale": true
   },
   {
@@ -2373,27 +2415,6 @@
     "on_sale": true
   },
   {
-    "name": "Procesador de alimentos IMUSA Choppeo, 500 Watts, 2 velocidades, recipiente en vidrio",
-    "reference": "7211419858",
-    "brand": "IMUSA",
-    "category": "Picatodo",
-    "description": "Capacidad XXL: vaso de vidrio de 2 L (1 L útil) para preparar recetas en grandes cantidades. |Vidrio resistente: borosilicato ultra resistente a golpes y cambios de temperatura. |2 velocidades versátiles: ideal para picar, triturar o mezclar desde cebolla hasta guacamole. |Potencia y rapidez: motor de 500W y 4 cuchillas de acero inoxidable para resultados perfectos. |Seguridad avanzada: doble sistema de detección del vaso antes de iniciar. |Mantiene la frescura: tapa especial para conservar el sabor y aroma de tus ingredientes. |Limpieza fácil: piezas desmontables aptas para lavavajillas y cuchillas extraíbles.",
-    "url": "https://www.imusa.com.co/procesador-de-alimentos-imusa-choppeo-500-watts-2-velocidades-recipiente-en-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171335/Mesa-de-trabajo-1.jpg?v=638925090443200000",
-    "skus": [
-      {
-        "sku_id": "1539",
-        "sku_name": "Procesador de alimentos IMUSA Choppeo, 500 Watts, 2 velocidades, recipiente en vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171335/Mesa-de-trabajo-1.jpg?v=638925090443200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 195929.0,
-    "list_price": 279899.0,
-    "on_sale": true
-  },
-  {
     "name": "Sartén TEFAL Renew 30 cm Antiadherente Cerámico",
     "reference": "2100128314",
     "brand": "TEFAL",
@@ -2412,6 +2433,27 @@
     "country": "Colombia",
     "price": 174930.0,
     "list_price": 249900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Caldero IMUSA Carmen de Viboral 24cm Aluminio Fundido Tapa de Cerámica",
+    "reference": "5861036749",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Base antideslizante para mayor estabilidad en la estufa. |Antiadherente interior y exterior, nada se le pega y es fácil de lavar. |Tapa en Cerámica hecha a mano por artesanos de El Carmen de Viboral. |Asas mas grandes para mayor seguridad y una mejor manipulación del caldero.",
+    "url": "https://www.imusa.com.co/caldero-imusa-carmen-de-viboral-nnncm-aluminio-fundido-tapa-de-ceramica/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171152/5861036749-1.jpg?v=638895964074870000",
+    "skus": [
+      {
+        "sku_id": "1525",
+        "sku_name": "Caldero IMUSA Carmen de Viboral 24cm Aluminio Fundido Tapa de Cerámica",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171152/5861036749-1.jpg?v=638895964074870000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 146930.0,
+    "list_price": 209900.0,
     "on_sale": true
   },
   {
@@ -2454,27 +2496,6 @@
     "country": "Colombia",
     "price": 112000.0,
     "list_price": 160000.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sanduchera & Parrilla Eléctrica IMUSA Compact con Placas Antiadherentes",
-    "reference": "1510002855",
-    "brand": "IMUSA",
-    "category": "Grill Y Sanducheras",
-    "description": "La <strong>Inicio Compact de IMUSA</strong> es una sandwichera práctica, ideal para preparar sánduches, paninis y otros bocados rápidos. Su <strong>diseño compacto y liviano</strong> facilita su almacenamiento y uso en cualquier espacio de cocina. Con <strong>placas antiadherentes</strong>, asegura una cocción uniforme y una limpieza sencilla, haciendo que preparar comidas deliciosas sea aún más conveniente. <br/><ul><li><strong>Combo 2 en 1: Paninera y Parrilla Eléctrica</strong> con asa grande para presionar fácilmente. Ideal para preparar comidas versátiles en casa.</li><li><strong>Tamaño ideal para 2 porciones</strong> con con superficie de cocción compacta de 23 x 14.5 cm, perfecta para preparar comidas rápidas y deliciosas.</li><li><strong>Fácil de limpiar:</strong> Placas antiadherentes resistentes para una limpieza sin esfuerzo después de cada uso, sin que los alimentos se peguen.</li><li><strong>Fácil de guardar: </strong>Diseño compacto con almacenamiento vertical, espacio para guardar el cable y bloqueo de placas.</li><li><strong>Bandeja recogejugos desmontable y apta para lavavajillas</strong>, que facilita la limpieza y brinda mayor practicidad en el uso diario.</li></ul><br/>",
-    "url": "https://www.imusa.com.co/sanduchera_parrilla_electrica_imusa_compact/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170892/1510002855_1.jpg?v=638856858630000000",
-    "skus": [
-      {
-        "sku_id": "1491",
-        "sku_name": "Sanduchera & Parrilla Eléctrica IMUSA Compact con Placas Antiadherentes",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170892/1510002855_1.jpg?v=638856858630000000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 209930.0,
-    "list_price": 299900.0,
     "on_sale": true
   },
   {
@@ -2625,27 +2646,6 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora IMUSA Ultraforce + con control de perilla, 2 velocidades, motor de 1000W, Vaso de Vidrio 2.2L, Acero Inoxidable",
-    "reference": "5861035551",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "Más Potente: Su potente motor de 1000 Watts garantiza un rendimiento superior en cada uso. |2 velocidades + Pulso: Ajusta la textura de tus mezclas con versatilidad y total precisión para cualquier receta. |Tecnología POWELIX PRO: 6 cuchillas hasta 4X más eficientes para mezclas más rápidas y texturas más homogéneas. |Acople metálico más resistente: Durabilidad y robustez que soporta el uso diario prolongado. |Capacidad XL de 2,2L: Prepara hasta 8 vasos de batidos, jugos o sopas en un solo proceso de licuado. |Cuerpo en acero inoxidable: Diseño elegante, resistente y fácil de limpiar para una cocina siempre impecable.",
-    "url": "https://www.imusa.com.co/licuadora-imusa-ultraforceplus-2-velocidades-vaso-vidrio-2-2-litros-acero-inoxidable-p/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169260/5861035551-1.jpg?v=638609889090070000",
-    "skus": [
-      {
-        "sku_id": "1005",
-        "sku_name": "Licuadora IMUSA Ultraforce + 2V, 1000W, Vidrio, 2.2L, Acero inoxidable",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169260/5861035551-1.jpg?v=638609889090070000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 199900.0,
-    "list_price": 359900.0,
-    "on_sale": true
-  },
-  {
     "name": "Batería de Cocina IMUSA Hard Titanium 7 Piezas Antiadherente",
     "reference": "5861034649",
     "brand": "IMUSA",
@@ -2706,27 +2706,6 @@
     "country": "Colombia",
     "price": 79030.0,
     "list_price": 112900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén IMUSA Hard Titanium 20cm Antiadherente",
-    "reference": "5861034637",
-    "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Antiadherente Titanium 7X, el antiadherente más durable de IMUSA, resiste hasta 35.000 pasadas de esponja. |Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar. |Hecho sin PFOA, Plomo ni Cadmio. |Mangos, asas y pomos robustos y durables. |Base difusora para una distribución uniforme el calor y resultados perfectos. |Antiadherente interior y exterior para una mayor facilidad al lavar.",
-    "url": "https://www.imusa.com.co/sarten-imusa-hard-titanium-20-cm-antiadherente/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169102/5861034637-1.jpg?v=638609646433870000",
-    "skus": [
-      {
-        "sku_id": "992",
-        "sku_name": "Sartén IMUSA Hard Titanium 20cm Antiadherente",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169102/5861034637-1.jpg?v=638609646433870000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 60829.0,
-    "list_price": 86899.0,
     "on_sale": true
   },
   {
@@ -2856,6 +2835,27 @@
     "on_sale": true
   },
   {
+    "name": "Repuesto de perilla de oscilación para Ventilador SAMURAI",
+    "reference": "9100006023",
+    "brand": "SAMURAI",
+    "category": "Repuestos",
+    "description": "Pieza de Plástico | Compatible con los ventiladores AIRPROTEC/ AIRMAX/ TROPICAL PLUS/ TURBO POWER/ TURBO SILENCE /SILENCE FORCE Y ULTRA SILENCE | Al presionar permite que el ventilador gire de un lado a otro y al levantar permite que se detenga para ventilar un punto fijo.",
+    "url": "https://www.imusa.com.co/repuesto-perilla-oscilacion-ventilador-samurai/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168206/7122013741-4.jpg?v=638346220145000000",
+    "skus": [
+      {
+        "sku_id": "914",
+        "sku_name": "Repuesto de perilla de oscilación para Ventilador SAMURAI",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168206/7122013741-4.jpg?v=638346220145000000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 909.0,
+    "list_price": 1299.0,
+    "on_sale": true
+  },
+  {
     "name": "Repuesto de Vaso Plástico para Licuadora SAMURAI Optimix",
     "reference": "5861024147",
     "brand": "SAMURAI",
@@ -2895,111 +2895,6 @@
     "country": "Colombia",
     "price": 17324.0,
     "list_price": 24749.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set Skillet IMUSA Delicia 16cm - 20cm",
-    "reference": "5861032904",
-    "brand": "IMUSA",
-    "category": "Baterías y Sets de Cocina",
-    "description": "Productos en Aluminio Fundido. |Aptos para ser usados en el horno                                             |Diseño moderno y atractivo. |Productos robustos y a la vez con un peso ideal.                                |Antiadherente.",
-    "url": "https://www.imusa.com.co/set-skillet-imusa-delicia-16cm-20cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168218/9100048615-3.jpg?v=638346220220470000",
-    "skus": [
-      {
-        "sku_id": "895",
-        "sku_name": "Set Skillet IMUSA Delicia 16cm - 20cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168218/9100048615-3.jpg?v=638346220220470000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 115422.0,
-    "list_price": 164889.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén IMUSA Natural Stone de 20cm",
-    "reference": "5861033012",
-    "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Preparaciones más saludables y con menos aceite|Cuerpos en aluminio 100% reciclado y reciclable, efecto piedra|Termo señal para cocina con mayor facilidad, practicidad y efectividad|Base difusora para brindar uniformidad en la repartición del calor|Mangos robustos y suaves al tacto para un mayor confort (efecto madera)|Hecho sin PFOA",
-    "url": "https://www.imusa.com.co/sarten-imusa-natural-stone-20cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167416/5861033012-1.jpg?v=638304717352130000",
-    "skus": [
-      {
-        "sku_id": "879",
-        "sku_name": "Sartén IMUSA Natural Stone de 20cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167416/5861033012-1.jpg?v=638304717352130000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 48929.0,
-    "list_price": 69899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla a presión TEFAL SECURE CHRONO AUSTRAL 6L",
-    "reference": "7114000651",
-    "brand": "TEFAL",
-    "category": "Ollas a presión",
-    "description": "OLLA A PRESIÓN SECURE CHRONO AUSTRAL 6 LITROS, tamaño perfecto para el hogar, esta nueva olla a presión es segura y fácil de abrir. Gracias a los dos niveles de cocción puedes tener los vegetales y carne en el punto que deseas. Su material de acero inoxidable hace que se conserven más los nutrientes de la comida.  Estamos orgullosos de ser un aliado en la cocina de aquellos que cuidan cada detalle en la preparación de los alimentos y su forma de servirlos.                                     \n|Abrir y cerrar a un solo CLIC\n|Válvula de presión ajustable\n|Indicador de presión que impide la apertura de la olla cuando está en funcionamiento\n|Olla apta para uso en láminas de inducción magnética",
-    "url": "https://www.imusa.com.co/olla-a-presion-tefal-secure-chrono-austral-6l/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167398/7114000651-1.jpg?v=638290512882970000",
-    "skus": [
-      {
-        "sku_id": "876",
-        "sku_name": "Olla a presión TEFAL SECURE CHRONO AUSTRAL 6L",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167398/7114000651-1.jpg?v=638290512882970000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 254900.0,
-    "list_price": 439900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Juego de Recipientes Herméticos IMUSA TERRA Cuadrados 4L, 2L, 1L Verde",
-    "reference": "5861034859",
-    "brand": "IMUSA",
-    "category": "Recipientes",
-    "description": "| Hecho en Colombia | Cuerpo traslúcido| Calidad Imusa | 1 año de garantía| Colores basados en nuestra tierra",
-    "url": "https://www.imusa.com.co/juego-recipientes-hermeticos-imusa-terra-cuadrados-verde/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167892/5861033213-1.jpg?v=638316889322870000",
-    "skus": [
-      {
-        "sku_id": "872",
-        "sku_name": "Juego de Recipientes Herméticos IMUSA TERRA Cuadrados 4L, 2L, 1L Verde",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167892/5861033213-1.jpg?v=638316889322870000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 44520.0,
-    "list_price": 63600.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla IMUSA TERRA de 24cm Verde con tapa de vidrio",
-    "reference": "5861033221",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "|Elaborado en aluminio fundido.\n|Cuenta con su antiadherente basic - efecto piedra te garantiza excelentes resultados en tus preparaciones gracias a que crea una porosidad en los cuerpos que hace que se realce el sabor de las comidas.\n|Es moderno, versátil y ergonómico con sus mangos robustos color champaña.\n|Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm.",
-    "url": "https://www.imusa.com.co/olla-imusa-terra-24cm-verde-tapa-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167603/5861033221-1.jpg?v=638312852168570000",
-    "skus": [
-      {
-        "sku_id": "867",
-        "sku_name": "Olla IMUSA TERRA de 24cm Verde con tapa de vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167603/5861033221-1.jpg?v=638312852168570000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 118929.0,
-    "list_price": 169899.0,
     "on_sale": true
   },
   {
@@ -3129,27 +3024,6 @@
     "on_sale": true
   },
   {
-    "name": "Repuesto Cuchillas para Licuadoradoras IMUSA Infinyforce XL/ Ultraforce",
-    "reference": "5861032677",
-    "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "¡RESULTADOS PERFECTOS Y SIN ESFUERZOS!|Cuchillascon tecnología POWELIX para Licuadoras IMUSA Infinyforce, podrás procesar hasta los ingredientes más duros con la cuchilla elaborada en Acero inoxidable de Alta Resistencia, cuenta con 6 cuchillas contramarcadas y más grandes para trituar de una mejor manera los alimentos,  ¡Es 3 veces más eficiente! y cuenta con corte de alto desempeño dado que estas son extremadamente afiladas y garantizan un licuado homogéneo, adicional, logran un remolino perfecto de los alimentos para texturas uniformes.\n|Compatible con productos: Licuadora IMUSA Ultraforce - Licuadora IMUSA Infinyforce XL\n|Cuenta con respaldo de la marca IMUSA y garantía de 3 meses\n|Nota: No compatible con las licuadoras Imusa Infiny Force rango tradicional (10v, 12v, 14v, 16v plus, Automatic y Automatic Pro)",
-    "url": "https://www.imusa.com.co/repuesto-cuchillas-para-licuadora-imusa-infinyforce/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165567/5861032677-1.jpg?v=638064724633800000",
-    "skus": [
-      {
-        "sku_id": "752",
-        "sku_name": "Repuesto Cuchillas para Licuadoradoras IMUSA Infinyforce XL/ Ultraforce",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165567/5861032677-1.jpg?v=638064724633800000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 20300.0,
-    "list_price": 29000.0,
-    "on_sale": true
-  },
-  {
     "name": "Repuesto Empaque de Caucho para Licuadoras IMUSA Infinyforce XL",
     "reference": "5861032672",
     "brand": "IMUSA",
@@ -3168,27 +3042,6 @@
     "country": "Colombia",
     "price": 9099.0,
     "list_price": 12999.0,
-    "on_sale": true
-  },
-  {
-    "name": "Caldero IMUSA 26cm El Original Natural",
-    "reference": "5861021336",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Caldero 26cm de diámetro, elaborado en Aluminio Fundido| Permite uniformidad de cocción y conservación del sabor de los alimentos. | Cuenta con tapa de vidrio con válvula de salida de vapor.| Es de gran calidad por lo que ofrece una larga vida.",
-    "url": "https://www.imusa.com.co/caldero-imusa-26cm-el-original-natural/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164499/5861021336-1.jpg?v=637964488778900000",
-    "skus": [
-      {
-        "sku_id": "718",
-        "sku_name": "Caldero IMUSA 26cm El Original Natural",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164499/5861021336-1.jpg?v=637964488778900000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 72030.0,
-    "list_price": 102900.0,
     "on_sale": true
   },
   {
@@ -3231,6 +3084,27 @@
     "country": "Colombia",
     "price": 646730.0,
     "list_price": 923900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cuchillo Chef TEFAL Autoafilable Eversharp 16.5 cm",
+    "reference": "2100119195",
+    "brand": "TEFAL",
+    "category": "Cuchillos",
+    "description": "Cuchilla en acero inoxidable alemán de alta calidad y durabilidad. | Cuenta con Sistema de Bloqueo para mayor seguridad y cómodidad. | La tecnología de afilado patentada de doble pivote y el sistema de guía de la hoja garantizan un ángulo de afilado óptimo.",
+    "url": "https://www.imusa.com.co/cuchillo-chef-tefal-autoafilable-eversharp-16-5-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163957/2100119195-1.jpg?v=637928179329970000",
+    "skus": [
+      {
+        "sku_id": "667",
+        "sku_name": "Cuchillo Chef TEFAL Autoafilable Eversharp 16.5 cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163957/2100119195-1.jpg?v=637928179329970000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 94359.0,
+    "list_price": 134799.0,
     "on_sale": true
   },
   {
@@ -3294,27 +3168,6 @@
     "country": "Colombia",
     "price": 83929.0,
     "list_price": 119899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla Imusa 24cm Antiadherente Tapa Vidrio Talent Pro",
-    "reference": "5861031619",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Olla 24cm de diámetro con Antiadherente Triforce Gold Efecto Piedra, dura 5 veces más. | Espesor de 2.2mm para obtener resultados perfectos. | Base difusora, cocción uniforme y antideslizante. | Podrás llevar al horno, estufa y en tu mesa. | Accesorios en Acero Inoxidable, elegantes y versatiles para llegar a la mesa.",
-    "url": "https://www.imusa.com.co/olla-imusa-24cm-antiadherente-tapa-vidrio-talent-pro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163205/5861031619-1.jpg?v=637907661776670000",
-    "skus": [
-      {
-        "sku_id": "600",
-        "sku_name": "Olla Imusa 24cm Antiadherente Tapa Vidrio Talent Pro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163205/5861031619-1.jpg?v=637907661776670000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 90930.0,
-    "list_price": 129900.0,
     "on_sale": true
   },
   {
@@ -3465,27 +3318,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén IMUSA Gusto 20 cm con Tapa de Vidrio",
-    "reference": "5861031706",
-    "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Sartén 20cm de diámetro, elaborado en Aluminio fundido con Recubrimiento Antiadherente NADA SE LE PEGA y con acabado en EFECTO PIEDRA para una cocina moderna y elegante| Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm. | Mangos robustos y suaves al tacto para un mayor confort| Apto para lavavajillas y horno",
-    "url": "https://www.imusa.com.co/sarten-imusa-gusto-20-cm-con-tapa-de-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159589/7702073811905-1.jpg?v=637866229265000000",
-    "skus": [
-      {
-        "sku_id": "495",
-        "sku_name": "Sartén IMUSA Gusto 20 cm con Tapa de Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159589/7702073811905-1.jpg?v=637866229265000000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 87430.0,
-    "list_price": 124900.0,
-    "on_sale": true
-  },
-  {
     "name": "Accesorios para Freidora IMUSA Easy Fry",
     "reference": "1510001776",
     "brand": "IMUSA",
@@ -3544,9 +3376,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 10429.0,
+    "price": 14899.0,
     "list_price": 14899.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Espátula TEFAL Fresh Kitchen en PET",
@@ -3609,6 +3441,27 @@
     "country": "Colombia",
     "price": 99900.0,
     "list_price": 146899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Ventilador SAMURAI Ultra Silence Force mesa negro",
+    "reference": "5861031125",
+    "brand": "SAMURAI",
+    "category": "Ventiladores mesa",
+    "description": "¡Ventilador hasta 3 veces más SILENCIOSO!| 4 Funciones para todo los momentos del día: Ultra Silencioso, Eco Fresh, Comfort y Fuerza Máxima.| Innovador sistema de inclinación accionada por botón lateral.| Oscilación horizontal de 90 grados, para una óptima distribución del aire.| Consumo optimizado para largas sesiones de ventilación.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-ultra-silence-force-mesa-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160258/7702073341013-1.jpg?v=637866628099370000",
+    "skus": [
+      {
+        "sku_id": "370",
+        "sku_name": "Ventilador SAMURAI Ultra Silence Force mesa negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160258/7702073341013-1.jpg?v=637866628099370000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 216929.0,
+    "list_price": 309899.0,
     "on_sale": true
   },
   {
@@ -3738,90 +3591,6 @@
     "on_sale": true
   },
   {
-    "name": "Vaporera TEFAL Ingenio Nylon Negro",
-    "reference": "2100095535",
-    "brand": "TEFAL",
-    "category": "Utensilios de cocina",
-    "description": "Cuenta con cuerpo seguro y antideslizante, para preparaciones más deliciosas| Diseñado para soportar temperaturas de hasta 230 °C, para unos resultados eficientes día tras día.| Es resistente a manchas y lo mejor de todo ¡Es fácil de limpiar!| Apto para el lavavajillas, para una limpieza fácil y una comodidad excepcional en tu cocina diaria",
-    "url": "https://www.imusa.com.co/vaporera-tefal-ingenio-nylon-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161799/2100095535-1.jpg?v=637889250728270000",
-    "skus": [
-      {
-        "sku_id": "127",
-        "sku_name": "Vaporera TEFAL Ingenio Nylon Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161799/2100095535-1.jpg?v=637889250728270000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 48929.0,
-    "list_price": 69899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Ventilador SAMURAI Turbo Silence Maxx Compact 2en1 Negro",
-    "reference": "5861023662",
-    "brand": "SAMURAI",
-    "category": "Ventiladores multiples",
-    "description": "Ventilador 2 en 1 con Tecnología MAXX.| Cuenta con 3 velocidades excelentes y silenciosas para cualquier situación.| Tecnología Turbo Silence que proporciona un flujo de aire mayor, pero con un ruido significativamente menor. | Su diseño y construcción son únicos, su combinación de motor, hélice y mallas lo hacen más silencioso incluso a su máxima velocidad. | Sistema de inclinación vertical y un sistema de oscilación horizontal.\"",
-    "url": "https://www.imusa.com.co/ventilador-samurai-turbo-silence-maxx-compact-2en1-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169686/5861023662-1.jpg.jpg?v=638751425188170000",
-    "skus": [
-      {
-        "sku_id": "103",
-        "sku_name": "Ventilador SAMURAI Turbo Silence Maxx Compact 2en1 Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169686/5861023662-1.jpg.jpg?v=638751425188170000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 199900.0,
-    "list_price": 292899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Ventilador SAMURAI Air Protec Maxx 2en1 Negro",
-    "reference": "5861027400",
-    "brand": "SAMURAI",
-    "category": "Ventiladores multiples",
-    "description": "Ventilador 2 en 1 con Tecnología MAXX.| 3 velocidades para ajustar el flujo de aire a tu gusto.| Sistema de oscilación horizontal y función inclinable.| Exclusivo sistema fácil y seguro para ajustar la inclinación vertical.| Malla frontal removible, lo que facilita la limpieza.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-air-protec-maxx-2en1-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162396/5861027400-2.jpg?v=637890190303470000",
-    "skus": [
-      {
-        "sku_id": "90",
-        "sku_name": "Ventilador SAMURAI Air Protec Maxx 2en1 Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162396/5861027400-2.jpg?v=637890190303470000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 186129.0,
-    "list_price": 265899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Caldero IMUSA con tapa de vidrio 22 cm",
-    "reference": "5861021346",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Caldero 22cm de diámetro que permite uniformidad de cocción y conservación del sabor de los alimentos. | Fabricado en Aluminio Fundido, excelente conductor de calor que agiliza los procesos de cocción| Paredes extragruesos que evitan deformaciones al pasar el tiempo| Es de gran calidad por lo que ofrece una larga vida.",
-    "url": "https://www.imusa.com.co/caldero-imusa-con-tapa-de-vidrio-22-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164047/5861021346-1.jpg?v=637943577076270000",
-    "skus": [
-      {
-        "sku_id": "65",
-        "sku_name": "Caldero IMUSA con tapa de vidrio 22 cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164047/5861021346-1.jpg?v=637943577076270000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 72730.0,
-    "list_price": 103900.0,
-    "on_sale": true
-  },
-  {
     "name": "Caldero IMUSA Natural original 20 cm con tapa de vidrio",
     "reference": "5861021339",
     "brand": "IMUSA",
@@ -3840,27 +3609,6 @@
     "country": "Colombia",
     "price": 52429.0,
     "list_price": 74899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Perol IMUSA Talent con tapa de vidrio 10cm",
-    "reference": "5861029283",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Perol 10cm de diámetro con su Antiadherente Triforce, 3 veces más durable. | Espesor de 1,7mm, grosor ideal para que tus preparaciones queden en el punto de cocción que desees. | Base difusora especial para distribuir de manera uniforme el calor. | Ideal para estufa vitrocerámica, gas y eléctrica.",
-    "url": "https://www.imusa.com.co/perol-imusa-talent-con-tapa-de-vidrio-10cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162480/5861029283-1.jpg?v=637890244753800000",
-    "skus": [
-      {
-        "sku_id": "57",
-        "sku_name": "Perol IMUSA Talent con tapa de vidrio 10cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162480/5861029283-1.jpg?v=637890244753800000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 39829.0,
-    "list_price": 56899.0,
     "on_sale": true
   },
   {
@@ -3990,27 +3738,6 @@
     "on_sale": true
   },
   {
-    "name": "Espátula para Pancake TEFAL Fresh Kitchen en PET",
-    "reference": "2100057708",
-    "brand": "TEFAL",
-    "category": "Utensilios de cocina",
-    "description": "Hecho a partir de plástico PET reciclado al 90% ¡ayudando al medio al ambiente!| Alta resistencia a temperaturas, de hasta 220 °C, para unos resultados eficientes día tras día.|No raya el recubrimiento antiadherente de los utensilios de cocina |Fácil de limpiar y tiene alta resistencia a manchas| Apto para el lavavajillas, para una limpieza fácil y una comodidad excepcional en tu cocina diaria",
-    "url": "https://www.imusa.com.co/espatula-para-pancake-tefal-fresh-kitchen-en-pet-2100057708/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161540/2100057708-1.jpg?v=637867608129670000",
-    "skus": [
-      {
-        "sku_id": "2",
-        "sku_name": "Espátula para Pancake TEFAL Fresh Kitchen en PET",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161540/2100057708-1.jpg?v=637867608129670000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 10429.0,
-    "list_price": 14899.0,
-    "on_sale": true
-  },
-  {
     "name": "Olla Arrocera IMUSA 10 tazas en acero",
     "reference": "8010001476",
     "brand": "IMUSA",
@@ -4032,6 +3759,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora Vertical Inalámbrica T-FAL X-PERT 8.80, Limpieza Potente, 250W",
+    "reference": "7211005478",
+    "brand": "TEFAL",
+    "category": "Aspiradoras",
+    "description": "ASPIRACIÓN POTENTE: Aspiradora vertical con potencia de succión de alta eficiencia de hasta 250 Watts*, luz LED en el cabezal y cepillo multipropósito.| CONTROL FÁCIL: Ajusta la potencia según tus necesidades, ve la batería restante y recibe alertas para limpiar el filtro.| SESIONES MUY LARGAS: Disfruta hasta 45 minutos de autonomía** con una sola carga para limpiar todo tu espacio sin interrupciones.| LIMPIEZA SIN ESFUERZO: Aspiradora vertical inalámbrica excepcionalmente liviana—solo 1,3 kg en modo de mano.| ALTA FILTRACIÓN: Libera aire limpio con un sistema avanzado ubicado detrás del motor que atrapa el 99,9% del polvo y las partículas.| PARA DUEÑOS DE MASCOTAS: Solución 4 en 1 para pisos, zonas difíciles, superficies y textiles, con cepillo turbo para pelo de mascotas.| MANTENIMIENTO SIN ESFUERZO: Depósito lavable para un vaciado higiénico y sin polvo, alertas de limpieza del filtro y código QR para tutoriales en línea.",
+    "url": "https://www.imusa.com.co/aspiradora-vertical-inalambrica-t-fal-x-pert-8-80-limpieza-potente-100-aw/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173231/7211005478-1.jpg?v=639203541905270000",
+    "skus": [
+      {
+        "sku_id": "1720",
+        "sku_name": "Aspiradora Vertical Inalámbrica T-FAL X-PERT 8.80, Limpieza Potente, 250W",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173231/7211005478-1.jpg?v=639203541905270000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 799900.0,
+    "list_price": 899900.0,
+    "on_sale": true
+  },
+  {
     "name": "Máquina Espresso KRUPS Sensation semiautomática",
     "reference": "8010001495",
     "brand": "KRUPS",
@@ -4048,7 +3796,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 2699900.0,
+    "price": 2999900.0,
     "list_price": 3999900.0,
     "on_sale": true
   },
@@ -4137,6 +3885,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén IMUSA Cambiatón 2026 20cm Antiadherente Tapa de Vidrio",
+    "reference": "5861037068",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Antiadherente Gold 5X, resiste hasta 25.000 pasadas de esponja. |Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar. |Antiadherente interior y exterior para una mayor facilidad al lavar.|Antiadherente confiable. |Mangos, asas y pomos robustos y durables. |Base difusora para una distribución uniforme del calor y resultados perfectos. |Campaña amigable con el medio ambiente gracias a la recolección y disposición final de sartenes viejos.",
+    "url": "https://www.imusa.com.co/sarten-imusa-cambiaton-2026-20cm-antiadherente-tapa-de-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172341/portada--1-.png?v=639111724190170000",
+    "skus": [
+      {
+        "sku_id": "1678",
+        "sku_name": "Sartén IMUSA Cambiatón 2026 20cm Antiadherente Tapa de Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172341/portada--1-.png?v=639111724190170000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 46830.0,
+    "list_price": 66900.0,
+    "on_sale": true
+  },
+  {
     "name": "Sartén con Tapa de Vidrio IMUSA Titanium Max 24cm Antiadherente Inducción",
     "reference": "2100143294",
     "brand": "IMUSA",
@@ -4174,72 +3943,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 159900.0,
+    "price": 111930.0,
     "list_price": 159900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
-    "name": "Bayetas de microfibra Aspiradoras X-Force 12.60",
-    "reference": "2211400813",
+    "name": "Filtro de Motor Aspiradora X-FORCE 9.60",
+    "reference": "7222068977",
     "brand": "TEFAL",
     "category": "Repuestos y accesorios",
-    "description": "Compatible con aspiradora tefal X-FORCE 12.60 | Resultados de limpieza impecables | Ecológico y económico | Alta durabilidad",
-    "url": "https://www.imusa.com.co/bayetas-de-microfibra-aspiradoras-x-force-12-60/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171485/2211400813-1.jpg?v=638938105200830000",
+    "description": "Compatible con aspiradora tefal X-FORCE 9.60 | Mejora del rendimiento de succión | Filtro lavable y reutilizable | Compatibilidad perfecta",
+    "url": "https://www.imusa.com.co/filtro-de-motor-aspiradora-x-force-9-60/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171473/7222068977.jpg?v=638938103031030000",
     "skus": [
       {
-        "sku_id": "1581",
-        "sku_name": "Bayetas de microfibra Aspiradoras X-Force 12.60",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171485/2211400813-1.jpg?v=638938105200830000"
+        "sku_id": "1575",
+        "sku_name": "Filtro de Motor Aspiradora X-FORCE 9.60",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171473/7222068977.jpg?v=638938103031030000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 50599.0,
-    "list_price": 50599.0,
-    "on_sale": false
-  },
-  {
-    "name": "Bayetas de microfibra Aspiradoras X-Force 9.60",
-    "reference": "2211401230",
-    "brand": "TEFAL",
-    "category": "Repuestos y accesorios",
-    "description": "Compatible con aspiradora tefal X-FORCE 9.60 | Resultados de limpieza impecables | Ecológico y económico | Alta durabilidad",
-    "url": "https://www.imusa.com.co/bayetas-de-microfibra-aspiradoras-x-force-9-60/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171475/2211401230-1.jpg?v=638938103368000000",
-    "skus": [
-      {
-        "sku_id": "1576",
-        "sku_name": "Bayetas de microfibra Aspiradoras X-Force 9.60",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171475/2211401230-1.jpg?v=638938103368000000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 55650.0,
-    "list_price": 55650.0,
-    "on_sale": false
-  },
-  {
-    "name": "Filtro de dos Tazas cafetera Krups Divine",
-    "reference": "9100052760",
-    "brand": "KRUPS",
-    "category": "Repuestos y Accesorios",
-    "description": "Preparación doble: permite elaborar dos espressos al mismo tiempo con la medida justa de café | Extracción equilibrada: asegura un flujo de agua uniforme para obtener un sabor intenso y aromático | Practicidad diaria: fácil de colocar, retirar y limpiar para un uso sin complicaciones | Compatibilidad exacta: repuesto original Krups diseñado específicamente para la cafetera XP444C50.",
-    "url": "https://www.imusa.com.co/filtro-de-dos-tazas-cafetera-krups-divine/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171448/9100052760-1.jpg?v=638938092900000000",
-    "skus": [
-      {
-        "sku_id": "1561",
-        "sku_name": "Filtro de dos Tazas cafetera Krups Divine",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171448/9100052760-1.jpg?v=638938092900000000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 31149.0,
-    "list_price": 31149.0,
-    "on_sale": false
+    "price": 11760.0,
+    "list_price": 16800.0,
+    "on_sale": true
   },
   {
     "name": "Depósito de Agua cafetera Krups Divine",
@@ -4279,7 +4006,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 119900.0,
+    "price": 94429.0,
     "list_price": 134899.0,
     "on_sale": true
   },
@@ -4300,7 +4027,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 129900.0,
+    "price": 111930.0,
     "list_price": 159900.0,
     "on_sale": true
   },
@@ -4321,7 +4048,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 223900.0,
+    "price": 160929.0,
     "list_price": 229899.0,
     "on_sale": true
   },
@@ -4342,29 +4069,8 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 167900.0,
+    "price": 132930.0,
     "list_price": 189900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Caldero IMUSA Carmen de Viboral 24cm Aluminio Fundido Tapa de Cerámica",
-    "reference": "5861036749",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Base antideslizante para mayor estabilidad en la estufa. |Antiadherente interior y exterior, nada se le pega y es fácil de lavar. |Tapa en Cerámica hecha a mano por artesanos de El Carmen de Viboral. |Asas mas grandes para mayor seguridad y una mejor manipulación del caldero.",
-    "url": "https://www.imusa.com.co/caldero-imusa-carmen-de-viboral-nnncm-aluminio-fundido-tapa-de-ceramica/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171152/5861036749-1.jpg?v=638895964074870000",
-    "skus": [
-      {
-        "sku_id": "1525",
-        "sku_name": "Caldero IMUSA Carmen de Viboral 24cm Aluminio Fundido Tapa de Cerámica",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171152/5861036749-1.jpg?v=638895964074870000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 199900.0,
-    "list_price": 209900.0,
     "on_sale": true
   },
   {
@@ -4384,9 +4090,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 79900.0,
+    "price": 55930.0,
     "list_price": 79900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cuchillo Multiusos IMUSA 9 cm Perfect Resist Ultra Afilado",
@@ -4405,9 +4111,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 47899.0,
+    "price": 33529.0,
     "list_price": 47899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cuchillo Para Pelar IMUSA Perfect Resist 9 cm, 2 veces más afilado y duradero*",
@@ -4426,9 +4132,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 44899.0,
+    "price": 31429.0,
     "list_price": 44899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera de Goteo KRUPS Aroma para Café Fresco, 10 Tazas y Depósito Hermético",
@@ -4494,6 +4200,27 @@
     "on_sale": false
   },
   {
+    "name": "Sanduchera & Parrilla Eléctrica IMUSA Compact con Placas Antiadherentes",
+    "reference": "1510002855",
+    "brand": "IMUSA",
+    "category": "Grill Y Sanducheras",
+    "description": "La <strong>Inicio Compact de IMUSA</strong> es una sandwichera práctica, ideal para preparar sánduches, paninis y otros bocados rápidos. Su <strong>diseño compacto y liviano</strong> facilita su almacenamiento y uso en cualquier espacio de cocina. Con <strong>placas antiadherentes</strong>, asegura una cocción uniforme y una limpieza sencilla, haciendo que preparar comidas deliciosas sea aún más conveniente. <br/><ul><li><strong>Combo 2 en 1: Paninera y Parrilla Eléctrica</strong> con asa grande para presionar fácilmente. Ideal para preparar comidas versátiles en casa.</li><li><strong>Tamaño ideal para 2 porciones</strong> con con superficie de cocción compacta de 23 x 14.5 cm, perfecta para preparar comidas rápidas y deliciosas.</li><li><strong>Fácil de limpiar:</strong> Placas antiadherentes resistentes para una limpieza sin esfuerzo después de cada uso, sin que los alimentos se peguen.</li><li><strong>Fácil de guardar: </strong>Diseño compacto con almacenamiento vertical, espacio para guardar el cable y bloqueo de placas.</li><li><strong>Bandeja recogejugos desmontable y apta para lavavajillas</strong>, que facilita la limpieza y brinda mayor practicidad en el uso diario.</li></ul><br/>",
+    "url": "https://www.imusa.com.co/sanduchera_parrilla_electrica_imusa_compact/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170892/1510002855_1.jpg?v=638856858630000000",
+    "skus": [
+      {
+        "sku_id": "1491",
+        "sku_name": "Sanduchera & Parrilla Eléctrica IMUSA Compact con Placas Antiadherentes",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170892/1510002855_1.jpg?v=638856858630000000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 209930.0,
+    "list_price": 299900.0,
+    "on_sale": true
+  },
+  {
     "name": "Cafetera Espresso KRUPS Authentic+ Inox 15 bares de presión",
     "reference": "8010001339",
     "brand": "KRUPS",
@@ -4557,25 +4284,25 @@
     "on_sale": true
   },
   {
-    "name": "Olla IMUSA Hard Titanium 24cm Antiadherente Tapa de Vidrio",
-    "reference": "5861034648",
+    "name": "Licuadora IMUSA Ultraforce + con control de perilla, 2 velocidades, motor de 1000W, Vaso de Vidrio 2.2L, Acero Inoxidable",
+    "reference": "5861035551",
     "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Antiadherente Titanium 7X, el antiadherente más durable de IMUSA, resiste hasta 35.000 pasadas de esponja. |Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar. |Hecho sin PFOA, Plomo ni Cadmio. |Mangos, asas y pomos robustos y durables. |Base difusora para una distribución uniforme el calor y resultados perfectos. |Antiadherente interior y exterior para una mayor facilidad al lavar.",
-    "url": "https://www.imusa.com.co/olla-imusa-hard-titanium-24-cm-antiadherente-tapa-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169182/5861034648-1.jpg?v=638609646842770000",
+    "category": "Licuadoras",
+    "description": "Más Potente: Su potente motor de 1000 Watts garantiza un rendimiento superior en cada uso. |2 velocidades + Pulso: Ajusta la textura de tus mezclas con versatilidad y total precisión para cualquier receta. |Tecnología POWELIX PRO: 6 cuchillas hasta 4X más eficientes para mezclas más rápidas y texturas más homogéneas. |Acople metálico más resistente: Durabilidad y robustez que soporta el uso diario prolongado. |Capacidad XL de 2,2L: Prepara hasta 8 vasos de batidos, jugos o sopas en un solo proceso de licuado. |Cuerpo en acero inoxidable: Diseño elegante, resistente y fácil de limpiar para una cocina siempre impecable.",
+    "url": "https://www.imusa.com.co/licuadora-imusa-ultraforceplus-2-velocidades-vaso-vidrio-2-2-litros-acero-inoxidable-p/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169260/5861035551-1.jpg?v=638609889090070000",
     "skus": [
       {
-        "sku_id": "1002",
-        "sku_name": "Olla IMUSA Hard Titanium 24cm Antiadherente Tapa de Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169182/5861034648-1.jpg?v=638609646842770000"
+        "sku_id": "1005",
+        "sku_name": "Licuadora IMUSA Ultraforce + 2V, 1000W, Vidrio, 2.2L, Acero inoxidable",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169260/5861035551-1.jpg?v=638609889090070000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 149899.0,
-    "list_price": 149899.0,
-    "on_sale": false
+    "price": 199900.0,
+    "list_price": 359900.0,
+    "on_sale": true
   },
   {
     "name": "Wok Triangular IMUSA Hard Titanium 30cm Antiadherente Tapa de Vidrio",
@@ -4594,9 +4321,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 112900.0,
+    "price": 79030.0,
     "list_price": 112900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén IMUSA Hard Titanium 30cm Antiadherente Tapa de Vidrio",
@@ -4615,9 +4342,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 129900.0,
+    "price": 90930.0,
     "list_price": 129900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén IMUSA Hard Titanium 24cm Antiadherente Tapa de Vidrio",
@@ -4636,9 +4363,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 109900.0,
+    "price": 76930.0,
     "list_price": 109900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén IMUSA Hard Titanium 20cm Antiadherente Tapa de Vidrio",
@@ -4678,9 +4405,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 94900.0,
+    "price": 66430.0,
     "list_price": 94900.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Sartén IMUSA Hard Titanium 20cm Antiadherente",
+    "reference": "5861034637",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Antiadherente Titanium 7X, el antiadherente más durable de IMUSA, resiste hasta 35.000 pasadas de esponja. |Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar. |Hecho sin PFOA, Plomo ni Cadmio. |Mangos, asas y pomos robustos y durables. |Base difusora para una distribución uniforme el calor y resultados perfectos. |Antiadherente interior y exterior para una mayor facilidad al lavar.",
+    "url": "https://www.imusa.com.co/sarten-imusa-hard-titanium-20-cm-antiadherente/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169102/5861034637-1.jpg?v=638609646433870000",
+    "skus": [
+      {
+        "sku_id": "992",
+        "sku_name": "Sartén IMUSA Hard Titanium 20cm Antiadherente",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169102/5861034637-1.jpg?v=638609646433870000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 60829.0,
+    "list_price": 86899.0,
+    "on_sale": true
   },
   {
     "name": "Accesorio Aqua Head para X-force Flex 12.60",
@@ -4741,7 +4489,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 179900.0,
+    "price": 157430.0,
     "list_price": 224900.0,
     "on_sale": true
   },
@@ -4762,30 +4510,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 179900.0,
+    "price": 157430.0,
     "list_price": 224900.0,
     "on_sale": true
-  },
-  {
-    "name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Roja",
-    "reference": "5861033197",
-    "brand": "IMUSA",
-    "category": "Cafeteras",
-    "description": "Diferentes capacidades. |Componentes de Nylon que no calientan. | Fácil de lavar. |Calidad imusa y 3 meses de garantía.",
-    "url": "https://www.imusa.com.co/cafetera-italiana-imusa-espresso-9tazas-roja/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168654/5861033197-1.jpg?v=638475904529400000",
-    "skus": [
-      {
-        "sku_id": "949",
-        "sku_name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Roja",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168654/5861033197-1.jpg?v=638475904529400000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 84900.0,
-    "list_price": 84900.0,
-    "on_sale": false
   },
   {
     "name": "Repuesto de Jarra Termo para Cafetera KRUPS Simply Brew To Go INOX",
@@ -4804,51 +4531,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 63499.0,
+    "price": 44449.0,
     "list_price": 63499.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
-    "name": "Repuesto de perilla de oscilación para Ventilador SAMURAI",
-    "reference": "9100006023",
+    "name": "Repuesto de Cuchilla para Licuadora SAMURAI Optimix Negra",
+    "reference": "5861030264",
     "brand": "SAMURAI",
     "category": "Repuestos",
-    "description": "Pieza de Plástico | Compatible con los ventiladores AIRPROTEC/ AIRMAX/ TROPICAL PLUS/ TURBO POWER/ TURBO SILENCE /SILENCE FORCE Y ULTRA SILENCE | Al presionar permite que el ventilador gire de un lado a otro y al levantar permite que se detenga para ventilar un punto fijo.",
-    "url": "https://www.imusa.com.co/repuesto-perilla-oscilacion-ventilador-samurai/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168206/7122013741-4.jpg?v=638346220145000000",
+    "description": "Cuchilla de 4 Aspas | Compatible con todas las licuadoras rango Optimix plus | Elaborada en Acero Inoxidable de alta resistencia | Repuestos desmontable para un lavado fácil.",
+    "url": "https://www.imusa.com.co/repuesto-cuchilla-licuadora-samurai-optimix-negra/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168190/5861030187-1.jpg?v=638346220059100000",
     "skus": [
       {
-        "sku_id": "914",
-        "sku_name": "Repuesto de perilla de oscilación para Ventilador SAMURAI",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168206/7122013741-4.jpg?v=638346220145000000"
+        "sku_id": "910",
+        "sku_name": "Repuesto de Cuchilla para Licuadora SAMURAI Optimix Negra",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168190/5861030187-1.jpg?v=638346220059100000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 1299.0,
-    "list_price": 1299.0,
-    "on_sale": false
-  },
-  {
-    "name": "Repuesto de Válvula Reguladora Olla a Presión IMUSA Secury Control / Secury Control Plus",
-    "reference": "5861024489",
-    "brand": "IMUSA",
-    "category": "Repuestos y Accesorios",
-    "description": "Compatible con olla a presión IMUSA Secury Control y SecuryPlus Control | Garantía de 3 meses | Fácil de limpiar",
-    "url": "https://www.imusa.com.co/repuesto-valvula-reguladora-olla-presion-imusa-secury-control-plus/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168170/5861024489-1.jpg?v=638346219950730000",
-    "skus": [
-      {
-        "sku_id": "905",
-        "sku_name": "Repuesto de Válvula Reguladora Olla a Presión IMUSA Secury Control / Secury Control Plus",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168170/5861024489-1.jpg?v=638346219950730000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 21999.0,
-    "list_price": 21999.0,
-    "on_sale": false
+    "price": 12495.0,
+    "list_price": 17850.0,
+    "on_sale": true
   },
   {
     "name": "Repuesto de Empaque para Olla a Presión IMUSA Secury Plus 7,9L",
@@ -4914,67 +4620,25 @@
     "on_sale": true
   },
   {
-    "name": "Sartén IMUSA Natural Stone de 24cm con Tapa de Vidrio",
-    "reference": "5861033018",
+    "name": "Juego de Recipientes Herméticos IMUSA TERRA Cuadrados 4L, 2L, 1L Verde",
+    "reference": "5861034859",
     "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Preparaciones más saludables y con menos aceite|Cuerpos en aluminio 100% reciclado y reciclable, efecto piedra|Termo señal para cocina con mayor facilidad, practicidad y efectividad|Base difusora para brindar uniformidad en la repartición del calor|Mangos robustos y suaves al tacto para un mayor confort (efecto madera)|Hecho sin PFOA",
-    "url": "https://www.imusa.com.co/sarten-imusa-natural-stone-24cm-tapa-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167442/5861033018-1.jpg?v=638304717486670000",
+    "category": "Recipientes",
+    "description": "| Hecho en Colombia | Cuerpo traslúcido| Calidad Imusa | 1 año de garantía| Colores basados en nuestra tierra",
+    "url": "https://www.imusa.com.co/juego-recipientes-hermeticos-imusa-terra-cuadrados-verde/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167892/5861033213-1.jpg?v=638316889322870000",
     "skus": [
       {
-        "sku_id": "883",
-        "sku_name": "Sartén IMUSA Natural Stone de 24cm con Tapa de Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167442/5861033018-1.jpg?v=638304717486670000"
+        "sku_id": "872",
+        "sku_name": "Juego de Recipientes Herméticos IMUSA TERRA Cuadrados 4L, 2L, 1L Verde",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167892/5861033213-1.jpg?v=638316889322870000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 94900.0,
-    "list_price": 94900.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sartén IMUSA Natural Stone de 24cm",
-    "reference": "5861033013",
-    "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Preparaciones más saludables y con menos aceite|Cuerpos en aluminio 100% reciclado y reciclable, efecto piedra|Termo señal para cocina con mayor facilidad, practicidad y efectividad|Base difusora para brindar uniformidad en la repartición del calor|Mangos robustos y suaves al tacto para un mayor confort (efecto madera)|Hecho sin PFOA",
-    "url": "https://www.imusa.com.co/sarten-imusa-natural-stone-24cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167423/5861033013-1.jpg?v=638304717386900000",
-    "skus": [
-      {
-        "sku_id": "880",
-        "sku_name": "Sartén IMUSA Natural Stone de 24cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167423/5861033013-1.jpg?v=638304717386900000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 79900.0,
-    "list_price": 79900.0,
-    "on_sale": false
-  },
-  {
-    "name": "Olla IMUSA TERRA de 24cm Arena con tapa de vidrio",
-    "reference": "5861033220",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "|Elaborado en aluminio fundido.\n|Cuenta con su antiadherente basic - efecto piedra te garantiza excelentes resultados en tus preparaciones gracias a que crea una porosidad en los cuerpos que hace que se realce el sabor de las comidas.\n|Es moderno, versátil y ergonómico con sus mangos robustos color champaña.\n|Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm.",
-    "url": "https://www.imusa.com.co/olla-imusa-terra-24cm-arena-tapa-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167586/5861033220-1.jpg?v=638312852051770000",
-    "skus": [
-      {
-        "sku_id": "865",
-        "sku_name": "Olla IMUSA TERRA de 24cm Arena con tapa de vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167586/5861033220-1.jpg?v=638312852051770000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 169899.0,
-    "list_price": 169899.0,
-    "on_sale": false
+    "price": 44520.0,
+    "list_price": 63600.0,
+    "on_sale": true
   },
   {
     "name": "Perol IMUSA TERRA de 18cm Arena con tapa de vidrio",
@@ -5056,9 +4720,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 17899.0,
+    "price": 12529.0,
     "list_price": 17899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire IMUSA Airfryer Esencial 3,2 Litros gris",
@@ -5098,9 +4762,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 132900.0,
+    "price": 93030.0,
     "list_price": 132900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Ventilador Comfort maxx 2en1 Samurai gris",
@@ -5140,50 +4804,8 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 199900.0,
+    "price": 181929.0,
     "list_price": 259899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cafetera de filtro SIMPLY BREW DIGITAL 1.5 LT KRUPS",
-    "reference": "1510002117",
-    "brand": "KRUPS",
-    "category": "Cafeteras de filtro",
-    "description": "Incluye filtro de café y cuchara permanente. \n|Preparación para una extracción Suave, Media o Fuerte.\n|Jarra de café de vidrio antigoteo de 10 tazas/1.5L.\n|Contiene botones de Inicio/Pausa/Detener.\n|Incluye Apagado automático tras 2 horas después de la preparación.\n|Tiene capacidad para 10 tazas/1.5 L de café en una sola preparación.\n|Cuerpo elaborado en acero inoxidable.\n|Tecnología alemana con 2 años de garantía y 15 años de reparabilidad.",
-    "url": "https://www.imusa.com.co/cafetera-krups-simply-brew-digital-1-5-litros/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166395/1510002117-1.jpg?v=638151799385100000",
-    "skus": [
-      {
-        "sku_id": "778",
-        "sku_name": "Cafetera de filtro SIMPLY BREW DIGITAL 1.5 LT KRUPS",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166395/1510002117-1.jpg?v=638151799385100000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 279900.0,
-    "list_price": 404899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cafetera IMUSA Grand Café 1,8 Litros",
-    "reference": "1510002378",
-    "brand": "IMUSA",
-    "category": "Cafeteras",
-    "description": "¡CAFETERA GRAND CAFÉ DE 1,8 LITROS!\n|La felicidad llega al hogar con la Cafetera IMUSA Grand Café, con una capacidad de 1,8 Litros  y su color negro con plateado es elegante y podrás tenerla con una vista inigualable, estética y con facilidad para servir tu café a la hora que quieras.\n|Es una opción perfecta para preparar tu delicioso café por medio de un tubo mexclador que te permitirá tener un sabor más equilibrado y tiene apagado automático, así que una vez el café esté listo para consumir, esta se apagará y no tendrás que hacerlo manualmente.\n|Además, podrás jugar con sus funciones, tal como la función SABOR, con ella podrás controlar la intensidad del café, de menos a mas fuerte, obteniendo una bebida exquisita y llevando a tu paladar el sabor deseado.\n|Tiene sistema antigoteo, incluye fultro y cuchara medidora.\n\n|Cuenta con garantía de 2 años bajo el respaldo y calidad de la marca IMUSA.",
-    "url": "https://www.imusa.com.co/cafetera-imusa-grand-cafe-1-8-litros/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165873/1510002378-1.jpg?v=638107158521630000",
-    "skus": [
-      {
-        "sku_id": "771",
-        "sku_name": "Cafetera IMUSA Grand Café 1,8 Litros",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165873/1510002378-1.jpg?v=638107158521630000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 255430.0,
-    "list_price": 364900.0,
     "on_sale": true
   },
   {
@@ -5208,27 +4830,6 @@
     "on_sale": true
   },
   {
-    "name": "Recipiente Rectangular TEFAL 0,7L Master Seal Vidrio",
-    "reference": "3110600753",
-    "brand": "TEFAL",
-    "category": "Recipientes",
-    "description": "Los Master Seal Vidrio son recipientes 100% herméticos, 100% higiénicos y funcionales, podrás utilizarlos para preparar, servir, almacenar y transportar tus alimentos.\n|Sus características principales son: \n|Son aptos para horno hasta de 420°, perfecta distribución del calor y resistencia al corte.\n|Son aptos para lavavajillas.\n|Son aptos para microondas.\n|Cuenta con 4 alas para correcto sellado y prevenir derrames.\n|100% vajilla fina, vidrio robusto y transparente de borosilicato.\n|100% hermético.\n|100% higiénico.",
-    "url": "https://www.imusa.com.co/recipiente-rectangular-tefal-07l-master-seal-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165753/3110600753-1.jpg?v=638100962990430000",
-    "skus": [
-      {
-        "sku_id": "762",
-        "sku_name": "Recipiente Rectangular TEFAL 0,7L Master Seal Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165753/3110600753-1.jpg?v=638100962990430000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 48929.0,
-    "list_price": 69899.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de Ropa TEFAL Express Steam  +",
     "reference": "1830007985",
     "brand": "TEFAL",
@@ -5250,24 +4851,24 @@
     "on_sale": true
   },
   {
-    "name": "Malla Delantera de Ventilador SAMURAI Turbo Silence",
-    "reference": "5861030187",
-    "brand": "SAMURAI",
-    "category": "Repuestos",
-    "description": "Accesorio Malla de Ventiladores SAMURAI| Compatible con Ventiladores Turbo Silence Maxx | Elaborado en plástico para mayor duración",
-    "url": "https://www.imusa.com.co/malla-delantera-de-ventilador-samurai-turbo-silence/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165314/5861030187-1.jpg?v=638004982216070000",
+    "name": "Caldero IMUSA 26cm El Original Natural",
+    "reference": "5861021336",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Caldero 26cm de diámetro, elaborado en Aluminio Fundido| Permite uniformidad de cocción y conservación del sabor de los alimentos. | Cuenta con tapa de vidrio con válvula de salida de vapor.| Es de gran calidad por lo que ofrece una larga vida.",
+    "url": "https://www.imusa.com.co/caldero-imusa-26cm-el-original-natural/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164499/5861021336-1.jpg?v=637964488778900000",
     "skus": [
       {
-        "sku_id": "738",
-        "sku_name": "Malla Delantera de Ventilador SAMURAI Turbo Silence",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165314/5861030187-1.jpg?v=638004982216070000"
+        "sku_id": "718",
+        "sku_name": "Caldero IMUSA 26cm El Original Natural",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164499/5861021336-1.jpg?v=637964488778900000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 14804.0,
-    "list_price": 21149.0,
+    "price": 72030.0,
+    "list_price": 102900.0,
     "on_sale": true
   },
   {
@@ -5292,45 +4893,24 @@
     "on_sale": true
   },
   {
-    "name": "Ventilador SAMURAI Turbo Power Pedestal Negro",
-    "reference": "5861032308",
-    "brand": "SAMURAI",
-    "category": "Ventiladores de piso",
-    "description": "¡Combate el calor con el Ventilador Samurai Turbo Power! Este ventilador está diseñado para ofrecerte un fuerte flujo de aire, con sus 70 Watts de potencia y mallas aerodinámicas, mantendrán tus espacios frescos en los días más calurosos. Con sus 3 velocidades, puedes ajustar el flujo de aire según tus preferencias, mientras que su bajo nivel de ruido garantiza un mayor comfort. Además, su malla frontal permite mayor seguridad impidiendo el contacto con las aspas.",
-    "url": "https://www.imusa.com.co/ventilador-samurai-turbo-power-pedestal-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170919/5861033768_3.jpg?v=638860271316130000",
-    "skus": [
-      {
-        "sku_id": "630",
-        "sku_name": "Ventilador SAMURAI Turbo Power Pedestal Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170919/5861033768_3.jpg?v=638860271316130000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 187529.0,
-    "list_price": 267899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Molino de Café IMUSA Coffee Grinder",
-    "reference": "5861032166",
+    "name": "Double Burner IMUSA Antiadherente Delicia",
+    "reference": "5861030750",
     "brand": "IMUSA",
-    "category": "Cafeteras",
-    "description": "Molino de Café eléctrico con capacidad para moler 85 gramos de Café, con esta cantidad podrás preparar hasta ¡12 Tazas!| Potencia de 200 Watts, garantizando un optimo rendimineto y resultados perfectos.| Práctico, versatil e ideal para tu rutina diaria",
-    "url": "https://www.imusa.com.co/molino-de-cafe-imusa-coffee-grinder/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165694/5861032166-1.jpg?v=638091502927230000",
+    "category": "Planchas para asar",
+    "description": "Placha para Asar Double Burner, versatil, duradera y robusta.| Productos en Aluminio Fundido lo que hace que sean productos de mayor calidad y muy duraderos| Espesor de 3mm, sus paredes son robustas.| Base difusora para perfecta distribución y retención de calor, obtendrás deliciosos resultados.| Aptos para ser usados en el horno y estufa.",
+    "url": "https://www.imusa.com.co/double-burner-imusa-antiadherente-delicia/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163900/5861030750-1.jpg?v=637920256752200000",
     "skus": [
       {
-        "sku_id": "620",
-        "sku_name": "Molino de Café IMUSA Coffee Grinder",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165694/5861032166-1.jpg?v=638091502927230000"
+        "sku_id": "664",
+        "sku_name": "Double Burner IMUSA Antiadherente Delicia",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163900/5861030750-1.jpg?v=637920256752200000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 108429.0,
-    "list_price": 154899.0,
+    "price": 132930.0,
+    "list_price": 189900.0,
     "on_sale": true
   },
   {
@@ -5355,24 +4935,24 @@
     "on_sale": true
   },
   {
-    "name": "Sartén Imusa 20cm Antiadherente Talent Pro",
-    "reference": "5861031612",
+    "name": "Licuadora IMUSA Infiny Force XL 10 Velocidades Negra",
+    "reference": "5861032023",
     "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Sartén 20cm de diámetro con Antiadherente Triforce Gold Efecto Piedra, dura 5 veces más. | Espesor de 2.2mm para obtener resultados perfectos. | Base difusora, cocción uniforme y antideslizante. | Podrás llevar al horno, estufa y en tu mesa. | Accesorios en Acero Inoxidable, elegantes y versatiles para llegar a la mesa.",
-    "url": "https://www.imusa.com.co/sarten-imus-20cm-antiadherente-talent-pro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163355/5861031612-1.jpg?v=637908133386770000",
+    "category": "Licuadoras",
+    "description": "Vaso de Vidrio con capacidad de 2,2Litros para licuar y triturar lo que desees | 10 Funciones + Pulso garantizando un control total de tus preparaciones. | Potencia de 600 Watts, ahorrando tiempo y permitiendo mejores resultados. | 6 Cuchillas en acero inoxid",
+    "url": "https://www.imusa.com.co/licuadora-imusa-infiny-force-xl-10-velocidades-gris/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163246/5861032023-1.jpg?v=637907662026930000",
     "skus": [
       {
-        "sku_id": "613",
-        "sku_name": "Sartén Imusa 20cm Antiadherente Talent Pro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163355/5861031612-1.jpg?v=637908133386770000"
+        "sku_id": "604",
+        "sku_name": "Licuadora IMUSA Infiny Force XL 10 Velocidades Negra",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163246/5861032023-1.jpg?v=637907662026930000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 52429.0,
-    "list_price": 74899.0,
+    "price": 179900.0,
+    "list_price": 279899.0,
     "on_sale": true
   },
   {
@@ -5439,27 +5019,6 @@
     "on_sale": true
   },
   {
-    "name": "Recipiente TEFAL 0,85L Master Seal Vidrio",
-    "reference": "3110600755",
-    "brand": "TEFAL",
-    "category": "Recipientes",
-    "description": "Capacidad de 0,85 Litros y su material en vidrio hará que los alimentos se conserven frescos por más tiempo | Son aptos para lava vajillas y microondas y horno hasta de 420°, perfecta distribución del calor y resistencia al corte.| Sellado integrado a la tapa genera la más alta presión contra el recipiente, para evitar cualquier fuga. | 100% vajilla fina, vidrio robusto.",
-    "url": "https://www.imusa.com.co/recipiente-tefal-0-8-5-l-master-seal-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162857/3110600755-1.jpg?v=637898689350730000",
-    "skus": [
-      {
-        "sku_id": "566",
-        "sku_name": "Recipiente TEFAL 0,85L Master Seal Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162857/3110600755-1.jpg?v=637898689350730000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 52429.0,
-    "list_price": 74899.0,
-    "on_sale": true
-  },
-  {
     "name": "Batería IMUSA Talent 7 Piezas antiadherente Gris",
     "reference": "5861029305",
     "brand": "IMUSA",
@@ -5478,27 +5037,6 @@
     "country": "Colombia",
     "price": 223930.0,
     "list_price": 319900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Plancha de Ropa TEFAL Express Steam Azul",
-    "reference": "1830007982",
-    "brand": "TEFAL",
-    "category": "Planchas de ropa",
-    "description": "¡DESLIZAMIENTO MÁS RÁPIDO Y DURADERO! | 5 Niveles de temperatura que se controlan con un solo giro de perilla.| Cuenta con un seguro sistema de inclinación vertical fácil de usar y un sistema de oscilación horizontal automática. | Potencia de 1200 Watts para un mejor desempeño",
-    "url": "https://www.imusa.com.co/plancha-de-ropa-tefal-express-steam-azul/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165356/1830007982-1.jpg?v=638010974884930000",
-    "skus": [
-      {
-        "sku_id": "740",
-        "sku_name": "Plancha de Ropa TEFAL Express Steam Azul",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165356/1830007982-1.jpg?v=638010974884930000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 137829.0,
-    "list_price": 196899.0,
     "on_sale": true
   },
   {
@@ -5586,6 +5124,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén IMUSA Gusto 20 cm con Tapa de Vidrio",
+    "reference": "5861031706",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Sartén 20cm de diámetro, elaborado en Aluminio fundido con Recubrimiento Antiadherente NADA SE LE PEGA y con acabado en EFECTO PIEDRA para una cocina moderna y elegante| Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm. | Mangos robustos y suaves al tacto para un mayor confort| Apto para lavavajillas y horno",
+    "url": "https://www.imusa.com.co/sarten-imusa-gusto-20-cm-con-tapa-de-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159589/7702073811905-1.jpg?v=637866229265000000",
+    "skus": [
+      {
+        "sku_id": "495",
+        "sku_name": "Sartén IMUSA Gusto 20 cm con Tapa de Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159589/7702073811905-1.jpg?v=637866229265000000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 87430.0,
+    "list_price": 124900.0,
+    "on_sale": true
+  },
+  {
     "name": "Multipan Unlimited Antiadherente 26 cm",
     "reference": "2100118602",
     "brand": "TEFAL",
@@ -5628,6 +5187,27 @@
     "on_sale": true
   },
   {
+    "name": "Afilador de Cuchillos TEFAL Fresh Kitchen",
+    "reference": "2100091939",
+    "brand": "TEFAL",
+    "category": "Cuchillos",
+    "description": "Tiene tres tipos de piedra para afilar tus cuchillos cuidando tus manos y evidando inconvenientes| Posee un mango ergónomico que garantiza un agarre seguro y fácil de utilizar| Cuenta con una base antideslizante que permite que sea estable y fácil de sostener durante todo el proceso de afilado| Puede ser utilizado por todo tipo de cuchillos de cocina.",
+    "url": "https://www.imusa.com.co/afilador-de-cuchillos-tefal-fresh-kitchen/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159499/3168430238541-1.jpg?v=637866228793900000",
+    "skus": [
+      {
+        "sku_id": "461",
+        "sku_name": "Afilador de Cuchillos TEFAL Fresh Kitchen",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159499/3168430238541-1.jpg?v=637866228793900000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 51030.0,
+    "list_price": 72900.0,
+    "on_sale": true
+  },
+  {
     "name": "Repuesto Cuchilla para Licuadora IMUSA Infiny Force 4 aspas",
     "reference": "5861024152",
     "brand": "IMUSA",
@@ -5665,30 +5245,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 42244.0,
+    "price": 60349.0,
     "list_price": 60349.0,
-    "on_sale": true
-  },
-  {
-    "name": "Repuesto Válvula Reguladora de Presión IMUSA",
-    "reference": "5861024487",
-    "brand": "IMUSA",
-    "category": "Ollas a presión",
-    "description": "Repuesto para Olla a presión SECURY| Compatible para marcas: IMUSA| Sistema de seguridad que controla de forma constante la presión de la olla.| Tiene sistema de sujeción.",
-    "url": "https://www.imusa.com.co/repuesto-valvula-reguladora-de-presion-imusa/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160636/7702073499738-1.jpg?v=637866647019300000",
-    "skus": [
-      {
-        "sku_id": "403",
-        "sku_name": "Repuesto Válvula Reguladora de Presión IMUSA",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160636/7702073499738-1.jpg?v=637866647019300000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 17885.0,
-    "list_price": 25550.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Cuchara TEFAL Fresh Kitchen en PET",
@@ -5772,27 +5331,6 @@
     "country": "Colombia",
     "price": 34930.0,
     "list_price": 49900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set de Olla a presion IMUSA Secury Control 6L + Cucharón",
-    "reference": "5861031425",
-    "brand": "IMUSA",
-    "category": "Baterías y Sets de Cocina",
-    "description": "Olla a presión IMUSA Secury Control 6L + Cucharón\n| La única olla IMUSA con CONTROL IMUSA PRESS, el cual te permite liberar fácil la presión de la olla sin necesidad de tenedores, cucharas o cuchillos. \n \n| Cuenta con la VÁLVULA DE DOS POSICIONES, la cual te indica cuando es seguro abrir la olla a presión\n| VÁLVULA CONTROLADORA DE PRESIÓN la cual te garantiza una presión constante en la olla, lo cual representa un proceso de cocción eficiente al ahorrar tiempo en la cocina.\n \n |Garantía de 10 años, respaldo y calidad IMUSA.\n |¡En tu Cocina y Hogar está IMUSA!",
-    "url": "https://www.imusa.com.co/set-de-olla-a-presion-imusa-secury-control-6l--cucharon/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166142/5861031425-1.jpg?v=638122612005700000",
-    "skus": [
-      {
-        "sku_id": "320",
-        "sku_name": "Set de Olla a presion IMUSA Secury Control 6L + Cucharón",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166142/5861031425-1.jpg?v=638122612005700000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 107029.0,
-    "list_price": 152899.0,
     "on_sale": true
   },
   {
@@ -5964,6 +5502,27 @@
     "on_sale": true
   },
   {
+    "name": "Procesador IMUSA Pica 123 + Vaso Negro",
+    "reference": "5861027300",
+    "brand": "IMUSA",
+    "category": "Picatodo",
+    "description": "Vaso plástico con capacidad de 2 Litros con envase de 300 gramos de capacidad tiene el tamaño adecuado para las preparaciones diarias. | Potencia de 650 Watts| 2 Sistemas de seguridad: Electrónico y Mecánico| Es transparente para supervisar el proceso, confiable gracias a sus sistemas de seguridad ya que el electrónico impide que el motor funcione si el recipiente.",
+    "url": "https://www.imusa.com.co/procesador-imusa-pica-123--vaso-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163665/5861027300-1.jpg?v=637910406417430000",
+    "skus": [
+      {
+        "sku_id": "171",
+        "sku_name": "Procesador IMUSA Pica 123 + Vaso Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163665/5861027300-1.jpg?v=637910406417430000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 246380.0,
+    "list_price": 351972.0,
+    "on_sale": true
+  },
+  {
     "name": "Colador TEFAL Ingenio",
     "reference": "2100093217",
     "brand": "TEFAL",
@@ -5982,6 +5541,27 @@
     "country": "Colombia",
     "price": 45430.0,
     "list_price": 64900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Vaporera TEFAL Ingenio Nylon Negro",
+    "reference": "2100095535",
+    "brand": "TEFAL",
+    "category": "Utensilios de cocina",
+    "description": "Cuenta con cuerpo seguro y antideslizante, para preparaciones más deliciosas| Diseñado para soportar temperaturas de hasta 230 °C, para unos resultados eficientes día tras día.| Es resistente a manchas y lo mejor de todo ¡Es fácil de limpiar!| Apto para el lavavajillas, para una limpieza fácil y una comodidad excepcional en tu cocina diaria",
+    "url": "https://www.imusa.com.co/vaporera-tefal-ingenio-nylon-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161799/2100095535-1.jpg?v=637889250728270000",
+    "skus": [
+      {
+        "sku_id": "127",
+        "sku_name": "Vaporera TEFAL Ingenio Nylon Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161799/2100095535-1.jpg?v=637889250728270000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 48929.0,
+    "list_price": 69899.0,
     "on_sale": true
   },
   {
@@ -6027,24 +5607,24 @@
     "on_sale": true
   },
   {
-    "name": "Caldero IMUSA Aluminio fundido 44cm",
-    "reference": "5850000736",
+    "name": "Caldero IMUSA con tapa de vidrio 22 cm",
+    "reference": "5861021346",
     "brand": "IMUSA",
     "category": "Ollas, Calderos y Peroles",
-    "description": "Caldero 44cm de diámetro que permite uniformidad de cocción y conservación del sabor de los alimentos. | Fabricado en Aluminio Fundido, excelente conductor de calor que agiliza los procesos de cocción| Paredes extragruesos que evitan deformaciones al pasar el tiempo| Es de gran calidad por lo que ofrece una larga vida.",
-    "url": "https://www.imusa.com.co/caldero-imusa-aluminio-fundido-44cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160448/7702073805089-1.jpg?v=637866645897030000",
+    "description": "Caldero 22cm de diámetro que permite uniformidad de cocción y conservación del sabor de los alimentos. | Fabricado en Aluminio Fundido, excelente conductor de calor que agiliza los procesos de cocción| Paredes extragruesos que evitan deformaciones al pasar el tiempo| Es de gran calidad por lo que ofrece una larga vida.",
+    "url": "https://www.imusa.com.co/caldero-imusa-con-tapa-de-vidrio-22-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164047/5861021346-1.jpg?v=637943577076270000",
     "skus": [
       {
-        "sku_id": "74",
-        "sku_name": "Caldero IMUSA Aluminio fundido 44cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160448/7702073805089-1.jpg?v=637866645897030000"
+        "sku_id": "65",
+        "sku_name": "Caldero IMUSA con tapa de vidrio 22 cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164047/5861021346-1.jpg?v=637943577076270000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 167930.0,
-    "list_price": 239900.0,
+    "price": 72730.0,
+    "list_price": 103900.0,
     "on_sale": true
   },
   {
@@ -6111,48 +5691,6 @@
     "on_sale": true
   },
   {
-    "name": "Aspiradora Vertical Inalámbrica T-FAL X-PERT 8.80, Limpieza Potente, 250W",
-    "reference": "7211005478",
-    "brand": "TEFAL",
-    "category": "Aspiradoras",
-    "description": "ASPIRACIÓN POTENTE: Aspiradora vertical con potencia de succión de alta eficiencia de hasta 250 Watts*, luz LED en el cabezal y cepillo multipropósito.| CONTROL FÁCIL: Ajusta la potencia según tus necesidades, ve la batería restante y recibe alertas para limpiar el filtro.| SESIONES MUY LARGAS: Disfruta hasta 45 minutos de autonomía** con una sola carga para limpiar todo tu espacio sin interrupciones.| LIMPIEZA SIN ESFUERZO: Aspiradora vertical inalámbrica excepcionalmente liviana—solo 1,3 kg en modo de mano.| ALTA FILTRACIÓN: Libera aire limpio con un sistema avanzado ubicado detrás del motor que atrapa el 99,9% del polvo y las partículas.| PARA DUEÑOS DE MASCOTAS: Solución 4 en 1 para pisos, zonas difíciles, superficies y textiles, con cepillo turbo para pelo de mascotas.| MANTENIMIENTO SIN ESFUERZO: Depósito lavable para un vaciado higiénico y sin polvo, alertas de limpieza del filtro y código QR para tutoriales en línea.",
-    "url": "https://www.imusa.com.co/aspiradora-vertical-inalambrica-t-fal-x-pert-8-80-limpieza-potente-100-aw/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173231/7211005478-1.jpg?v=639203541905270000",
-    "skus": [
-      {
-        "sku_id": "1720",
-        "sku_name": "Aspiradora Vertical Inalámbrica T-FAL X-PERT 8.80, Limpieza Potente, 250W",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/173231/7211005478-1.jpg?v=639203541905270000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 799900.0,
-    "list_price": 899900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén IMUSA Cambiatón 2026 20cm Antiadherente Tapa de Vidrio",
-    "reference": "5861037068",
-    "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Antiadherente Gold 5X, resiste hasta 25.000 pasadas de esponja. |Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar. |Antiadherente interior y exterior para una mayor facilidad al lavar.|Antiadherente confiable. |Mangos, asas y pomos robustos y durables. |Base difusora para una distribución uniforme del calor y resultados perfectos. |Campaña amigable con el medio ambiente gracias a la recolección y disposición final de sartenes viejos.",
-    "url": "https://www.imusa.com.co/sarten-imusa-cambiaton-2026-20cm-antiadherente-tapa-de-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172341/portada--1-.png?v=639111724190170000",
-    "skus": [
-      {
-        "sku_id": "1678",
-        "sku_name": "Sartén IMUSA Cambiatón 2026 20cm Antiadherente Tapa de Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/172341/portada--1-.png?v=639111724190170000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 46830.0,
-    "list_price": 66900.0,
-    "on_sale": true
-  },
-  {
     "name": "Cuchillo de chef autoafilable con Bloque TEFAL EverSharp",
     "reference": "2100139799",
     "brand": "TEFAL",
@@ -6216,24 +5754,45 @@
     "on_sale": true
   },
   {
-    "name": "Filtro de Motor Aspiradora X-FORCE 9.60",
-    "reference": "7222068977",
+    "name": "Bayetas de microfibra Aspiradoras X-Force 12.60",
+    "reference": "2211400813",
     "brand": "TEFAL",
     "category": "Repuestos y accesorios",
-    "description": "Compatible con aspiradora tefal X-FORCE 9.60 | Mejora del rendimiento de succión | Filtro lavable y reutilizable | Compatibilidad perfecta",
-    "url": "https://www.imusa.com.co/filtro-de-motor-aspiradora-x-force-9-60/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171473/7222068977.jpg?v=638938103031030000",
+    "description": "Compatible con aspiradora tefal X-FORCE 12.60 | Resultados de limpieza impecables | Ecológico y económico | Alta durabilidad",
+    "url": "https://www.imusa.com.co/bayetas-de-microfibra-aspiradoras-x-force-12-60/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171485/2211400813-1.jpg?v=638938105200830000",
     "skus": [
       {
-        "sku_id": "1575",
-        "sku_name": "Filtro de Motor Aspiradora X-FORCE 9.60",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171473/7222068977.jpg?v=638938103031030000"
+        "sku_id": "1581",
+        "sku_name": "Bayetas de microfibra Aspiradoras X-Force 12.60",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171485/2211400813-1.jpg?v=638938105200830000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 11760.0,
-    "list_price": 16800.0,
+    "price": 35419.0,
+    "list_price": 50599.0,
+    "on_sale": true
+  },
+  {
+    "name": "Filtro de dos Tazas cafetera Krups Divine",
+    "reference": "9100052760",
+    "brand": "KRUPS",
+    "category": "Repuestos y Accesorios",
+    "description": "Preparación doble: permite elaborar dos espressos al mismo tiempo con la medida justa de café | Extracción equilibrada: asegura un flujo de agua uniforme para obtener un sabor intenso y aromático | Practicidad diaria: fácil de colocar, retirar y limpiar para un uso sin complicaciones | Compatibilidad exacta: repuesto original Krups diseñado específicamente para la cafetera XP444C50.",
+    "url": "https://www.imusa.com.co/filtro-de-dos-tazas-cafetera-krups-divine/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171448/9100052760-1.jpg?v=638938092900000000",
+    "skus": [
+      {
+        "sku_id": "1561",
+        "sku_name": "Filtro de dos Tazas cafetera Krups Divine",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171448/9100052760-1.jpg?v=638938092900000000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 21804.0,
+    "list_price": 31149.0,
     "on_sale": true
   },
   {
@@ -6258,24 +5817,45 @@
     "on_sale": true
   },
   {
-    "name": "Cepillo ancho Aspiradoras X-FORCE 12.60",
-    "reference": "2230002886",
-    "brand": "TEFAL",
-    "category": "Repuestos y accesorios",
-    "description": "Esta accesorio puede utilizarse para aspirar todo tipo de residuos, restos y polvo. Con una forma plana y amplia, ideal para cubrir superficies grandes en una sola pasada. Incluye tiras de tela tipo terciopelo (color rojo) diseñadas para atrapar eficazmente pelos de mascotas, polvo fino y pelusa de sofás, camas, cortinas, alfombras. Pieza compatible compatible con aspiradoras Tefal X-FORCE 12.60<ul><li>Pieza compatible con aspiradoras Tefal X-FORCE 12.60</li><li>Se adapta a la mayoría de superficies</li><li>Montaje sencillo</li><li>Muy eficaz para eliminar pelos de mascotas y suciedad incrustada</li><li>Ideal para limpiar superficies textiles como tapicería, cojines, cortinas o colchones</li></ul>",
-    "url": "https://www.imusa.com.co/cepillo-ancho-aspiradoras-x-force-12-60/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170956/Large-SS-2230002886_suceur_large_gris.jpg?v=638863734975670000",
+    "name": "Portafiltro cafetera Krups Divine",
+    "reference": "9100052758",
+    "brand": "KRUPS",
+    "category": "Repuestos y Accesorios",
+    "description": "Preparación óptima del café: asegura una extracción uniforme para un espresso con mejor aroma y sabor | Versatilidad de uso: permite preparar café molido o usar cápsulas blandas | Encaje preciso y seguro: diseñado para un ajuste perfecto en la cafetera XP444C50 | Resistencia y durabilidad: fabricado en materiales robustos para soportar el uso diario",
+    "url": "https://www.imusa.com.co/portafiltro-cafetera-krups-divine/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171442/9100052758.jpg?v=638938091823270000",
     "skus": [
       {
-        "sku_id": "1500",
-        "sku_name": "Cepillo ancho Aspiradoras X-FORCE 12.60",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170956/Large-SS-2230002886_suceur_large_gris.jpg?v=638863734975670000"
+        "sku_id": "1559",
+        "sku_name": "Portafiltro cafetera Krups Divine",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171442/9100052758.jpg?v=638938091823270000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 14280.0,
-    "list_price": 20400.0,
+    "price": 44484.0,
+    "list_price": 63549.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cuchillo Rebanador IMUSA Perfect Resist 20 cm, 2 veces más afilado y duradero*",
+    "reference": "2100138389",
+    "brand": "IMUSA",
+    "category": "Cuchillos",
+    "description": "¡Experimenta la perfección en cada corte! El Cuchillo Rebanador de 20 cm Perfect Resist tiene una hoja completa de acero inoxidable de alta calidad, 2 veces más afilada y duradera*. Con un mango ergonómico cómodo y seguro, diseño moderno y elegante y 10 años de garantía. ¡Descubre la durabilidad y perfección en cada corte! Desde la piña más jugosa hasta el solomito más tierno, rebana fácilmente tus alimentos y eleva tu cocina a otro nivel.<ul><li>Cortes perfectos por más tiempo gracias a su hoja 2 veces más afilada y duradera*​</li><li>Hoja completa visible en acero inoxidable para mayor robustez y duración en el tiempo ​</li><li>Mango ergonómico con protector de dedos para mayor seguridad y comodidad en el agarre                                                                                                          </li><li>Hoja larga y delgada para rebanar con precisión trozos grandes de frutas, verduras y carnes.   </li><li>​Diseño moderno y elegante ​que perdura en el tiempo</li><li>Garantía de 10 años</li></ul><br/>",
+    "url": "https://www.imusa.com.co/cuchillo-rebanador-imusa-perfect-resist-20-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171012/Large-2100138389-K2980784-CUCHILLO-REBANADOR-20CM-PERFECT-RESIST.jpg?v=638872347506770000",
+    "skus": [
+      {
+        "sku_id": "1513",
+        "sku_name": "Cuchillo Rebanador IMUSA Perfect Resist 20 cm, 2 veces más afilado y duradero*",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171012/Large-2100138389-K2980784-CUCHILLO-REBANADOR-20CM-PERFECT-RESIST.jpg?v=638872347506770000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 55930.0,
+    "list_price": 79900.0,
     "on_sale": true
   },
   {
@@ -6297,6 +5877,48 @@
     "country": "Colombia",
     "price": 37974.0,
     "list_price": 54249.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla IMUSA Hard Titanium 24cm Antiadherente Tapa de Vidrio",
+    "reference": "5861034648",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Antiadherente Titanium 7X, el antiadherente más durable de IMUSA, resiste hasta 35.000 pasadas de esponja. |Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar. |Hecho sin PFOA, Plomo ni Cadmio. |Mangos, asas y pomos robustos y durables. |Base difusora para una distribución uniforme el calor y resultados perfectos. |Antiadherente interior y exterior para una mayor facilidad al lavar.",
+    "url": "https://www.imusa.com.co/olla-imusa-hard-titanium-24-cm-antiadherente-tapa-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169182/5861034648-1.jpg?v=638609646842770000",
+    "skus": [
+      {
+        "sku_id": "1002",
+        "sku_name": "Olla IMUSA Hard Titanium 24cm Antiadherente Tapa de Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169182/5861034648-1.jpg?v=638609646842770000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 104929.0,
+    "list_price": 149899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Perol IMUSA Hard Titanium 16cm Antiadherente Tapa de Vidrio",
+    "reference": "5861034647",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Antiadherente Titanium 7X, el antiadherente más durable de IMUSA, resiste hasta 35.000 pasadas de esponja. |Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar. |Hecho sin PFOA, Plomo ni Cadmio. |Mangos, asas y pomos robustos y durables. |Base difusora para una distribución uniforme el calor y resultados perfectos. |Antiadherente interior y exterior para una mayor facilidad al lavar.",
+    "url": "https://www.imusa.com.co/perol-imusa-hard-titanium-16-cm-antiadherente-tapa-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169174/5861034647-1.jpg?v=638609646801570000",
+    "skus": [
+      {
+        "sku_id": "1001",
+        "sku_name": "Perol IMUSA Hard Titanium 16cm Antiadherente Tapa de Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169174/5861034647-1.jpg?v=638609646801570000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 73429.0,
+    "list_price": 104899.0,
     "on_sale": true
   },
   {
@@ -6342,18 +5964,39 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Italiana IMUSA ESPRESSO de 3 tazas Plateada",
-    "reference": "5861033192",
+    "name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Roja",
+    "reference": "5861033197",
     "brand": "IMUSA",
     "category": "Cafeteras",
     "description": "Diferentes capacidades. |Componentes de Nylon que no calientan. | Fácil de lavar. |Calidad imusa y 3 meses de garantía.",
-    "url": "https://www.imusa.com.co/cafetera-italiana-imusa-espresso-3tazas-plateada/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168619/5861033192-1.jpg?v=638475904231670000",
+    "url": "https://www.imusa.com.co/cafetera-italiana-imusa-espresso-9tazas-roja/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168654/5861033197-1.jpg?v=638475904529400000",
     "skus": [
       {
-        "sku_id": "944",
-        "sku_name": "Cafetera Italiana IMUSA ESPRESSO de 3 tazas Plateada",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168619/5861033192-1.jpg?v=638475904231670000"
+        "sku_id": "949",
+        "sku_name": "Cafetera Italiana IMUSA ESPRESSO de 9 tazas Roja",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168654/5861033197-1.jpg?v=638475904529400000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 59430.0,
+    "list_price": 84900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera Italiana IMUSA ESPRESSO de 3 tazas Roja",
+    "reference": "5861033195",
+    "brand": "IMUSA",
+    "category": "Cafeteras",
+    "description": "Diferentes capacidades. |Componentes de Nylon que no calientan. | Fácil de lavar. |Calidad imusa y 3 meses de garantía.",
+    "url": "https://www.imusa.com.co/cafetera-italiana-imusa-espresso-3tazas-roja/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168626/5861033195-1.jpg?v=638475904292130000",
+    "skus": [
+      {
+        "sku_id": "945",
+        "sku_name": "Cafetera Italiana IMUSA ESPRESSO de 3 tazas Roja",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168626/5861033195-1.jpg?v=638475904292130000"
       }
     ],
     "site": "IMUSA Colombia",
@@ -6384,66 +6027,66 @@
     "on_sale": true
   },
   {
-    "name": "Repuesto de Cuchilla para Licuadora SAMURAI Optimix Negra",
-    "reference": "5861030264",
-    "brand": "SAMURAI",
-    "category": "Repuestos",
-    "description": "Cuchilla de 4 Aspas | Compatible con todas las licuadoras rango Optimix plus | Elaborada en Acero Inoxidable de alta resistencia | Repuestos desmontable para un lavado fácil.",
-    "url": "https://www.imusa.com.co/repuesto-cuchilla-licuadora-samurai-optimix-negra/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168190/5861030187-1.jpg?v=638346220059100000",
-    "skus": [
-      {
-        "sku_id": "910",
-        "sku_name": "Repuesto de Cuchilla para Licuadora SAMURAI Optimix Negra",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168190/5861030187-1.jpg?v=638346220059100000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 12495.0,
-    "list_price": 17850.0,
-    "on_sale": true
-  },
-  {
-    "name": "Empaque de Caucho para Licuadoras SAMURAI Optimix Plus",
-    "reference": "5861024145",
-    "brand": "SAMURAI",
-    "category": "Repuestos",
-    "description": "Producto X3 unidades | Compatible con todas las licuadoras rango Optimix plus | Evita derrames en tus preparaciones | Repuestos desmontable para un lavado fácil",
-    "url": "https://www.imusa.com.co/empaque-caucho-licuadoras-samurai-optimix-plus/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168152/5861024145-1.jpg?v=638346219852830000",
-    "skus": [
-      {
-        "sku_id": "901",
-        "sku_name": "Empaque de Caucho para Licuadoras SAMURAI Optimix Plus",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168152/5861024145-1.jpg?v=638346219852830000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 7455.0,
-    "list_price": 10650.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén IMUSA Natural Stone de 30cm",
-    "reference": "5861033015",
+    "name": "Repuesto de Válvula Reguladora Olla a Presión IMUSA Secury Control / Secury Control Plus",
+    "reference": "5861024489",
     "brand": "IMUSA",
-    "category": "Sartenes",
-    "description": "Preparaciones más saludables y con menos aceite|Cuerpos en aluminio 100% reciclado y reciclable, efecto piedra|Termo señal para cocina con mayor facilidad, practicidad y efectividad|Base difusora para brindar uniformidad en la repartición del calor|Mangos robustos y suaves al tacto para un mayor confort (efecto madera)|Hecho sin PFOA",
-    "url": "https://www.imusa.com.co/sarten-imusa-natural-stone-30cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167430/5861033015-1.jpg?v=638304717424400000",
+    "category": "Repuestos y Accesorios",
+    "description": "Compatible con olla a presión IMUSA Secury Control y SecuryPlus Control | Garantía de 3 meses | Fácil de limpiar",
+    "url": "https://www.imusa.com.co/repuesto-valvula-reguladora-olla-presion-imusa-secury-control-plus/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168170/5861024489-1.jpg?v=638346219950730000",
     "skus": [
       {
-        "sku_id": "881",
-        "sku_name": "Sartén IMUSA Natural Stone de 30cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167430/5861033015-1.jpg?v=638304717424400000"
+        "sku_id": "905",
+        "sku_name": "Repuesto de Válvula Reguladora Olla a Presión IMUSA Secury Control / Secury Control Plus",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168170/5861024489-1.jpg?v=638346219950730000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 69930.0,
-    "list_price": 99900.0,
+    "price": 15399.0,
+    "list_price": 21999.0,
+    "on_sale": true
+  },
+  {
+    "name": "Set Skillet IMUSA Delicia 16cm - 20cm",
+    "reference": "5861032904",
+    "brand": "IMUSA",
+    "category": "Baterías y Sets de Cocina",
+    "description": "Productos en Aluminio Fundido. |Aptos para ser usados en el horno                                             |Diseño moderno y atractivo. |Productos robustos y a la vez con un peso ideal.                                |Antiadherente.",
+    "url": "https://www.imusa.com.co/set-skillet-imusa-delicia-16cm-20cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168218/9100048615-3.jpg?v=638346220220470000",
+    "skus": [
+      {
+        "sku_id": "895",
+        "sku_name": "Set Skillet IMUSA Delicia 16cm - 20cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168218/9100048615-3.jpg?v=638346220220470000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 115422.0,
+    "list_price": 164889.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla IMUSA TERRA de 24cm Arena con tapa de vidrio",
+    "reference": "5861033220",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "|Elaborado en aluminio fundido.\n|Cuenta con su antiadherente basic - efecto piedra te garantiza excelentes resultados en tus preparaciones gracias a que crea una porosidad en los cuerpos que hace que se realce el sabor de las comidas.\n|Es moderno, versátil y ergonómico con sus mangos robustos color champaña.\n|Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm.",
+    "url": "https://www.imusa.com.co/olla-imusa-terra-24cm-arena-tapa-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167586/5861033220-1.jpg?v=638312852051770000",
+    "skus": [
+      {
+        "sku_id": "865",
+        "sku_name": "Olla IMUSA TERRA de 24cm Arena con tapa de vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167586/5861033220-1.jpg?v=638312852051770000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 118929.0,
+    "list_price": 169899.0,
     "on_sale": true
   },
   {
@@ -6465,48 +6108,6 @@
     "country": "Colombia",
     "price": 999900.0,
     "list_price": 1639899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Batería de cocina IMUSA COLORS 5 piezas Rojo con Tapa de Vidrio",
-    "reference": "5861032994",
-    "brand": "IMUSA",
-    "category": "Baterías y Sets de Cocina",
-    "description": "Base difusora especial para distribuir de manera uniforme el calor.|Termo señal que cambia de color y te indica que el utensilio está listo para empezar a cocinar, así conservas mejor la textura y nutrientes de los alimentos. |Antiadherente calidad IMUSA",
-    "url": "https://www.imusa.com.co/bateria-cocina-imusa-colors-5pz-rojo-tapa-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167377/5861032994-1.jpg?v=638290187530000000",
-    "skus": [
-      {
-        "sku_id": "852",
-        "sku_name": "Batería de cocina IMUSA COLORS 5 piezas Rojo con Tapa de Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167377/5861032994-1.jpg?v=638290187530000000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 128029.0,
-    "list_price": 182899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
-    "reference": "3110600750",
-    "brand": "TEFAL",
-    "category": "Recipientes",
-    "description": "Los Master Seal Vidrio son recipientes 100% herméticos, 100% higiénicos y funcionales, podrás utilizarlos para preparar, servir, almacenar y transportar tus alimentos.\n|Sus características principales son: \n|Son aptos para horno hasta de 420°, perfecta distribución del calor y resistencia al corte. .\n|Son aptos para lavavajillas. .\n|Son aptos para microondas. .\n|Cuenta con 4 alas para correcto sellado y prevenir derrames.\n|100% vajilla fina, vidrio robusto y transparente de borosilicato.\n|100% hermético.\n|100% higiénico.",
-    "url": "https://www.imusa.com.co/recipiente-redondo-tefal-06l-master-seal-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165747/3110600750-1.jpg?v=638100962963030000",
-    "skus": [
-      {
-        "sku_id": "761",
-        "sku_name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165747/3110600750-1.jpg?v=638100962963030000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 34930.0,
-    "list_price": 49900.0,
     "on_sale": true
   },
   {
@@ -6552,6 +6153,48 @@
     "on_sale": true
   },
   {
+    "name": "Molino de Café IMUSA Coffee Grinder",
+    "reference": "5861032166",
+    "brand": "IMUSA",
+    "category": "Cafeteras",
+    "description": "Molino de Café eléctrico con capacidad para moler 85 gramos de Café, con esta cantidad podrás preparar hasta ¡12 Tazas!| Potencia de 200 Watts, garantizando un optimo rendimineto y resultados perfectos.| Práctico, versatil e ideal para tu rutina diaria",
+    "url": "https://www.imusa.com.co/molino-de-cafe-imusa-coffee-grinder/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165694/5861032166-1.jpg?v=638091502927230000",
+    "skus": [
+      {
+        "sku_id": "620",
+        "sku_name": "Molino de Café IMUSA Coffee Grinder",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165694/5861032166-1.jpg?v=638091502927230000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 108429.0,
+    "list_price": 154899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén Imusa 20cm Antiadherente Talent Pro",
+    "reference": "5861031612",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Sartén 20cm de diámetro con Antiadherente Triforce Gold Efecto Piedra, dura 5 veces más. | Espesor de 2.2mm para obtener resultados perfectos. | Base difusora, cocción uniforme y antideslizante. | Podrás llevar al horno, estufa y en tu mesa. | Accesorios en Acero Inoxidable, elegantes y versatiles para llegar a la mesa.",
+    "url": "https://www.imusa.com.co/sarten-imus-20cm-antiadherente-talent-pro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163355/5861031612-1.jpg?v=637908133386770000",
+    "skus": [
+      {
+        "sku_id": "613",
+        "sku_name": "Sartén Imusa 20cm Antiadherente Talent Pro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163355/5861031612-1.jpg?v=637908133386770000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 52429.0,
+    "list_price": 74899.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora IMUSA Powermix Glass 2 Velocidades Blanca",
     "reference": "5861030844",
     "brand": "IMUSA",
@@ -6573,108 +6216,24 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora IMUSA Infiny Force XL 10 Velocidades Negra",
-    "reference": "5861032023",
+    "name": "Repuesto Válvula Reguladora de Presión IMUSA",
+    "reference": "5861024487",
     "brand": "IMUSA",
-    "category": "Licuadoras",
-    "description": "Vaso de Vidrio con capacidad de 2,2Litros para licuar y triturar lo que desees | 10 Funciones + Pulso garantizando un control total de tus preparaciones. | Potencia de 600 Watts, ahorrando tiempo y permitiendo mejores resultados. | 6 Cuchillas en acero inoxid",
-    "url": "https://www.imusa.com.co/licuadora-imusa-infiny-force-xl-10-velocidades-gris/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163246/5861032023-1.jpg?v=637907662026930000",
+    "category": "Ollas a presión",
+    "description": "Repuesto para Olla a presión SECURY| Compatible para marcas: IMUSA| Sistema de seguridad que controla de forma constante la presión de la olla.| Tiene sistema de sujeción.",
+    "url": "https://www.imusa.com.co/repuesto-valvula-reguladora-de-presion-imusa/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160636/7702073499738-1.jpg?v=637866647019300000",
     "skus": [
       {
-        "sku_id": "604",
-        "sku_name": "Licuadora IMUSA Infiny Force XL 10 Velocidades Negra",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163246/5861032023-1.jpg?v=637907662026930000"
+        "sku_id": "403",
+        "sku_name": "Repuesto Válvula Reguladora de Presión IMUSA",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160636/7702073499738-1.jpg?v=637866647019300000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 179900.0,
-    "list_price": 279899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén Profundo TEFAL Day by Day 24 cm",
-    "reference": "2100112995",
-    "brand": "TEFAL",
-    "category": "Sartenes",
-    "description": "Antiadherente Titanium que facilita la limpieza y tiene una resistencia y durabilidad superior.| La Termo señal cambia de color cuando la olla alcanza la temperatura ideal para cocinar. | La base difusora distribuye de forma homogénea el calor a través de la superficie de la sartén para conseguir resultados excepcionalmente homogéneos| Mangos ergonómicos, suaves al tacto para uso seguro, cómodo y mejor agarre.",
-    "url": "https://www.imusa.com.co/sarten-profundo-tefal-day-by-day-24-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171720/Mesa de trabajo 1.jpg?v=638998713887200000",
-    "skus": [
-      {
-        "sku_id": "503",
-        "sku_name": "Sartén Profundo TEFAL Day by Day 24 cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171720/Mesa de trabajo 1.jpg?v=638998713887200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 104929.0,
-    "list_price": 149899.0,
-    "on_sale": true
-  },
-  {
-    "name": "Perol IMUSA Gusto 18 cm con Tapa de Vidrio",
-    "reference": "5861031710",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Perol 18cm de diámetro, elaborado en Aluminio fundido con Recubrimiento Antiadherente NADA SE LE PEGA y con acabado en EFECTO PIEDRA para una cocina moderna y elegante| Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm. | Mangos robustos y suaves al tacto para un mayor confort| Apto para lavavajillas y horno",
-    "url": "https://www.imusa.com.co/perol-imusa-gusto-18-cm-con-tapa-de-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159620/7702073811943-1.jpg?v=637866229439030000",
-    "skus": [
-      {
-        "sku_id": "500",
-        "sku_name": "Perol IMUSA Gusto 18 cm con Tapa de Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159620/7702073811943-1.jpg?v=637866229439030000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 74830.0,
-    "list_price": 106900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Afilador de Cuchillos TEFAL Fresh Kitchen",
-    "reference": "2100091939",
-    "brand": "TEFAL",
-    "category": "Cuchillos",
-    "description": "Tiene tres tipos de piedra para afilar tus cuchillos cuidando tus manos y evidando inconvenientes| Posee un mango ergónomico que garantiza un agarre seguro y fácil de utilizar| Cuenta con una base antideslizante que permite que sea estable y fácil de sostener durante todo el proceso de afilado| Puede ser utilizado por todo tipo de cuchillos de cocina.",
-    "url": "https://www.imusa.com.co/afilador-de-cuchillos-tefal-fresh-kitchen/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159499/3168430238541-1.jpg?v=637866228793900000",
-    "skus": [
-      {
-        "sku_id": "461",
-        "sku_name": "Afilador de Cuchillos TEFAL Fresh Kitchen",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159499/3168430238541-1.jpg?v=637866228793900000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 51030.0,
-    "list_price": 72900.0,
-    "on_sale": true
-  },
-  {
-    "name": "Abrelatas TEFAL Ingenio",
-    "reference": "2100088630",
-    "brand": "TEFAL",
-    "category": "Utensilios de cocina",
-    "description": "Cuenta con cuerpo seguro y antideslizante, para preparaciones más deliciosas| Diseñada con toques plateados para la elegancia de tu cocina.| Es resistente a manchas y lo mejor de todo ¡Es fácil de limpiar!| Apto para el lavavajillas, para una limpieza fácil y una comodidad excepcional en tu cocina diaria",
-    "url": "https://www.imusa.com.co/abrelatas-tefal-ingenio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161779/2100088630-1.jpg?v=637889250614700000",
-    "skus": [
-      {
-        "sku_id": "380",
-        "sku_name": "Abrelatas TEFAL Ingenio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161779/2100088630-1.jpg?v=637889250614700000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 41929.0,
-    "list_price": 59899.0,
+    "price": 17885.0,
+    "list_price": 25550.0,
     "on_sale": true
   },
   {
@@ -6699,24 +6258,66 @@
     "on_sale": true
   },
   {
-    "name": "Colador IMUSA Talent Master Metálico 18 cm",
-    "reference": "5861029224",
-    "brand": "IMUSA",
-    "category": "Utensilios de cocina",
-    "description": "Colador de 18cm| Elaborado en acero inoxidable y nylon para mayor durabilidad.| Ideal para separa un alimento líquido de su sólido",
-    "url": "https://www.imusa.com.co/colador-imusa-talent-master-metalico-18-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162428/5861029224-1.jpg?v=637890190513400000",
+    "name": "Recipiente TEFAL MasterSeal to Go hermético ensalada 1-0L",
+    "reference": "3100518271",
+    "brand": "TEFAL",
+    "category": "Recipientes",
+    "description": "Capacidad de 1,0 Litros manteniendo los alimentos frescos hasta el doble de tiempo.| Recipiente de almacenamiento de alimentos 100 % hermético para una conservación y un transporte seguros| Sellado integrado a la tapa genera la más alta presión contra el recipiente, para evitar cualquier fuga.| Se puede ajustar a las necesidades diarias.| Libre de BPA.",
+    "url": "https://www.imusa.com.co/recipiente-tefal-masterseal-to-go-hermetico-ensalada-1-0l/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165427/3100518271-1.jpg?v=638030091997800000",
     "skus": [
       {
-        "sku_id": "302",
-        "sku_name": "Colador IMUSA Talent Master Metálico 18 cm",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162428/5861029224-1.jpg?v=637890190513400000"
+        "sku_id": "341",
+        "sku_name": "Recipiente TEFAL MasterSeal to Go hermético ensalada 1-0L",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165427/3100518271-1.jpg?v=638030091997800000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 23029.0,
-    "list_price": 32899.0,
+    "price": 41929.0,
+    "list_price": 59899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Set de Olla a presion IMUSA Secury Control 6L + Cucharón",
+    "reference": "5861031425",
+    "brand": "IMUSA",
+    "category": "Baterías y Sets de Cocina",
+    "description": "Olla a presión IMUSA Secury Control 6L + Cucharón\n| La única olla IMUSA con CONTROL IMUSA PRESS, el cual te permite liberar fácil la presión de la olla sin necesidad de tenedores, cucharas o cuchillos. \n \n| Cuenta con la VÁLVULA DE DOS POSICIONES, la cual te indica cuando es seguro abrir la olla a presión\n| VÁLVULA CONTROLADORA DE PRESIÓN la cual te garantiza una presión constante en la olla, lo cual representa un proceso de cocción eficiente al ahorrar tiempo en la cocina.\n \n |Garantía de 10 años, respaldo y calidad IMUSA.\n |¡En tu Cocina y Hogar está IMUSA!",
+    "url": "https://www.imusa.com.co/set-de-olla-a-presion-imusa-secury-control-6l--cucharon/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166142/5861031425-1.jpg?v=638122612005700000",
+    "skus": [
+      {
+        "sku_id": "320",
+        "sku_name": "Set de Olla a presion IMUSA Secury Control 6L + Cucharón",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166142/5861031425-1.jpg?v=638122612005700000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 107029.0,
+    "list_price": 152899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batería IMUSA Talent acero inoxidable 6 Piezas",
+    "reference": "2100110076",
+    "brand": "IMUSA",
+    "category": "Baterías y Sets de Cocina",
+    "description": "¡Complemento ideal para tu cocina! | Elaborado en Acero Inoxidable de calidad 18/10.| Revestimiento antiadherente, nada se le pega.| Tiene indicadores de niveles en ollas y perol para facilitar tu tarea de medir en la cocina.| Cuenta con un disco en acero inoxidable que te permite usarla hasta en estufas de inducción.",
+    "url": "https://www.imusa.com.co/bateria-imusa-talent-acero-inoxidable-6-piezas/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158802/3168430289444-1.jpg?v=637866221588400000",
+    "skus": [
+      {
+        "sku_id": "253",
+        "sku_name": "Batería IMUSA Talent acero inoxidable 6 Piezas",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158802/3168430289444-1.jpg?v=637866221588400000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 399900.0,
+    "list_price": 819900.0,
     "on_sale": true
   },
   {
@@ -6741,48 +6342,6 @@
     "on_sale": true
   },
   {
-    "name": "Accesorio Bandeja de Snacking TEFAL Actifry",
-    "reference": "7211002366",
-    "brand": "TEFAL",
-    "category": "Accesorios",
-    "description": "¡Complemento para tu Actifry!| Perfecto para cocinar los alimentos más frágiles, como varitas de pescado, nuggets entre otros.| Tamaño ideal para tus preparaciones.",
-    "url": "https://www.imusa.com.co/accesorio-bandeja-de-snacking-tefal-actifry/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162645/7211002366--201.jpg?v=637890245620000000",
-    "skus": [
-      {
-        "sku_id": "172",
-        "sku_name": "Accesorio Bandeja de Snacking TEFAL Actifry",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162645/7211002366--201.jpg?v=637890245620000000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 42489.0,
-    "list_price": 60699.0,
-    "on_sale": true
-  },
-  {
-    "name": "Procesador IMUSA Pica 123 + Vaso Negro",
-    "reference": "5861027300",
-    "brand": "IMUSA",
-    "category": "Picatodo",
-    "description": "Vaso plástico con capacidad de 2 Litros con envase de 300 gramos de capacidad tiene el tamaño adecuado para las preparaciones diarias. | Potencia de 650 Watts| 2 Sistemas de seguridad: Electrónico y Mecánico| Es transparente para supervisar el proceso, confiable gracias a sus sistemas de seguridad ya que el electrónico impide que el motor funcione si el recipiente.",
-    "url": "https://www.imusa.com.co/procesador-imusa-pica-123--vaso-negro/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163665/5861027300-1.jpg?v=637910406417430000",
-    "skus": [
-      {
-        "sku_id": "171",
-        "sku_name": "Procesador IMUSA Pica 123 + Vaso Negro",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163665/5861027300-1.jpg?v=637910406417430000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 246380.0,
-    "list_price": 351972.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora IMUSA Power Mix Plus 2 velocidades negra",
     "reference": "5861030703",
     "brand": "IMUSA",
@@ -6801,6 +6360,27 @@
     "country": "Colombia",
     "price": 105902.0,
     "list_price": 159900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Espátula para Pancake TEFAL Fresh Kitchen en PET",
+    "reference": "2100057708",
+    "brand": "TEFAL",
+    "category": "Utensilios de cocina",
+    "description": "Hecho a partir de plástico PET reciclado al 90% ¡ayudando al medio al ambiente!| Alta resistencia a temperaturas, de hasta 220 °C, para unos resultados eficientes día tras día.|No raya el recubrimiento antiadherente de los utensilios de cocina |Fácil de limpiar y tiene alta resistencia a manchas| Apto para el lavavajillas, para una limpieza fácil y una comodidad excepcional en tu cocina diaria",
+    "url": "https://www.imusa.com.co/espatula-para-pancake-tefal-fresh-kitchen-en-pet-2100057708/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161540/2100057708-1.jpg?v=637867608129670000",
+    "skus": [
+      {
+        "sku_id": "2",
+        "sku_name": "Espátula para Pancake TEFAL Fresh Kitchen en PET",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161540/2100057708-1.jpg?v=637867608129670000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 10429.0,
+    "list_price": 14899.0,
     "on_sale": true
   },
   {
@@ -7980,6 +7560,27 @@
     "on_sale": true
   },
   {
+    "name": "Bayetas de microfibra Aspiradoras X-Force 9.60",
+    "reference": "2211401230",
+    "brand": "TEFAL",
+    "category": "Repuestos y accesorios",
+    "description": "Compatible con aspiradora tefal X-FORCE 9.60 | Resultados de limpieza impecables | Ecológico y económico | Alta durabilidad",
+    "url": "https://www.imusa.com.co/bayetas-de-microfibra-aspiradoras-x-force-9-60/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171475/2211401230-1.jpg?v=638938103368000000",
+    "skus": [
+      {
+        "sku_id": "1576",
+        "sku_name": "Bayetas de microfibra Aspiradoras X-Force 9.60",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171475/2211401230-1.jpg?v=638938103368000000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 38955.0,
+    "list_price": 55650.0,
+    "on_sale": true
+  },
+  {
     "name": "Cepillo mini Aspiradora X-PERT 7.60",
     "reference": "7222066720",
     "brand": "TEFAL",
@@ -8059,9 +7660,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 67444.0,
+    "price": 96349.0,
     "list_price": 96349.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Contenedor de residuos espressería KRUPS Sensation",
@@ -8169,27 +7770,6 @@
     "on_sale": true
   },
   {
-    "name": "Portafiltro cafetera Krups Divine",
-    "reference": "9100052758",
-    "brand": "KRUPS",
-    "category": "Repuestos y Accesorios",
-    "description": "Preparación óptima del café: asegura una extracción uniforme para un espresso con mejor aroma y sabor | Versatilidad de uso: permite preparar café molido o usar cápsulas blandas | Encaje preciso y seguro: diseñado para un ajuste perfecto en la cafetera XP444C50 | Resistencia y durabilidad: fabricado en materiales robustos para soportar el uso diario",
-    "url": "https://www.imusa.com.co/portafiltro-cafetera-krups-divine/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171442/9100052758.jpg?v=638938091823270000",
-    "skus": [
-      {
-        "sku_id": "1559",
-        "sku_name": "Portafiltro cafetera Krups Divine",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171442/9100052758.jpg?v=638938091823270000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 44484.0,
-    "list_price": 63549.0,
-    "on_sale": true
-  },
-  {
     "name": "Boquilla de Vapor cafetera Krups Divine",
     "reference": "9100052756",
     "brand": "KRUPS",
@@ -8206,9 +7786,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 29015.0,
+    "price": 41450.0,
     "list_price": 41450.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Contenedor de Residuos cafetera Krups Divine",
@@ -8227,9 +7807,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 8609.0,
+    "price": 12299.0,
     "list_price": 12299.0,
-    "on_sale": true
+    "on_sale": false
   },
   {
     "name": "Rejilla de Goteo cafetera Krups Divine",
@@ -8374,51 +7954,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 66299.0,
+    "price": 46409.0,
     "list_price": 66299.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sartén TEFAL Renew 26 cm Antiadherente Cerámico",
-    "reference": "2100128312",
-    "brand": "TEFAL",
-    "category": "Sartenes",
-    "description": "INOCERAM: Recubrimiento cerámico antiadherente de nueva generación. |Indicador de calor Thermo-Signal™, cambia de color cuando el sartén alcanza la temperatura ideal para comenzar a cocinar. |Base Thermo-Fusion™ para una cocción fácil y homogénea. Apto para todo tipo de estufas, incluyendo inducción. |Fabricado en Francia con altos estándares de calidad. |Antiadherente seguro, hecho sin PFOA, sin plomo y sin cadmio.",
-    "url": "https://www.imusa.com.co/copy-of-sarten-tefal-renew-26cm-antiadherente-ceramico/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171272/2100128312-1.jpg?v=638905228476570000",
-    "skus": [
-      {
-        "sku_id": "1532",
-        "sku_name": "Sartén TEFAL Renew 26 cm Antiadherente Cerámico",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171272/2100128312-1.jpg?v=638905228476570000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 199900.0,
-    "list_price": 209900.0,
     "on_sale": true
   },
   {
-    "name": "Cuchillo Rebanador IMUSA Perfect Resist 20 cm, 2 veces más afilado y duradero*",
-    "reference": "2100138389",
-    "brand": "IMUSA",
-    "category": "Cuchillos",
-    "description": "¡Experimenta la perfección en cada corte! El Cuchillo Rebanador de 20 cm Perfect Resist tiene una hoja completa de acero inoxidable de alta calidad, 2 veces más afilada y duradera*. Con un mango ergonómico cómodo y seguro, diseño moderno y elegante y 10 años de garantía. ¡Descubre la durabilidad y perfección en cada corte! Desde la piña más jugosa hasta el solomito más tierno, rebana fácilmente tus alimentos y eleva tu cocina a otro nivel.<ul><li>Cortes perfectos por más tiempo gracias a su hoja 2 veces más afilada y duradera*​</li><li>Hoja completa visible en acero inoxidable para mayor robustez y duración en el tiempo ​</li><li>Mango ergonómico con protector de dedos para mayor seguridad y comodidad en el agarre                                                                                                          </li><li>Hoja larga y delgada para rebanar con precisión trozos grandes de frutas, verduras y carnes.   </li><li>​Diseño moderno y elegante ​que perdura en el tiempo</li><li>Garantía de 10 años</li></ul><br/>",
-    "url": "https://www.imusa.com.co/cuchillo-rebanador-imusa-perfect-resist-20-cm/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171012/Large-2100138389-K2980784-CUCHILLO-REBANADOR-20CM-PERFECT-RESIST.jpg?v=638872347506770000",
+    "name": "Cepillo ancho Aspiradoras X-FORCE 12.60",
+    "reference": "2230002886",
+    "brand": "TEFAL",
+    "category": "Repuestos y accesorios",
+    "description": "Esta accesorio puede utilizarse para aspirar todo tipo de residuos, restos y polvo. Con una forma plana y amplia, ideal para cubrir superficies grandes en una sola pasada. Incluye tiras de tela tipo terciopelo (color rojo) diseñadas para atrapar eficazmente pelos de mascotas, polvo fino y pelusa de sofás, camas, cortinas, alfombras. Pieza compatible compatible con aspiradoras Tefal X-FORCE 12.60<ul><li>Pieza compatible con aspiradoras Tefal X-FORCE 12.60</li><li>Se adapta a la mayoría de superficies</li><li>Montaje sencillo</li><li>Muy eficaz para eliminar pelos de mascotas y suciedad incrustada</li><li>Ideal para limpiar superficies textiles como tapicería, cojines, cortinas o colchones</li></ul>",
+    "url": "https://www.imusa.com.co/cepillo-ancho-aspiradoras-x-force-12-60/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170956/Large-SS-2230002886_suceur_large_gris.jpg?v=638863734975670000",
     "skus": [
       {
-        "sku_id": "1513",
-        "sku_name": "Cuchillo Rebanador IMUSA Perfect Resist 20 cm, 2 veces más afilado y duradero*",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171012/Large-2100138389-K2980784-CUCHILLO-REBANADOR-20CM-PERFECT-RESIST.jpg?v=638872347506770000"
+        "sku_id": "1500",
+        "sku_name": "Cepillo ancho Aspiradoras X-FORCE 12.60",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170956/Large-SS-2230002886_suceur_large_gris.jpg?v=638863734975670000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 79900.0,
-    "list_price": 79900.0,
-    "on_sale": false
+    "price": 14280.0,
+    "list_price": 20400.0,
+    "on_sale": true
   },
   {
     "name": "Tubo Succión estrecho Aspiradora X-FORCE 12.60",
@@ -8437,9 +7996,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 10800.0,
+    "price": 7560.0,
     "list_price": 10800.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cepillo Electrico estrecho aspiradoras X-FORCE FLEX 12.60",
@@ -8458,9 +8017,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 104749.0,
+    "price": 73324.0,
     "list_price": 104749.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Soporte para pared Aspiradoras X-FORCE 12.60",
@@ -8500,9 +8059,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 32999.0,
+    "price": 23099.0,
     "list_price": 32999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cepillo ancho Aspiradoras X-FORCE",
@@ -8542,9 +8101,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 3599.0,
+    "price": 2519.0,
     "list_price": 3599.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Recipiente MS-8030000372",
@@ -8563,9 +8122,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 119000.0,
+    "price": 83300.0,
     "list_price": 119000.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Conducto + llave para recipiente KRUPS",
@@ -8586,27 +8145,6 @@
     "country": "Colombia",
     "price": 27999.0,
     "list_price": 27999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Perol IMUSA Hard Titanium 16cm Antiadherente Tapa de Vidrio",
-    "reference": "5861034647",
-    "brand": "IMUSA",
-    "category": "Ollas, Calderos y Peroles",
-    "description": "Antiadherente Titanium 7X, el antiadherente más durable de IMUSA, resiste hasta 35.000 pasadas de esponja. |Tecnología termo señal que oscurece su color para indicar el momento adecuado para empezar a cocinar. |Hecho sin PFOA, Plomo ni Cadmio. |Mangos, asas y pomos robustos y durables. |Base difusora para una distribución uniforme el calor y resultados perfectos. |Antiadherente interior y exterior para una mayor facilidad al lavar.",
-    "url": "https://www.imusa.com.co/perol-imusa-hard-titanium-16-cm-antiadherente-tapa-vidrio/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169174/5861034647-1.jpg?v=638609646801570000",
-    "skus": [
-      {
-        "sku_id": "1001",
-        "sku_name": "Perol IMUSA Hard Titanium 16cm Antiadherente Tapa de Vidrio",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/169174/5861034647-1.jpg?v=638609646801570000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 104899.0,
-    "list_price": 104899.0,
     "on_sale": false
   },
   {
@@ -8668,7 +8206,7 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 179900.0,
+    "price": 157430.0,
     "list_price": 224900.0,
     "on_sale": true
   },
@@ -8689,30 +8227,51 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 69899.0,
+    "price": 48929.0,
     "list_price": 69899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
-    "name": "Cafetera Italiana IMUSA ESPRESSO de 3 tazas Roja",
-    "reference": "5861033195",
+    "name": "Cafetera Italiana IMUSA ESPRESSO de 3 tazas Plateada",
+    "reference": "5861033192",
     "brand": "IMUSA",
     "category": "Cafeteras",
     "description": "Diferentes capacidades. |Componentes de Nylon que no calientan. | Fácil de lavar. |Calidad imusa y 3 meses de garantía.",
-    "url": "https://www.imusa.com.co/cafetera-italiana-imusa-espresso-3tazas-roja/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168626/5861033195-1.jpg?v=638475904292130000",
+    "url": "https://www.imusa.com.co/cafetera-italiana-imusa-espresso-3tazas-plateada/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168619/5861033192-1.jpg?v=638475904231670000",
     "skus": [
       {
-        "sku_id": "945",
-        "sku_name": "Cafetera Italiana IMUSA ESPRESSO de 3 tazas Roja",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168626/5861033195-1.jpg?v=638475904292130000"
+        "sku_id": "944",
+        "sku_name": "Cafetera Italiana IMUSA ESPRESSO de 3 tazas Plateada",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168619/5861033192-1.jpg?v=638475904231670000"
       }
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 58900.0,
+    "price": 41230.0,
     "list_price": 58900.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Empaque de Caucho para Licuadoras SAMURAI Optimix Plus",
+    "reference": "5861024145",
+    "brand": "SAMURAI",
+    "category": "Repuestos",
+    "description": "Producto X3 unidades | Compatible con todas las licuadoras rango Optimix plus | Evita derrames en tus preparaciones | Repuestos desmontable para un lavado fácil",
+    "url": "https://www.imusa.com.co/empaque-caucho-licuadoras-samurai-optimix-plus/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168152/5861024145-1.jpg?v=638346219852830000",
+    "skus": [
+      {
+        "sku_id": "901",
+        "sku_name": "Empaque de Caucho para Licuadoras SAMURAI Optimix Plus",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/168152/5861024145-1.jpg?v=638346219852830000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 7455.0,
+    "list_price": 10650.0,
+    "on_sale": true
   },
   {
     "name": "Perol Pastelero IMUSA Natural Stone de 20cm con Tapa de Vidrio + accesorio",
@@ -8731,9 +8290,114 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 144900.0,
+    "price": 101430.0,
     "list_price": 144900.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Sartén IMUSA Natural Stone de 24cm con Tapa de Vidrio",
+    "reference": "5861033018",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Preparaciones más saludables y con menos aceite|Cuerpos en aluminio 100% reciclado y reciclable, efecto piedra|Termo señal para cocina con mayor facilidad, practicidad y efectividad|Base difusora para brindar uniformidad en la repartición del calor|Mangos robustos y suaves al tacto para un mayor confort (efecto madera)|Hecho sin PFOA",
+    "url": "https://www.imusa.com.co/sarten-imusa-natural-stone-24cm-tapa-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167442/5861033018-1.jpg?v=638304717486670000",
+    "skus": [
+      {
+        "sku_id": "883",
+        "sku_name": "Sartén IMUSA Natural Stone de 24cm con Tapa de Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167442/5861033018-1.jpg?v=638304717486670000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 66430.0,
+    "list_price": 94900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén IMUSA Natural Stone de 30cm",
+    "reference": "5861033015",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Preparaciones más saludables y con menos aceite|Cuerpos en aluminio 100% reciclado y reciclable, efecto piedra|Termo señal para cocina con mayor facilidad, practicidad y efectividad|Base difusora para brindar uniformidad en la repartición del calor|Mangos robustos y suaves al tacto para un mayor confort (efecto madera)|Hecho sin PFOA",
+    "url": "https://www.imusa.com.co/sarten-imusa-natural-stone-30cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167430/5861033015-1.jpg?v=638304717424400000",
+    "skus": [
+      {
+        "sku_id": "881",
+        "sku_name": "Sartén IMUSA Natural Stone de 30cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167430/5861033015-1.jpg?v=638304717424400000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 69930.0,
+    "list_price": 99900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén IMUSA Natural Stone de 24cm",
+    "reference": "5861033013",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Preparaciones más saludables y con menos aceite|Cuerpos en aluminio 100% reciclado y reciclable, efecto piedra|Termo señal para cocina con mayor facilidad, practicidad y efectividad|Base difusora para brindar uniformidad en la repartición del calor|Mangos robustos y suaves al tacto para un mayor confort (efecto madera)|Hecho sin PFOA",
+    "url": "https://www.imusa.com.co/sarten-imusa-natural-stone-24cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167423/5861033013-1.jpg?v=638304717386900000",
+    "skus": [
+      {
+        "sku_id": "880",
+        "sku_name": "Sartén IMUSA Natural Stone de 24cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167423/5861033013-1.jpg?v=638304717386900000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 55930.0,
+    "list_price": 79900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén IMUSA Natural Stone de 20cm",
+    "reference": "5861033012",
+    "brand": "IMUSA",
+    "category": "Sartenes",
+    "description": "Preparaciones más saludables y con menos aceite|Cuerpos en aluminio 100% reciclado y reciclable, efecto piedra|Termo señal para cocina con mayor facilidad, practicidad y efectividad|Base difusora para brindar uniformidad en la repartición del calor|Mangos robustos y suaves al tacto para un mayor confort (efecto madera)|Hecho sin PFOA",
+    "url": "https://www.imusa.com.co/sarten-imusa-natural-stone-20cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167416/5861033012-1.jpg?v=638304717352130000",
+    "skus": [
+      {
+        "sku_id": "879",
+        "sku_name": "Sartén IMUSA Natural Stone de 20cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167416/5861033012-1.jpg?v=638304717352130000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 48929.0,
+    "list_price": 69899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla IMUSA TERRA de 24cm Verde con tapa de vidrio",
+    "reference": "5861033221",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "|Elaborado en aluminio fundido.\n|Cuenta con su antiadherente basic - efecto piedra te garantiza excelentes resultados en tus preparaciones gracias a que crea una porosidad en los cuerpos que hace que se realce el sabor de las comidas.\n|Es moderno, versátil y ergonómico con sus mangos robustos color champaña.\n|Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm.",
+    "url": "https://www.imusa.com.co/olla-imusa-terra-24cm-verde-tapa-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167603/5861033221-1.jpg?v=638312852168570000",
+    "skus": [
+      {
+        "sku_id": "867",
+        "sku_name": "Olla IMUSA TERRA de 24cm Verde con tapa de vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167603/5861033221-1.jpg?v=638312852168570000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 118929.0,
+    "list_price": 169899.0,
+    "on_sale": true
   },
   {
     "name": "Perol IMUSA TERRA de 18cm Verde con tapa de vidrio",
@@ -8752,9 +8416,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 106900.0,
+    "price": 74830.0,
     "list_price": 106900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén IMUSA TERRA de 24cm Verde con tapa de vidrio",
@@ -8773,9 +8437,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 126900.0,
+    "price": 88830.0,
     "list_price": 126900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén IMUSA TERRA de 20cm Verde con tapa de vidrio",
@@ -8797,6 +8461,27 @@
     "price": 119899.0,
     "list_price": 119899.0,
     "on_sale": false
+  },
+  {
+    "name": "Batería de cocina IMUSA COLORS 5 piezas Rojo con Tapa de Vidrio",
+    "reference": "5861032994",
+    "brand": "IMUSA",
+    "category": "Baterías y Sets de Cocina",
+    "description": "Base difusora especial para distribuir de manera uniforme el calor.|Termo señal que cambia de color y te indica que el utensilio está listo para empezar a cocinar, así conservas mejor la textura y nutrientes de los alimentos. |Antiadherente calidad IMUSA",
+    "url": "https://www.imusa.com.co/bateria-cocina-imusa-colors-5pz-rojo-tapa-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167377/5861032994-1.jpg?v=638290187530000000",
+    "skus": [
+      {
+        "sku_id": "852",
+        "sku_name": "Batería de cocina IMUSA COLORS 5 piezas Rojo con Tapa de Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/167377/5861032994-1.jpg?v=638290187530000000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 128029.0,
+    "list_price": 182899.0,
+    "on_sale": true
   },
   {
     "name": "Batería de cocina IMUSA COLORS 7 piezas Rojo con Tapa de Vidrio",
@@ -8836,9 +8521,93 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 139899.0,
+    "price": 97929.0,
     "list_price": 139899.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera de filtro SIMPLY BREW DIGITAL 1.5 LT KRUPS",
+    "reference": "1510002117",
+    "brand": "KRUPS",
+    "category": "Cafeteras de filtro",
+    "description": "Incluye filtro de café y cuchara permanente. \n|Preparación para una extracción Suave, Media o Fuerte.\n|Jarra de café de vidrio antigoteo de 10 tazas/1.5L.\n|Contiene botones de Inicio/Pausa/Detener.\n|Incluye Apagado automático tras 2 horas después de la preparación.\n|Tiene capacidad para 10 tazas/1.5 L de café en una sola preparación.\n|Cuerpo elaborado en acero inoxidable.\n|Tecnología alemana con 2 años de garantía y 15 años de reparabilidad.",
+    "url": "https://www.imusa.com.co/cafetera-krups-simply-brew-digital-1-5-litros/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166395/1510002117-1.jpg?v=638151799385100000",
+    "skus": [
+      {
+        "sku_id": "778",
+        "sku_name": "Cafetera de filtro SIMPLY BREW DIGITAL 1.5 LT KRUPS",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/166395/1510002117-1.jpg?v=638151799385100000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 279900.0,
+    "list_price": 404899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera IMUSA Grand Café 1,8 Litros",
+    "reference": "1510002378",
+    "brand": "IMUSA",
+    "category": "Cafeteras",
+    "description": "¡CAFETERA GRAND CAFÉ DE 1,8 LITROS!\n|La felicidad llega al hogar con la Cafetera IMUSA Grand Café, con una capacidad de 1,8 Litros  y su color negro con plateado es elegante y podrás tenerla con una vista inigualable, estética y con facilidad para servir tu café a la hora que quieras.\n|Es una opción perfecta para preparar tu delicioso café por medio de un tubo mexclador que te permitirá tener un sabor más equilibrado y tiene apagado automático, así que una vez el café esté listo para consumir, esta se apagará y no tendrás que hacerlo manualmente.\n|Además, podrás jugar con sus funciones, tal como la función SABOR, con ella podrás controlar la intensidad del café, de menos a mas fuerte, obteniendo una bebida exquisita y llevando a tu paladar el sabor deseado.\n|Tiene sistema antigoteo, incluye fultro y cuchara medidora.\n\n|Cuenta con garantía de 2 años bajo el respaldo y calidad de la marca IMUSA.",
+    "url": "https://www.imusa.com.co/cafetera-imusa-grand-cafe-1-8-litros/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165873/1510002378-1.jpg?v=638107158521630000",
+    "skus": [
+      {
+        "sku_id": "771",
+        "sku_name": "Cafetera IMUSA Grand Café 1,8 Litros",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165873/1510002378-1.jpg?v=638107158521630000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 255430.0,
+    "list_price": 364900.0,
+    "on_sale": true
+  },
+  {
+    "name": "Recipiente Rectangular TEFAL 0,7L Master Seal Vidrio",
+    "reference": "3110600753",
+    "brand": "TEFAL",
+    "category": "Recipientes",
+    "description": "Los Master Seal Vidrio son recipientes 100% herméticos, 100% higiénicos y funcionales, podrás utilizarlos para preparar, servir, almacenar y transportar tus alimentos.\n|Sus características principales son: \n|Son aptos para horno hasta de 420°, perfecta distribución del calor y resistencia al corte.\n|Son aptos para lavavajillas.\n|Son aptos para microondas.\n|Cuenta con 4 alas para correcto sellado y prevenir derrames.\n|100% vajilla fina, vidrio robusto y transparente de borosilicato.\n|100% hermético.\n|100% higiénico.",
+    "url": "https://www.imusa.com.co/recipiente-rectangular-tefal-07l-master-seal-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165753/3110600753-1.jpg?v=638100962990430000",
+    "skus": [
+      {
+        "sku_id": "762",
+        "sku_name": "Recipiente Rectangular TEFAL 0,7L Master Seal Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165753/3110600753-1.jpg?v=638100962990430000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 48929.0,
+    "list_price": 69899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
+    "reference": "3110600750",
+    "brand": "TEFAL",
+    "category": "Recipientes",
+    "description": "Los Master Seal Vidrio son recipientes 100% herméticos, 100% higiénicos y funcionales, podrás utilizarlos para preparar, servir, almacenar y transportar tus alimentos.\n|Sus características principales son: \n|Son aptos para horno hasta de 420°, perfecta distribución del calor y resistencia al corte. .\n|Son aptos para lavavajillas. .\n|Son aptos para microondas. .\n|Cuenta con 4 alas para correcto sellado y prevenir derrames.\n|100% vajilla fina, vidrio robusto y transparente de borosilicato.\n|100% hermético.\n|100% higiénico.",
+    "url": "https://www.imusa.com.co/recipiente-redondo-tefal-06l-master-seal-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165747/3110600750-1.jpg?v=638100962963030000",
+    "skus": [
+      {
+        "sku_id": "761",
+        "sku_name": "Recipiente Redondo TEFAL 0,6L Master Seal Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165747/3110600750-1.jpg?v=638100962963030000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 34930.0,
+    "list_price": 49900.0,
+    "on_sale": true
   },
   {
     "name": "Caldero IMUSA 20cm Tapa Vidrio GUSTO",
@@ -8857,9 +8626,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 109900.0,
+    "price": 76930.0,
     "list_price": 109900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a Presión IMUSA 6 Litros Secury Control",
@@ -8878,29 +8647,8 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 142899.0,
+    "price": 100029.0,
     "list_price": 142899.0,
-    "on_sale": false
-  },
-  {
-    "name": "Double Burner IMUSA Antiadherente Delicia",
-    "reference": "5861030750",
-    "brand": "IMUSA",
-    "category": "Planchas para asar",
-    "description": "Placha para Asar Double Burner, versatil, duradera y robusta.| Productos en Aluminio Fundido lo que hace que sean productos de mayor calidad y muy duraderos| Espesor de 3mm, sus paredes son robustas.| Base difusora para perfecta distribución y retención de calor, obtendrás deliciosos resultados.| Aptos para ser usados en el horno y estufa.",
-    "url": "https://www.imusa.com.co/double-burner-imusa-antiadherente-delicia/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163900/5861030750-1.jpg?v=637920256752200000",
-    "skus": [
-      {
-        "sku_id": "664",
-        "sku_name": "Double Burner IMUSA Antiadherente Delicia",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163900/5861030750-1.jpg?v=637920256752200000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 132930.0,
-    "list_price": 189900.0,
     "on_sale": true
   },
   {
@@ -8941,9 +8689,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 84900.0,
+    "price": 59430.0,
     "list_price": 84900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Recipiente IMUSA MasterFresh 2.2L",
@@ -9025,9 +8773,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 141750.0,
+    "price": 99225.0,
     "list_price": 141750.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Plancha de Ropa TEFAL Express Steam Azul",
+    "reference": "1830007982",
+    "brand": "TEFAL",
+    "category": "Planchas de ropa",
+    "description": "¡DESLIZAMIENTO MÁS RÁPIDO Y DURADERO! | 5 Niveles de temperatura que se controlan con un solo giro de perilla.| Cuenta con un seguro sistema de inclinación vertical fácil de usar y un sistema de oscilación horizontal automática. | Potencia de 1200 Watts para un mejor desempeño",
+    "url": "https://www.imusa.com.co/plancha-de-ropa-tefal-express-steam-azul/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165356/1830007982-1.jpg?v=638010974884930000",
+    "skus": [
+      {
+        "sku_id": "740",
+        "sku_name": "Plancha de Ropa TEFAL Express Steam Azul",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165356/1830007982-1.jpg?v=638010974884930000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 137829.0,
+    "list_price": 196899.0,
+    "on_sale": true
   },
   {
     "name": "Batería TEFAL Initiatives 10 Piezas Negra",
@@ -9051,6 +8820,48 @@
     "on_sale": true
   },
   {
+    "name": "Sartén Profundo TEFAL Day by Day 24 cm",
+    "reference": "2100112995",
+    "brand": "TEFAL",
+    "category": "Sartenes",
+    "description": "Antiadherente Titanium que facilita la limpieza y tiene una resistencia y durabilidad superior.| La Termo señal cambia de color cuando la olla alcanza la temperatura ideal para cocinar. | La base difusora distribuye de forma homogénea el calor a través de la superficie de la sartén para conseguir resultados excepcionalmente homogéneos| Mangos ergonómicos, suaves al tacto para uso seguro, cómodo y mejor agarre.",
+    "url": "https://www.imusa.com.co/sarten-profundo-tefal-day-by-day-24-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171720/Mesa de trabajo 1.jpg?v=638998713887200000",
+    "skus": [
+      {
+        "sku_id": "503",
+        "sku_name": "Sartén Profundo TEFAL Day by Day 24 cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171720/Mesa de trabajo 1.jpg?v=638998713887200000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 104929.0,
+    "list_price": 149899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Perol IMUSA Gusto 18 cm con Tapa de Vidrio",
+    "reference": "5861031710",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Perol 18cm de diámetro, elaborado en Aluminio fundido con Recubrimiento Antiadherente NADA SE LE PEGA y con acabado en EFECTO PIEDRA para una cocina moderna y elegante| Base antideslizante que garantiza estabilidad a la hora de cocinar y cuerpo con gran resistencia por su espesor de 3mm. | Mangos robustos y suaves al tacto para un mayor confort| Apto para lavavajillas y horno",
+    "url": "https://www.imusa.com.co/perol-imusa-gusto-18-cm-con-tapa-de-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159620/7702073811943-1.jpg?v=637866229439030000",
+    "skus": [
+      {
+        "sku_id": "500",
+        "sku_name": "Perol IMUSA Gusto 18 cm con Tapa de Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159620/7702073811943-1.jpg?v=637866229439030000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 74830.0,
+    "list_price": 106900.0,
+    "on_sale": true
+  },
+  {
     "name": "Recipiente IMUSA Master Fresh Redondo 0,85 L",
     "reference": "3110600716",
     "brand": "IMUSA",
@@ -9067,9 +8878,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 27899.0,
+    "price": 19529.0,
     "list_price": 27899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Caldero IMUSA Línea Profesional en aluminio fundido 50cm",
@@ -9109,9 +8920,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 147700.0,
+    "price": 103390.0,
     "list_price": 147700.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Abrelatas TEFAL Ingenio",
+    "reference": "2100088630",
+    "brand": "TEFAL",
+    "category": "Utensilios de cocina",
+    "description": "Cuenta con cuerpo seguro y antideslizante, para preparaciones más deliciosas| Diseñada con toques plateados para la elegancia de tu cocina.| Es resistente a manchas y lo mejor de todo ¡Es fácil de limpiar!| Apto para el lavavajillas, para una limpieza fácil y una comodidad excepcional en tu cocina diaria",
+    "url": "https://www.imusa.com.co/abrelatas-tefal-ingenio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161779/2100088630-1.jpg?v=637889250614700000",
+    "skus": [
+      {
+        "sku_id": "380",
+        "sku_name": "Abrelatas TEFAL Ingenio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/161779/2100088630-1.jpg?v=637889250614700000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 41929.0,
+    "list_price": 59899.0,
+    "on_sale": true
   },
   {
     "name": "Recipiente TEFAL MasterSeal to Go hermético para Yogurt 0-6L",
@@ -9130,30 +8962,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 69899.0,
+    "price": 48929.0,
     "list_price": 69899.0,
-    "on_sale": false
-  },
-  {
-    "name": "Recipiente TEFAL MasterSeal to Go hermético ensalada 1-0L",
-    "reference": "3100518271",
-    "brand": "TEFAL",
-    "category": "Recipientes",
-    "description": "Capacidad de 1,0 Litros manteniendo los alimentos frescos hasta el doble de tiempo.| Recipiente de almacenamiento de alimentos 100 % hermético para una conservación y un transporte seguros| Sellado integrado a la tapa genera la más alta presión contra el recipiente, para evitar cualquier fuga.| Se puede ajustar a las necesidades diarias.| Libre de BPA.",
-    "url": "https://www.imusa.com.co/recipiente-tefal-masterseal-to-go-hermetico-ensalada-1-0l/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165427/3100518271-1.jpg?v=638030091997800000",
-    "skus": [
-      {
-        "sku_id": "341",
-        "sku_name": "Recipiente TEFAL MasterSeal to Go hermético ensalada 1-0L",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165427/3100518271-1.jpg?v=638030091997800000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 59899.0,
-    "list_price": 59899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Recipiente TEFAL MasterSeal to Go hermético almuerzo 1-2 L",
@@ -9172,9 +8983,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 99900.0,
+    "price": 69930.0,
     "list_price": 99900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Recipiente IMUSA Master Fresh hermético rectangular 0-55 L",
@@ -9193,9 +9004,30 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 21899.0,
+    "price": 15329.0,
     "list_price": 21899.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Colador IMUSA Talent Master Metálico 18 cm",
+    "reference": "5861029224",
+    "brand": "IMUSA",
+    "category": "Utensilios de cocina",
+    "description": "Colador de 18cm| Elaborado en acero inoxidable y nylon para mayor durabilidad.| Ideal para separa un alimento líquido de su sólido",
+    "url": "https://www.imusa.com.co/colador-imusa-talent-master-metalico-18-cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162428/5861029224-1.jpg?v=637890190513400000",
+    "skus": [
+      {
+        "sku_id": "302",
+        "sku_name": "Colador IMUSA Talent Master Metálico 18 cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162428/5861029224-1.jpg?v=637890190513400000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 23029.0,
+    "list_price": 32899.0,
+    "on_sale": true
   },
   {
     "name": "Batería TEFAL Excite 14 piezas antiadherente",
@@ -9219,27 +9051,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería IMUSA Talent acero inoxidable 6 Piezas",
-    "reference": "2100110076",
-    "brand": "IMUSA",
-    "category": "Baterías y Sets de Cocina",
-    "description": "¡Complemento ideal para tu cocina! | Elaborado en Acero Inoxidable de calidad 18/10.| Revestimiento antiadherente, nada se le pega.| Tiene indicadores de niveles en ollas y perol para facilitar tu tarea de medir en la cocina.| Cuenta con un disco en acero inoxidable que te permite usarla hasta en estufas de inducción.",
-    "url": "https://www.imusa.com.co/bateria-imusa-talent-acero-inoxidable-6-piezas/p",
-    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158802/3168430289444-1.jpg?v=637866221588400000",
-    "skus": [
-      {
-        "sku_id": "253",
-        "sku_name": "Batería IMUSA Talent acero inoxidable 6 Piezas",
-        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/158802/3168430289444-1.jpg?v=637866221588400000"
-      }
-    ],
-    "site": "IMUSA Colombia",
-    "country": "Colombia",
-    "price": 399900.0,
-    "list_price": 819900.0,
-    "on_sale": true
-  },
-  {
     "name": "Recipiente TEFAL MasterSeal To Go 1L",
     "reference": "3100518275",
     "brand": "TEFAL",
@@ -9256,9 +9067,9 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 99900.0,
+    "price": 69930.0,
     "list_price": 99900.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cuchillo Multiusos TEFAL IceForce 11cm",
@@ -9277,8 +9088,29 @@
     ],
     "site": "IMUSA Colombia",
     "country": "Colombia",
-    "price": 44029.0,
+    "price": 62899.0,
     "list_price": 62899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Accesorio Bandeja de Snacking TEFAL Actifry",
+    "reference": "7211002366",
+    "brand": "TEFAL",
+    "category": "Accesorios",
+    "description": "¡Complemento para tu Actifry!| Perfecto para cocinar los alimentos más frágiles, como varitas de pescado, nuggets entre otros.| Tamaño ideal para tus preparaciones.",
+    "url": "https://www.imusa.com.co/accesorio-bandeja-de-snacking-tefal-actifry/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162645/7211002366--201.jpg?v=637890245620000000",
+    "skus": [
+      {
+        "sku_id": "172",
+        "sku_name": "Accesorio Bandeja de Snacking TEFAL Actifry",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162645/7211002366--201.jpg?v=637890245620000000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 42489.0,
+    "list_price": 60699.0,
     "on_sale": true
   },
   {
@@ -9300,6 +9132,27 @@
     "country": "Colombia",
     "price": 202929.0,
     "list_price": 289899.0,
+    "on_sale": true
+  },
+  {
+    "name": "Caldero IMUSA Aluminio fundido 44cm",
+    "reference": "5850000736",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Caldero 44cm de diámetro que permite uniformidad de cocción y conservación del sabor de los alimentos. | Fabricado en Aluminio Fundido, excelente conductor de calor que agiliza los procesos de cocción| Paredes extragruesos que evitan deformaciones al pasar el tiempo| Es de gran calidad por lo que ofrece una larga vida.",
+    "url": "https://www.imusa.com.co/caldero-imusa-aluminio-fundido-44cm/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160448/7702073805089-1.jpg?v=637866645897030000",
+    "skus": [
+      {
+        "sku_id": "74",
+        "sku_name": "Caldero IMUSA Aluminio fundido 44cm",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/160448/7702073805089-1.jpg?v=637866645897030000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 167930.0,
+    "list_price": 239900.0,
     "on_sale": true
   },
   {
@@ -9804,6 +9657,27 @@
     "country": "Colombia",
     "price": 2999899.0,
     "list_price": 2999899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Sartén TEFAL Renew 26 cm Antiadherente Cerámico",
+    "reference": "2100128312",
+    "brand": "TEFAL",
+    "category": "Sartenes",
+    "description": "INOCERAM: Recubrimiento cerámico antiadherente de nueva generación. |Indicador de calor Thermo-Signal™, cambia de color cuando el sartén alcanza la temperatura ideal para comenzar a cocinar. |Base Thermo-Fusion™ para una cocción fácil y homogénea. Apto para todo tipo de estufas, incluyendo inducción. |Fabricado en Francia con altos estándares de calidad. |Antiadherente seguro, hecho sin PFOA, sin plomo y sin cadmio.",
+    "url": "https://www.imusa.com.co/copy-of-sarten-tefal-renew-26cm-antiadherente-ceramico/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171272/2100128312-1.jpg?v=638905228476570000",
+    "skus": [
+      {
+        "sku_id": "1532",
+        "sku_name": "Sartén TEFAL Renew 26 cm Antiadherente Cerámico",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/171272/2100128312-1.jpg?v=638905228476570000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 209900.0,
+    "list_price": 209900.0,
     "on_sale": false
   },
   {
@@ -10794,6 +10668,27 @@
     "on_sale": false
   },
   {
+    "name": "Malla Delantera de Ventilador SAMURAI Turbo Silence",
+    "reference": "5861030187",
+    "brand": "SAMURAI",
+    "category": "Repuestos",
+    "description": "Accesorio Malla de Ventiladores SAMURAI| Compatible con Ventiladores Turbo Silence Maxx | Elaborado en plástico para mayor duración",
+    "url": "https://www.imusa.com.co/malla-delantera-de-ventilador-samurai-turbo-silence/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165314/5861030187-1.jpg?v=638004982216070000",
+    "skus": [
+      {
+        "sku_id": "738",
+        "sku_name": "Malla Delantera de Ventilador SAMURAI Turbo Silence",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/165314/5861030187-1.jpg?v=638004982216070000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 21149.0,
+    "list_price": 21149.0,
+    "on_sale": false
+  },
+  {
     "name": "Repuesto Empaque para Olla a Presión IMUSA y TEFAL",
     "reference": "1600005080",
     "brand": "IMUSA",
@@ -10896,6 +10791,27 @@
     "country": "Colombia",
     "price": 98899.0,
     "list_price": 98899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Plancha para Asar  IMUSA  Antiadherente Talent",
+    "reference": "5861029294",
+    "brand": "IMUSA",
+    "category": "Planchas para asar",
+    "description": "Plancha para Asar Cuadrada con revestimiento Antiadherente Triforce, 3 veces más durable.| Espesor de 1,7mm, grosor ideal para obetener resultados perfectos.| Base difusora especial para distribuir de manera uniforme el calor e i deal para estufa vitrocerámica, gas y eléctrica| Mangos ergonómicos para asegurar tu agarre.",
+    "url": "https://www.imusa.com.co/plancha-para-asar-imusa-antiadherente-talent/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164190/5861029294-1.jpg?v=637955723905670000",
+    "skus": [
+      {
+        "sku_id": "678",
+        "sku_name": "Plancha para Asar  IMUSA  Antiadherente Talent",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/164190/5861029294-1.jpg?v=637955723905670000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 108900.0,
+    "list_price": 108900.0,
     "on_sale": false
   },
   {
@@ -11025,6 +10941,27 @@
     "on_sale": false
   },
   {
+    "name": "Ventilador SAMURAI Turbo Power Pedestal Negro",
+    "reference": "5861032308",
+    "brand": "SAMURAI",
+    "category": "Ventiladores de piso",
+    "description": "¡Combate el calor con el Ventilador Samurai Turbo Power! Este ventilador está diseñado para ofrecerte un fuerte flujo de aire, con sus 70 Watts de potencia y mallas aerodinámicas, mantendrán tus espacios frescos en los días más calurosos. Con sus 3 velocidades, puedes ajustar el flujo de aire según tus preferencias, mientras que su bajo nivel de ruido garantiza un mayor comfort. Además, su malla frontal permite mayor seguridad impidiendo el contacto con las aspas.",
+    "url": "https://www.imusa.com.co/ventilador-samurai-turbo-power-pedestal-negro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170919/5861033768_3.jpg?v=638860271316130000",
+    "skus": [
+      {
+        "sku_id": "630",
+        "sku_name": "Ventilador SAMURAI Turbo Power Pedestal Negro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/170919/5861033768_3.jpg?v=638860271316130000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 267899.0,
+    "list_price": 267899.0,
+    "on_sale": false
+  },
+  {
     "name": "Licuadora IMUSA Infiny Force XL 12 Velocidades Gris",
     "reference": "5861032022",
     "brand": "IMUSA",
@@ -11151,6 +11088,27 @@
     "on_sale": false
   },
   {
+    "name": "Olla Imusa 24cm Antiadherente Tapa Vidrio Talent Pro",
+    "reference": "5861031619",
+    "brand": "IMUSA",
+    "category": "Ollas, Calderos y Peroles",
+    "description": "Olla 24cm de diámetro con Antiadherente Triforce Gold Efecto Piedra, dura 5 veces más. | Espesor de 2.2mm para obtener resultados perfectos. | Base difusora, cocción uniforme y antideslizante. | Podrás llevar al horno, estufa y en tu mesa. | Accesorios en Acero Inoxidable, elegantes y versatiles para llegar a la mesa.",
+    "url": "https://www.imusa.com.co/olla-imusa-24cm-antiadherente-tapa-vidrio-talent-pro/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163205/5861031619-1.jpg?v=637907661776670000",
+    "skus": [
+      {
+        "sku_id": "600",
+        "sku_name": "Olla Imusa 24cm Antiadherente Tapa Vidrio Talent Pro",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/163205/5861031619-1.jpg?v=637907661776670000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 129900.0,
+    "list_price": 129900.0,
+    "on_sale": false
+  },
+  {
     "name": "Perol Imusa 16cm Antiadherente Tapa Vidrio Talent Pro",
     "reference": "5861031618",
     "brand": "IMUSA",
@@ -11211,6 +11169,27 @@
     "country": "Colombia",
     "price": 149899.0,
     "list_price": 149899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Recipiente TEFAL 0,85L Master Seal Vidrio",
+    "reference": "3110600755",
+    "brand": "TEFAL",
+    "category": "Recipientes",
+    "description": "Capacidad de 0,85 Litros y su material en vidrio hará que los alimentos se conserven frescos por más tiempo | Son aptos para lava vajillas y microondas y horno hasta de 420°, perfecta distribución del calor y resistencia al corte.| Sellado integrado a la tapa genera la más alta presión contra el recipiente, para evitar cualquier fuga. | 100% vajilla fina, vidrio robusto.",
+    "url": "https://www.imusa.com.co/recipiente-tefal-0-8-5-l-master-seal-vidrio/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162857/3110600755-1.jpg?v=637898689350730000",
+    "skus": [
+      {
+        "sku_id": "566",
+        "sku_name": "Recipiente TEFAL 0,85L Master Seal Vidrio",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/162857/3110600755-1.jpg?v=637898689350730000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 74899.0,
+    "list_price": 74899.0,
     "on_sale": false
   },
   {
@@ -11610,6 +11589,27 @@
     "country": "Colombia",
     "price": 524899.0,
     "list_price": 524899.0,
+    "on_sale": false
+  },
+  {
+    "name": "Olla a Presión IMUSA Smart Cierre Interno 6L",
+    "reference": "5861027393",
+    "brand": "IMUSA",
+    "category": "Ollas a presión",
+    "description": "Capacidad de 6 Litros, amplia para realizar preparaciones familiares en el día a día o para eventos especiales.|Sistema ABRE IMUSA el cual permite abrir y cerrar con un clic| Válvula de dos posiciones que indica cuándo la Olla a Presión está en su punto de presión de cocción| Sistema SecuryPlus para garantizar siempre tu seguridad en la cocina",
+    "url": "https://www.imusa.com.co/olla-a-presion-imusa-smart-cierre-interno-6l/p",
+    "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159215/7702073030535-1.jpg?v=637866227322930000",
+    "skus": [
+      {
+        "sku_id": "312",
+        "sku_name": "Olla a Presión IMUSA Smart Cierre Interno 6L",
+        "image": "https://groupesebcol.vteximg.com.br/arquivos/ids/159215/7702073030535-1.jpg?v=637866227322930000"
+      }
+    ],
+    "site": "IMUSA Colombia",
+    "country": "Colombia",
+    "price": 166899.0,
+    "list_price": 166899.0,
     "on_sale": false
   },
   {

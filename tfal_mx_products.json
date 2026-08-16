@@ -63,27 +63,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-    "reference": "2100122016",
-    "brand": "T-fal",
-    "category": "Sets de cuchillos",
-    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
-    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
-    "skus": [
-      {
-        "sku_id": "1041",
-        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 309.0,
-    "list_price": 309.0,
-    "on_sale": false
-  },
-  {
     "name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
     "reference": "1830009484",
     "brand": "T-fal",
@@ -628,6 +607,27 @@
     "price": 2149.0,
     "list_price": 2149.0,
     "on_sale": false
+  },
+  {
+    "name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
+    "reference": "1830008083",
+    "brand": "T-fal",
+    "category": "Planchas de vapor",
+    "description": "* CUIDADO QUE DURA MÁS: El exclusivo cartucho anti-sarro mantiene la plancha en óptimas condiciones por más tiempo, asegurando un rendimiento confiable todos los días.\n* PODEROSO VAPOR: El golpe de vapor extra elimina arrugas rebeldes incluso en telas gruesas, dejando tu ropa suave, lisa y con aspecto impecable.\n* DURILIUM AIRGLIDE: Su tecnología Durilium Airglide ofrece el mejor deslizamiento de T-fal, mayor cobertura y resistencia para un planchado más rápido y cómodo.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* AHORRA ENERGÍA SIN PERDER RESULTADOS: El modo ECO reduce el consumo de energía hasta en un 20%, manteniendo un rendimiento de vapor potente para eliminar arrugas con la misma eficacia.",
+    "url": "https://www.t-fal.com.mx/plancha-ultragliss-anti-calc-plus-blue-maximo-vapor-938/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157943/1830008083_FV6843X0_ULTRAGLISSANTI-CALCPLUSDARK-BLUE-01-.jpg?v=638964036689330000",
+    "skus": [
+      {
+        "sku_id": "938",
+        "sku_name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157943/1830008083_FV6843X0_ULTRAGLISSANTI-CALCPLUSDARK-BLUE-01-.jpg?v=638964036689330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1599.0,
+    "list_price": 1999.0,
+    "on_sale": true
   },
   {
     "name": "Olla a presión 16L aluminio, segura y versátil",
@@ -1239,27 +1239,6 @@
     "on_sale": false
   },
   {
-    "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
-    "reference": "7211005234",
-    "brand": "T-fal",
-    "category": "Vaporizadores verticales",
-    "description": "* SOPORTE INTEGRADO: Este vaporizador vertical tiene un back incluido, el cual ofrece mayor comodidad al colgar tus prendas directamente en el vaporizador, permitiéndote alisar vestidos, camisas o abrigos sin necesidad de buscar dónde apoyarlos, haciendo cada sesión más práctica y ordenada.\n* VAPOR PARA TODAS LAS TELAS: Sus 3 niveles de vapor permiten cuidar desde prendas delicadas hasta telas más gruesas, siempre con resultados perfectos.\n* PERCHERO INTEGRADO: Su diseño tipo perchero con soporte trasero permite colgar prendas largas como vestidos o abrigos, haciéndolo más práctico y cómodo.\n* REFRESCA Y SANITIZA: El poder del vapor no solo elimina arrugas, también ayuda a reducir olores y bacterias, ofreciendo ropa fresca y cuidada.\n* DISEÑO ESTÉTICO Y FUNCIONAL: Su estilo minimalista combina con cualquier espacio del hogar, mientras que el tanque removible facilita su uso diario.",
-    "url": "https://www.t-fal.com.mx/vaporizador-vertical-con-back-origin-home-prendas-siempre-listas-919/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000",
-    "skus": [
-      {
-        "sku_id": "919",
-        "sku_name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2149.0,
-    "list_price": 2499.0,
-    "on_sale": true
-  },
-  {
     "name": "Vaporizador Origin Travel, plegable y portátil",
     "reference": "1830009412",
     "brand": "T-fal",
@@ -1323,24 +1302,24 @@
     "on_sale": false
   },
   {
-    "name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
-    "reference": "1830008083",
+    "name": "Sartén 28cm Daily expert rojo",
+    "reference": "2100129935",
     "brand": "T-fal",
-    "category": "Planchas de vapor",
-    "description": "* CUIDADO QUE DURA MÁS: El exclusivo cartucho anti-sarro mantiene la plancha en óptimas condiciones por más tiempo, asegurando un rendimiento confiable todos los días.\n* PODEROSO VAPOR: El golpe de vapor extra elimina arrugas rebeldes incluso en telas gruesas, dejando tu ropa suave, lisa y con aspecto impecable.\n* DURILIUM AIRGLIDE: Su tecnología Durilium Airglide ofrece el mejor deslizamiento de T-fal, mayor cobertura y resistencia para un planchado más rápido y cómodo.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* AHORRA ENERGÍA SIN PERDER RESULTADOS: El modo ECO reduce el consumo de energía hasta en un 20%, manteniendo un rendimiento de vapor potente para eliminar arrugas con la misma eficacia.",
-    "url": "https://www.t-fal.com.mx/plancha-ultragliss-anti-calc-plus-blue-maximo-vapor-938/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157943/1830008083_FV6843X0_ULTRAGLISSANTI-CALCPLUSDARK-BLUE-01-.jpg?v=638964036689330000",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Sartén de 28 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
+    "url": "https://www.t-fal.com.mx/sarten-28cm-daily-expert-rojo-929/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158452/2100129935_C2890602_SARTEN28CMDAILYEXPERT-1-.jpg?v=638950306320600000",
     "skus": [
       {
-        "sku_id": "938",
-        "sku_name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157943/1830008083_FV6843X0_ULTRAGLISSANTI-CALCPLUSDARK-BLUE-01-.jpg?v=638964036689330000"
+        "sku_id": "929",
+        "sku_name": "Sartén 28cm Daily expert rojo",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158452/2100129935_C2890602_SARTEN28CMDAILYEXPERT-1-.jpg?v=638950306320600000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1599.0,
-    "list_price": 1999.0,
+    "price": 1009.0,
+    "list_price": 1299.0,
     "on_sale": true
   },
   {
@@ -3150,6 +3129,27 @@
     "on_sale": true
   },
   {
+    "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
+    "reference": "7211005234",
+    "brand": "T-fal",
+    "category": "Vaporizadores verticales",
+    "description": "* SOPORTE INTEGRADO: Este vaporizador vertical tiene un back incluido, el cual ofrece mayor comodidad al colgar tus prendas directamente en el vaporizador, permitiéndote alisar vestidos, camisas o abrigos sin necesidad de buscar dónde apoyarlos, haciendo cada sesión más práctica y ordenada.\n* VAPOR PARA TODAS LAS TELAS: Sus 3 niveles de vapor permiten cuidar desde prendas delicadas hasta telas más gruesas, siempre con resultados perfectos.\n* PERCHERO INTEGRADO: Su diseño tipo perchero con soporte trasero permite colgar prendas largas como vestidos o abrigos, haciéndolo más práctico y cómodo.\n* REFRESCA Y SANITIZA: El poder del vapor no solo elimina arrugas, también ayuda a reducir olores y bacterias, ofreciendo ropa fresca y cuidada.\n* DISEÑO ESTÉTICO Y FUNCIONAL: Su estilo minimalista combina con cualquier espacio del hogar, mientras que el tanque removible facilita su uso diario.",
+    "url": "https://www.t-fal.com.mx/vaporizador-vertical-con-back-origin-home-prendas-siempre-listas-919/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000",
+    "skus": [
+      {
+        "sku_id": "919",
+        "sku_name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2149.0,
+    "list_price": 2499.0,
+    "on_sale": true
+  },
+  {
     "name": "Vaporizador Pure Pop Verde, con estilo en cualquier lugar",
     "reference": "1830009127",
     "brand": "T-fal",
@@ -3231,27 +3231,6 @@
     "country": "México",
     "price": 1149.0,
     "list_price": 1499.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén 28cm Daily expert rojo",
-    "reference": "2100129935",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Sartén de 28 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
-    "url": "https://www.t-fal.com.mx/sarten-28cm-daily-expert-rojo-929/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158452/2100129935_C2890602_SARTEN28CMDAILYEXPERT-1-.jpg?v=638950306320600000",
-    "skus": [
-      {
-        "sku_id": "929",
-        "sku_name": "Sartén 28cm Daily expert rojo",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158452/2100129935_C2890602_SARTEN28CMDAILYEXPERT-1-.jpg?v=638950306320600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1009.0,
-    "list_price": 1299.0,
     "on_sale": true
   },
   {
@@ -3987,6 +3966,27 @@
     "country": "México",
     "price": 69.0,
     "list_price": 69.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+    "reference": "2100122016",
+    "brand": "T-fal",
+    "category": "Sets de cuchillos",
+    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
+    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
+    "skus": [
+      {
+        "sku_id": "1041",
+        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 309.0,
+    "list_price": 309.0,
     "on_sale": false
   },
   {
