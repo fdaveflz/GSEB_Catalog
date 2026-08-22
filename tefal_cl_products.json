@@ -1,5 +1,26 @@
 [
   {
+    "name": "Cafetera Espresso Coffee Crush Experience Krups",
+    "reference": "8010001480",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000",
+    "skus": [
+      {
+        "sku_id": "409",
+        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 339990.0,
+    "list_price": 449990.0,
+    "on_sale": true
+  },
+  {
     "name": "Tabletas de Limpieza Cafeteras Krups",
     "reference": "8010001472",
     "brand": "Krups",
@@ -483,27 +504,6 @@
     "on_sale": true
   },
   {
-    "name": "Set sartenes 24/28cm Daily Cook",
-    "reference": "2100123828",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "Disfruta de una cocina rica y saludable con el set de sartenes 24/28 cm Daily Cook de Tefal.|\nFabricados en acero inoxidable 18/10 de primera calidad con antiadherente de titanio reforzado.| Gracias a su base de difusión que garantiza una distribución uniforme del calor para obtener resultados homogéneos. Apto para todas las cocinas, incluida las de inducción.|\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.",
-    "url": "https://www.tefalstore.cl/set-sartenes-24-28-cm-daily-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000",
-    "skus": [
-      {
-        "sku_id": "272",
-        "sku_name": "Set sartenes 24/28cm Daily Cook",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 42990.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de Vapor Expertis Anti Calc Rowenta",
     "reference": "1830031506",
     "brand": "Rowenta",
@@ -837,6 +837,27 @@
     "country": "Chile",
     "price": 84990.0,
     "list_price": 129990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Freidora de Aire Easy Fry Digital Mega 7,5L Moulinex EZ855D20",
+    "reference": "1510002886",
+    "brand": "Moulinex",
+    "category": "Air Fryers",
+    "description": "Freidora de Aire Easy Fry Mega con capacidad de 7,5 L, óptimo para preparar comidas para toda la familia y amigos.|\nGRAN CAPACIDAD 7,5 L: freidora de aire con una capacidad familiar de 7,5 L que prepara hasta 8 raciones, para cocinar recetas deliciosas.|\nDISEÑO COMPACTO: la gran capacidad de esta freidora de aire se presenta en un modelo compacto que te permitirá ganar espacio en la cocina.|\nMAYOR PRECISIÓN: 8 programas automáticos + 1 programa manual y control de alta precisión de la temperatura y el tiempo (de 80 °C a 200 °C, y hasta 60 minutos) mediante el botón giratorio, para unos resultados crujientes, sanos y sabrosos en todo momento.",
+    "url": "https://www.tefalstore.cl/freidora-de-aire-easy-fry-digital-mega-7-5l-moulinex-ez855d20/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205029/img-09-7782ab6b-a514-46ae-9fa4-de4caa931652.jpg?v=638919296143970000",
+    "skus": [
+      {
+        "sku_id": "306",
+        "sku_name": "Freidora de Aire Easy Fry Digital Mega 7,5L EZ855D20",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205029/img-09-7782ab6b-a514-46ae-9fa4-de4caa931652.jpg?v=638919296143970000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 79990.0,
+    "list_price": 149990.0,
     "on_sale": true
   },
   {
@@ -1323,6 +1344,27 @@
     "on_sale": true
   },
   {
+    "name": "Olla Cocotte Air 24 cm",
+    "reference": "2100127041",
+    "brand": "Tefal",
+    "category": "Ollas",
+    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
+    "url": "https://www.tefalstore.cl/tefal-olla-cocotte-24-cm-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000",
+    "skus": [
+      {
+        "sku_id": "197",
+        "sku_name": "Olla Cocotte Air 24 cm",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 44990.0,
+    "list_price": 62990.0,
+    "on_sale": true
+  },
+  {
     "name": "Olla Cocotte Air 20 cm",
     "reference": "2100127040",
     "brand": "Tefal",
@@ -1764,27 +1806,6 @@
     "on_sale": true
   },
   {
-    "name": "Freidora de Aire Easy Fry Digital Mega 7,5L Moulinex EZ855D20",
-    "reference": "1510002886",
-    "brand": "Moulinex",
-    "category": "Air Fryers",
-    "description": "Freidora de Aire Easy Fry Mega con capacidad de 7,5 L, óptimo para preparar comidas para toda la familia y amigos.|\nGRAN CAPACIDAD 7,5 L: freidora de aire con una capacidad familiar de 7,5 L que prepara hasta 8 raciones, para cocinar recetas deliciosas.|\nDISEÑO COMPACTO: la gran capacidad de esta freidora de aire se presenta en un modelo compacto que te permitirá ganar espacio en la cocina.|\nMAYOR PRECISIÓN: 8 programas automáticos + 1 programa manual y control de alta precisión de la temperatura y el tiempo (de 80 °C a 200 °C, y hasta 60 minutos) mediante el botón giratorio, para unos resultados crujientes, sanos y sabrosos en todo momento.",
-    "url": "https://www.tefalstore.cl/freidora-de-aire-easy-fry-digital-mega-7-5l-moulinex-ez855d20/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205029/img-09-7782ab6b-a514-46ae-9fa4-de4caa931652.jpg?v=638919296143970000",
-    "skus": [
-      {
-        "sku_id": "306",
-        "sku_name": "Freidora de Aire Easy Fry Digital Mega 7,5L EZ855D20",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205029/img-09-7782ab6b-a514-46ae-9fa4-de4caa931652.jpg?v=638919296143970000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 79990.0,
-    "list_price": 149990.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora PerfectMix Cook 1400W 2L Moulinex",
     "reference": "7211004631",
     "brand": "Moulinex",
@@ -1902,27 +1923,6 @@
         "sku_id": "322",
         "sku_name": "Guisera 24 cm Ingenio Tefal",
         "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203818/proyecto-nuevo.png?v=638803481815730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 28990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Wok antiadherente 26 cm Ingenio Tefal",
-    "reference": "2100127484",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "¡Simplifica tu vida con Ingenio! Gracias a su mango extraíble y su práctico sistema de un solo clic, ahora puedes cocinar en el fuego, pasar al horno, servir directamente en la mesa y guardar en el refrigerador. Todo en un mismo recipiente. |\nWok de 26 cm con revestimiento antiadherente reforzado con titanio para que cocinar y limpiar sea más fácil|\nAhorra un 50% de espacio: es perfectamente apilable para conseguir un almacenamiento compacto|\nEl Thermo-Signal indica el momento perfecto para empezar a cocina y obtener una optima  textura, sabor y color en tus preparaciones|\nApto para lavavajilla|\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nNo incluye mango extraíble*",
-    "url": "https://www.tefalstore.cl/wok-antiadherente-26-cm-ingenio-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203814/wok-1.png?v=638803474363700000",
-    "skus": [
-      {
-        "sku_id": "321",
-        "sku_name": "Wok antiadherente 26 cm Ingenio Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203814/wok-1.png?v=638803474363700000"
       }
     ],
     "site": "Tefal Store Chile",
@@ -2202,27 +2202,6 @@
     "country": "Chile",
     "price": 18990.0,
     "list_price": 24990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla Cocotte Air 24 cm",
-    "reference": "2100127041",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
-    "url": "https://www.tefalstore.cl/tefal-olla-cocotte-24-cm-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000",
-    "skus": [
-      {
-        "sku_id": "197",
-        "sku_name": "Olla Cocotte Air 24 cm",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 44990.0,
-    "list_price": 62990.0,
     "on_sale": true
   },
   {
@@ -2538,6 +2517,27 @@
     "country": "Chile",
     "price": 89990.0,
     "list_price": 149990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Wok antiadherente 26 cm Ingenio Tefal",
+    "reference": "2100127484",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "¡Simplifica tu vida con Ingenio! Gracias a su mango extraíble y su práctico sistema de un solo clic, ahora puedes cocinar en el fuego, pasar al horno, servir directamente en la mesa y guardar en el refrigerador. Todo en un mismo recipiente. |\nWok de 26 cm con revestimiento antiadherente reforzado con titanio para que cocinar y limpiar sea más fácil|\nAhorra un 50% de espacio: es perfectamente apilable para conseguir un almacenamiento compacto|\nEl Thermo-Signal indica el momento perfecto para empezar a cocina y obtener una optima  textura, sabor y color en tus preparaciones|\nApto para lavavajilla|\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nNo incluye mango extraíble*",
+    "url": "https://www.tefalstore.cl/wok-antiadherente-26-cm-ingenio-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203814/wok-1.png?v=638803474363700000",
+    "skus": [
+      {
+        "sku_id": "321",
+        "sku_name": "Wok antiadherente 26 cm Ingenio Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203814/wok-1.png?v=638803474363700000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24990.0,
+    "list_price": 28990.0,
     "on_sale": true
   },
   {
@@ -2964,7 +2964,7 @@
     "name": "Secador Alisador Air Motion Rowenta",
     "reference": "1830009449",
     "brand": "Rowenta",
-    "category": "Secadores",
+    "category": "Personal Care",
     "description": "SECADO Y PEINADO SIN ESFUERZO: El 100% de las mujeres prefieren Air Motion por su diseño ergonómico* con solo 300 g [en comparación con su producto habitual. Prueba externa, probada por 30 mujeres, Francia, 2024]|\nRENDIMIENTO DE SECADO POTENTE: Un secador de pelo con tecnología de motor de alta velocidad para velocidades de aire ultrapotentes de hasta 170 km/h—garantizando un secado rápido, eficiente y un peinado impecable en todo momento| RESULTADOS SUAVIZANTES: El efecto Coanda para un alisado natural—el 86% de las mujeres afirma tener menos frizz [en comparación con su producto habitual. Prueba externa, probada por 30 mujeres, Francia, 2024]| \nALISADO CON CALOR SUAVE: Gracias al efecto Coanda de nuestro peine que alisa el cabello con aire caliente, logra un alisado natural que utiliza un 50% menos de calor** (***frente al cepillo Powerstraight en ajustes de 160°C), \nBRILLO RADIANTE: La tecnología iónica libera millones de iones antiestáticos para dejar el cabello suave y manejable—para un acabado pulido y brillante realzado con un resplandor radiante|\nAJUSTES PERSONALIZADOS: 9 combinaciones de velocidad/temperatura para un secado a medida, con los ajustes más recientes memorizados cuando el secador se apaga y mantenidos para la próxima sesión de secado| \nRESULTADOS DURADEROS: El golpe de aire frío fija el peinado al final de la sesión de secado para resultados duraderos y un estilo magnífico|\nPEINADO EN CUALQUIER LUGAR Y MOMENTO: El diseño compacto y la bolsa incluida te permiten llevar tu secador de pelo a donde quiera que vayas y guardarlo sin esfuerzo cuando estés en casa|\nCONTENIDO DE LA CAJA: Secador de pelo Ultimate Experience Air Motion, concentrador, peine alisador, bolsa de viaje/almacenamiento.",
     "url": "https://www.tefalstore.cl/secador-alisador-air-motion-rowenta/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205675/01-portada.jpg?v=639076479509530000",
@@ -3822,27 +3822,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Coffee Crush Experience Krups",
-    "reference": "8010001480",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000",
-    "skus": [
-      {
-        "sku_id": "409",
-        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 449990.0,
-    "list_price": 449990.0,
-    "on_sale": false
-  },
-  {
     "name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
     "reference": "7211005063",
     "brand": "Rowenta",
@@ -4176,6 +4155,27 @@
     "country": "Chile",
     "price": 84990.0,
     "list_price": 84990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set sartenes 24/28cm Daily Cook",
+    "reference": "2100123828",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "Disfruta de una cocina rica y saludable con el set de sartenes 24/28 cm Daily Cook de Tefal.|\nFabricados en acero inoxidable 18/10 de primera calidad con antiadherente de titanio reforzado.| Gracias a su base de difusión que garantiza una distribución uniforme del calor para obtener resultados homogéneos. Apto para todas las cocinas, incluida las de inducción.|\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.",
+    "url": "https://www.tefalstore.cl/set-sartenes-24-28-cm-daily-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000",
+    "skus": [
+      {
+        "sku_id": "272",
+        "sku_name": "Set sartenes 24/28cm Daily Cook",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 42990.0,
+    "list_price": 42990.0,
     "on_sale": false
   },
   {
