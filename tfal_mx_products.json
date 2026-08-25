@@ -21,27 +21,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
-    "reference": "2100139936",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
-    "url": "https://www.t-fal.com.mx/bateria-20-piezas-refresh-ceramic-eucalyptus/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159911/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639220698965630000",
-    "skus": [
-      {
-        "sku_id": "1091",
-        "sku_name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159911/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639220698965630000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 3699.0,
-    "list_price": 3699.0,
-    "on_sale": false
-  },
-  {
     "name": "Vaso de vidrio de 2.2 Lts del rango Infinyforce xl y Ultraforce+",
     "reference": "5861032671",
     "brand": "T-fal",
@@ -124,6 +103,27 @@
     "price": 1919.0,
     "list_price": 2299.0,
     "on_sale": true
+  },
+  {
+    "name": "Plancha Puregliss Black and Gold, planchado impecable",
+    "reference": "1830008915",
+    "brand": "T-fal",
+    "category": "Planchas de vapor",
+    "description": "* TRIPLE PROTECCIÓN CONTRA MANCHAS: El sistema exclusivo anti-sarro evita manchas y conserva el rendimiento de vapor por más tiempo, cuidando cada tejido de manera eficaz.\n* SUELA DURILIUM AIRGLIDE AUTOCLEAN: La suela Durilium Airglide ofrece un deslizamiento superior, amplia difusión de vapor y resistencia a rayaduras para un planchado sin esfuerzo. Además,  la tecnología Autoclean mantiene la suela siempre limpia, libre de pelusas y bolitas de la ropa. \n* ELIMINA TODAS LAS ARRUGAS: Con un golpe de vapor de 190 g/min, hasta las arrugas más rebeldes desaparecen, dejando tu ropa impecable y lista en segundos.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* HIGIENE PERFECTA: Su poder de vapor no solo elimina arrugas, también ayuda a eliminar hasta el 99.99% de bacterias en las telas, para un cuidado más saludable.",
+    "url": "https://www.t-fal.com.mx/plancha-puregliss-black-and-gold-planchado-impecable-937/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157879/1830008915_FV8064X0_PUREGLISSBLACKANDGOLD-1-.jpg?v=638930443743100000",
+    "skus": [
+      {
+        "sku_id": "937",
+        "sku_name": "Plancha Puregliss Black and Gold, planchado impecable",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157879/1830008915_FV8064X0_PUREGLISSBLACKANDGOLD-1-.jpg?v=638930443743100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2149.0,
+    "list_price": 2149.0,
+    "on_sale": false
   },
   {
     "name": "Removedor de Pelusas para Ropa y Telas",
@@ -231,6 +231,48 @@
     "on_sale": true
   },
   {
+    "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
+    "reference": "2100139936",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
+    "url": "https://www.t-fal.com.mx/bateria-20-piezas-refresh-ceramic-eucalyptus/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159911/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639220698965630000",
+    "skus": [
+      {
+        "sku_id": "1091",
+        "sku_name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159911/2100134116_C488SK64_TREFRESHCERAMIC20PCSETEUCALYPTUS-01-.jpg?v=639220698965630000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 3699.0,
+    "list_price": 3699.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set de cuchillas para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032677",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/set-de-cuchillas-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159379/5861032677_XF2120MX_CUCHILLANGINFINYACCXL-01-.jpg?v=639119568042300000",
+    "skus": [
+      {
+        "sku_id": "1087",
+        "sku_name": "Set de cuchillas para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159379/5861032677_XF2120MX_CUCHILLANGINFINYACCXL-01-.jpg?v=639119568042300000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 74.0,
+    "list_price": 74.0,
+    "on_sale": false
+  },
+  {
     "name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
     "reference": "5861036615",
     "brand": "T-fal",
@@ -249,6 +291,48 @@
     "country": "México",
     "price": 179.0,
     "list_price": 179.0,
+    "on_sale": false
+  },
+  {
+    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+    "reference": "5861032672",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
+    "skus": [
+      {
+        "sku_id": "1082",
+        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 34.0,
+    "list_price": 34.0,
+    "on_sale": false
+  },
+  {
+    "name": "Empaque/Junta para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
+    "reference": "5861036614",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidrio-del-rango-optimix--powermix-e-infinyforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159448/5861036614_XF25D0IX_EMPCAUCHOINFFOR-OPTIMIX-POWERMIXVID-01-.jpg?v=639119630288570000",
+    "skus": [
+      {
+        "sku_id": "1074",
+        "sku_name": "Empaque/Junta para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159448/5861036614_XF25D0IX_EMPCAUCHOINFFOR-OPTIMIX-POWERMIXVID-01-.jpg?v=639119630288570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 34.0,
+    "list_price": 34.0,
     "on_sale": false
   },
   {
@@ -609,27 +693,6 @@
     "on_sale": true
   },
   {
-    "name": "Plancha Puregliss Black and Gold, planchado impecable",
-    "reference": "1830008915",
-    "brand": "T-fal",
-    "category": "Planchas de vapor",
-    "description": "* TRIPLE PROTECCIÓN CONTRA MANCHAS: El sistema exclusivo anti-sarro evita manchas y conserva el rendimiento de vapor por más tiempo, cuidando cada tejido de manera eficaz.\n* SUELA DURILIUM AIRGLIDE AUTOCLEAN: La suela Durilium Airglide ofrece un deslizamiento superior, amplia difusión de vapor y resistencia a rayaduras para un planchado sin esfuerzo. Además,  la tecnología Autoclean mantiene la suela siempre limpia, libre de pelusas y bolitas de la ropa. \n* ELIMINA TODAS LAS ARRUGAS: Con un golpe de vapor de 190 g/min, hasta las arrugas más rebeldes desaparecen, dejando tu ropa impecable y lista en segundos.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* HIGIENE PERFECTA: Su poder de vapor no solo elimina arrugas, también ayuda a eliminar hasta el 99.99% de bacterias en las telas, para un cuidado más saludable.",
-    "url": "https://www.t-fal.com.mx/plancha-puregliss-black-and-gold-planchado-impecable-937/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157879/1830008915_FV8064X0_PUREGLISSBLACKANDGOLD-1-.jpg?v=638930443743100000",
-    "skus": [
-      {
-        "sku_id": "937",
-        "sku_name": "Plancha Puregliss Black and Gold, planchado impecable",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157879/1830008915_FV8064X0_PUREGLISSBLACKANDGOLD-1-.jpg?v=638930443743100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2149.0,
-    "list_price": 2149.0,
-    "on_sale": false
-  },
-  {
     "name": "Olla a presión Compact Easy 8L inox., compacta y segura",
     "reference": "7114000623",
     "brand": "T-fal",
@@ -735,27 +798,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería 13 pzas Ceramic preserve Almond Butter",
-    "reference": "2100135275",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "Ceramic Preserve es una línea para quien quiera juntar calidad con elegeancia. Llevando diseños originales, la línea busca también añadir el toque de buena salud con su antiadherente InoCeram que encima de ser de cerámica está 100% libre partículas de plomo, cadmio y PFOA. Cuenta con Termo-Señal, que cambia de color cuando el calor del sartén está en su punto perfecto para empezar a cocinar. El sartén de Ceramic Preserve también se puede usar en el horno, hasta 175°C para que tengas una mayor versatilidad en tu cocina. La gama es compatible con todos los tipos de estufa, excepto inducción. La base de difusión da una distribución del calor pareja a todo el sartén que resulta en una cocción homogénea de los alimentos. ¡Es la línea perfecta para quienes buscan combinar salud con elegancia.",
-    "url": "https://www.t-fal.com.mx/bateria-13-pzas-ceramic-preserve-almond-butter-c494sd63/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159693/2100135275_C494SD63_T-CER-PRESERVE-13PC-SET-ALM-BUTTER-01.webp?v=639148760949900000",
-    "skus": [
-      {
-        "sku_id": "1112",
-        "sku_name": "Batería 13 pzas Ceramic preserve Almond Butter",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159693/2100135275_C494SD63_T-CER-PRESERVE-13PC-SET-ALM-BUTTER-01.webp?v=639148760949900000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 4375.0,
-    "list_price": 4375.0,
-    "on_sale": false
-  },
-  {
     "name": "Moldes y rejillas para cocinar en air fryer y hornos",
     "reference": "1510001776",
     "brand": "T-fal",
@@ -816,27 +858,6 @@
     "country": "México",
     "price": 2699.0,
     "list_price": 2699.0,
-    "on_sale": false
-  },
-  {
-    "name": "Empaque/Junta para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
-    "reference": "5861036614",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidrio-del-rango-optimix--powermix-e-infinyforce/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159448/5861036614_XF25D0IX_EMPCAUCHOINFFOR-OPTIMIX-POWERMIXVID-01-.jpg?v=639119630288570000",
-    "skus": [
-      {
-        "sku_id": "1074",
-        "sku_name": "Empaque/Junta para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159448/5861036614_XF25D0IX_EMPCAUCHOINFFOR-OPTIMIX-POWERMIXVID-01-.jpg?v=639119630288570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 34.0,
-    "list_price": 34.0,
     "on_sale": false
   },
   {
@@ -1638,6 +1659,27 @@
     "on_sale": false
   },
   {
+    "name": "Batería 13 pzas Ceramic preserve Almond Butter",
+    "reference": "2100135275",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "Ceramic Preserve es una línea para quien quiera juntar calidad con elegeancia. Llevando diseños originales, la línea busca también añadir el toque de buena salud con su antiadherente InoCeram que encima de ser de cerámica está 100% libre partículas de plomo, cadmio y PFOA. Cuenta con Termo-Señal, que cambia de color cuando el calor del sartén está en su punto perfecto para empezar a cocinar. El sartén de Ceramic Preserve también se puede usar en el horno, hasta 175°C para que tengas una mayor versatilidad en tu cocina. La gama es compatible con todos los tipos de estufa, excepto inducción. La base de difusión da una distribución del calor pareja a todo el sartén que resulta en una cocción homogénea de los alimentos. ¡Es la línea perfecta para quienes buscan combinar salud con elegancia.",
+    "url": "https://www.t-fal.com.mx/bateria-13-pzas-ceramic-preserve-almond-butter-c494sd63/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159693/2100135275_C494SD63_T-CER-PRESERVE-13PC-SET-ALM-BUTTER-01.webp?v=639148760949900000",
+    "skus": [
+      {
+        "sku_id": "1112",
+        "sku_name": "Batería 13 pzas Ceramic preserve Almond Butter",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159693/2100135275_C494SD63_T-CER-PRESERVE-13PC-SET-ALM-BUTTER-01.webp?v=639148760949900000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 4375.0,
+    "list_price": 4375.0,
+    "on_sale": false
+  },
+  {
     "name": "Ventilador de Pedestal  Air Maxx de 16\"",
     "reference": "9100058356",
     "brand": "T-fal",
@@ -1783,27 +1825,6 @@
     "price": 1359.0,
     "list_price": 1699.0,
     "on_sale": true
-  },
-  {
-    "name": "Cronometro para ollas a presión de la gama Clipso.",
-    "reference": "1510001110",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/cronometro-para-ollas-a-presion-de-la-gama-clipso-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159424/1510001110_X1060007_CRONOMETROCLIPSOMINUTP4620736-01-.jpg?v=639119574672100000",
-    "skus": [
-      {
-        "sku_id": "1080",
-        "sku_name": "Cronometro para ollas a presión de la gama Clipso.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159424/1510001110_X1060007_CRONOMETROCLIPSOMINUTP4620736-01-.jpg?v=639119574672100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 569.0,
-    "list_price": 569.0,
-    "on_sale": false
   },
   {
     "name": "Válvula de control para ollas de presión de aluminio de 12 y 16 litros.",
@@ -3864,27 +3885,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de cuchillas para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032677",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/set-de-cuchillas-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159379/5861032677_XF2120MX_CUCHILLANGINFINYACCXL-01-.jpg?v=639119568042300000",
-    "skus": [
-      {
-        "sku_id": "1087",
-        "sku_name": "Set de cuchillas para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159379/5861032677_XF2120MX_CUCHILLANGINFINYACCXL-01-.jpg?v=639119568042300000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 74.0,
-    "list_price": 74.0,
-    "on_sale": false
-  },
-  {
     "name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
     "reference": "9100057309",
     "brand": "T-fal",
@@ -3927,27 +3927,6 @@
     "on_sale": false
   },
   {
-    "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-    "reference": "5861032672",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/empaque-junta-para-licuadoras-vaso-vidiro-del-rango-infinyforce-xl-y-ultraforce-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000",
-    "skus": [
-      {
-        "sku_id": "1082",
-        "sku_name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159414/5861032672_XF2130MX_EMPAQUECAUCHOINFX3UNDACCXL-01-.jpg?v=639119574048600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 34.0,
-    "list_price": 34.0,
-    "on_sale": false
-  },
-  {
     "name": "Válvula de control para olla a presión de aluminio de 22 litros.",
     "reference": "9100057190",
     "brand": "T-fal",
@@ -3966,6 +3945,27 @@
     "country": "México",
     "price": 99.0,
     "list_price": 99.0,
+    "on_sale": false
+  },
+  {
+    "name": "Cronometro para ollas a presión de la gama Clipso.",
+    "reference": "1510001110",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/cronometro-para-ollas-a-presion-de-la-gama-clipso-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159424/1510001110_X1060007_CRONOMETROCLIPSOMINUTP4620736-01-.jpg?v=639119574672100000",
+    "skus": [
+      {
+        "sku_id": "1080",
+        "sku_name": "Cronometro para ollas a presión de la gama Clipso.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159424/1510001110_X1060007_CRONOMETROCLIPSOMINUTP4620736-01-.jpg?v=639119574672100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 569.0,
+    "list_price": 569.0,
     "on_sale": false
   },
   {
