@@ -189,27 +189,6 @@
     "on_sale": false
   },
   {
-    "name": "Juego de sartenes 24/30 cm Excellence+",
-    "reference": "9100062038",
-    "brand": "T-fal",
-    "category": "Sets de sartenes",
-    "description": "¡Rendimiento inigualable! Con la exclusiva teconología FUSIONCORE de Tefal, este set de anitadherente resistente está diseñado para chefs demandantes. Disfruta de la maestría culinari; con antiadherente de larga duración, resistente a rayaduras siendo seguro para utensilios de metal, alta eficiencia en la base de inducción para resultados perfectos. Fabricado en Francia por Tefal, la marca número 1 en cocina.",
-    "url": "https://www.t-fal.com.mx/juego-de-sartenes-24-30-cm-excellence/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159832/9100062038_G332430EXC_Excellence-2430-01-.jpg?v=639184478493930000",
-    "skus": [
-      {
-        "sku_id": "1123",
-        "sku_name": "Juego de sartenes 24/30 cm Excellence+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159832/9100062038_G332430EXC_Excellence-2430-01-.jpg?v=639184478493930000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2398.99,
-    "list_price": 3499.0,
-    "on_sale": true
-  },
-  {
     "name": "Tapa para cafetera compatible de repuesto universal",
     "reference": "9100036276",
     "brand": "T-fal",
@@ -1071,27 +1050,6 @@
     "on_sale": false
   },
   {
-    "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
-    "reference": "4100000837",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de pedestal T-Fal Air Pro: Gran potencia y durabilidad gracias a sus mallas metálicas extragrandes de 22\" y su eficiente motor de 95W. \n* Es resistente al calor y la humedad e ideal para lugares amplios.\n* Fabricado con materiales de alta calidad, es fácil de limpiar y cuenta con una base de gran estabilidad.\n* Cuenta con sistema de altura ajustable hasta 1.45m, inclinación vertical ajustable y oscilación horizontal automática para tu comodidad.\n* Garantía de 2 años contra defectos de materiales o fabricación e incluye instructivo para su uso.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--air-pro-con-mallas-metalicas-de-22-914/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159319/4100000837_VF2253X0_FAN-AIR-PRO-STAND-BL-T-FAL-01.jpg?v=639102358122630000",
-    "skus": [
-      {
-        "sku_id": "914",
-        "sku_name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159319/4100000837_VF2253X0_FAN-AIR-PRO-STAND-BL-T-FAL-01.jpg?v=639102358122630000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
-    "on_sale": false
-  },
-  {
     "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
     "reference": "7211005234",
     "brand": "T-fal",
@@ -1194,6 +1152,27 @@
     "country": "México",
     "price": 839.0,
     "list_price": 1099.0,
+    "on_sale": true
+  },
+  {
+    "name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
+    "reference": "1830008083",
+    "brand": "T-fal",
+    "category": "Planchas de vapor",
+    "description": "* CUIDADO QUE DURA MÁS: El exclusivo cartucho anti-sarro mantiene la plancha en óptimas condiciones por más tiempo, asegurando un rendimiento confiable todos los días.\n* PODEROSO VAPOR: El golpe de vapor extra elimina arrugas rebeldes incluso en telas gruesas, dejando tu ropa suave, lisa y con aspecto impecable.\n* DURILIUM AIRGLIDE: Su tecnología Durilium Airglide ofrece el mejor deslizamiento de T-fal, mayor cobertura y resistencia para un planchado más rápido y cómodo.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* AHORRA ENERGÍA SIN PERDER RESULTADOS: El modo ECO reduce el consumo de energía hasta en un 20%, manteniendo un rendimiento de vapor potente para eliminar arrugas con la misma eficacia.",
+    "url": "https://www.t-fal.com.mx/plancha-ultragliss-anti-calc-plus-blue-maximo-vapor-938/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157943/1830008083_FV6843X0_ULTRAGLISSANTI-CALCPLUSDARK-BLUE-01-.jpg?v=638964036689330000",
+    "skus": [
+      {
+        "sku_id": "938",
+        "sku_name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157943/1830008083_FV6843X0_ULTRAGLISSANTI-CALCPLUSDARK-BLUE-01-.jpg?v=638964036689330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1599.0,
+    "list_price": 1999.0,
     "on_sale": true
   },
   {
@@ -3024,6 +3003,27 @@
     "on_sale": true
   },
   {
+    "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
+    "reference": "4100000837",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de pedestal T-Fal Air Pro: Gran potencia y durabilidad gracias a sus mallas metálicas extragrandes de 22\" y su eficiente motor de 95W. \n* Es resistente al calor y la humedad e ideal para lugares amplios.\n* Fabricado con materiales de alta calidad, es fácil de limpiar y cuenta con una base de gran estabilidad.\n* Cuenta con sistema de altura ajustable hasta 1.45m, inclinación vertical ajustable y oscilación horizontal automática para tu comodidad.\n* Garantía de 2 años contra defectos de materiales o fabricación e incluye instructivo para su uso.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--air-pro-con-mallas-metalicas-de-22-914/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159319/4100000837_VF2253X0_FAN-AIR-PRO-STAND-BL-T-FAL-01.jpg?v=639102358122630000",
+    "skus": [
+      {
+        "sku_id": "914",
+        "sku_name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159319/4100000837_VF2253X0_FAN-AIR-PRO-STAND-BL-T-FAL-01.jpg?v=639102358122630000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
+    "on_sale": false
+  },
+  {
     "name": "Ventilador de Pedestal Silence Force 18\" anti mosquitos",
     "reference": "5861032682",
     "brand": "T-fal",
@@ -3211,27 +3211,6 @@
     "price": 1099.0,
     "list_price": 1099.0,
     "on_sale": false
-  },
-  {
-    "name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
-    "reference": "1830008083",
-    "brand": "T-fal",
-    "category": "Planchas de vapor",
-    "description": "* CUIDADO QUE DURA MÁS: El exclusivo cartucho anti-sarro mantiene la plancha en óptimas condiciones por más tiempo, asegurando un rendimiento confiable todos los días.\n* PODEROSO VAPOR: El golpe de vapor extra elimina arrugas rebeldes incluso en telas gruesas, dejando tu ropa suave, lisa y con aspecto impecable.\n* DURILIUM AIRGLIDE: Su tecnología Durilium Airglide ofrece el mejor deslizamiento de T-fal, mayor cobertura y resistencia para un planchado más rápido y cómodo.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* AHORRA ENERGÍA SIN PERDER RESULTADOS: El modo ECO reduce el consumo de energía hasta en un 20%, manteniendo un rendimiento de vapor potente para eliminar arrugas con la misma eficacia.",
-    "url": "https://www.t-fal.com.mx/plancha-ultragliss-anti-calc-plus-blue-maximo-vapor-938/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157943/1830008083_FV6843X0_ULTRAGLISSANTI-CALCPLUSDARK-BLUE-01-.jpg?v=638964036689330000",
-    "skus": [
-      {
-        "sku_id": "938",
-        "sku_name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157943/1830008083_FV6843X0_ULTRAGLISSANTI-CALCPLUSDARK-BLUE-01-.jpg?v=638964036689330000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1599.0,
-    "list_price": 1999.0,
-    "on_sale": true
   },
   {
     "name": "Plancha Virtuo Auto Off, resultados impecables",
@@ -3714,6 +3693,27 @@
     "country": "México",
     "price": null,
     "list_price": null,
+    "on_sale": false
+  },
+  {
+    "name": "Juego de sartenes 24/30 cm Excellence+",
+    "reference": "9100062038",
+    "brand": "T-fal",
+    "category": "Sets de sartenes",
+    "description": "¡Rendimiento inigualable! Con la exclusiva teconología FUSIONCORE de Tefal, este set de anitadherente resistente está diseñado para chefs demandantes. Disfruta de la maestría culinari; con antiadherente de larga duración, resistente a rayaduras siendo seguro para utensilios de metal, alta eficiencia en la base de inducción para resultados perfectos. Fabricado en Francia por Tefal, la marca número 1 en cocina.",
+    "url": "https://www.t-fal.com.mx/juego-de-sartenes-24-30-cm-excellence/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159832/9100062038_G332430EXC_Excellence-2430-01-.jpg?v=639184478493930000",
+    "skus": [
+      {
+        "sku_id": "1123",
+        "sku_name": "Juego de sartenes 24/30 cm Excellence+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159832/9100062038_G332430EXC_Excellence-2430-01-.jpg?v=639184478493930000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 3499.0,
+    "list_price": 3499.0,
     "on_sale": false
   },
   {
