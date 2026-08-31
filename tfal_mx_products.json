@@ -63,27 +63,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-    "reference": "2100122016",
-    "brand": "T-fal",
-    "category": "Sets de cuchillos",
-    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
-    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
-    "skus": [
-      {
-        "sku_id": "1041",
-        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 309.0,
-    "list_price": 309.0,
-    "on_sale": false
-  },
-  {
     "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
     "reference": "7114900087",
     "brand": "T-fal",
@@ -399,6 +378,27 @@
     "on_sale": false
   },
   {
+    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+    "reference": "2100122016",
+    "brand": "T-fal",
+    "category": "Sets de cuchillos",
+    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
+    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
+    "skus": [
+      {
+        "sku_id": "1041",
+        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 309.0,
+    "list_price": 309.0,
+    "on_sale": false
+  },
+  {
     "name": "Sandwichera 3 en 1 Ultracompact",
     "reference": "8010001328",
     "brand": "T-fal",
@@ -502,27 +502,6 @@
     "price": 669.0,
     "list_price": 669.0,
     "on_sale": false
-  },
-  {
-    "name": "Vaporizador vertical Pro Style, vapor profesional en casa",
-    "reference": "1830007416",
-    "brand": "T-fal",
-    "category": "Vaporizadores verticales",
-    "description": "* ADIÓS A LAS ARRUGAS: El cabezal XL metálico con punta de precisión ofrece mayor cobertura y elimina arrugas fácilmente, incluso en prendas grandes o gruesas.\n* IDEAL PARA PRENDAS LARGAS: Cuida tus prendas prendas largas y delicadas como vestidos, abrigos o trajes, sin esfuerzo y en un movimiento. \n* ADAPTADO A TODAS LAS TELAS: Sus 3 niveles de vapor se ajustan a cualquier tipo de tejido, desde los más delicados hasta los más resistentes, cuidando siempre tus prendas.\n* REFRESCA Y SANITIZA: El vapor no solo elimina arrugas, también ayuda a reducir olores y hasta el 99.99% de bacterias, ofreciendo frescura y mayor higiene diaria.\n* MANTENIMIENTO SENCILLO: El sistema anti-sarro y el tanque removible facilitan el cuidado del aparato, asegurando un rendimiento óptimo y duradero en cada uso.",
-    "url": "https://www.t-fal.com.mx/vaporizador-vertical-pro-style-vapor-profesional-en-casa/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159140/1830007416_IT3420X1_CENT-VAP-FASHION-STEAM--3-.jpg?v=638965683349500000",
-    "skus": [
-      {
-        "sku_id": "978",
-        "sku_name": "Vaporizador vertical Pro Style, vapor profesional en casa",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159140/1830007416_IT3420X1_CENT-VAP-FASHION-STEAM--3-.jpg?v=638965683349500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2809.0,
-    "list_price": 2999.0,
-    "on_sale": true
   },
   {
     "name": "Sartén 30cm Emotion SS",
@@ -3691,8 +3670,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": null,
-    "list_price": null,
+    "price": 369.0,
+    "list_price": 369.0,
     "on_sale": false
   },
   {
@@ -4029,6 +4008,27 @@
     "country": "México",
     "price": 3499.0,
     "list_price": 3499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Vaporizador vertical Pro Style, vapor profesional en casa",
+    "reference": "1830007416",
+    "brand": "T-fal",
+    "category": "Vaporizadores verticales",
+    "description": "* ADIÓS A LAS ARRUGAS: El cabezal XL metálico con punta de precisión ofrece mayor cobertura y elimina arrugas fácilmente, incluso en prendas grandes o gruesas.\n* IDEAL PARA PRENDAS LARGAS: Cuida tus prendas prendas largas y delicadas como vestidos, abrigos o trajes, sin esfuerzo y en un movimiento. \n* ADAPTADO A TODAS LAS TELAS: Sus 3 niveles de vapor se ajustan a cualquier tipo de tejido, desde los más delicados hasta los más resistentes, cuidando siempre tus prendas.\n* REFRESCA Y SANITIZA: El vapor no solo elimina arrugas, también ayuda a reducir olores y hasta el 99.99% de bacterias, ofreciendo frescura y mayor higiene diaria.\n* MANTENIMIENTO SENCILLO: El sistema anti-sarro y el tanque removible facilitan el cuidado del aparato, asegurando un rendimiento óptimo y duradero en cada uso.",
+    "url": "https://www.t-fal.com.mx/vaporizador-vertical-pro-style-vapor-profesional-en-casa/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159140/1830007416_IT3420X1_CENT-VAP-FASHION-STEAM--3-.jpg?v=638965683349500000",
+    "skus": [
+      {
+        "sku_id": "978",
+        "sku_name": "Vaporizador vertical Pro Style, vapor profesional en casa",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159140/1830007416_IT3420X1_CENT-VAP-FASHION-STEAM--3-.jpg?v=638965683349500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2999.0,
+    "list_price": 2999.0,
     "on_sale": false
   },
   {
