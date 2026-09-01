@@ -63,27 +63,6 @@
     "on_sale": false
   },
   {
-    "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
-    "reference": "7114900087",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* Con una generosa capacidad de 22 litros, esta olla a presión está especialmente diseñada para realizar grandes preparaciones garantizando máxima seguridad y facilidad de uso.\n* Equipada con 5 sistemas de seguridad integrados que proporcionan una experiencia de cocina sin riesgos, asegurando que prepares grandes cantidad de comidas eficientemente.\n* Su construcción en aluminio ofrece un manejo liviano y fácil, permitiendo que puedas moverla y utilizarla sin esfuerzo incluso durante largas jornadas de cocina.\n* Su versatilidad excepcional es perfecta para una variead de recetas, destacando por su capacidad de satisfacer diferentes necesidades culinarias con gran facilidad.\n* La elección ideal para quienes necesitan cocinar grandes volúmenes de alimentos rápidamente, asegurando la frescura y calidad en cada preparación.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-de-22-l-de-aluminio-segura-y-facil-de-utilizar/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000",
-    "skus": [
-      {
-        "sku_id": "1017",
-        "sku_name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2799.0,
-    "list_price": 2799.0,
-    "on_sale": false
-  },
-  {
     "name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
     "reference": "1830009484",
     "brand": "T-fal",
@@ -291,6 +270,27 @@
     "country": "México",
     "price": 3699.0,
     "list_price": 3699.0,
+    "on_sale": false
+  },
+  {
+    "name": "Batería 12 piezas Refresh Ceramic Warm Beige",
+    "reference": "2100140958",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
+    "url": "https://www.t-fal.com.mx/bateria-12-piezas-refresh-ceramic-warm-beige/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000",
+    "skus": [
+      {
+        "sku_id": "1089",
+        "sku_name": "Batería 12 piezas Refresh Ceramic Warm Beige",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2699.0,
+    "list_price": 2699.0,
     "on_sale": false
   },
   {
@@ -693,27 +693,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería 12 piezas Refresh Ceramic Warm Beige",
-    "reference": "2100140958",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
-    "url": "https://www.t-fal.com.mx/bateria-12-piezas-refresh-ceramic-warm-beige/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000",
-    "skus": [
-      {
-        "sku_id": "1089",
-        "sku_name": "Batería 12 piezas Refresh Ceramic Warm Beige",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2699.0,
-    "list_price": 2699.0,
-    "on_sale": false
-  },
-  {
     "name": "Tapa de vidrio templado de 30 cm con válvula de liberación de presión",
     "reference": "2028097812",
     "brand": "T-fal",
@@ -753,27 +732,6 @@
     "country": "México",
     "price": 379.0,
     "list_price": 379.0,
-    "on_sale": false
-  },
-  {
-    "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
-    "reference": "2100128300",
-    "brand": "T-fal",
-    "category": "Sets de sartenes",
-    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas, Fabricado en Francia",
-    "url": "https://www.t-fal.com.mx/set-renew-on-24-y-28-cm-ceramico-inoceram-y-base-de-induccion/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000",
-    "skus": [
-      {
-        "sku_id": "1048",
-        "sku_name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
     "on_sale": false
   },
   {
@@ -2034,6 +1992,27 @@
     "country": "México",
     "price": 1499.0,
     "list_price": 1499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
+    "reference": "2100128300",
+    "brand": "T-fal",
+    "category": "Sets de sartenes",
+    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas, Fabricado en Francia",
+    "url": "https://www.t-fal.com.mx/set-renew-on-24-y-28-cm-ceramico-inoceram-y-base-de-induccion/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000",
+    "skus": [
+      {
+        "sku_id": "1048",
+        "sku_name": "Set Renew On 24 y 28 cm cerámico Inoceram y base de inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158303/2100128300_C4279032_Set_24_28_cm_Renew_On-1-.jpg?v=638944262086770000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
     "on_sale": false
   },
   {
@@ -3966,6 +3945,27 @@
     "country": "México",
     "price": 1299.0,
     "list_price": 1299.0,
+    "on_sale": false
+  },
+  {
+    "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
+    "reference": "7114900087",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* Con una generosa capacidad de 22 litros, esta olla a presión está especialmente diseñada para realizar grandes preparaciones garantizando máxima seguridad y facilidad de uso.\n* Equipada con 5 sistemas de seguridad integrados que proporcionan una experiencia de cocina sin riesgos, asegurando que prepares grandes cantidad de comidas eficientemente.\n* Su construcción en aluminio ofrece un manejo liviano y fácil, permitiendo que puedas moverla y utilizarla sin esfuerzo incluso durante largas jornadas de cocina.\n* Su versatilidad excepcional es perfecta para una variead de recetas, destacando por su capacidad de satisfacer diferentes necesidades culinarias con gran facilidad.\n* La elección ideal para quienes necesitan cocinar grandes volúmenes de alimentos rápidamente, asegurando la frescura y calidad en cada preparación.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-de-22-l-de-aluminio-segura-y-facil-de-utilizar/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000",
+    "skus": [
+      {
+        "sku_id": "1017",
+        "sku_name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2799.0,
+    "list_price": 2799.0,
     "on_sale": false
   },
   {
