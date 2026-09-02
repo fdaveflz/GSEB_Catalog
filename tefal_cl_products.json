@@ -1,5 +1,26 @@
 [
   {
+    "name": "Cafetera Espresso Coffee Crush Experience Krups",
+    "reference": "8010001480",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000",
+    "skus": [
+      {
+        "sku_id": "409",
+        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 339990.0,
+    "list_price": 449990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Acero Inoxidable Duetto 11 Piezas Tefal",
     "reference": "2100145345",
     "brand": "Tefal",
@@ -16,9 +37,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 149990.0,
+    "price": 119990.0,
     "list_price": 149990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Tabletas de Limpieza Cafeteras Krups",
@@ -37,9 +58,30 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 19990.0,
+    "price": 14990.0,
     "list_price": 19990.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Batería de Cocina Ingenio Serenity 11 Piezas Tefal",
+    "reference": "2100139710",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "ELEGANCIA MULTIFUNCIONAL: De la estufa al horno, al centro de tu mesa y luego al refrigerador, Ingenio Serenity es tan hermoso como funcional.|\nAHORRO DE ESPACIO: Ultraligero y apilable, el menaje de cocina de Ingenio ahorra hasta 2 veces más espacio que las ollas y sartenes convencionales.|\nREVESTIMIENTO ANTIADHERENTE MINERALIA: Descubre un rendimiento antiadherente duradero y un deslizamiento perfecto para una cocina fácil y baja en grasa todos los días.|\nASA RESISTENTE: El asa desmontable, seguro y patentado, puede soportar hasta 10 kg (pruebas internas) y viene con una garantía de 10 años*.|\nJUEGO DE 11 PIEZAS PARA COCINA DIARIA: Incluye 2 sartenes, 1 wok, 2 cacerolas con tapas de vidrio, 2 tapas de almacenamiento y 2 asas Ingenio a juego.|\nCOMPATIBILIDAD TOTAL Y APTO PARA HORNO: Compatible con estufas de gas, eléctricas, cerámicas e inducción, además de ser apto para horno.|\nSERVICIO EN LA MESA: El menaje de cocina Ingenio es un plato de servicio perfecto, tanto práctico como elegante.",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-ingenio-serenity-11-piezas-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000",
+    "skus": [
+      {
+        "sku_id": "372",
+        "sku_name": "Bateria De Cocina Ingenio Serenity 11 Piezas Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 109990.0,
+    "list_price": 144990.0,
+    "on_sale": true
   },
   {
     "name": "Wok 28cm Excellence Cerámica FusionCore Tefal",
@@ -58,9 +100,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 54990.0,
+    "price": 43990.0,
     "list_price": 54990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
@@ -79,9 +121,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 119990.0,
+    "price": 79990.0,
     "list_price": 119990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
@@ -100,9 +142,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 144990.0,
+    "price": 109990.0,
     "list_price": 144990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Coffee Crush Chai Krups",
@@ -121,9 +163,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 399990.0,
+    "price": 299990.0,
     "list_price": 399990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sarten 20 CM Excellence Plus Fusion Core Tefal",
@@ -142,9 +184,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 42990.0,
+    "price": 34990.0,
     "list_price": 42990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Vertical X-Force 8.8 Animal Rowenta",
@@ -163,9 +205,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 229990.0,
+    "price": 139990.0,
     "list_price": 229990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Trapeadora X - Clean 2 Rowenta",
@@ -184,9 +226,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 349990.0,
+    "price": 229990.0,
     "list_price": 349990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Compact Power Cyclonic XXL 2,5lt Rowenta Celeste",
@@ -205,9 +247,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 109990.0,
+    "price": 69990.0,
     "list_price": 109990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Acero inoxidable Ingenio 6 Piezas con mango Tefal",
@@ -226,9 +268,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 69990.0,
     "list_price": 99990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Virtuoso Steam&Pump Krups XP444C10/BA0",
@@ -247,9 +289,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 249990.0,
+    "price": 139990.0,
     "list_price": 249990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Lechero Krups + Accesorio Capuccino",
@@ -268,9 +310,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 49990.0,
+    "price": 39990.0,
     "list_price": 49990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Antiadherente Ingenio 12 Piezas con mangos Tefal",
@@ -289,9 +331,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 154990.0,
+    "price": 119990.0,
     "list_price": 154990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Mango Ingenio",
@@ -310,9 +352,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 19990.0,
+    "price": 14990.0,
     "list_price": 19990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
@@ -321,19 +363,19 @@
     "category": "Baterías de Cocina",
     "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
     "url": "https://www.tefalstore.cl/tefal-set-6-piezas-optispace/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000",
     "skus": [
       {
         "sku_id": "156",
         "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639035775613400000"
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 104990.0,
+    "price": 69990.0,
     "list_price": 104990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Tetera 3 Lts. Acero Inoxidable",
@@ -352,9 +394,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 27990.0,
+    "price": 18990.0,
     "list_price": 27990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a Presión Clipso Acero Inoxidable 7,5L Tefal",
@@ -373,9 +415,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 69990.0,
     "list_price": 99990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Full Auto My Coffee Steam Digital Krups",
@@ -394,9 +436,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 399990.0,
+    "price": 329990.0,
     "list_price": 399990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sarten 26 CM Excellence Plus Fusion Core Tefal",
@@ -415,15 +457,15 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 47990.0,
+    "price": 39990.0,
     "list_price": 47990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire Easy Fry Infra Red 7L Moulinex",
     "reference": "7211419891",
     "brand": "Moulinex",
-    "category": "Air Fryers",
+    "category": "Freidoras de Aire",
     "description": "TECNOLOGÍA PREMIUM INFRA-HEAT: realza los sabores de tu freidora de aire con la penetración directa del calor infrarrojo en los alimentos, para obtener sabores crujientes y jugosos.|\nMÁS RÁPIDA: 4 veces más rápido en calentarse que una freidora de aire clásica (la temperatura se mide en la superficie del elemento calefactor, prueba realizada en 2025 vs Moulinex EZ80).|\nMÁS CRUJIENTE, MÁS JUGOSA: 30% más crujiente que una freidora de aire clásica (prueba realizada en 2025 con tostadas vs Moulinex EZ80). Crujiente por fuera, jugosa por dentro.|\n7 PROGRAMAS PREESTABLECIDOS: para conseguir los sabores de fuego abierto que todos deseamos + función de acabado crujiente para disfrutar tu comida como más te guste.|\nREPARABILIDAD DE 15 AÑOS A UN PRECIO JUSTO: recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más tiempo.|\nVISIÓN CLARA: mejor cocción – obtener resultados sabrosos nunca ha sido tan fácil gracias a la ventana LED que permite monitorear la cocción para lograr el acabado crujiente perfecto.|\nGRAN CAPACIDAD: una freidora de aire generosa con capacidad de 7 L para ingredientes grandes como un pollo asado de 1,5 kg o 1,2 kg de papas fritas — ideal para 6-8 personas.|\nFÁCIL DE LIMPIAR: la canasta antiadherente para freír al aire, apta para lavavajillas, garantiza una limpieza sencilla y una experiencia de cocina sin estrés.",
     "url": "https://www.tefalstore.cl/freidora-de-aire-easy-fry-con-tecnologia-infaroja-7l-moulinex/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206141/proyecto-nuevo-1.jpg?v=639161610136170000",
@@ -436,9 +478,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 149990.0,
+    "price": 99990.0,
     "list_price": 149990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Mango Ingenio Rojo Tefal",
@@ -478,30 +520,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 649990.0,
+    "price": 499990.0,
     "list_price": 649990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sarten 20 CM Renew Cerámica Tefal",
-    "reference": "2100144951",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "COCINA ANTIADHERENTE FÁCIL: Inoceram es el recubrimiento cerámico antiadherente de nueva generación que ofrece un deslizamiento sin esfuerzo—para una cocina fácil y baja en gras°|\n\nCUERPO DE ALUMINIO 100% RECICLADO: El enfoque de ecodiseño de Tefal con un cuerpo de aluminio 100% reciclado, metal reciclable y embalaje con un 90% de fibras recicladas|\n\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve completamente roja cuando la sartén ha alcanzado la temperatura ideal de inicio, garantizando resultados perfectos|\n\nCOMPATIBILIDAD TOTAL: Compatible con cocinas de gas, eléctricas, cerámicas e inducción|\n\nLIMPIEZA FÁCIL: Recubrimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo|\n\nFORMATO ESENCIAL: Para recetas saludables llenas de sabor, como pescado con limón y eneldo, espárragos sellados y hamburguesas vegetales crujientes sin aceite añadido|\n\nFABRICADO EN FRANCIA: Combinando innovación, conocimiento experto y materiales de primera calidad, nuestras fábricas locales exportan la excelencia francesa en todo el mundo|\n\nCOMPROMISOS DE TEFAL EN CALIDAD Y EXPERIENCIA: Inventor de las sartenes antiadherentes, Tefal fabrica sus productos con un alto nivel de calidad y experiencia",
-    "url": "https://www.tefalstore.cl/sarten-20-cm-renew-ceramica-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206064/01-portada-5bf62fb5-dca0-43eb-855a-2e3dc70c721e.jpg?v=639156153633570000",
-    "skus": [
-      {
-        "sku_id": "400",
-        "sku_name": "Sarten 20 CM Renew Cerámica Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206064/01-portada-5bf62fb5-dca0-43eb-855a-2e3dc70c721e.jpg?v=639156153633570000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 32990.0,
-    "list_price": 32990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sarten 28 CM Renew Ceramica Tefal",
@@ -520,9 +541,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 41990.0,
+    "price": 34990.0,
     "list_price": 41990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
@@ -541,9 +562,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 44990.0,
+    "price": 36990.0,
     "list_price": 44990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set de Ollas Acero Inoxidable 5 Piezas Comfort Max Tefal",
@@ -583,9 +604,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 149990.0,
+    "price": 79990.0,
     "list_price": 149990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Ceramica Change 5 Piezas Tefal",
@@ -604,9 +625,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 69990.0,
     "list_price": 99990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set 3 ollas antiadherente 16/18/20 cm + mango Removible Ingenio Tefal",
@@ -625,9 +646,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 79990.0,
+    "price": 59990.0,
     "list_price": 79990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Wok antiadherente 26 cm Ingenio Tefal",
@@ -646,9 +667,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 28990.0,
+    "price": 24990.0,
     "list_price": 28990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set 3 Tapas Plásticas 16/18/20 cm Ingenio Tefal",
@@ -667,9 +688,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 18990.0,
+    "price": 14990.0,
     "list_price": 18990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sárten 24 cm acero Inoxidable Primary Tefal",
@@ -688,9 +709,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 21990.0,
+    "price": 18990.0,
     "list_price": 21990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cuchillo Santoku 18cm Ice Force Tefal",
@@ -709,9 +730,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 22990.0,
+    "price": 14990.0,
     "list_price": 22990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Acero Inoxidable Elementary 7 PCS Tefal",
@@ -730,9 +751,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 79990.0,
+    "price": 59990.0,
     "list_price": 79990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla 30 cm  + tapa Super Cook",
@@ -751,9 +772,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 41990.0,
+    "price": 32990.0,
     "list_price": 41990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla 22 cm  + tapa Super Cook",
@@ -772,9 +793,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 22990.0,
+    "price": 18990.0,
     "list_price": 22990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Ciclónica Greenforce Max Classic Rowenta",
@@ -793,9 +814,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 219990.0,
+    "price": 149990.0,
     "list_price": 219990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Molinillo de Café 17 Niveles Krups",
@@ -814,30 +835,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 74990.0,
+    "price": 44990.0,
     "list_price": 74990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Bateria de cocina Antiadherente Easy Care 20 PCS Rojo Tefal",
-    "reference": "2100124693",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Revestimiento de titanio de alta calidad ofrece un rendimiento antiadherente excepcional.|\nBase de difusión que garantiza una distribución uniforme del calor para obtener resultados homogéneos.|\nIndicador de calor Thermo-Signal, cambia de color cuando sartén se encuentra en una temperatura óptima para comenzar a cocinar.|\nCompatible con todas las cocinas, excepto las de inducción.|\nLibre de PFOA, sin cadmio y sin plomo.|\nSet de 20 piezas: Sartén 12/20/ 24 cm, Olla 24cm, Plancha 26x26cm, guisera 30cm, cucharas medidoras y cucharones",
-    "url": "https://www.tefalstore.cl/tefal-bateria-de-cocina-20-piezas-easy-care-rojo/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201401/1.jpg?v=638683319066100000",
-    "skus": [
-      {
-        "sku_id": "260",
-        "sku_name": "Bateria de cocina Antiadherente Easy Care 20 PCS Rojo",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201401/1.jpg?v=638683319066100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 139990.0,
-    "list_price": 139990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batidora de inmersión 3 en 1 Quickchef Moulinex",
@@ -856,9 +856,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 39990.0,
     "list_price": 59990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha de Vapor Expertis Anti Calc Rowenta",
@@ -877,9 +877,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 109990.0,
+    "price": 69990.0,
     "list_price": 109990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Paila con Tapa 16 cm",
@@ -898,9 +898,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 8990.0,
+    "price": 7990.0,
     "list_price": 8990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartenes 24/30 cm EASY COOK",
@@ -919,9 +919,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 29990.0,
+    "price": 22990.0,
     "list_price": 29990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla Cocotte Air 24 cm",
@@ -940,9 +940,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 62990.0,
+    "price": 44990.0,
     "list_price": 62990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Intuition Preference Touch + Lechero",
@@ -961,9 +961,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 1299990.0,
+    "price": 649990.0,
     "list_price": 1299990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Full Auto Display Roja + Lechero",
@@ -982,9 +982,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 599990.0,
+    "price": 449990.0,
     "list_price": 599990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a Presión Secure Compact Acero Inoxidable 8L Tefal",
@@ -1003,9 +1003,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 69990.0,
+    "price": 54990.0,
     "list_price": 69990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a Presión Secure Compact Acero Inoxidable 6L Tefal",
@@ -1024,9 +1024,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 44990.0,
     "list_price": 59990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Acero Inoxidable Primary 11 PCS Tefal",
@@ -1045,9 +1045,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 69990.0,
     "list_price": 99990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 30 cm Super Cook",
@@ -1066,9 +1066,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 21990.0,
+    "price": 16990.0,
     "list_price": 21990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 20 cm Super Cook",
@@ -1087,9 +1087,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 14990.0,
+    "price": 11990.0,
     "list_price": 14990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Full Auto",
@@ -1108,9 +1108,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 499990.0,
+    "price": 359990.0,
     "list_price": 499990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Panquequera 28 CM Renew Cerámica Tefal",
@@ -1129,30 +1129,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 31990.0,
     "list_price": 39990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sarten 24 CM Renew Ceramica Tefal",
-    "reference": "2100144947",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "COCINA ANTIADHERENTE FÁCIL: Inoceram es el recubrimiento cerámico antiadherente de nueva generación que ofrece un deslizamiento sin esfuerzo—para una cocina fácil y baja en gras°|\n\nCUERPO DE ALUMINIO 100% RECICLADO: El enfoque de ecodiseño de Tefal con un cuerpo de aluminio 100% reciclado, metal reciclable y embalaje con un 90% de fibras recicladas|\n\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve completamente roja cuando la sartén ha alcanzado la temperatura ideal de inicio, garantizando resultados perfectos|\n\nCOMPATIBILIDAD TOTAL: Compatible con cocinas de gas, eléctricas, cerámicas e inducción|\n\nLIMPIEZA FÁCIL: Recubrimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo|\n\nFORMATO ESENCIAL: Para recetas saludables llenas de sabor, como pescado con limón y eneldo, espárragos sellados y hamburguesas vegetales crujientes sin aceite añadido|\n\nFABRICADO EN FRANCIA: Combinando innovación, conocimiento experto y materiales de primera calidad, nuestras fábricas locales exportan la excelencia francesa en todo el mundo|\n\nCOMPROMISOS DE TEFAL EN CALIDAD Y EXPERIENCIA: Inventor de las sartenes antiadherentes, Tefal fabrica sus productos con un alto nivel de calidad y experiencia",
-    "url": "https://www.tefalstore.cl/sarten-24-cm-renew-ceramica-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205950/01-portada.jpg?v=639137853928330000",
-    "skus": [
-      {
-        "sku_id": "398",
-        "sku_name": "Sarten 24 CM Renew Ceramica Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205950/01-portada.jpg?v=639137853928330000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 36990.0,
-    "list_price": 36990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Vertical X-FORCE Flex 16.6 Animal Aqua Head Rowenta",
@@ -1171,9 +1150,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 899990.0,
+    "price": 699990.0,
     "list_price": 899990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cuchillo de chef Eversharp Pro Con Afilador + Taco Tefal",
@@ -1192,9 +1171,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 42990.0,
+    "price": 33990.0,
     "list_price": 42990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Picadora Glass Bowl XL 2LT 500W Moulinex",
@@ -1213,9 +1192,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 49990.0,
+    "price": 36990.0,
     "list_price": 49990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Alisador de pelo Thermocare 5 Niveles Rowenta",
@@ -1234,9 +1213,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 129990.0,
+    "price": 89990.0,
     "list_price": 129990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Authentic Grey Krups",
@@ -1255,9 +1234,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 179990.0,
+    "price": 99990.0,
     "list_price": 179990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Hervidor Morning 1,7L Eucalipto Moulinex",
@@ -1276,9 +1255,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 24990.0,
     "list_price": 39990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería de cocina acero inoxidable 10 piezas Intuition Tefal",
@@ -1305,7 +1284,7 @@
     "name": "Aspiradora Trapeadora X - Clean 4 Rowenta",
     "reference": "2211401351",
     "brand": "Rowenta",
-    "category": "Aspiradoras Trapeadoras",
+    "category": "Aspiradoras Inalámbricas",
     "description": "LIMPIEZA 2 EN 1: Aspiradora inalámbrica en seco y húmedo que ahorra tiempo al aspirar y lavar en una sola pasada, con resultados perfectos en todo tipo de suelos duros (madera, mármol, laminado y cerámica).|\nDETECCIÓN INTELIGENTE DE SUCIEDAD: Sensor automático con indicadores de color en pantalla LED—rojo para zonas sucias y azul para zonas limpias—y ajuste automático de la velocidad de rotación del rodillo y del flujo de agua para resultados óptimos.|\nAUTONOMÍA EXTRA LARGA: Limpieza sin cables con hasta 50 minutos de duración para cubrir hasta 350 m² (*según distribución y mobiliario del hogar).|\nLIMPIEZA SIN ESFUERZO: Diseño ultraligero con rodillo autopropulsado que reduce el esfuerzo de limpieza hasta en un 75 %, con ergonomía fluida y estética moderna. |\nSISTEMA DE AUTOLIMPIEZA MANOS LIBRES: Activa la función de autolimpieza con solo presionar un botón; limpia el rodillo y déjalo secar para que esté listo en la próxima sesión.|\nLIMPIEZA DE BORDES: Cepillo lateral integrado que llega a bordes y esquinas difíciles, dejando tu hogar impecable incluso en áreas de difícil acceso.|\nSISTEMA CONSTANT CLEAN: Mantiene el flujo continuo de agua limpia hacia el rodillo mientras succiona el agua sucia hacia un segundo tanque aislado.|\nCOMPATIBILIDAD EXCELENTE: Para una limpieza profunda adicional, se puede usar con detergentes de nuestra lista de compatibilidad, incluyendo los más comunes del hogar.|\nINCLUYE EN LA CAJA: Aspiradora inalámbrica en seco y húmedo, rodillo adicional de limpieza suave, cepillo lateral, filtros de espuma secos y anti-impacto, cargador, base de carga y limpieza, cepillo de limpieza.",
     "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x---clean-4-rowenta/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000",
@@ -1318,9 +1297,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 499990.0,
+    "price": 399990.0,
     "list_price": 499990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Hervidor Subito 5 1,7 L Inox Negro Moulinex",
@@ -1339,9 +1318,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 29990.0,
     "list_price": 39990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set sartenes 20/26cm Easy Cook Tefal",
@@ -1360,9 +1339,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 24990.0,
+    "price": 18990.0,
     "list_price": 24990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire Easy Fry XL Surface 4L Moulinex",
@@ -1381,9 +1360,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 169990.0,
+    "price": 99990.0,
     "list_price": 169990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
@@ -1402,9 +1381,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 49990.0,
+    "price": 34990.0,
     "list_price": 49990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Tapa de Cristal 24 cm Ingenio Tefal",
@@ -1423,9 +1402,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 24870.0,
+    "price": 14990.0,
     "list_price": 24870.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Personal Blend Up 1000W Moulinex",
@@ -1444,9 +1423,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 129990.0,
+    "price": 79990.0,
     "list_price": 129990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sárten 28cm acero Inoxidable Primary",
@@ -1465,9 +1444,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 27490.0,
+    "price": 24990.0,
     "list_price": 27490.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla 24cm acero inoxidable Primary",
@@ -1486,9 +1465,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 34990.0,
+    "price": 29990.0,
     "list_price": 34990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Antiadherente Talent 7 Piezas Tefal",
@@ -1507,9 +1486,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 79990.0,
+    "price": 59990.0,
     "list_price": 79990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Ventilador pedestal Turbo Silence Fan 16'' 32 W Rowenta",
@@ -1528,9 +1507,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 89990.0,
+    "price": 59990.0,
     "list_price": 89990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de aire Easy Fry & Grill Digital Dual 8,3L Moulinex",
@@ -1549,9 +1528,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 219990.0,
+    "price": 139990.0,
     "list_price": 219990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Wok de cerámica 28 cm Reinvent Tefal",
@@ -1570,9 +1549,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 46990.0,
+    "price": 29990.0,
     "list_price": 46990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set Sartenes Ingenio 22/26 cm + mango",
@@ -1591,9 +1570,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 62990.0,
+    "price": 49990.0,
     "list_price": 62990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Antiadherente Easy Care 20 Piezas Negro Tefal",
@@ -1612,9 +1591,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 139990.0,
+    "price": 89990.0,
     "list_price": 139990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Horno Freidora de aire Easy Fry & Grill digital 11 L 9 en 1 Moulinex",
@@ -1633,9 +1612,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 179990.0,
+    "price": 109990.0,
     "list_price": 179990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Antiadherente Super cook 12 PCS Tefal",
@@ -1654,9 +1633,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 129990.0,
+    "price": 89990.0,
     "list_price": 129990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha de Vapor Eco Intelligence Rowenta",
@@ -1675,9 +1654,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 89990.0,
+    "price": 59990.0,
     "list_price": 89990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Antiadherente Super Cook 9 Piezas Tefal",
@@ -1696,9 +1675,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 94990.0,
+    "price": 64990.0,
     "list_price": 94990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla Cocotte Air 20 cm",
@@ -1717,9 +1696,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 52990.0,
+    "price": 36990.0,
     "list_price": 52990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 28 cm XL Intense",
@@ -1738,9 +1717,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 28990.0,
+    "price": 18990.0,
     "list_price": 28990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a Presión Easy Aluminio 6L Tefal",
@@ -1759,9 +1738,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 49990.0,
+    "price": 34990.0,
     "list_price": 49990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora de Inmersión Minipimer Infinyforce Pro 4 en 1 1200 W Moulinex",
@@ -1780,9 +1759,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 59990.0,
     "list_price": 99990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Secador de Pelo Maestria For You Rowenta",
@@ -1801,9 +1780,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 249990.0,
+    "price": 149990.0,
     "list_price": 249990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha Steam Irons Effective Rowenta",
@@ -1822,9 +1801,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 49990.0,
+    "price": 30990.0,
     "list_price": 49990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla 24 cm + tapa Super Cook Tefal",
@@ -1843,9 +1822,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 27990.0,
+    "price": 22990.0,
     "list_price": 27990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Molde Torta Desmontable 25cm Delibake Tefal",
@@ -1885,9 +1864,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 22990.0,
     "list_price": 39990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería de cocina antiadherente 16 piezas Culinare Champagne Tefal",
@@ -1927,9 +1906,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 29990.0,
     "list_price": 39990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Hervidor de vidrio Snow White 1,7L Moulinex",
@@ -1948,9 +1927,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 44990.0,
+    "price": 29990.0,
     "list_price": 44990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Guisera 24 cm Ingenio Tefal",
@@ -1969,9 +1948,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 28990.0,
+    "price": 24990.0,
     "list_price": 28990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería de cocina Antiadherente Super Cook 5 PCS Tefal",
@@ -1990,9 +1969,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 79990.0,
+    "price": 39990.0,
     "list_price": 79990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set 4 cuchillos 11cm Ice Force Tefal",
@@ -2011,9 +1990,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 24990.0,
     "list_price": 39990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Ciclónica Swift Power Azul 1.5L Rowenta",
@@ -2032,9 +2011,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 59990.0,
     "list_price": 99990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Blendforce Negra 2V + Pulse 800W Moulinex",
@@ -2053,9 +2032,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 39990.0,
     "list_price": 59990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Contenedor de alimentos Masterseal Fresh Set 5 piezas 0,15/0,25/0,55/1,0/3,70L",
@@ -2074,9 +2053,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 24990.0,
+    "price": 18990.0,
     "list_price": 24990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Set 2 Mini-Cocotte Air 11 cm",
@@ -2095,9 +2074,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 29990.0,
     "list_price": 39990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Picadora Manual 5-Second Chopper",
@@ -2116,9 +2095,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 21990.0,
+    "price": 14990.0,
     "list_price": 21990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Tostador Soleil Moulinex",
@@ -2137,9 +2116,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 32990.0,
+    "price": 24990.0,
     "list_price": 32990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Evidence Plus + Lechero",
@@ -2158,9 +2137,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 999990.0,
+    "price": 499990.0,
     "list_price": 999990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Kit de pastelería Cuisine Companion XL",
@@ -2200,9 +2179,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 999990.0,
+    "price": 799990.0,
     "list_price": 999990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Intuition HOT & COLD TITANIUM Touch Krups",
@@ -2221,9 +2200,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 1299990.0,
+    "price": 979990.0,
     "list_price": 1299990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Portátil Light Mix Amarillo 0,3L Moulinex",
@@ -2242,9 +2221,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 49990.0,
+    "price": 39990.0,
     "list_price": 49990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Vertical X Pert 5.8 Digital Allergy Rowenta",
@@ -2263,9 +2242,51 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 159990.0,
+    "price": 109990.0,
     "list_price": 159990.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Sarten 20 CM Renew Cerámica Tefal",
+    "reference": "2100144951",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "COCINA ANTIADHERENTE FÁCIL: Inoceram es el recubrimiento cerámico antiadherente de nueva generación que ofrece un deslizamiento sin esfuerzo—para una cocina fácil y baja en gras°|\n\nCUERPO DE ALUMINIO 100% RECICLADO: El enfoque de ecodiseño de Tefal con un cuerpo de aluminio 100% reciclado, metal reciclable y embalaje con un 90% de fibras recicladas|\n\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve completamente roja cuando la sartén ha alcanzado la temperatura ideal de inicio, garantizando resultados perfectos|\n\nCOMPATIBILIDAD TOTAL: Compatible con cocinas de gas, eléctricas, cerámicas e inducción|\n\nLIMPIEZA FÁCIL: Recubrimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo|\n\nFORMATO ESENCIAL: Para recetas saludables llenas de sabor, como pescado con limón y eneldo, espárragos sellados y hamburguesas vegetales crujientes sin aceite añadido|\n\nFABRICADO EN FRANCIA: Combinando innovación, conocimiento experto y materiales de primera calidad, nuestras fábricas locales exportan la excelencia francesa en todo el mundo|\n\nCOMPROMISOS DE TEFAL EN CALIDAD Y EXPERIENCIA: Inventor de las sartenes antiadherentes, Tefal fabrica sus productos con un alto nivel de calidad y experiencia",
+    "url": "https://www.tefalstore.cl/sarten-20-cm-renew-ceramica-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206064/01-portada-5bf62fb5-dca0-43eb-855a-2e3dc70c721e.jpg?v=639156153633570000",
+    "skus": [
+      {
+        "sku_id": "400",
+        "sku_name": "Sarten 20 CM Renew Cerámica Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206064/01-portada-5bf62fb5-dca0-43eb-855a-2e3dc70c721e.jpg?v=639156153633570000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 27990.0,
+    "list_price": 32990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sarten 24 CM Renew Ceramica Tefal",
+    "reference": "2100144947",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "COCINA ANTIADHERENTE FÁCIL: Inoceram es el recubrimiento cerámico antiadherente de nueva generación que ofrece un deslizamiento sin esfuerzo—para una cocina fácil y baja en gras°|\n\nCUERPO DE ALUMINIO 100% RECICLADO: El enfoque de ecodiseño de Tefal con un cuerpo de aluminio 100% reciclado, metal reciclable y embalaje con un 90% de fibras recicladas|\n\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve completamente roja cuando la sartén ha alcanzado la temperatura ideal de inicio, garantizando resultados perfectos|\n\nCOMPATIBILIDAD TOTAL: Compatible con cocinas de gas, eléctricas, cerámicas e inducción|\n\nLIMPIEZA FÁCIL: Recubrimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo|\n\nFORMATO ESENCIAL: Para recetas saludables llenas de sabor, como pescado con limón y eneldo, espárragos sellados y hamburguesas vegetales crujientes sin aceite añadido|\n\nFABRICADO EN FRANCIA: Combinando innovación, conocimiento experto y materiales de primera calidad, nuestras fábricas locales exportan la excelencia francesa en todo el mundo|\n\nCOMPROMISOS DE TEFAL EN CALIDAD Y EXPERIENCIA: Inventor de las sartenes antiadherentes, Tefal fabrica sus productos con un alto nivel de calidad y experiencia",
+    "url": "https://www.tefalstore.cl/sarten-24-cm-renew-ceramica-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205950/01-portada.jpg?v=639137853928330000",
+    "skus": [
+      {
+        "sku_id": "398",
+        "sku_name": "Sarten 24 CM Renew Ceramica Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205950/01-portada.jpg?v=639137853928330000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 29990.0,
+    "list_price": 36990.0,
+    "on_sale": true
   },
   {
     "name": "Wok 26 CM Renew Ceramica Tefal",
@@ -2284,9 +2305,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 34990.0,
     "list_price": 39990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Contenedor hermetico de alimentos ONECLICK SET Azul 3 Piezas 0.5L Tefal",
@@ -2305,9 +2326,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 24990.0,
+    "price": 18990.0,
     "list_price": 24990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Contenedor hermetico de alimentos ONECLICK Azul 0,5/1,2/2,3L Tefal",
@@ -2326,9 +2347,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 34990.0,
+    "price": 24990.0,
     "list_price": 34990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Vertical X-FORCE Flex 14.8 Aqua Head Rowenta",
@@ -2347,9 +2368,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 599990.0,
+    "price": 489990.0,
     "list_price": 599990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Rizador de Pelo flex Curl 3 Ajustes con tecnologia sensor Rowenta",
@@ -2368,9 +2389,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 129990.0,
+    "price": 79990.0,
     "list_price": 129990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Secador Alisador Air Motion Rowenta",
@@ -2389,9 +2410,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 169990.0,
+    "price": 109990.0,
     "list_price": 169990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Molde Tarta Desmontable 25cm Delibake Tefal",
@@ -2431,9 +2452,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 37990.0,
+    "price": 26990.0,
     "list_price": 37990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cepillo de aire caliente y Secador de pelo 2 en 1 Reverso Negro Rowenta",
@@ -2452,9 +2473,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 129990.0,
+    "price": 89990.0,
     "list_price": 129990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Secador de pelo Maestría Nano Negro Rowenta",
@@ -2473,9 +2494,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 149990.0,
+    "price": 99990.0,
     "list_price": 149990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Authentic Black Krups",
@@ -2494,9 +2515,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 179990.0,
+    "price": 109990.0,
     "list_price": 179990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Hervidor Morning 1,7L Negro Moulinex",
@@ -2515,9 +2536,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 28990.0,
+    "price": 22990.0,
     "list_price": 28990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batidora de inmersión TurboMix Moulinex",
@@ -2536,9 +2557,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 29990.0,
+    "price": 17990.0,
     "list_price": 29990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora PerfectMix Cook 1400W 2L Moulinex",
@@ -2557,9 +2578,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 199990.0,
+    "price": 139990.0,
     "list_price": 199990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Hervidor Subito Inox 1,7L Gris Moulinex",
@@ -2578,9 +2599,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
+    "price": 29990.0,
     "list_price": 39990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Vertical X-Nano Essential Rowenta",
@@ -2599,9 +2620,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 149990.0,
+    "price": 89990.0,
     "list_price": 149990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Aspiradora Ciclónica Compact Power XXL 2,5L Rowenta Negra",
@@ -2620,9 +2641,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 109990.0,
+    "price": 79990.0,
     "list_price": 109990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaporizador Prendas Manual Pure Pop Amarillo Rowenta",
@@ -2641,9 +2662,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 49990.0,
+    "price": 34990.0,
     "list_price": 49990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaporizador de Prendas Manual Pure Pop Rojo  Rowenta",
@@ -2662,9 +2683,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 49990.0,
+    "price": 34990.0,
     "list_price": 49990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire Easy Fry Essential Mecanica 3,5L Moulinex",
@@ -2683,9 +2704,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 74990.0,
+    "price": 49990.0,
     "list_price": 74990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire Easy Fry Digital Max Forest 5L Moulinex",
@@ -2704,9 +2725,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 119990.0,
+    "price": 64990.0,
     "list_price": 119990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Horno Electrico Moulinex 28L 1600W",
@@ -2725,9 +2746,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 109990.0,
+    "price": 79990.0,
     "list_price": 109990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Horno Electrico Moulinex 60L con función Freidora de Aire",
@@ -2746,9 +2767,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 159990.0,
+    "price": 139990.0,
     "list_price": 159990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Optimix Negra 2V 500W Moulinex",
@@ -2767,9 +2788,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 32990.0,
+    "price": 24990.0,
     "list_price": 32990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Ventilador pedestal Turbo Essential 15'' 40W Rowenta",
@@ -2788,9 +2809,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 69990.0,
+    "price": 49990.0,
     "list_price": 69990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora PerfectMix+ 1200W Digital Moulinex",
@@ -2809,9 +2830,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 119990.0,
+    "price": 69990.0,
     "list_price": 119990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cuchillo Pan 20cm Ice Force Tefal",
@@ -2830,9 +2851,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 18490.0,
+    "price": 14990.0,
     "list_price": 18490.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Tenedor para trinchar 21 cm Ice Force Tefal",
@@ -2851,9 +2872,30 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 12790.0,
+    "price": 7990.0,
     "list_price": 12790.0,
-    "on_sale": false
+    "on_sale": true
+  },
+  {
+    "name": "Bateria de cocina Antiadherente Easy Care 20 PCS Rojo Tefal",
+    "reference": "2100124693",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Revestimiento de titanio de alta calidad ofrece un rendimiento antiadherente excepcional.|\nBase de difusión que garantiza una distribución uniforme del calor para obtener resultados homogéneos.|\nIndicador de calor Thermo-Signal, cambia de color cuando sartén se encuentra en una temperatura óptima para comenzar a cocinar.|\nCompatible con todas las cocinas, excepto las de inducción.|\nLibre de PFOA, sin cadmio y sin plomo.|\nSet de 20 piezas: Sartén 12/20/ 24 cm, Olla 24cm, Plancha 26x26cm, guisera 30cm, cucharas medidoras y cucharones",
+    "url": "https://www.tefalstore.cl/tefal-bateria-de-cocina-20-piezas-easy-care-rojo/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201401/1.jpg?v=638683319066100000",
+    "skus": [
+      {
+        "sku_id": "260",
+        "sku_name": "Bateria de cocina Antiadherente Easy Care 20 PCS Rojo",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201401/1.jpg?v=638683319066100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 89990.0,
+    "list_price": 139990.0,
+    "on_sale": true
   },
   {
     "name": "Licuadora Blendforce Rojo 2V + Pulse 800W Moulinex",
@@ -2872,9 +2914,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 39990.0,
     "list_price": 59990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Personal Tritan Mix & Move 300W Moulinex",
@@ -2893,9 +2935,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 44990.0,
+    "price": 34990.0,
     "list_price": 44990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Blendforce Blanco 2V + Pulse 800W Moulinex",
@@ -2914,9 +2956,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 39990.0,
     "list_price": 59990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha de Vapor Promaster Excel Rowenta",
@@ -2935,9 +2977,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 64990.0,
     "list_price": 99990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha de Vapor Focus Excel Rowenta",
@@ -2956,9 +2998,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 79990.0,
+    "price": 56990.0,
     "list_price": 79990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire Essential Mecánica 3,2L Moulinex",
@@ -2977,9 +3019,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 74990.0,
+    "price": 39990.0,
     "list_price": 74990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Cafetera Espresso Full Auto Display Blanca + Lechero",
@@ -2998,9 +3040,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 599990.0,
+    "price": 449990.0,
     "list_price": 599990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batidora de Inmersión con vaso 450W Moulinex",
@@ -3019,9 +3061,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 32990.0,
+    "price": 24990.0,
     "list_price": 32990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire Easy Fry & Grill Mecánica 4,2L Moulinex",
@@ -3040,9 +3082,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 99990.0,
+    "price": 64990.0,
     "list_price": 99990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Vaporera Cuisine Companion XL",
@@ -3082,9 +3124,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 37990.0,
+    "price": 27990.0,
     "list_price": 37990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 26 cm Super Cook",
@@ -3103,9 +3145,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 17990.0,
+    "price": 14990.0,
     "list_price": 17990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 24 cm Super Cook",
@@ -3124,9 +3166,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 15990.0,
+    "price": 12990.0,
     "list_price": 15990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bolso Negro Cuisine Companion XL",
@@ -3166,9 +3208,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 79990.0,
+    "price": 49990.0,
     "list_price": 79990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Freidora de Aire Easy Fry Deluxe 4,2L Moulinex",
@@ -3187,9 +3229,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 104990.0,
+    "price": 69990.0,
     "list_price": 104990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Plancha de Vapor Vertical ProStyle Negro Rowenta",
@@ -3208,9 +3250,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 109990.0,
+    "price": 69990.0,
     "list_price": 109990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Picadora 1,2,3 AD6011CL 1,25L 750W Moulinex",
@@ -3229,9 +3271,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 44990.0,
+    "price": 38990.0,
     "list_price": 44990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bateria de cocina Antiadherente Platinum Negro 12 Piezas Tefal",
@@ -3250,9 +3292,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 124990.0,
+    "price": 79990.0,
     "list_price": 124990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Olla a Presión Easy Aluminio 7.6L Tefal",
@@ -3271,9 +3313,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 59990.0,
+    "price": 49990.0,
     "list_price": 59990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Sartén 26 cm XL Intense",
@@ -3292,30 +3334,9 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 26990.0,
+    "price": 18990.0,
     "list_price": 26990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Cafetera Espresso Coffee Crush Experience Krups",
-    "reference": "8010001480",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000",
-    "skus": [
-      {
-        "sku_id": "409",
-        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 449990.0,
-    "list_price": 449990.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
@@ -3504,27 +3525,6 @@
     "country": "Chile",
     "price": 699990.0,
     "list_price": 699990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Batería de Cocina Ingenio Serenity 11 Piezas Tefal",
-    "reference": "2100139710",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "ELEGANCIA MULTIFUNCIONAL: De la estufa al horno, al centro de tu mesa y luego al refrigerador, Ingenio Serenity es tan hermoso como funcional.|\nAHORRO DE ESPACIO: Ultraligero y apilable, el menaje de cocina de Ingenio ahorra hasta 2 veces más espacio que las ollas y sartenes convencionales.|\nREVESTIMIENTO ANTIADHERENTE MINERALIA: Descubre un rendimiento antiadherente duradero y un deslizamiento perfecto para una cocina fácil y baja en grasa todos los días.|\nASA RESISTENTE: El asa desmontable, seguro y patentado, puede soportar hasta 10 kg (pruebas internas) y viene con una garantía de 10 años*.|\nJUEGO DE 11 PIEZAS PARA COCINA DIARIA: Incluye 2 sartenes, 1 wok, 2 cacerolas con tapas de vidrio, 2 tapas de almacenamiento y 2 asas Ingenio a juego.|\nCOMPATIBILIDAD TOTAL Y APTO PARA HORNO: Compatible con estufas de gas, eléctricas, cerámicas e inducción, además de ser apto para horno.|\nSERVICIO EN LA MESA: El menaje de cocina Ingenio es un plato de servicio perfecto, tanto práctico como elegante.",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-ingenio-serenity-11-piezas-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000",
-    "skus": [
-      {
-        "sku_id": "372",
-        "sku_name": "Bateria De Cocina Ingenio Serenity 11 Piezas Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 144990.0,
-    "list_price": 144990.0,
     "on_sale": false
   },
   {
