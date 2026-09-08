@@ -105,27 +105,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén Excellence+ 20cm Fusion Core",
-    "reference": "2100139014",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
-    "url": "https://www.t-fal.com.mx/sarten-excellence--20cm-fusion-core/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000",
-    "skus": [
-      {
-        "sku_id": "1094",
-        "sku_name": "Sartén Excellence+ 20cm Fusion Core",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1199.0,
-    "list_price": 1499.0,
-    "on_sale": true
-  },
-  {
     "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
     "reference": "2100139936",
     "brand": "T-fal",
@@ -627,27 +606,6 @@
     "country": "México",
     "price": 3989.0,
     "list_price": 3989.0,
-    "on_sale": false
-  },
-  {
-    "name": "Batería Excite Bronze 14 pzas antiadherente",
-    "reference": "2100108568",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Recubrimiento antiadherente de alta resistencia que permite cocinar con menos grasa y asegura una limpieza sencilla tras cada uso. \n* Tapas de vidrio con salida de vapor. \n* Diseñadas para controlar el proceso de cocción sin necesidad de levantarlas ni perder calor. \n* Base difusora que distribuye el calor uniformemente. \n* Evitando puntos calientes y garantizando resultados homogéneos en cada preparación. \n* Incluye utensilios prácticos como escurridor y cucharas medidoras. \n* libres de BPA y resistentes al calor para mayor seguridad. \n* Compatible con todas las cocinas excepto inducción y apta para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/bateria-excite-bronze-14-pzas-antiadherente/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000",
-    "skus": [
-      {
-        "sku_id": "966",
-        "sku_name": "Batería Excite Bronze 14 pzas antiadherente",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
     "on_sale": false
   },
   {
@@ -1299,6 +1257,27 @@
     "country": "México",
     "price": 1999.0,
     "list_price": 2499.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén Excellence+ 20cm Fusion Core",
+    "reference": "2100139014",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
+    "url": "https://www.t-fal.com.mx/sarten-excellence--20cm-fusion-core/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000",
+    "skus": [
+      {
+        "sku_id": "1094",
+        "sku_name": "Sartén Excellence+ 20cm Fusion Core",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1199.0,
+    "list_price": 1499.0,
     "on_sale": true
   },
   {
@@ -2589,12 +2568,12 @@
     "category": "Exprimidores y extractores de jugo",
     "description": "* Empieza cada mañana con el mejor aliado T-Fal “Frutelia” Extractor de Jugos con el poder de 350W, 2 velocidades y función pulso para cortar, exprimir y licuar cualquier fruta o verdura y obtener lo mejor de cada ingrediente.\n* Su depósito de pulpa de 950 ml tiene la capacidad perfecta para cualquier ocasión, tanto para un uso diario como para cuando tengas invitados: este tamaño te permitirá alargar tu sesiones de exprimido y extracción.\n* Posee un motor de alto rendimiento de 350w de potencia.\n* Su diseño coincide con la calidad de sus resultados, cuenta con estabilidad, base antideslizante para mantener el extractor fijo en la superficie sin riesgo de deslizamiento ni caída y dos asas ergonómicas de bloqueo fácil para un cómodo transporte y de cómodo almacenamiento.\n* Frutelia es el extractor ideal para consumir las vitaminas y minerales del día a día.",
     "url": "https://www.t-fal.com.mx/extractor-de-jugo-frutelia/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA PLUS METAL 400W 00.webp?v=639144643119830000",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA-PLUS-METAL-400W-00.webp?v=639244116646500000",
     "skus": [
       {
         "sku_id": "990",
         "sku_name": "Extractor de Jugo Frutelia",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA PLUS METAL 400W 00.webp?v=639144643119830000"
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA-PLUS-METAL-400W-00.webp?v=639244116646500000"
       }
     ],
     "site": "T-Fal México",
@@ -2854,6 +2833,27 @@
     "price": 6819.0,
     "list_price": 8499.0,
     "on_sale": true
+  },
+  {
+    "name": "Batería Excite Bronze 14 pzas antiadherente",
+    "reference": "2100108568",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Recubrimiento antiadherente de alta resistencia que permite cocinar con menos grasa y asegura una limpieza sencilla tras cada uso. \n* Tapas de vidrio con salida de vapor. \n* Diseñadas para controlar el proceso de cocción sin necesidad de levantarlas ni perder calor. \n* Base difusora que distribuye el calor uniformemente. \n* Evitando puntos calientes y garantizando resultados homogéneos en cada preparación. \n* Incluye utensilios prácticos como escurridor y cucharas medidoras. \n* libres de BPA y resistentes al calor para mayor seguridad. \n* Compatible con todas las cocinas excepto inducción y apta para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/bateria-excite-bronze-14-pzas-antiadherente/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000",
+    "skus": [
+      {
+        "sku_id": "966",
+        "sku_name": "Batería Excite Bronze 14 pzas antiadherente",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
+    "on_sale": false
   },
   {
     "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
