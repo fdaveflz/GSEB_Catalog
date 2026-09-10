@@ -2184,27 +2184,6 @@
     "on_sale": true
   },
   {
-    "name": "Plancha de Vapor Promaster Excel Rowenta",
-    "reference": "1830031572",
-    "brand": "Rowenta",
-    "category": "Planchas a Vapor",
-    "description": "La plancha de vapor Rowenta Pro Master combina velocidad y potencia para obtener resultados de calidad profesional en casa. Sus características principales:|• Plancha de vapor Rowenta Pro Master: potencia y velocidad combinadas.|• La mejor distribución de vapor del mercado gracias a los 400 orificios activos, perfectamente distribuidos en la suela Microsteam 400 HD.|• Resultados de calidad profesional: excelente salida de vapor con un golpe de vapor de 200 g para suavizar las arrugas rebeldes.|• Máxima precisión: punta perfilada de alta precisión con vapor para un fácil acceso y resultados efectivos en áreas difíciles.|• Spray de alta precisión: para eliminar las arrugas difíciles con total precisión.|• Fácil recarga: gracias a la ventana transparente del depósito de agua.|• Largas sesiones: gracias a un gran depósito de agua.|• Mango ergonómico: para un uso cómodo.|• Rendimiento y durabilidad duraderos gracias al acero inoxidable de alta calidad y al sistema antical integrado.|• Entorno ecológico: 100 % de eficiencia, 20 % de ahorro de energía.|• Función antigoteo para proteger los tejidos de las manchas.|• Fácil función de vaporización vertical para prendas delicadas y artículos colgados.|• Escudo térmico metálico.",
-    "url": "https://www.tefalstore.cl/rowenta-plancha-de-vapor-promaster-excel/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200117/label-1.jpg?v=638459597321870000",
-    "skus": [
-      {
-        "sku_id": "235",
-        "sku_name": "Plancha de Vapor PROMASTER EXCEL",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200117/label-1.jpg?v=638459597321870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 64990.0,
-    "list_price": 99990.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de Vapor Focus Excel Rowenta",
     "reference": "1830031671",
     "brand": "Rowenta",
@@ -4008,6 +3987,27 @@
     "country": "Chile",
     "price": 22990.0,
     "list_price": 22990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Plancha de Vapor Promaster Excel Rowenta",
+    "reference": "1830031572",
+    "brand": "Rowenta",
+    "category": "Planchas a Vapor",
+    "description": "La plancha de vapor Rowenta Pro Master combina velocidad y potencia para obtener resultados de calidad profesional en casa. Sus características principales:|• Plancha de vapor Rowenta Pro Master: potencia y velocidad combinadas.|• La mejor distribución de vapor del mercado gracias a los 400 orificios activos, perfectamente distribuidos en la suela Microsteam 400 HD.|• Resultados de calidad profesional: excelente salida de vapor con un golpe de vapor de 200 g para suavizar las arrugas rebeldes.|• Máxima precisión: punta perfilada de alta precisión con vapor para un fácil acceso y resultados efectivos en áreas difíciles.|• Spray de alta precisión: para eliminar las arrugas difíciles con total precisión.|• Fácil recarga: gracias a la ventana transparente del depósito de agua.|• Largas sesiones: gracias a un gran depósito de agua.|• Mango ergonómico: para un uso cómodo.|• Rendimiento y durabilidad duraderos gracias al acero inoxidable de alta calidad y al sistema antical integrado.|• Entorno ecológico: 100 % de eficiencia, 20 % de ahorro de energía.|• Función antigoteo para proteger los tejidos de las manchas.|• Fácil función de vaporización vertical para prendas delicadas y artículos colgados.|• Escudo térmico metálico.",
+    "url": "https://www.tefalstore.cl/rowenta-plancha-de-vapor-promaster-excel/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200117/label-1.jpg?v=638459597321870000",
+    "skus": [
+      {
+        "sku_id": "235",
+        "sku_name": "Plancha de Vapor PROMASTER EXCEL",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200117/label-1.jpg?v=638459597321870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 99990.0,
+    "list_price": 99990.0,
     "on_sale": false
   },
   {
