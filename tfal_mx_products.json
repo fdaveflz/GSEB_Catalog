@@ -147,27 +147,6 @@
     "on_sale": false
   },
   {
-    "name": "Set Renew On 20, 24 y 28 cm cerámico Inoceram y base inducción",
-    "reference": "2100128301",
-    "brand": "T-fal",
-    "category": "Sets de sartenes",
-    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas, Fabricado en Francia",
-    "url": "https://www.t-fal.com.mx/set-renew-on-20-24-y-28-cm-ceramico-inoceram-y-base-induccion/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158297/2100128301_C4279132_Set-20_24_28_Cm_Renew_On-1-.jpg?v=638962988737600000",
-    "skus": [
-      {
-        "sku_id": "1049",
-        "sku_name": "Set Renew On 20, 24 y 28 cm cerámico Inoceram y base inducción",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158297/2100128301_C4279132_Set-20_24_28_Cm_Renew_On-1-.jpg?v=638962988737600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2899.0,
-    "list_price": 2899.0,
-    "on_sale": false
-  },
-  {
     "name": "Horno Eléctrico 40 L",
     "reference": "1510001927",
     "brand": "T-fal",
@@ -1656,6 +1635,27 @@
     "country": "México",
     "price": 1499.0,
     "list_price": 1499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set Renew On 20, 24 y 28 cm cerámico Inoceram y base inducción",
+    "reference": "2100128301",
+    "brand": "T-fal",
+    "category": "Sets de sartenes",
+    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas, Fabricado en Francia",
+    "url": "https://www.t-fal.com.mx/set-renew-on-20-24-y-28-cm-ceramico-inoceram-y-base-induccion/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158297/2100128301_C4279132_Set-20_24_28_Cm_Renew_On-1-.jpg?v=638962988737600000",
+    "skus": [
+      {
+        "sku_id": "1049",
+        "sku_name": "Set Renew On 20, 24 y 28 cm cerámico Inoceram y base inducción",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158297/2100128301_C4279132_Set-20_24_28_Cm_Renew_On-1-.jpg?v=638962988737600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2899.0,
+    "list_price": 2899.0,
     "on_sale": false
   },
   {
