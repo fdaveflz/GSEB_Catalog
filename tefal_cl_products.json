@@ -1,26 +1,5 @@
 [
   {
-    "name": "Cafetera Espresso Coffee Crush Experience Krups",
-    "reference": "8010001480",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000",
-    "skus": [
-      {
-        "sku_id": "409",
-        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206133/01-portada.jpg?v=639160912167770000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 319990.0,
-    "list_price": 449990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Acero Inoxidable Duetto 11 Piezas Tefal",
     "reference": "2100145345",
     "brand": "Tefal",
@@ -63,6 +42,27 @@
     "on_sale": true
   },
   {
+    "name": "Tabletas de Limpieza Cafeteras Krups",
+    "reference": "8010001472",
+    "brand": "Krups",
+    "category": "Accesorios Cafeteras",
+    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. |Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. |Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
+    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206038/chatgpt-image-28-may-2026-02-35-30-p-m.png?v=639155901772470000",
+    "skus": [
+      {
+        "sku_id": "396",
+        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206038/chatgpt-image-28-may-2026-02-35-30-p-m.png?v=639155901772470000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 14990.0,
+    "list_price": 19990.0,
+    "on_sale": true
+  },
+  {
     "name": "Aspiradora Vertical X-Force 8.8 Animal Rowenta",
     "reference": "7211005441",
     "brand": "Rowenta",
@@ -81,27 +81,6 @@
     "country": "Chile",
     "price": 139990.0,
     "list_price": 229990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
-    "reference": "2100121274",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Batería de cocina Daily Cook: las innovadoras ollas de cocina de Tefal Daily Cook hacen que cocinar sea fácil y sin complicaciones.| Todo se reduce a las funciones inteligentes y convenientes de Daily Cook que ayudará que todas tus comidas diarias sean fáciles de cocinar. |Una tapa de vidrio única con un diseño articulado que garantiza una limpieza mínima y una cocina sin desorden, así como manijas ergonómicas que se mantienen frescas que ofrecen comodidad y conveniencia mientras cocina.| Las marcas de medición muy visibles en el interior de las ollas garantizan resultados perfectos y sin complicaciones. |Compatible con todas las estufas, incluida la de inducción. |Disfruta de resultados perfectos gracias a su base de inducción que garantiza una cocción uniforme",
-    "url": "https://www.tefalstore.cl/tefal-bateria-10-piezas-daily-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639232636933170000",
-    "skus": [
-      {
-        "sku_id": "139",
-        "sku_name": "Bateria de cocina Acero Inoxidable DailyCook 10 Piezas",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639232636933170000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 79990.0,
-    "list_price": 119990.0,
     "on_sale": true
   },
   {
@@ -252,6 +231,27 @@
     "on_sale": true
   },
   {
+    "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
+    "reference": "2100114427",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
+    "url": "https://www.tefalstore.cl/tefal-set-6-piezas-optispace/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000",
+    "skus": [
+      {
+        "sku_id": "156",
+        "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 69990.0,
+    "list_price": 104990.0,
+    "on_sale": true
+  },
+  {
     "name": "Wok 28 cm acero Inoxidable Primary Tefal",
     "reference": "2100118816",
     "brand": "Tefal",
@@ -294,27 +294,6 @@
     "on_sale": true
   },
   {
-    "name": "Batidora de inmersión 3 en 1 Quickchef Moulinex",
-    "reference": "7211002781",
-    "brand": "Moulinex",
-    "category": "Licuadoras de Mano",
-    "description": "Batidora Quickchef de alto rendimiento de Moulinex|\nExclusiva tecnología Powelix: resultados más suaves y textura cremosa hasta con los ingredientes más duros|\nPotente motor de 1000 W para batir sin esfuerzo|\n10 niveles de velocidad con retroiluminación intuitiva  y selector fácil de utilizar sin necesidad de parar la batidora|\nProtección antisalpicaduras para una mayor comodidad mientras cocinas|\nMango suave y antideslizante para un confort añadido y un mejor control, incluso con las manos mojadas|\nVaso medidor de 800 ml de gran utilidad|\nPicadora de 500 ml para picar sin dificultad una gran variedad de ingredientes|\nVarilla para batir sin apenas esfuerzo|\nProducto reparable durante 10 años",
-    "url": "https://www.tefalstore.cl/batidora-de-inmersion-3-en-1-quickchef-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204866/2.jpg?v=638907106178030000",
-    "skus": [
-      {
-        "sku_id": "258",
-        "sku_name": "Batidora de inmersión 3 en 1 Quickchef Moulinex",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204866/2.jpg?v=638907106178030000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 39990.0,
-    "list_price": 59990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sartenes 24/30 cm EASY COOK",
     "reference": "2100123666",
     "brand": "Tefal",
@@ -354,27 +333,6 @@
     "country": "Chile",
     "price": 44990.0,
     "list_price": 62990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cafetera Espresso Intuition Preference Touch + Lechero",
-    "reference": "8010000990",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "Deja que Intuition te guíe hacia la taza de café perfecta en todo momento con la cafetera espresso automática Krups Intuition Preference+. | Con 15 bares de presión que reproducen las mismas características de un barista con boquilla de vapor para obtener la espuma perfecta.|  Con pantalla táctil a color de 3,5\"\"e indicadores de luz de color intuitivos que permiten personalizar tu máquina como sus recetas guardadas para acceder fácilmente a todas tus bebidas favoritas, incluye lechero para preparaciones en base de café y leche.| Las características mejoradas incluyen tecnología de deslizamiento inteligente para una experiencia de usuario similar a la de un teléfono inteligente.|Cuenta con la exclusiva tecnología  Krups Quattro Force, la  cual reúne  cuatro puntos importantes de funcionamiento y proceso. | Molinillo active speed: un molinillo robusto y 20% más rápido para un café molido al momento. | Prensado ultraplano: para una extracción de aroma ideal para un espresso equilibrado. | Optima presión y temperatura: con sistema thermoblock y bomba de 15 bares de presión para una extracción total de aromas y sabores. | Sistema de presión autoclean: enjuagado automático del circuito del café después de cada preparación para un mantenimiento limitado y una limpieza fácil .",
-    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-intuition-preference/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204755/8010000990.png?v=638893175719870000",
-    "skus": [
-      {
-        "sku_id": "192",
-        "sku_name": "Cafetera Espresso Intuition Preference Touch + Lechero",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204755/8010000990.png?v=638893175719870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 649990.0,
-    "list_price": 1299990.0,
     "on_sale": true
   },
   {
@@ -2436,6 +2394,27 @@
     "on_sale": true
   },
   {
+    "name": "Batidora de inmersión 3 en 1 Quickchef Moulinex",
+    "reference": "7211002781",
+    "brand": "Moulinex",
+    "category": "Licuadoras de Mano",
+    "description": "Batidora Quickchef de alto rendimiento de Moulinex|\nExclusiva tecnología Powelix: resultados más suaves y textura cremosa hasta con los ingredientes más duros|\nPotente motor de 1000 W para batir sin esfuerzo|\n10 niveles de velocidad con retroiluminación intuitiva  y selector fácil de utilizar sin necesidad de parar la batidora|\nProtección antisalpicaduras para una mayor comodidad mientras cocinas|\nMango suave y antideslizante para un confort añadido y un mejor control, incluso con las manos mojadas|\nVaso medidor de 800 ml de gran utilidad|\nPicadora de 500 ml para picar sin dificultad una gran variedad de ingredientes|\nVarilla para batir sin apenas esfuerzo|\nProducto reparable durante 10 años",
+    "url": "https://www.tefalstore.cl/batidora-de-inmersion-3-en-1-quickchef-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204866/2.jpg?v=638907106178030000",
+    "skus": [
+      {
+        "sku_id": "258",
+        "sku_name": "Batidora de inmersión 3 en 1 Quickchef Moulinex",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204866/2.jpg?v=638907106178030000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 39990.0,
+    "list_price": 59990.0,
+    "on_sale": true
+  },
+  {
     "name": "Aspiradora Ciclónica Swift Power Azul 1.5L Rowenta",
     "reference": "7211004084",
     "brand": "Rowenta",
@@ -3444,6 +3423,27 @@
     "on_sale": true
   },
   {
+    "name": "Cafetera Espresso Coffee Crush Experience Krups",
+    "reference": "8010001480",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206479/Krups_COFFEE CRUSH EXPERIENCE LIONESS_8010001480_TikTok.png?v=639250061221170000",
+    "skus": [
+      {
+        "sku_id": "409",
+        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206479/Krups_COFFEE CRUSH EXPERIENCE LIONESS_8010001480_TikTok.png?v=639250061221170000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 449990.0,
+    "list_price": 449990.0,
+    "on_sale": false
+  },
+  {
     "name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
     "reference": "8010001305",
     "brand": "Moulinex",
@@ -3462,27 +3462,6 @@
     "country": "Chile",
     "price": 49990.0,
     "list_price": 49990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Tabletas de Limpieza Cafeteras Krups",
-    "reference": "8010001472",
-    "brand": "Krups",
-    "category": "Accesorios Cafeteras",
-    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. |Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. |Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
-    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206038/chatgpt-image-28-may-2026-02-35-30-p-m.png?v=639155901772470000",
-    "skus": [
-      {
-        "sku_id": "396",
-        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206038/chatgpt-image-28-may-2026-02-35-30-p-m.png?v=639155901772470000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 19990.0,
-    "list_price": 19990.0,
     "on_sale": false
   },
   {
@@ -4137,6 +4116,27 @@
     "on_sale": false
   },
   {
+    "name": "Cafetera Espresso Intuition Preference Touch + Lechero",
+    "reference": "8010000990",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "Deja que Intuition te guíe hacia la taza de café perfecta en todo momento con la cafetera espresso automática Krups Intuition Preference+. | Con 15 bares de presión que reproducen las mismas características de un barista con boquilla de vapor para obtener la espuma perfecta.|  Con pantalla táctil a color de 3,5\"\"e indicadores de luz de color intuitivos que permiten personalizar tu máquina como sus recetas guardadas para acceder fácilmente a todas tus bebidas favoritas, incluye lechero para preparaciones en base de café y leche.| Las características mejoradas incluyen tecnología de deslizamiento inteligente para una experiencia de usuario similar a la de un teléfono inteligente.|Cuenta con la exclusiva tecnología  Krups Quattro Force, la  cual reúne  cuatro puntos importantes de funcionamiento y proceso. | Molinillo active speed: un molinillo robusto y 20% más rápido para un café molido al momento. | Prensado ultraplano: para una extracción de aroma ideal para un espresso equilibrado. | Optima presión y temperatura: con sistema thermoblock y bomba de 15 bares de presión para una extracción total de aromas y sabores. | Sistema de presión autoclean: enjuagado automático del circuito del café después de cada preparación para un mantenimiento limitado y una limpieza fácil .",
+    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-intuition-preference/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204755/8010000990.png?v=638893175719870000",
+    "skus": [
+      {
+        "sku_id": "192",
+        "sku_name": "Cafetera Espresso Intuition Preference Touch + Lechero",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204755/8010000990.png?v=638893175719870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 1299990.0,
+    "list_price": 1299990.0,
+    "on_sale": false
+  },
+  {
     "name": "Eversharp Cuchillo con Afilador",
     "reference": "2100119195",
     "brand": "Tefal",
@@ -4200,24 +4200,24 @@
     "on_sale": false
   },
   {
-    "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
-    "reference": "2100114427",
+    "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
+    "reference": "2100121274",
     "brand": "Tefal",
     "category": "Baterías de Cocina",
-    "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
-    "url": "https://www.tefalstore.cl/tefal-set-6-piezas-optispace/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000",
+    "description": "Batería de cocina Daily Cook: las innovadoras ollas de cocina de Tefal Daily Cook hacen que cocinar sea fácil y sin complicaciones.| Todo se reduce a las funciones inteligentes y convenientes de Daily Cook que ayudará que todas tus comidas diarias sean fáciles de cocinar. |Una tapa de vidrio única con un diseño articulado que garantiza una limpieza mínima y una cocina sin desorden, así como manijas ergonómicas que se mantienen frescas que ofrecen comodidad y conveniencia mientras cocina.| Las marcas de medición muy visibles en el interior de las ollas garantizan resultados perfectos y sin complicaciones. |Compatible con todas las estufas, incluida la de inducción. |Disfruta de resultados perfectos gracias a su base de inducción que garantiza una cocción uniforme",
+    "url": "https://www.tefalstore.cl/tefal-bateria-10-piezas-daily-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639232636933170000",
     "skus": [
       {
-        "sku_id": "156",
-        "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000"
+        "sku_id": "139",
+        "sku_name": "Bateria de cocina Acero Inoxidable DailyCook 10 Piezas",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639232636933170000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 104990.0,
-    "list_price": 104990.0,
+    "price": 119990.0,
+    "list_price": 119990.0,
     "on_sale": false
   },
   {
