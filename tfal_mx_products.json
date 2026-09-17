@@ -21,27 +21,6 @@
     "on_sale": true
   },
   {
-    "name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
-    "reference": "1830009484",
-    "brand": "T-fal",
-    "category": "Planchas de vapor",
-    "description": "* TRIPLE PROTECCIÓN CONTRA MANCHAS: El sistema exclusivo anti-sarro evita manchas y conserva el rendimiento de vapor por más tiempo, cuidando cada tejido de manera eficaz.\n* SUELA DURILIUM AIRGLIDE AUTOCLEAN: La suela Durilium Airglide ofrece un deslizamiento superior, amplia difusión de vapor y resistencia a rayaduras para un planchado sin esfuerzo. Además,  la tecnología Autoclean mantiene la suela siempre limpia, libre de pelusas y bolitas de la ropa. \n* ELIMINA TODAS LAS ARRUGAS: Con un golpe de vapor de 190 g/min, hasta las arrugas más rebeldes desaparecen, dejando tu ropa impecable\n* HIGIENE PERFECTA: Su poder de vapor no solo elimina arrugas, también ayuda a eliminar hasta el 99.99% de bacterias en las telas, para un cuidado más saludable.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* HIGIENE PERFECTA: Su poder de vapor no solo elimina arrugas, también ayuda a eliminar hasta el 99.99% de bacterias en las telas, para un cuidado más saludable.",
-    "url": "https://www.t-fal.com.mx/plancha-ultragliss-plus-autoclean-resultados-impecables-934/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157855/1830009484_FV6851X0_ULTRAGLISSPLUS_ANTIC_-1-.jpg?v=638930438330470000",
-    "skus": [
-      {
-        "sku_id": "934",
-        "sku_name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157855/1830009484_FV6851X0_ULTRAGLISSPLUS_ANTIC_-1-.jpg?v=638930438330470000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1919.0,
-    "list_price": 2299.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha Puregliss Black and Gold, planchado impecable",
     "reference": "1830008915",
     "brand": "T-fal",
@@ -3085,6 +3064,27 @@
     "price": 1299.0,
     "list_price": 1299.0,
     "on_sale": false
+  },
+  {
+    "name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
+    "reference": "1830009484",
+    "brand": "T-fal",
+    "category": "Planchas de vapor",
+    "description": "* TRIPLE PROTECCIÓN CONTRA MANCHAS: El sistema exclusivo anti-sarro evita manchas y conserva el rendimiento de vapor por más tiempo, cuidando cada tejido de manera eficaz.\n* SUELA DURILIUM AIRGLIDE AUTOCLEAN: La suela Durilium Airglide ofrece un deslizamiento superior, amplia difusión de vapor y resistencia a rayaduras para un planchado sin esfuerzo. Además,  la tecnología Autoclean mantiene la suela siempre limpia, libre de pelusas y bolitas de la ropa. \n* ELIMINA TODAS LAS ARRUGAS: Con un golpe de vapor de 190 g/min, hasta las arrugas más rebeldes desaparecen, dejando tu ropa impecable\n* HIGIENE PERFECTA: Su poder de vapor no solo elimina arrugas, también ayuda a eliminar hasta el 99.99% de bacterias en las telas, para un cuidado más saludable.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* HIGIENE PERFECTA: Su poder de vapor no solo elimina arrugas, también ayuda a eliminar hasta el 99.99% de bacterias en las telas, para un cuidado más saludable.",
+    "url": "https://www.t-fal.com.mx/plancha-ultragliss-plus-autoclean-resultados-impecables-934/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157855/1830009484_FV6851X0_ULTRAGLISSPLUS_ANTIC_-1-.jpg?v=638930438330470000",
+    "skus": [
+      {
+        "sku_id": "934",
+        "sku_name": "Plancha Ultragliss Plus Autoclean, resultados impecables",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157855/1830009484_FV6851X0_ULTRAGLISSPLUS_ANTIC_-1-.jpg?v=638930438330470000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1919.0,
+    "list_price": 2299.0,
+    "on_sale": true
   },
   {
     "name": "Plancha de vapor Express Steam Turkitch, planchado rápido",

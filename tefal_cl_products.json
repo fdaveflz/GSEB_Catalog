@@ -42,48 +42,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería de Cocina Ingenio Serenity 11 Piezas Tefal",
-    "reference": "2100139710",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "ELEGANCIA MULTIFUNCIONAL: De la estufa al horno, al centro de tu mesa y luego al refrigerador, Ingenio Serenity es tan hermoso como funcional.|\nAHORRO DE ESPACIO: Ultraligero y apilable, el menaje de cocina de Ingenio ahorra hasta 2 veces más espacio que las ollas y sartenes convencionales.|\nREVESTIMIENTO ANTIADHERENTE MINERALIA: Descubre un rendimiento antiadherente duradero y un deslizamiento perfecto para una cocina fácil y baja en grasa todos los días.|\nASA RESISTENTE: El asa desmontable, seguro y patentado, puede soportar hasta 10 kg (pruebas internas) y viene con una garantía de 10 años*.|\nJUEGO DE 11 PIEZAS PARA COCINA DIARIA: Incluye 2 sartenes, 1 wok, 2 cacerolas con tapas de vidrio, 2 tapas de almacenamiento y 2 asas Ingenio a juego.|\nCOMPATIBILIDAD TOTAL Y APTO PARA HORNO: Compatible con estufas de gas, eléctricas, cerámicas e inducción, además de ser apto para horno.|\nSERVICIO EN LA MESA: El menaje de cocina Ingenio es un plato de servicio perfecto, tanto práctico como elegante.",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-ingenio-serenity-11-piezas-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000",
-    "skus": [
-      {
-        "sku_id": "372",
-        "sku_name": "Bateria De Cocina Ingenio Serenity 11 Piezas Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 109990.0,
-    "list_price": 144990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Tabletas de Limpieza Cafeteras Krups",
-    "reference": "8010001472",
-    "brand": "Krups",
-    "category": "Accesorios Cafeteras",
-    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. |Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. |Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
-    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206038/chatgpt-image-28-may-2026-02-35-30-p-m.png?v=639155901772470000",
-    "skus": [
-      {
-        "sku_id": "396",
-        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206038/chatgpt-image-28-may-2026-02-35-30-p-m.png?v=639155901772470000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 14990.0,
-    "list_price": 19990.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Vertical X-Force 8.8 Animal Rowenta",
     "reference": "7211005441",
     "brand": "Rowenta",
@@ -102,6 +60,27 @@
     "country": "Chile",
     "price": 139990.0,
     "list_price": 229990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batería de Cocina Ingenio Serenity 11 Piezas Tefal",
+    "reference": "2100139710",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "ELEGANCIA MULTIFUNCIONAL: De la estufa al horno, al centro de tu mesa y luego al refrigerador, Ingenio Serenity es tan hermoso como funcional.|\nAHORRO DE ESPACIO: Ultraligero y apilable, el menaje de cocina de Ingenio ahorra hasta 2 veces más espacio que las ollas y sartenes convencionales.|\nREVESTIMIENTO ANTIADHERENTE MINERALIA: Descubre un rendimiento antiadherente duradero y un deslizamiento perfecto para una cocina fácil y baja en grasa todos los días.|\nASA RESISTENTE: El asa desmontable, seguro y patentado, puede soportar hasta 10 kg (pruebas internas) y viene con una garantía de 10 años*.|\nJUEGO DE 11 PIEZAS PARA COCINA DIARIA: Incluye 2 sartenes, 1 wok, 2 cacerolas con tapas de vidrio, 2 tapas de almacenamiento y 2 asas Ingenio a juego.|\nCOMPATIBILIDAD TOTAL Y APTO PARA HORNO: Compatible con estufas de gas, eléctricas, cerámicas e inducción, además de ser apto para horno.|\nSERVICIO EN LA MESA: El menaje de cocina Ingenio es un plato de servicio perfecto, tanto práctico como elegante.",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-ingenio-serenity-11-piezas-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000",
+    "skus": [
+      {
+        "sku_id": "372",
+        "sku_name": "Bateria De Cocina Ingenio Serenity 11 Piezas Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205592/01-portada.jpg?v=639046245332330000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 109990.0,
+    "list_price": 144990.0,
     "on_sale": true
   },
   {
@@ -168,27 +147,6 @@
     "on_sale": true
   },
   {
-    "name": "Aspiradora Trapeadora X - Clean 2 Rowenta",
-    "reference": "2211401410",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Trapeadoras",
-    "description": "LIMPIEZA 2 EN 1: Lava y aspira residuos húmedos y secos gracias a los modos ECO/MAX, con un flujo constante de agua limpia para una limpieza eficaz.|\nLIMPIEZA SIN ESFUERZO: Rodillo autopropulsado de 1,2 kg con asa trasera ergonómica para un transporte sencillo.|\nMANTENIMIENTO SIMPLIFICADO: Ciclo de autolimpieza de 90 segundos con un solo clic para mantener el rodillo siempre limpio, con un rodillo adicional para una limpieza continua.|\nSESIONES DE LIMPIEZA CONTINUA: Disfrute de sesiones de limpieza sin interrupciones gracias a la autonomía de 35 minutos* y a los grandes depósitos de agua de 730 ml/440 ml.|\nGUÍA CON ESTADO EN TIEMPO REAL: Panel de fácil visualización en el asa que ofrece información sobre el estado de la batería, el modo de limpieza y el nivel de los depósitos de agua.|\nACCESORIOS PARA MANTENER LAS MANOS LIMPIAS: Accesorio de separación de residuos, rodillo/filtro adicional, cepillo de limpieza con cuchilla integrada para eliminar restos.",
-    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x---clean-2-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205586/01-portada-3.png?v=639046229021370000",
-    "skus": [
-      {
-        "sku_id": "371",
-        "sku_name": "Aspiradora Trapeadora X Clean 2 Digital Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205586/01-portada-3.png?v=639046229021370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 229990.0,
-    "list_price": 349990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Antiadherente Ingenio 12 Piezas con mangos Tefal",
     "reference": "2100125537",
     "brand": "Tefal",
@@ -213,7 +171,7 @@
     "name": "Set sartenes 20/24/26cm Easy COOK",
     "reference": "2100123665",
     "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
+    "category": "Sartenes y Woks",
     "description": "La línea Easy Cook cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nAdemás, cuenta con una base difusora que permite una conducción perfecta de calor.| Incluye tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.|Compatible con todas las cocinas, excepto inducción.",
     "url": "https://www.tefalstore.cl/tefal-set-sartenes-20-24-26cm-easy-cook/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000",
@@ -252,6 +210,27 @@
     "on_sale": true
   },
   {
+    "name": "Olla a Presión Secure Compact Acero Inoxidable 6L Tefal",
+    "reference": "7114000624",
+    "brand": "Tefal",
+    "category": "Ollas a Presión",
+    "description": "¡Máxima Seguridad! Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 6L Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.|  Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.|  Compatible con todas las cocinas, incluida inducción.|  Capacidad: 6L hasta 4 personas",
+    "url": "https://www.tefalstore.cl/tefal-olla-a-presion-secure-compact-6l/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206158/7114900067-01.jpg?v=639240621864200000",
+    "skus": [
+      {
+        "sku_id": "157",
+        "sku_name": "Olla a Presión Secure Compact 6L Acero Inoxidable",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206158/7114900067-01.jpg?v=639240621864200000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 44990.0,
+    "list_price": 59990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
     "reference": "2100114427",
     "brand": "Tefal",
@@ -273,6 +252,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora Trapeadora X - Clean 2 Rowenta",
+    "reference": "2211401410",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Trapeadoras",
+    "description": "LIMPIEZA 2 EN 1: Lava y aspira residuos húmedos y secos gracias a los modos ECO/MAX, con un flujo constante de agua limpia para una limpieza eficaz.|\nLIMPIEZA SIN ESFUERZO: Rodillo autopropulsado de 1,2 kg con asa trasera ergonómica para un transporte sencillo.|\nMANTENIMIENTO SIMPLIFICADO: Ciclo de autolimpieza de 90 segundos con un solo clic para mantener el rodillo siempre limpio, con un rodillo adicional para una limpieza continua.|\nSESIONES DE LIMPIEZA CONTINUA: Disfrute de sesiones de limpieza sin interrupciones gracias a la autonomía de 35 minutos* y a los grandes depósitos de agua de 730 ml/440 ml.|\nGUÍA CON ESTADO EN TIEMPO REAL: Panel de fácil visualización en el asa que ofrece información sobre el estado de la batería, el modo de limpieza y el nivel de los depósitos de agua.|\nACCESORIOS PARA MANTENER LAS MANOS LIMPIAS: Accesorio de separación de residuos, rodillo/filtro adicional, cepillo de limpieza con cuchilla integrada para eliminar restos.",
+    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x---clean-2-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205586/01-portada-3.png?v=639046229021370000",
+    "skus": [
+      {
+        "sku_id": "371",
+        "sku_name": "Aspiradora Trapeadora X Clean 2 Digital Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205586/01-portada-3.png?v=639046229021370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 229990.0,
+    "list_price": 349990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Antiadherente Super Cook 26 Piezas Tefal",
     "reference": "2100131912",
     "brand": "Tefal",
@@ -291,27 +291,6 @@
     "country": "Chile",
     "price": 94990.0,
     "list_price": 149990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Wok 28 cm acero Inoxidable Primary Tefal",
-    "reference": "2100118816",
-    "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
-    "description": "El Wok Primary esta diseñado para ser resistente y durar en el tiempo. Esta hecho de acero inoxidable 18/10 de la mejor calidad.|\nCuenta con revestimiento antiadherente de titanio para acompañarte diariamente en tu cocina y que nada se pegue. |\nNuestra tecnología Thermo-Signal te ayudará a cocinar como chef para unos salteados sabrosos y cocinados a punto. EL Thermo-signal muestra la temperatura de inicio de cocción ideal para garantizar una textura, color y sabor perfectos.|\nApta para todo tipo de cocinas, incluso inducción.|\nAdemás, te invitamos a descubrir la linea completa Primary que cuenta con sartenes, wok, olla y cacerola. |\nNuestros antiadherente son seguros:  sin PFOA, plomo y cadmio.",
-    "url": "https://www.tefalstore.cl/tefal-wok-28cm-acero-inoxidable-primary/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206157/proyecto-nuevo-7.png?v=639171511242800000",
-    "skus": [
-      {
-        "sku_id": "309",
-        "sku_name": "Wok 28cm acero Inoxidable Primary",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206157/proyecto-nuevo-7.png?v=639171511242800000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 27990.0,
     "on_sale": true
   },
   {
@@ -354,27 +333,6 @@
     "country": "Chile",
     "price": 44990.0,
     "list_price": 62990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla a Presión Secure Compact Acero Inoxidable 6L Tefal",
-    "reference": "7114000624",
-    "brand": "Tefal",
-    "category": "Ollas a Presión",
-    "description": "¡Máxima Seguridad! Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 6L Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.|  Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.|  Compatible con todas las cocinas, incluida inducción.|  Capacidad: 6L hasta 4 personas",
-    "url": "https://www.tefalstore.cl/tefal-olla-a-presion-secure-compact-6l/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206158/7114900067-01.jpg?v=639240621864200000",
-    "skus": [
-      {
-        "sku_id": "157",
-        "sku_name": "Olla a Presión Secure Compact 6L Acero Inoxidable",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206158/7114900067-01.jpg?v=639240621864200000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 44990.0,
-    "list_price": 59990.0,
     "on_sale": true
   },
   {
@@ -903,27 +861,6 @@
     "on_sale": true
   },
   {
-    "name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
-    "reference": "2100139800",
-    "brand": "Tefal",
-    "category": "Cuchillo",
-    "description": "AFILADO HOY, AFILADO MAÑANA: Redescubre el corte perfecto día tras día, año tras año, ya que tu cuchillo se afila automáticamente antes de cada uso | LA MEJOR TECNOLOGÍA DE AFILADO AUTOMÁTICO A LO LARGO DEL TIEMPO*: Oculto en el bloque, un sistema patentado guía las hojas y las afila completamente con la presión adecuada |AFILADO SIN ESFUERZO: Desliza tu cuchillo en el bloque de cuchillos después de su uso y estará afilado de nuevo, con un proceso automático sin manos y sin esfuerzo | AFILADOR INTEGRADO: Afilado fácil dentro del propio bloque de cuchillos | RESULTADOS DE CORTE AFILADOS: Disfruta del corte perfecto en todo momento, ya sea carpaccio de piña, pollo asado o una coliflor entera asada | HOJAS AFILADAS DE ACERO INOXIDABLE ALEMÁN: La hoja de acero inoxidable alemán de alta calidad aporta una durabilidad superior, resistencia al óxido y un afilado duradero | CONTROL TOTAL PARA UN CORTE AFILADO: Con un diseño perfectamente equilibrado, protector de dedos para seguridad y mango ergonómico, cortar nunca ha sido tan placentero | 10 AÑOS DE GARANTÍA: Calidad respaldada por una garantía de 10 años en la hoja y el mecanismo de afilado.",
-    "url": "https://www.tefalstore.cl/set-taco-de-5-cuchillos-con-afilador-eversharp-pro-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000",
-    "skus": [
-      {
-        "sku_id": "378",
-        "sku_name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 84990.0,
-    "list_price": 109990.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de Vapor Vertical Origin Blanca Rowenta",
     "reference": "7211005116",
     "brand": "Rowenta",
@@ -1407,27 +1344,6 @@
     "on_sale": true
   },
   {
-    "name": "Aspiradora Trapeadora X - Clean 4 Rowenta",
-    "reference": "2211401351",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Trapeadoras",
-    "description": "LIMPIEZA 2 EN 1: Aspiradora inalámbrica en seco y húmedo que ahorra tiempo al aspirar y lavar en una sola pasada, con resultados perfectos en todo tipo de suelos duros (madera, mármol, laminado y cerámica).|\nDETECCIÓN INTELIGENTE DE SUCIEDAD: Sensor automático con indicadores de color en pantalla LED—rojo para zonas sucias y azul para zonas limpias—y ajuste automático de la velocidad de rotación del rodillo y del flujo de agua para resultados óptimos.|\nAUTONOMÍA EXTRA LARGA: Limpieza sin cables con hasta 50 minutos de duración para cubrir hasta 350 m² (*según distribución y mobiliario del hogar).|\nLIMPIEZA SIN ESFUERZO: Diseño ultraligero con rodillo autopropulsado que reduce el esfuerzo de limpieza hasta en un 75 %, con ergonomía fluida y estética moderna. |\nSISTEMA DE AUTOLIMPIEZA MANOS LIBRES: Activa la función de autolimpieza con solo presionar un botón; limpia el rodillo y déjalo secar para que esté listo en la próxima sesión.|\nLIMPIEZA DE BORDES: Cepillo lateral integrado que llega a bordes y esquinas difíciles, dejando tu hogar impecable incluso en áreas de difícil acceso.|\nSISTEMA CONSTANT CLEAN: Mantiene el flujo continuo de agua limpia hacia el rodillo mientras succiona el agua sucia hacia un segundo tanque aislado.|\nCOMPATIBILIDAD EXCELENTE: Para una limpieza profunda adicional, se puede usar con detergentes de nuestra lista de compatibilidad, incluyendo los más comunes del hogar.|\nINCLUYE EN LA CAJA: Aspiradora inalámbrica en seco y húmedo, rodillo adicional de limpieza suave, cepillo lateral, filtros de espuma secos y anti-impacto, cargador, base de carga y limpieza, cepillo de limpieza.",
-    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x---clean-4-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000",
-    "skus": [
-      {
-        "sku_id": "343",
-        "sku_name": "Aspiradora Trapeadora X Clean 4 Digital Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 399990.0,
-    "list_price": 499990.0,
-    "on_sale": true
-  },
-  {
     "name": "Hervidor Subito 5 1,7 L Inox Negro Moulinex",
     "reference": "7211419517",
     "brand": "Moulinex",
@@ -1872,7 +1788,7 @@
     "name": "Sárten 28cm acero Inoxidable Primary",
     "reference": "2100118820",
     "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
+    "category": "Sartenes y Woks",
     "description": "El sartén Primary esta diseñado para ser resistente y durar en el tiempo. Esta hecho de acero inoxidable 18/10 de la mejor calidad.\nCuenta con revestimiento antiadherente de titanio para acompañarte diariamente en tu cocina y que nada se pegue. \nNuestra tecnología Thermo-Signal te ayudará a cocinar como chef y asar perfectamente tus carnes. Muestra la temperatura de inicio de cocción ideal para garantizar una textura, color y sabor perfectos.\nApta para todo tipo de cocinas, incluso inducción.\nAdemás, te invitamos a descubrir la linea completa Primary que cuenta con sartenes, wok, olla y cacerola. \nNuestros antiadherente son seguros:  sin PFOA, plomo y cadmio.",
     "url": "https://www.tefalstore.cl/tefal-sarten-28cm-acero-inoxidable-primary/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205189/proyecto-nuevo-3.png?v=638936281098500000",
@@ -1914,7 +1830,7 @@
     "name": "Olla 24cm acero inoxidable Primary",
     "reference": "2100118811",
     "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
+    "category": "Sartenes y Woks",
     "description": "Hecha de acero inoxidable de alta calidad y  diseñada para una larga vida útil.|  Ideales para cocinar comidas diarias como pastas o arroz, así como para cocinar a fuego lento, hervir y cocinar salsas. |\nCuenta con graduaciónes interiores para dosificar facilmente, tapa de Cristal transparente para revisar tus preparaciónes sin tener que levantar la tapa y bordes convenientes para verter y  mantener tu cocina impecable!|\nApta para todo tipo de cocinas, incluso inducción.",
     "url": "https://www.tefalstore.cl/tefal-olla-24cm-acero-inoxidable-primary/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204897/digital-e3084604-primary-stewpot-24cm-05ja-4388-647e2d7b-1fa6-4ef3-a965-a206cbe07e34.png?v=638913194734130000",
@@ -1932,10 +1848,31 @@
     "on_sale": true
   },
   {
+    "name": "Wok 28 cm acero Inoxidable Primary Tefal",
+    "reference": "2100118816",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "El Wok Primary esta diseñado para ser resistente y durar en el tiempo. Esta hecho de acero inoxidable 18/10 de la mejor calidad.|\nCuenta con revestimiento antiadherente de titanio para acompañarte diariamente en tu cocina y que nada se pegue. |\nNuestra tecnología Thermo-Signal te ayudará a cocinar como chef para unos salteados sabrosos y cocinados a punto. EL Thermo-signal muestra la temperatura de inicio de cocción ideal para garantizar una textura, color y sabor perfectos.|\nApta para todo tipo de cocinas, incluso inducción.|\nAdemás, te invitamos a descubrir la linea completa Primary que cuenta con sartenes, wok, olla y cacerola. |\nNuestros antiadherente son seguros:  sin PFOA, plomo y cadmio.",
+    "url": "https://www.tefalstore.cl/tefal-wok-28cm-acero-inoxidable-primary/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206157/proyecto-nuevo-7.png?v=639171511242800000",
+    "skus": [
+      {
+        "sku_id": "309",
+        "sku_name": "Wok 28cm acero Inoxidable Primary",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206157/proyecto-nuevo-7.png?v=639171511242800000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24990.0,
+    "list_price": 27990.0,
+    "on_sale": true
+  },
+  {
     "name": "Sárten 24 cm acero Inoxidable Primary Tefal",
     "reference": "2100118818",
     "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
+    "category": "Sartenes y Woks",
     "description": "El sartén Primary esta diseñado para ser resistente y durar en el tiempo. Esta hecho de acero inoxidable 18/10 de la mejor calidad.|\nCuenta con revestimiento antiadherente de titanio para acompañarte diariamente en tu cocina y que nada se pegue. |\nNuestra tecnología Thermo-Signal te ayudará a cocinar como chef y asar perfectamente tus carnes. Muestra la temperatura de inicio de cocción ideal para garantizar una textura, color y sabor perfectos.|\nApta para todo tipo de cocinas, incluso inducción.|\nAdemás, te invitamos a descubrir la linea completa Primary que cuenta con sartenes, wok, olla y cacerola. |\nNuestros antiadherente son seguros:  sin PFOA, plomo y cadmio.",
     "url": "https://www.tefalstore.cl/tefal-sarten-24cm-acero-inoxidable-primary-/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206408/img-1.png?v=639241506320870000",
@@ -2226,27 +2163,6 @@
     "on_sale": true
   },
   {
-    "name": "Cuchillo Chef 20cm Ice Force Tefal",
-    "reference": "2100104352",
-    "brand": "Tefal",
-    "category": "Cuchillo",
-    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal. |\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo chef 20cm es ideal para cortar, picar y rebanar todo tipo de alimentos.",
-    "url": "https://www.tefalstore.cl/cuchillo-chef-20cm-ice-force-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000",
-    "skus": [
-      {
-        "sku_id": "289",
-        "sku_name": "Cuchillo Chef 20cm Ice Force Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 14990.0,
-    "list_price": 24290.0,
-    "on_sale": true
-  },
-  {
     "name": "Tenedor para trinchar 21 cm Ice Force Tefal",
     "reference": "2100104989",
     "brand": "Tefal",
@@ -2265,27 +2181,6 @@
     "country": "Chile",
     "price": 7990.0,
     "list_price": 12790.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cuchillo Multiuso 11cm Ice Force Tefal",
-    "reference": "2100104353",
-    "brand": "Tefal",
-    "category": "Cuchillo",
-    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal.|\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo multiuso 11cm es ideal para cortar todo tipo de alimentos.",
-    "url": "https://www.tefalstore.cl/cuchillo-multiuso-11cm-ice-force-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205410/foto-1.jpg?v=639035774380700000",
-    "skus": [
-      {
-        "sku_id": "286",
-        "sku_name": "Cuchillo Multiuso 11cm Ice Force Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205410/foto-1.jpg?v=639035774380700000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 7990.0,
-    "list_price": 11490.0,
     "on_sale": true
   },
   {
@@ -2859,7 +2754,7 @@
     "name": "Wok 28 cm + Tapa Super Cook",
     "reference": "2100123989",
     "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
+    "category": "Sartenes y Woks",
     "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras. | Posee una base difusora que permite una conducción perfecta de calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el  nuevo sistema Thermo-Signal,   indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. | Compatible con todo tipo de cocinas, excepto inducción.",
     "url": "https://www.tefalstore.cl/tefal-wok-28-cm---tapa-super-cook/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205467/microsoftteams-image-1-e3aee0c7-539a-4329-96ce-086eef63dd77.jpg?v=639035774971430000",
@@ -3276,27 +3171,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Evidence Plus + Lechero",
-    "reference": "8010000431",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "La máquina de café espresso automática KRUPS Evidence Plus pone a su alcance bebidas de café excepcionales, para bebidas con calidad de barista llenas de sabor. | Los 19 preajustes de bebidas le permiten personalizar todas sus bebidas preferidas para obtener resultados perfectos a partir de granos de café recién molidos, con una selección de seis bebidas que se pueden preparar con solo presionar un botón. | El innovador e intuitivo panel táctil con pantalla OLED hace que las preparaciones sean rápidas y fáciles. | Molinillo de acero inoxidable produce un molido de café impecable con 15 bares de presión, complementado con sistema KRUPS QUATTRO FORCE, para un café excepcional a niveles de calidad de barista. | Capacidad de estanque: 2,3 L | Incluye lechero.",
-    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-evidence-plus/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204763/8010000431.png?v=638893248048430000",
-    "skus": [
-      {
-        "sku_id": "109",
-        "sku_name": "Cafetera Espresso Evidence Plus + Lechero",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204763/8010000431.png?v=638893248048430000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 499990.0,
-    "list_price": 999990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bolso Negro Cuisine Companion XL",
     "reference": "8010000716",
     "brand": "Moulinex",
@@ -3549,6 +3423,27 @@
     "on_sale": false
   },
   {
+    "name": "Tabletas de Limpieza Cafeteras Krups",
+    "reference": "8010001472",
+    "brand": "Krups",
+    "category": "Accesorios Cafeteras",
+    "description": "Elimina depósitos de café y residuos grasos: Para el correcto funcionamiento de tu cafetera Full Automática, realiza un ciclo de limpieza de la máquina utilizando la pastilla limpiadora. |Esta pastilla limpia completamente la unidad de preparación y el circuito de café de tu máquina para eliminar grasas y residuos. |Esto protege tu máquina de espresso para un uso duradero y la garantía de un sabor perfecto.",
+    "url": "https://www.tefalstore.cl/tabletas-de-limpieza-cafeteras-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206038/chatgpt-image-28-may-2026-02-35-30-p-m.png?v=639155901772470000",
+    "skus": [
+      {
+        "sku_id": "396",
+        "sku_name": "Tabletas de Limpieza Cafeteras Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206038/chatgpt-image-28-may-2026-02-35-30-p-m.png?v=639155901772470000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 19990.0,
+    "list_price": 19990.0,
+    "on_sale": false
+  },
+  {
     "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
     "reference": "2100139002",
     "brand": "Tefal",
@@ -3675,6 +3570,27 @@
     "on_sale": false
   },
   {
+    "name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
+    "reference": "2100139800",
+    "brand": "Tefal",
+    "category": "Cuchillos",
+    "description": "AFILADO HOY, AFILADO MAÑANA: Redescubre el corte perfecto día tras día, año tras año, ya que tu cuchillo se afila automáticamente antes de cada uso | LA MEJOR TECNOLOGÍA DE AFILADO AUTOMÁTICO A LO LARGO DEL TIEMPO*: Oculto en el bloque, un sistema patentado guía las hojas y las afila completamente con la presión adecuada |AFILADO SIN ESFUERZO: Desliza tu cuchillo en el bloque de cuchillos después de su uso y estará afilado de nuevo, con un proceso automático sin manos y sin esfuerzo | AFILADOR INTEGRADO: Afilado fácil dentro del propio bloque de cuchillos | RESULTADOS DE CORTE AFILADOS: Disfruta del corte perfecto en todo momento, ya sea carpaccio de piña, pollo asado o una coliflor entera asada | HOJAS AFILADAS DE ACERO INOXIDABLE ALEMÁN: La hoja de acero inoxidable alemán de alta calidad aporta una durabilidad superior, resistencia al óxido y un afilado duradero | CONTROL TOTAL PARA UN CORTE AFILADO: Con un diseño perfectamente equilibrado, protector de dedos para seguridad y mango ergonómico, cortar nunca ha sido tan placentero | 10 AÑOS DE GARANTÍA: Calidad respaldada por una garantía de 10 años en la hoja y el mecanismo de afilado.",
+    "url": "https://www.tefalstore.cl/set-taco-de-5-cuchillos-con-afilador-eversharp-pro-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000",
+    "skus": [
+      {
+        "sku_id": "378",
+        "sku_name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 109990.0,
+    "list_price": 109990.0,
+    "on_sale": false
+  },
+  {
     "name": "Cafetera Espresso Full Auto Sensation Milk + Kit Accesorios",
     "reference": "8010001435",
     "brand": "Krups",
@@ -3756,6 +3672,27 @@
     "country": "Chile",
     "price": 189990.0,
     "list_price": 189990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Aspiradora Trapeadora X - Clean 4 Rowenta",
+    "reference": "2211401351",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Trapeadoras",
+    "description": "LIMPIEZA 2 EN 1: Aspiradora inalámbrica en seco y húmedo que ahorra tiempo al aspirar y lavar en una sola pasada, con resultados perfectos en todo tipo de suelos duros (madera, mármol, laminado y cerámica).|\nDETECCIÓN INTELIGENTE DE SUCIEDAD: Sensor automático con indicadores de color en pantalla LED—rojo para zonas sucias y azul para zonas limpias—y ajuste automático de la velocidad de rotación del rodillo y del flujo de agua para resultados óptimos.|\nAUTONOMÍA EXTRA LARGA: Limpieza sin cables con hasta 50 minutos de duración para cubrir hasta 350 m² (*según distribución y mobiliario del hogar).|\nLIMPIEZA SIN ESFUERZO: Diseño ultraligero con rodillo autopropulsado que reduce el esfuerzo de limpieza hasta en un 75 %, con ergonomía fluida y estética moderna. |\nSISTEMA DE AUTOLIMPIEZA MANOS LIBRES: Activa la función de autolimpieza con solo presionar un botón; limpia el rodillo y déjalo secar para que esté listo en la próxima sesión.|\nLIMPIEZA DE BORDES: Cepillo lateral integrado que llega a bordes y esquinas difíciles, dejando tu hogar impecable incluso en áreas de difícil acceso.|\nSISTEMA CONSTANT CLEAN: Mantiene el flujo continuo de agua limpia hacia el rodillo mientras succiona el agua sucia hacia un segundo tanque aislado.|\nCOMPATIBILIDAD EXCELENTE: Para una limpieza profunda adicional, se puede usar con detergentes de nuestra lista de compatibilidad, incluyendo los más comunes del hogar.|\nINCLUYE EN LA CAJA: Aspiradora inalámbrica en seco y húmedo, rodillo adicional de limpieza suave, cepillo lateral, filtros de espuma secos y anti-impacto, cargador, base de carga y limpieza, cepillo de limpieza.",
+    "url": "https://www.tefalstore.cl/aspiradora-trapeadora-x---clean-4-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000",
+    "skus": [
+      {
+        "sku_id": "343",
+        "sku_name": "Aspiradora Trapeadora X Clean 4 Digital Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204814/proyecto-nuevo-31.jpg?v=638905171812800000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 499990.0,
+    "list_price": 499990.0,
     "on_sale": false
   },
   {
@@ -3927,6 +3864,27 @@
     "on_sale": false
   },
   {
+    "name": "Cuchillo Chef 20cm Ice Force Tefal",
+    "reference": "2100104352",
+    "brand": "Tefal",
+    "category": "Cuchillo",
+    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal. |\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo chef 20cm es ideal para cortar, picar y rebanar todo tipo de alimentos.",
+    "url": "https://www.tefalstore.cl/cuchillo-chef-20cm-ice-force-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000",
+    "skus": [
+      {
+        "sku_id": "289",
+        "sku_name": "Cuchillo Chef 20cm Ice Force Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24290.0,
+    "list_price": 24290.0,
+    "on_sale": false
+  },
+  {
     "name": "Cuchillo Santoku 18cm Ice Force Tefal",
     "reference": "2100104354",
     "brand": "Tefal",
@@ -3945,6 +3903,27 @@
     "country": "Chile",
     "price": 22990.0,
     "list_price": 22990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Cuchillo Multiuso 11cm Ice Force Tefal",
+    "reference": "2100104353",
+    "brand": "Tefal",
+    "category": "Cuchillos",
+    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal.|\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo multiuso 11cm es ideal para cortar todo tipo de alimentos.",
+    "url": "https://www.tefalstore.cl/cuchillo-multiuso-11cm-ice-force-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205410/foto-1.jpg?v=639035774380700000",
+    "skus": [
+      {
+        "sku_id": "286",
+        "sku_name": "Cuchillo Multiuso 11cm Ice Force Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205410/foto-1.jpg?v=639035774380700000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 11490.0,
+    "list_price": 11490.0,
     "on_sale": false
   },
   {
@@ -4263,10 +4242,31 @@
     "on_sale": false
   },
   {
+    "name": "Cafetera Espresso Evidence Plus + Lechero",
+    "reference": "8010000431",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "La máquina de café espresso automática KRUPS Evidence Plus pone a su alcance bebidas de café excepcionales, para bebidas con calidad de barista llenas de sabor. | Los 19 preajustes de bebidas le permiten personalizar todas sus bebidas preferidas para obtener resultados perfectos a partir de granos de café recién molidos, con una selección de seis bebidas que se pueden preparar con solo presionar un botón. | El innovador e intuitivo panel táctil con pantalla OLED hace que las preparaciones sean rápidas y fáciles. | Molinillo de acero inoxidable produce un molido de café impecable con 15 bares de presión, complementado con sistema KRUPS QUATTRO FORCE, para un café excepcional a niveles de calidad de barista. | Capacidad de estanque: 2,3 L | Incluye lechero.",
+    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-evidence-plus/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204763/8010000431.png?v=638893248048430000",
+    "skus": [
+      {
+        "sku_id": "109",
+        "sku_name": "Cafetera Espresso Evidence Plus + Lechero",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204763/8010000431.png?v=638893248048430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 999990.0,
+    "list_price": 999990.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén 20 cm Super Cook",
     "reference": "2100123983",
     "brand": "Tefal",
-    "category": "Ollas, Sartenes y Woks",
+    "category": "Sartenes y Woks",
     "description": "\"La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nPosee una base difusora que permite una conducción perfecta de calor.|\nNo solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el  nuevo sistema Thermo-Signal™,   indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.|\nCompatible con todo tipo de cocinas, excepto inducción.\"",
     "url": "https://www.tefalstore.cl/tefal-sarten-20-cm-super-cook/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205571/sarten-20cm-super-cook-g6.jpg?v=639044342524270000",
