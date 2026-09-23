@@ -210,27 +210,6 @@
     "on_sale": false
   },
   {
-    "name": "Licuadora Vaso Vidrio Ultraforce Pro Inox",
-    "reference": "7211419420",
-    "brand": "T-fal",
-    "category": "Licuadoras",
-    "description": "* TECNOLOGÍA POWELIX LIFE: MÁXIMA EFICIENCIA: Equipada con 6 cuchillas de acero inoxidable recubiertas en titanio, esta licuadora ofrece hasta 2 veces más eficiencia que modelos anteriores, asegurando cortes precisos y mezclados perfectos en cada uso. * DISEÑO DE ALTA CALIDAD CON CUERPO INOXIDABLE: Hecha de acero inoxidable, garantiza un desempeño robusto y duradero, además de tener una apariencia moderna y estilizada que complementa cualquier cocina. * VERSATILIDAD CON CHOPPER ADICIONAL: Incluye un chopper adicional con dos cuchillas de acero inoxidable para ampliar tus opciones de preparación, desde picar hasta mezclar eficientemente. * CAPACIDAD AMPLIA Y PROGRAMAS AUTOMÁTICOS: El vaso de vidrio de 1.75 litros es ideal para grandes cantidades, mientras sus 3 programas automáticos (smoothie, hielo y auto clean) facilitan la preparación y limpieza. * GARANTÍA DE 2 AÑOS: Respaldada por una garantía T-FAL de 2 años por defectos de fábrica, brindando seguridad y confianza en la durabilidad y calidad del producto.",
-    "url": "https://www.t-fal.com.mx/licuadora-vaso-vidrio-ultraforce-pro-inox/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159722/7211419420_BL87BDX0_ULTRAFORCE PRO INOX 00.webp?v=639150822300600000",
-    "skus": [
-      {
-        "sku_id": "1000",
-        "sku_name": "Licuadora Vaso Vidrio Ultraforce Pro Inox",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159722/7211419420_BL87BDX0_ULTRAFORCE PRO INOX 00.webp?v=639150822300600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1989.0,
-    "list_price": 2999.0,
-    "on_sale": true
-  },
-  {
     "name": "Batería Ingenio Preference 12 pzas acero inoxidable e inducción",
     "reference": "2100125560",
     "brand": "T-fal",
@@ -2245,6 +2224,27 @@
     "price": 649.0,
     "list_price": 649.0,
     "on_sale": false
+  },
+  {
+    "name": "Licuadora Vaso Vidrio Ultraforce Pro Inox",
+    "reference": "7211419420",
+    "brand": "T-fal",
+    "category": "Licuadoras",
+    "description": "* TECNOLOGÍA POWELIX LIFE: MÁXIMA EFICIENCIA: Equipada con 6 cuchillas de acero inoxidable recubiertas en titanio, esta licuadora ofrece hasta 2 veces más eficiencia que modelos anteriores, asegurando cortes precisos y mezclados perfectos en cada uso. * DISEÑO DE ALTA CALIDAD CON CUERPO INOXIDABLE: Hecha de acero inoxidable, garantiza un desempeño robusto y duradero, además de tener una apariencia moderna y estilizada que complementa cualquier cocina. * VERSATILIDAD CON CHOPPER ADICIONAL: Incluye un chopper adicional con dos cuchillas de acero inoxidable para ampliar tus opciones de preparación, desde picar hasta mezclar eficientemente. * CAPACIDAD AMPLIA Y PROGRAMAS AUTOMÁTICOS: El vaso de vidrio de 1.75 litros es ideal para grandes cantidades, mientras sus 3 programas automáticos (smoothie, hielo y auto clean) facilitan la preparación y limpieza. * GARANTÍA DE 2 AÑOS: Respaldada por una garantía T-FAL de 2 años por defectos de fábrica, brindando seguridad y confianza en la durabilidad y calidad del producto.",
+    "url": "https://www.t-fal.com.mx/licuadora-vaso-vidrio-ultraforce-pro-inox/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159722/7211419420_BL87BDX0_ULTRAFORCE PRO INOX 00.webp?v=639150822300600000",
+    "skus": [
+      {
+        "sku_id": "1000",
+        "sku_name": "Licuadora Vaso Vidrio Ultraforce Pro Inox",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159722/7211419420_BL87BDX0_ULTRAFORCE PRO INOX 00.webp?v=639150822300600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1989.0,
+    "list_price": 2999.0,
+    "on_sale": true
   },
   {
     "name": "Set Ingenio Delight sartén 28 cm + cazo 18 cm",
