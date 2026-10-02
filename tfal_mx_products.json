@@ -63,27 +63,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén Excellence+ 20cm Fusion Core",
-    "reference": "2100139014",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
-    "url": "https://www.t-fal.com.mx/sarten-excellence--20cm-fusion-core/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000",
-    "skus": [
-      {
-        "sku_id": "1094",
-        "sku_name": "Sartén Excellence+ 20cm Fusion Core",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1199.0,
-    "list_price": 1499.0,
-    "on_sale": true
-  },
-  {
     "name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
     "reference": "5861036615",
     "brand": "T-fal",
@@ -166,6 +145,27 @@
     "price": 11999.0,
     "list_price": 11999.0,
     "on_sale": false
+  },
+  {
+    "name": "Sartén Excellence+ 20cm Fusion Core",
+    "reference": "2100139014",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
+    "url": "https://www.t-fal.com.mx/sarten-excellence--20cm-fusion-core/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000",
+    "skus": [
+      {
+        "sku_id": "1094",
+        "sku_name": "Sartén Excellence+ 20cm Fusion Core",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1199.0,
+    "list_price": 1499.0,
+    "on_sale": true
   },
   {
     "name": "Batería 20 piezas Refresh Ceramic Eucalyptus",
@@ -357,27 +357,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-    "reference": "2100122016",
-    "brand": "T-fal",
-    "category": "Sets de cuchillos",
-    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
-    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
-    "skus": [
-      {
-        "sku_id": "1041",
-        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 309.0,
-    "list_price": 309.0,
-    "on_sale": false
-  },
-  {
     "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
     "reference": "7114900087",
     "brand": "T-fal",
@@ -417,27 +396,6 @@
     "country": "México",
     "price": 3199.0,
     "list_price": 3199.0,
-    "on_sale": false
-  },
-  {
-    "name": "Freidora de Aceite 3.5 L Oleo Clean Pro",
-    "reference": "7211001726",
-    "brand": "T-fal",
-    "category": "Freidoras de aire y aceite",
-    "description": "* Disfruta de una experiencia de fritura revolucionaria con la Freidora de Aceite Oleo Clean Pro. Con tecnología avanzada y un diseño intuitivo, esta freidora garantiza resultados perfectos cada vez, haciendo la limpieza y el uso fáciles y sin esfuerzo. Ideal para familias y amantes de la cocina que buscan calidad y practicidad. * Tecnología patentada de filtración de aceite: Filtra y almacena automáticamente el aceite usado en la caja proporcionada, manteniendo tu cocina libre de olores intensos y cochambre, y asegurando una fácil limpieza. * Control preciso de temperatura: Ajusta la temperatura de 135 °C a 190 °C para resultados de fritura óptimos, garantizando que tu comida se fríe a la perfección y conserva los sabores auténticos. * Capacidad generosa: Con capacidad de aceite de 3.5 litros y comida de 2.5 libras, esta freidora ofrece calentamiento uniforme y resultados dorados, ideal para preparar alimentos para hasta 6 personas. * Fritura segura y sin esfuerzo: Incluye tapa de bloqueo, ventana de visualización, asas de tacto frío y apagado automático, proporcionando tranquilidad y seguridad durante la fritura. * Limpieza ultra fácil: Componentes aptos para lavaplatos, incluyendo cesta de cocina, tazón, tapa y caja de aceite. Disfruta de la comodidad de una fritura profesional en casa sin complicaciones",
-    "url": "https://www.t-fal.com.mx/freidora-de-aceite-3-5-l-oleo-clean-pro/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158562/7211001726_FR800050_FREIDORA_OLEOCLEANPRO-1-.jpg?v=638950331678630000",
-    "skus": [
-      {
-        "sku_id": "991",
-        "sku_name": "Freidora de Aceite 3.5 L Oleo Clean Pro",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158562/7211001726_FR800050_FREIDORA_OLEOCLEANPRO-1-.jpg?v=638950331678630000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2309.0,
-    "list_price": 2309.0,
     "on_sale": false
   },
   {
@@ -522,27 +480,6 @@
     "country": "México",
     "price": 909.0,
     "list_price": 1199.0,
-    "on_sale": true
-  },
-  {
-    "name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
-    "reference": "1830008271",
-    "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* EL VAPORIZADOR MÁS PODEROSO DE T-FAL: Con niveles ajustables de vapor y modo Turbo, ofrece un flujo intenso capaz de alisar hasta los pliegues más rebeldes con rapidez.\n* TRANQUILIDAD GARANTIZADA: La función Auto-off apaga el vaporizador automáticamente cuando no está en uso, brindando seguridad y confianza en cada planchado.\n* LISTO EN SEGUNDOS: En sólo 25 segundos, el vaporizador está preparado para eliminar arrugas y refrescar tus prendas, ideal para salidas de último momento.\n* SUELA CERÁMICA: Su suela calefactada con recubrimiento cerámico evita la condensación, dejando tu ropa seca, alisada y lista para usar inmediatamente.\n* TANQUE XXL REMOVIBLE: El tanque de agua de 200 ml permite sesiones más largas sin interrupciones, con diseño desmontable que facilita el llenado y la comodidad diaria.",
-    "url": "https://www.t-fal.com.mx/vaporizador-x-cel-steam-force-el-vapor-mas-poderoso-922/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157815/1830008271_DT8221X1_XCELSTEAMFORCE_-1-.jpg?v=638930413470830000",
-    "skus": [
-      {
-        "sku_id": "922",
-        "sku_name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157815/1830008271_DT8221X1_XCELSTEAMFORCE_-1-.jpg?v=638930413470830000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1249.0,
-    "list_price": 1499.0,
     "on_sale": true
   },
   {
@@ -672,27 +609,6 @@
     "on_sale": false
   },
   {
-    "name": "Batería 13 pzas Ceramic preserve Almond Butter",
-    "reference": "2100135275",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "Ceramic Preserve es una línea para quien quiera juntar calidad con elegeancia. Llevando diseños originales, la línea busca también añadir el toque de buena salud con su antiadherente InoCeram que encima de ser de cerámica está 100% libre partículas de plomo, cadmio y PFOA. Cuenta con Termo-Señal, que cambia de color cuando el calor del sartén está en su punto perfecto para empezar a cocinar. El sartén de Ceramic Preserve también se puede usar en el horno, hasta 175°C para que tengas una mayor versatilidad en tu cocina. La gama es compatible con todos los tipos de estufa, excepto inducción. La base de difusión da una distribución del calor pareja a todo el sartén que resulta en una cocción homogénea de los alimentos. ¡Es la línea perfecta para quienes buscan combinar salud con elegancia.",
-    "url": "https://www.t-fal.com.mx/bateria-13-pzas-ceramic-preserve-almond-butter-c494sd63/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159693/2100135275_C494SD63_T-CER-PRESERVE-13PC-SET-ALM-BUTTER-01.webp?v=639148760949900000",
-    "skus": [
-      {
-        "sku_id": "1112",
-        "sku_name": "Batería 13 pzas Ceramic preserve Almond Butter",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159693/2100135275_C494SD63_T-CER-PRESERVE-13PC-SET-ALM-BUTTER-01.webp?v=639148760949900000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 4375.0,
-    "list_price": 4375.0,
-    "on_sale": false
-  },
-  {
     "name": "Moldes y rejillas para cocinar en air fryer y hornos",
     "reference": "1510001776",
     "brand": "T-fal",
@@ -795,6 +711,27 @@
     "country": "México",
     "price": 329.0,
     "list_price": 329.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+    "reference": "2100122016",
+    "brand": "T-fal",
+    "category": "Sets de cuchillos",
+    "description": "* Incluye cuchillo chef de 15 cm y pelador de 9 cm, forjados en una sola pieza.\n* Hojas muy afiladas facilitan los cortes, aumentando eficiencia.\n* Diseño ergonómico y fácil agarre para uso cómodo.\n* Tecnología de titanio y antiadherente, rendimiento superior.\n* Ideal para cualquier cocina, asegurando durabilidad y resistencia.",
+    "url": "https://www.t-fal.com.mx/set-de-2-cuchillos-titanio-antiadherente-fresh-kitchen/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000",
+    "skus": [
+      {
+        "sku_id": "1041",
+        "sku_name": "Set de 2 cuchillos titanio antiadherente Fresh Kitchen",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158863/2100122016_K122S205_SETCUCH2PZS9-15CMFRESHKITCHEN-1-.jpg?v=638962987068570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 309.0,
+    "list_price": 309.0,
     "on_sale": false
   },
   {
@@ -987,6 +924,27 @@
     "on_sale": false
   },
   {
+    "name": "Batería Natural Force 9 pzas Mineralia+",
+    "reference": "2100121714",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Recubrimiento Mineralia+ reforzado con partículas minerales. \n* Tecnología Thermo-Signal en los sartenes que indica el momento óptimo para comenzar la cocción. \n* Base difusora que asegura un calentamiento uniforme. \n* Evitando puntos de sobrecalentamiento en las preparaciones. \n* Incluye utensilios de efecto madera que cuidan el antiadherente y facilitan la preparación de recetas saludables. \n* Compatible con todas las fuentes de calor excepto inducción. \n* Hecho en Francia y apta para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/bateria-natural-force-9-pzas-mineralia/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158051/2100121714_G2669382_SET_9P_NATURAL_FORCE_GREY_LAVINIA_MX-1-.jpg?v=638932145707430000",
+    "skus": [
+      {
+        "sku_id": "967",
+        "sku_name": "Batería Natural Force 9 pzas Mineralia+",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158051/2100121714_G2669382_SET_9P_NATURAL_FORCE_GREY_LAVINIA_MX-1-.jpg?v=638932145707430000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 6819.0,
+    "list_price": 8499.0,
+    "on_sale": true
+  },
+  {
     "name": "Batería Excite Bronze 14 pzas antiadherente",
     "reference": "2100108568",
     "brand": "T-fal",
@@ -1048,6 +1006,27 @@
     "price": 699.0,
     "list_price": 699.0,
     "on_sale": false
+  },
+  {
+    "name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
+    "reference": "1830008271",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* EL VAPORIZADOR MÁS PODEROSO DE T-FAL: Con niveles ajustables de vapor y modo Turbo, ofrece un flujo intenso capaz de alisar hasta los pliegues más rebeldes con rapidez.\n* TRANQUILIDAD GARANTIZADA: La función Auto-off apaga el vaporizador automáticamente cuando no está en uso, brindando seguridad y confianza en cada planchado.\n* LISTO EN SEGUNDOS: En sólo 25 segundos, el vaporizador está preparado para eliminar arrugas y refrescar tus prendas, ideal para salidas de último momento.\n* SUELA CERÁMICA: Su suela calefactada con recubrimiento cerámico evita la condensación, dejando tu ropa seca, alisada y lista para usar inmediatamente.\n* TANQUE XXL REMOVIBLE: El tanque de agua de 200 ml permite sesiones más largas sin interrupciones, con diseño desmontable que facilita el llenado y la comodidad diaria.",
+    "url": "https://www.t-fal.com.mx/vaporizador-x-cel-steam-force-el-vapor-mas-poderoso-922/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157815/1830008271_DT8221X1_XCELSTEAMFORCE_-1-.jpg?v=638930413470830000",
+    "skus": [
+      {
+        "sku_id": "922",
+        "sku_name": "Vaporizador X-cel Steam Force, el vapor más poderoso",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157815/1830008271_DT8221X1_XCELSTEAMFORCE_-1-.jpg?v=638930413470830000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1249.0,
+    "list_price": 1499.0,
+    "on_sale": true
   },
   {
     "name": "Plancha de vapor Ultragliss Plus Wine Gray, máximo vapor",
@@ -1425,6 +1404,27 @@
     "country": "México",
     "price": 2499.0,
     "list_price": 2499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Batería 13 pzas Ceramic preserve Almond Butter",
+    "reference": "2100135275",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "Ceramic Preserve es una línea para quien quiera juntar calidad con elegeancia. Llevando diseños originales, la línea busca también añadir el toque de buena salud con su antiadherente InoCeram que encima de ser de cerámica está 100% libre partículas de plomo, cadmio y PFOA. Cuenta con Termo-Señal, que cambia de color cuando el calor del sartén está en su punto perfecto para empezar a cocinar. El sartén de Ceramic Preserve también se puede usar en el horno, hasta 175°C para que tengas una mayor versatilidad en tu cocina. La gama es compatible con todos los tipos de estufa, excepto inducción. La base de difusión da una distribución del calor pareja a todo el sartén que resulta en una cocción homogénea de los alimentos. ¡Es la línea perfecta para quienes buscan combinar salud con elegancia.",
+    "url": "https://www.t-fal.com.mx/bateria-13-pzas-ceramic-preserve-almond-butter-c494sd63/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159693/2100135275_C494SD63_T-CER-PRESERVE-13PC-SET-ALM-BUTTER-01.webp?v=639148760949900000",
+    "skus": [
+      {
+        "sku_id": "1112",
+        "sku_name": "Batería 13 pzas Ceramic preserve Almond Butter",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159693/2100135275_C494SD63_T-CER-PRESERVE-13PC-SET-ALM-BUTTER-01.webp?v=639148760949900000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 4375.0,
+    "list_price": 4375.0,
     "on_sale": false
   },
   {
@@ -2730,6 +2730,27 @@
     "on_sale": true
   },
   {
+    "name": "Freidora de Aceite 3.5 L Oleo Clean Pro",
+    "reference": "7211001726",
+    "brand": "T-fal",
+    "category": "Freidoras de aire y aceite",
+    "description": "* Disfruta de una experiencia de fritura revolucionaria con la Freidora de Aceite Oleo Clean Pro. Con tecnología avanzada y un diseño intuitivo, esta freidora garantiza resultados perfectos cada vez, haciendo la limpieza y el uso fáciles y sin esfuerzo. Ideal para familias y amantes de la cocina que buscan calidad y practicidad. * Tecnología patentada de filtración de aceite: Filtra y almacena automáticamente el aceite usado en la caja proporcionada, manteniendo tu cocina libre de olores intensos y cochambre, y asegurando una fácil limpieza. * Control preciso de temperatura: Ajusta la temperatura de 135 °C a 190 °C para resultados de fritura óptimos, garantizando que tu comida se fríe a la perfección y conserva los sabores auténticos. * Capacidad generosa: Con capacidad de aceite de 3.5 litros y comida de 2.5 libras, esta freidora ofrece calentamiento uniforme y resultados dorados, ideal para preparar alimentos para hasta 6 personas. * Fritura segura y sin esfuerzo: Incluye tapa de bloqueo, ventana de visualización, asas de tacto frío y apagado automático, proporcionando tranquilidad y seguridad durante la fritura. * Limpieza ultra fácil: Componentes aptos para lavaplatos, incluyendo cesta de cocina, tazón, tapa y caja de aceite. Disfruta de la comodidad de una fritura profesional en casa sin complicaciones",
+    "url": "https://www.t-fal.com.mx/freidora-de-aceite-3-5-l-oleo-clean-pro/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158562/7211001726_FR800050_FREIDORA_OLEOCLEANPRO-1-.jpg?v=638950331678630000",
+    "skus": [
+      {
+        "sku_id": "991",
+        "sku_name": "Freidora de Aceite 3.5 L Oleo Clean Pro",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158562/7211001726_FR800050_FREIDORA_OLEOCLEANPRO-1-.jpg?v=638950331678630000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2309.0,
+    "list_price": 2309.0,
+    "on_sale": false
+  },
+  {
     "name": "Extractor de Jugo Frutelia",
     "reference": "8010000550",
     "brand": "T-fal",
@@ -2937,27 +2958,6 @@
     "country": "México",
     "price": 489.0,
     "list_price": 699.0,
-    "on_sale": true
-  },
-  {
-    "name": "Batería Natural Force 9 pzas Mineralia+",
-    "reference": "2100121714",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Recubrimiento Mineralia+ reforzado con partículas minerales. \n* Tecnología Thermo-Signal en los sartenes que indica el momento óptimo para comenzar la cocción. \n* Base difusora que asegura un calentamiento uniforme. \n* Evitando puntos de sobrecalentamiento en las preparaciones. \n* Incluye utensilios de efecto madera que cuidan el antiadherente y facilitan la preparación de recetas saludables. \n* Compatible con todas las fuentes de calor excepto inducción. \n* Hecho en Francia y apta para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/bateria-natural-force-9-pzas-mineralia/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158051/2100121714_G2669382_SET_9P_NATURAL_FORCE_GREY_LAVINIA_MX-1-.jpg?v=638932145707430000",
-    "skus": [
-      {
-        "sku_id": "967",
-        "sku_name": "Batería Natural Force 9 pzas Mineralia+",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158051/2100121714_G2669382_SET_9P_NATURAL_FORCE_GREY_LAVINIA_MX-1-.jpg?v=638932145707430000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 6819.0,
-    "list_price": 8499.0,
     "on_sale": true
   },
   {
@@ -3696,27 +3696,6 @@
     "on_sale": false
   },
   {
-    "name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
-    "reference": "5861023491",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/set-de-cuchillas-para-licuadoras-vaso-vidrio-del-rango-optimix--powermix-e-infinyforce-1/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159898/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639201561623070000",
-    "skus": [
-      {
-        "sku_id": "1134",
-        "sku_name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159898/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639201561623070000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 59.0,
-    "list_price": 59.0,
-    "on_sale": false
-  },
-  {
     "name": "Juego de 3 Utensilios Proflex Rojos",
     "reference": "9100034882",
     "brand": "T-fal",
@@ -3924,6 +3903,27 @@
     "country": "México",
     "price": 99.0,
     "list_price": 99.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
+    "reference": "5861036616",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/set-de-cuchillas-para-licuadoras-vaso-vidrio-del-rango-optimix--powermix-e-infinyforce/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159404/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639119570253130000",
+    "skus": [
+      {
+        "sku_id": "1083",
+        "sku_name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159404/5861036616_XF25F0IX_PCUCHILLAOPTIMIX-POWERMIXV.VIDNGACC-01-.jpg?v=639119570253130000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 59.0,
+    "list_price": 59.0,
     "on_sale": false
   },
   {
