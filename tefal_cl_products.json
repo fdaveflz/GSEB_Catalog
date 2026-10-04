@@ -1,26 +1,5 @@
 [
   {
-    "name": "Cafetera Espresso Coffee Crush Experience Krups",
-    "reference": "8010001480",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206479/Krups_COFFEE CRUSH EXPERIENCE LIONESS_8010001480_TikTok.png?v=639250061221170000",
-    "skus": [
-      {
-        "sku_id": "409",
-        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206479/Krups_COFFEE CRUSH EXPERIENCE LIONESS_8010001480_TikTok.png?v=639250061221170000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 299990.0,
-    "list_price": 449990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Acero Inoxidable Duetto 11 Piezas Tefal",
     "reference": "2100145345",
     "brand": "Tefal",
@@ -39,6 +18,27 @@
     "country": "Chile",
     "price": 99990.0,
     "list_price": 149990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera Espresso Coffee Crush Experience Krups",
+    "reference": "8010001480",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206479/Krups_COFFEE CRUSH EXPERIENCE LIONESS_8010001480_TikTok.png?v=639250061221170000",
+    "skus": [
+      {
+        "sku_id": "409",
+        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206479/Krups_COFFEE CRUSH EXPERIENCE LIONESS_8010001480_TikTok.png?v=639250061221170000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 299990.0,
+    "list_price": 449990.0,
     "on_sale": true
   },
   {
@@ -165,6 +165,27 @@
     "country": "Chile",
     "price": 29990.0,
     "list_price": 89990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Set sartenes 20/24/26cm Easy COOK",
+    "reference": "2100123665",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nAdemás, cuenta con una base difusora que permite una conducción perfecta de calor.| Incluye tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.|Compatible con todas las cocinas, excepto inducción.",
+    "url": "https://www.tefalstore.cl/tefal-set-sartenes-20-24-26cm-easy-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000",
+    "skus": [
+      {
+        "sku_id": "218",
+        "sku_name": "Set sartenes 20/24/26cm Easy COOK",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 22990.0,
+    "list_price": 34990.0,
     "on_sale": true
   },
   {
@@ -315,6 +336,48 @@
     "on_sale": true
   },
   {
+    "name": "Sarten 20 CM Excellence Plus Fusion Core Tefal",
+    "reference": "2100139014",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal|\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit!|\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!|\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.)|\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable!|\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!|\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
+    "url": "https://www.tefalstore.cl/sarten-20-cm-excellence-plus-fusion-core-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206259/01-portada.jpg?v=639202412161800000",
+    "skus": [
+      {
+        "sku_id": "393",
+        "sku_name": "Sarten 20 CM Excellence Plus Fusion Core Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206259/01-portada.jpg?v=639202412161800000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 27990.0,
+    "list_price": 42990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
+    "reference": "2100139011",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal |\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!|\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable! |\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!|\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
+    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-plus-fusion-core-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206240/01-imagen.jpg?v=639201689392800000",
+    "skus": [
+      {
+        "sku_id": "394",
+        "sku_name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206240/01-imagen.jpg?v=639201689392800000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 31990.0,
+    "list_price": 44990.0,
+    "on_sale": true
+  },
+  {
     "name": "Sarten 28 CM Excellence Plus Fusion Core Tefal",
     "reference": "2100139012",
     "brand": "Tefal",
@@ -357,24 +420,45 @@
     "on_sale": true
   },
   {
-    "name": "Set sartenes 20/24/26cm Easy COOK",
-    "reference": "2100123665",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nAdemás, cuenta con una base difusora que permite una conducción perfecta de calor.| Incluye tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.|Compatible con todas las cocinas, excepto inducción.",
-    "url": "https://www.tefalstore.cl/tefal-set-sartenes-20-24-26cm-easy-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000",
+    "name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
+    "reference": "7211005063",
+    "brand": "Rowenta",
+    "category": "Aspiradoras de Arrastre",
+    "description": "RENDIMIENTO XXL DE LIMPIEZA: Una aspiradora sin bolsa que ofrece una succión impresionante gracias a la avanzada tecnología ciclónica y a un motor de bajo consumo de 900 W máx.* para resultados de limpieza perfectos (*según (UE) N°666/2013).| CAPACIDAD XXL: Una impresionante capacidad de 2,5 L que cubre todo tipo de espacios habitables, en una aspiradora de trineo que brinda mayor autonomía y comodidad.| DISEÑO COMPACTO: Un diseño estilizado y un formato sin bolsa altamente compacto para máxima comodidad, limpieza más fluida y fácil almacenamiento, asegurando un encaje sin esfuerzo en la mayoría de armarios y alacenas.| FILTRACIÓN EXCEPCIONAL: Un sistema de filtración de 3 niveles que garantiza una separación excepcional del aire y el polvo día tras día, capturando más del 99,98% de las partículas de polvo para un entorno hogareño puro y saludable.| REPARABILIDAD DE 15 AÑOS: Reparaciones de bajo costo y entrega rápida desde 6200 centros de servicio en todo el mundo, como parte de nuestro compromiso de proteger el medio ambiente y reducir los residuos.| COBERTURA DE SUPERFICIES GRANDES: El amplio radio de limpieza de 8,80 m cubre espacios habitables de gran tamaño sin necesidad de desenchufar, para un confort y comodidad totales.| DEPÓSITO DE POLVO DE FÁCIL VACIADO: Disfruta de una experiencia de aspirado más fluida gracias a un depósito de polvo fácil de retirar, vaciar y limpiar.| CONTENIDO DE LA CAJA: Aspiradora Compact Power XXL, cepillo para parquet, mini cepillo turbo, herramienta 2 en 1 para ranuras.",
+    "url": "https://www.tefalstore.cl/aspiradora-de-arrastre-compact-power-xxl-brown-900w-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205659/01-portada-3.png?v=639065875633800000",
     "skus": [
       {
-        "sku_id": "218",
-        "sku_name": "Set sartenes 20/24/26cm Easy COOK",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000"
+        "sku_id": "379",
+        "sku_name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205659/01-portada-3.png?v=639065875633800000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 22990.0,
-    "list_price": 34990.0,
+    "price": 79990.0,
+    "list_price": 109990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Set de Ollas Acero Inoxidable 5 Piezas Comfort Max Tefal",
+    "reference": "2100087300",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "GARANTÍA DE 10 AÑOS EN ACERO INOXIDABLE: asegurando un rendimiento y confiabilidad duraderos, descubra una batería de cocina de calidad premium con un diseño robusto construido para durar |\nCOCCIÓN RÁPIDA Y UNIFORME: la gruesa base Thermo-Fusion garantiza una cocción rápida y uniforme además de una compatibilidad total con todas las estufas (gas, eléctrica, cerámica e inducción) |\n MARCAS DE MEDICIÓN: el diseño inteligente con marcas de medición integradas garantiza resultados perfectos en cada ocasión|\n MANGO DE AGARRE CÓMODO: un diseño ergonómico y un agarre suave y frío al tacto para una total seguridad y comodidad al cocinar |\nTAPA DE VIDRIO CON SALIDA DE VAPOR: para una cocción segura y fácil que mantiene todo el sabor y la humedad de sus ingredientes |\n JUEGO DE OLLAS ESENCIALES: el juego completo para la cocina diaria, desde deliciosas salsas hasta espaguetis a la boloñesa o incluso palomitas de maíz caseras |\nAPTO PARA LAVAVAJILLAS: fácil de limpiar, ofreciendo una comodidad inigualable ideal para el uso frecuente.",
+    "url": "https://www.tefalstore.cl/set-de-ollas-acero-inoxidable-5-piezas-comfort-max-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205598/01-portada-3.png?v=639046250954000000",
+    "skus": [
+      {
+        "sku_id": "373",
+        "sku_name": "Set de Ollas Acero Inoxidable 5 Piezas Comfort Max Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205598/01-portada-3.png?v=639046250954000000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 34990.0,
+    "list_price": 59990.0,
     "on_sale": true
   },
   {
@@ -504,6 +588,48 @@
     "on_sale": true
   },
   {
+    "name": "Máquina de Pan Pain & delicés Moulinex",
+    "reference": "7211002289",
+    "brand": "Moulinex",
+    "category": "Máquinas de Pan",
+    "description": "Es la panificadora Moulinex más completa y versátil. ¡Tu imaginación es el límite! ¡Disfrute no solo de pan casero fresco y sabroso, sino también de masa para pizza, pasta fresca, mermelada, gachas y cereales, y preparaciones lácteas! | Sus 20 programas incluyen programas sin gluten para una gran variedad de panes y pasteles saludables. ¡Descúbrelos con el recetario específico! | Ahora también puede hacer preparaciones lácteas para su familia, gracias a 3 programas específicos: desde yogur y yogur bebible hasta requesón, + el bote de yogur de 1 litro. | Ya sea un consumidor de pan pequeño o grande, individual o con una familia numerosa, elija entre 3 tamaños de pan desde 500 g hasta 1 kg. Ligera y compacta, la panificadora Pain & Délices tiene un aspecto moderno y premium gracias a su acabado metálico que se adapta perfectamente a su cocina.",
+    "url": "https://www.tefalstore.cl/moulinex-maquina-de-pan-pain---delices/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206166/7211002289.jpg?v=639171511282300000",
+    "skus": [
+      {
+        "sku_id": "113",
+        "sku_name": "Máquina de Pan Pain & delicés",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206166/7211002289.jpg?v=639171511282300000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 74990.0,
+    "list_price": 109990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Tetera 3 Lts. Acero Inoxidable",
+    "reference": "2100093086",
+    "brand": "Tefal",
+    "category": "Contenedores de Alimentos y Bebidas",
+    "description": "Fácil de abrir, solo presionando un botón y con un asa ergonómica, además de una señal sonora al hervir. | \nCapacidad de 3 Lts.| \nTipo de cocina: Gas, Eléctrica y Vitrocerámica.| \nMaterial: Acero Inoxidable.",
+    "url": "https://www.tefalstore.cl/tefal-tetera-3-lts-acero-inoxidable/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204802/p-2100093086-1.jpg?v=639220620132300000",
+    "skus": [
+      {
+        "sku_id": "42",
+        "sku_name": "Tetera 3 Lts Acero Inoxidable",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204802/p-2100093086-1.jpg?v=639220620132300000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 18990.0,
+    "list_price": 27990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
     "reference": "2100140795",
     "brand": "Tefal",
@@ -522,6 +648,27 @@
     "country": "Chile",
     "price": 99990.0,
     "list_price": 144990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sarten 26 CM Excellence Plus Fusion Core Tefal",
+    "reference": "2100142106",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal|\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit!|\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!|\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.)|\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable!|\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!|\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
+    "url": "https://www.tefalstore.cl/sarten-26-cm-excellence-plus-fusion-core-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206265/01-portada.jpg?v=639202415104570000",
+    "skus": [
+      {
+        "sku_id": "412",
+        "sku_name": "Sarten 26 CM Excellence Plus Fusion Core Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206265/01-portada.jpg?v=639202415104570000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 34990.0,
+    "list_price": 47990.0,
     "on_sale": true
   },
   {
@@ -588,48 +735,6 @@
     "on_sale": true
   },
   {
-    "name": "Sarten 20 CM Excellence Plus Fusion Core Tefal",
-    "reference": "2100139014",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal|\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit!|\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!|\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.)|\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable!|\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!|\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
-    "url": "https://www.tefalstore.cl/sarten-20-cm-excellence-plus-fusion-core-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206259/01-portada.jpg?v=639202412161800000",
-    "skus": [
-      {
-        "sku_id": "393",
-        "sku_name": "Sarten 20 CM Excellence Plus Fusion Core Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206259/01-portada.jpg?v=639202412161800000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 27990.0,
-    "list_price": 42990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
-    "reference": "2100139011",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal |\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!|\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable! |\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!|\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
-    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-plus-fusion-core-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206240/01-imagen.jpg?v=639201689392800000",
-    "skus": [
-      {
-        "sku_id": "394",
-        "sku_name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206240/01-imagen.jpg?v=639201689392800000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 31990.0,
-    "list_price": 44990.0,
-    "on_sale": true
-  },
-  {
     "name": "Contenedor hermetico de alimentos ONECLICK SET Azul 3 Piezas 0.5L Tefal",
     "reference": "3110601810",
     "brand": "Tefal",
@@ -648,27 +753,6 @@
     "country": "Chile",
     "price": 14990.0,
     "list_price": 24990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
-    "reference": "7211005063",
-    "brand": "Rowenta",
-    "category": "Aspiradoras de Arrastre",
-    "description": "RENDIMIENTO XXL DE LIMPIEZA: Una aspiradora sin bolsa que ofrece una succión impresionante gracias a la avanzada tecnología ciclónica y a un motor de bajo consumo de 900 W máx.* para resultados de limpieza perfectos (*según (UE) N°666/2013).| CAPACIDAD XXL: Una impresionante capacidad de 2,5 L que cubre todo tipo de espacios habitables, en una aspiradora de trineo que brinda mayor autonomía y comodidad.| DISEÑO COMPACTO: Un diseño estilizado y un formato sin bolsa altamente compacto para máxima comodidad, limpieza más fluida y fácil almacenamiento, asegurando un encaje sin esfuerzo en la mayoría de armarios y alacenas.| FILTRACIÓN EXCEPCIONAL: Un sistema de filtración de 3 niveles que garantiza una separación excepcional del aire y el polvo día tras día, capturando más del 99,98% de las partículas de polvo para un entorno hogareño puro y saludable.| REPARABILIDAD DE 15 AÑOS: Reparaciones de bajo costo y entrega rápida desde 6200 centros de servicio en todo el mundo, como parte de nuestro compromiso de proteger el medio ambiente y reducir los residuos.| COBERTURA DE SUPERFICIES GRANDES: El amplio radio de limpieza de 8,80 m cubre espacios habitables de gran tamaño sin necesidad de desenchufar, para un confort y comodidad totales.| DEPÓSITO DE POLVO DE FÁCIL VACIADO: Disfruta de una experiencia de aspirado más fluida gracias a un depósito de polvo fácil de retirar, vaciar y limpiar.| CONTENIDO DE LA CAJA: Aspiradora Compact Power XXL, cepillo para parquet, mini cepillo turbo, herramienta 2 en 1 para ranuras.",
-    "url": "https://www.tefalstore.cl/aspiradora-de-arrastre-compact-power-xxl-brown-900w-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205659/01-portada-3.png?v=639065875633800000",
-    "skus": [
-      {
-        "sku_id": "379",
-        "sku_name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205659/01-portada-3.png?v=639065875633800000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 79990.0,
-    "list_price": 109990.0,
     "on_sale": true
   },
   {
@@ -732,27 +816,6 @@
     "country": "Chile",
     "price": 29990.0,
     "list_price": 42990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set de Ollas Acero Inoxidable 5 Piezas Comfort Max Tefal",
-    "reference": "2100087300",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "GARANTÍA DE 10 AÑOS EN ACERO INOXIDABLE: asegurando un rendimiento y confiabilidad duraderos, descubra una batería de cocina de calidad premium con un diseño robusto construido para durar |\nCOCCIÓN RÁPIDA Y UNIFORME: la gruesa base Thermo-Fusion garantiza una cocción rápida y uniforme además de una compatibilidad total con todas las estufas (gas, eléctrica, cerámica e inducción) |\n MARCAS DE MEDICIÓN: el diseño inteligente con marcas de medición integradas garantiza resultados perfectos en cada ocasión|\n MANGO DE AGARRE CÓMODO: un diseño ergonómico y un agarre suave y frío al tacto para una total seguridad y comodidad al cocinar |\nTAPA DE VIDRIO CON SALIDA DE VAPOR: para una cocción segura y fácil que mantiene todo el sabor y la humedad de sus ingredientes |\n JUEGO DE OLLAS ESENCIALES: el juego completo para la cocina diaria, desde deliciosas salsas hasta espaguetis a la boloñesa o incluso palomitas de maíz caseras |\nAPTO PARA LAVAVAJILLAS: fácil de limpiar, ofreciendo una comodidad inigualable ideal para el uso frecuente.",
-    "url": "https://www.tefalstore.cl/set-de-ollas-acero-inoxidable-5-piezas-comfort-max-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205598/01-portada-3.png?v=639046250954000000",
-    "skus": [
-      {
-        "sku_id": "373",
-        "sku_name": "Set de Ollas Acero Inoxidable 5 Piezas Comfort Max Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205598/01-portada-3.png?v=639046250954000000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 34990.0,
-    "list_price": 59990.0,
     "on_sale": true
   },
   {
@@ -1092,6 +1155,27 @@
     "on_sale": true
   },
   {
+    "name": "Sárten 24 cm acero Inoxidable Primary Tefal",
+    "reference": "2100118818",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "El sartén Primary esta diseñado para ser resistente y durar en el tiempo. Esta hecho de acero inoxidable 18/10 de la mejor calidad.|\nCuenta con revestimiento antiadherente de titanio para acompañarte diariamente en tu cocina y que nada se pegue. |\nNuestra tecnología Thermo-Signal te ayudará a cocinar como chef y asar perfectamente tus carnes. Muestra la temperatura de inicio de cocción ideal para garantizar una textura, color y sabor perfectos.|\nApta para todo tipo de cocinas, incluso inducción.|\nAdemás, te invitamos a descubrir la linea completa Primary que cuenta con sartenes, wok, olla y cacerola. |\nNuestros antiadherente son seguros:  sin PFOA, plomo y cadmio.",
+    "url": "https://www.tefalstore.cl/tefal-sarten-24cm-acero-inoxidable-primary-/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206408/img-1.png?v=639241506320870000",
+    "skus": [
+      {
+        "sku_id": "307",
+        "sku_name": "Sárten 24 cm acero Inoxidable Primary",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206408/img-1.png?v=639241506320870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 16990.0,
+    "list_price": 21990.0,
+    "on_sale": true
+  },
+  {
     "name": "Set 4 cuchillos 11cm Ice Force Tefal",
     "reference": "2100104356",
     "brand": "Tefal",
@@ -1344,24 +1428,24 @@
     "on_sale": true
   },
   {
-    "name": "Máquina de Pan Pain & delicés Moulinex",
-    "reference": "7211002289",
-    "brand": "Moulinex",
-    "category": "Máquinas de Pan",
-    "description": "Es la panificadora Moulinex más completa y versátil. ¡Tu imaginación es el límite! ¡Disfrute no solo de pan casero fresco y sabroso, sino también de masa para pizza, pasta fresca, mermelada, gachas y cereales, y preparaciones lácteas! | Sus 20 programas incluyen programas sin gluten para una gran variedad de panes y pasteles saludables. ¡Descúbrelos con el recetario específico! | Ahora también puede hacer preparaciones lácteas para su familia, gracias a 3 programas específicos: desde yogur y yogur bebible hasta requesón, + el bote de yogur de 1 litro. | Ya sea un consumidor de pan pequeño o grande, individual o con una familia numerosa, elija entre 3 tamaños de pan desde 500 g hasta 1 kg. Ligera y compacta, la panificadora Pain & Délices tiene un aspecto moderno y premium gracias a su acabado metálico que se adapta perfectamente a su cocina.",
-    "url": "https://www.tefalstore.cl/moulinex-maquina-de-pan-pain---delices/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206166/7211002289.jpg?v=639171511282300000",
+    "name": "Cafetera Espresso Full Auto",
+    "reference": "8000035039",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "Alto rendimiento y es fácil de usar para garantizar fácilmente su espresso perfecto. | Con 15 bares de presión que reproducen las mismas características de un barista con boquilla de vapor para obtener la espuma perfecta. | Exclusivo sistema Thermoblock que asegura la temperatura ideal y limita la formación de sarro. | Sistema de dosificación para tazas pequeñas y grandes. | Molinillo de metal incluido con capacidad 260 gr. | Potencia de 1450 W.",
+    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-full-auto/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204923/8000035039.png?v=638913884758530000",
     "skus": [
       {
-        "sku_id": "113",
-        "sku_name": "Máquina de Pan Pain & delicés",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206166/7211002289.jpg?v=639171511282300000"
+        "sku_id": "74",
+        "sku_name": "Cafetera Espresso Full Auto",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204923/8000035039.png?v=638913884758530000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 74990.0,
-    "list_price": 109990.0,
+    "price": 299990.0,
+    "list_price": 499990.0,
     "on_sale": true
   },
   {
@@ -1386,48 +1470,6 @@
     "on_sale": true
   },
   {
-    "name": "Tetera 3 Lts. Acero Inoxidable",
-    "reference": "2100093086",
-    "brand": "Tefal",
-    "category": "Contenedores de Alimentos y Bebidas",
-    "description": "Fácil de abrir, solo presionando un botón y con un asa ergonómica, además de una señal sonora al hervir. | \nCapacidad de 3 Lts.| \nTipo de cocina: Gas, Eléctrica y Vitrocerámica.| \nMaterial: Acero Inoxidable.",
-    "url": "https://www.tefalstore.cl/tefal-tetera-3-lts-acero-inoxidable/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204802/p-2100093086-1.jpg?v=639220620132300000",
-    "skus": [
-      {
-        "sku_id": "42",
-        "sku_name": "Tetera 3 Lts Acero Inoxidable",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204802/p-2100093086-1.jpg?v=639220620132300000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 18990.0,
-    "list_price": 27990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sarten 26 CM Excellence Plus Fusion Core Tefal",
-    "reference": "2100142106",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal|\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit!|\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!|\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.)|\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable!|\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!|\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
-    "url": "https://www.tefalstore.cl/sarten-26-cm-excellence-plus-fusion-core-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206265/01-portada.jpg?v=639202415104570000",
-    "skus": [
-      {
-        "sku_id": "412",
-        "sku_name": "Sarten 26 CM Excellence Plus Fusion Core Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206265/01-portada.jpg?v=639202415104570000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 34990.0,
-    "list_price": 47990.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Vertical X Pert 5.8 Digital Allergy Rowenta",
     "reference": "7211005558",
     "brand": "Rowenta",
@@ -1446,6 +1488,27 @@
     "country": "Chile",
     "price": 99990.0,
     "list_price": 159990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Wok 28cm Excellence Cerámica FusionCore Tefal",
+    "reference": "2100137571",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
+    "url": "https://www.tefalstore.cl/wok-28cm-excellence-ceramica-fusioncore-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000",
+    "skus": [
+      {
+        "sku_id": "389",
+        "sku_name": "Wok 28 cm Excellence Cerámica FusionCore Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 39990.0,
+    "list_price": 54990.0,
     "on_sale": true
   },
   {
@@ -1638,6 +1701,27 @@
     "on_sale": true
   },
   {
+    "name": "Cafetera Espresso Authentic Grey Krups",
+    "reference": "8010001296",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "EXTRACCIÓN DE SABOR COMPLETO: Disfruta de un auténtico espresso con crema perfecta, gracias a la presión de 15 bares y una caldera que mantiene la temperatura del agua constante para una extracción excelente.|\nFÁCIL DE USAR Y DOMINAR: Una taza, dos tazas o espuma de leche: el selector manual inclinado y frontal ofrece un control intuitivo al alcance de tu mano.|\nDISEÑO ÚNICO E INGENIOSO: KRUPS lleva su experiencia en café un paso más allá, con una estética elegante y acabado gris claro de estilo moderno, además de patas de goma grandes para mayor estabilidad y almacenamiento inteligente de los filtros.|\nESPUMA DE LECHE DELICIOSA: Espuma leche fácilmente para preparar cappuccinos cremosos y más, gracias a la boquilla de vapor integrada en la máquina.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—como parte de nuestro compromiso con el medio ambiente y la reducción de residuos.|\nDEPÓSITO DE AGUA PRÁCTICO: Disfruta taza tras taza sin necesidad de rellenar, gracias al depósito de agua de 2 L, con ventana frontal del nivel de agua y diseño desmontable para un manejo sencillo.|\nPORTAFILTRO DE FÁCIL VACIADO: Retira los restos de café con facilidad y evita perder el filtro en la basura, gracias al diseño inteligente con gancho en el portafiltro.|\nCAFÉ A TU MANERA: Elige entre café fresco o molido y utiliza uno de los dos filtros incluidos en el paquete—para una o dos tazas.|\nUSA TU TAZA FAVORITA: La taza adecuada para cada bebida: nuestra ingeniosa y compacta máquina de espresso manual se adapta a cualquier taza o pocillo que elijas.|\nCONTENIDO DE LA CAJA: Máquina de espresso manual C40 auténtica, cuchara dosificadora con prensador, filtro para una taza, filtro para dos tazas, portafiltro.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-authentic-grey-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205275/proyecto-nuevo-37.png?v=638942476975570000",
+    "skus": [
+      {
+        "sku_id": "352",
+        "sku_name": "Cafetera Espresso Authentic Gris",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205275/proyecto-nuevo-37.png?v=638942476975570000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 94990.0,
+    "list_price": 179990.0,
+    "on_sale": true
+  },
+  {
     "name": "Hervidor Morning 1,7L Eucalipto Moulinex",
     "reference": "7211419053",
     "brand": "Moulinex",
@@ -1680,6 +1764,27 @@
     "on_sale": true
   },
   {
+    "name": "Batería de cocina acero inoxidable 10 piezas Intuition Tefal",
+    "reference": "2100125824",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "La bateria Intuition de Tefal es un indispensable para preparar fáciles recetas, salsas deliciosas y  guisos que deleitarán a todos tu familia e invitados. |\nElegante y sencilla bateria de 3 Ollas 16/20/24 cm + 1 cacerola 16 cm + tapas. |\nFabricado con Acero inox duradero 18/10, esa bateria tiene garantía de 5 años. |\nLas ollas y cacerola cuentan con marcas medidoras en su interior,  bordes vertedores que no ensucian y  elegantes tapas de vidrio garantizan una experiencia culinaria sin esfuerzo ni complicaciones. |\nTiene Base Thermo-Fusion, para una cocción rápida, uniforme y un rendimiento duradero. |\nCompatible con todo tipo de cocinas, incluidas las de inducción, y apto para horno hasta 250 °C.",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-acero-inoxidable-10-piezas-intuition-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204861/proyecto-nuevo-10.png?v=638905449050330000",
+    "skus": [
+      {
+        "sku_id": "344",
+        "sku_name": "Batería de cocina acero inoxidable 10 piezas Intuition Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204861/proyecto-nuevo-10.png?v=638905449050330000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 104990.0,
+    "list_price": 137990.0,
+    "on_sale": true
+  },
+  {
     "name": "Aspiradora Vertical X-Nano Essential Rowenta",
     "reference": "7211004797",
     "brand": "Rowenta",
@@ -1698,6 +1803,27 @@
     "country": "Chile",
     "price": 79990.0,
     "list_price": 149990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Set sartenes 20/26cm Easy Cook Tefal",
+    "reference": "2100123667",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nAdemás, cuenta con una base difusora que permite una conducción perfecta de calor.|\nIncluye tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos|\nCompatible con todas las cocinas, excepto inducción",
+    "url": "https://www.tefalstore.cl/set-sartenes-20-26cm-easy-cook-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204734/42fae2c80dcce132d80bfaf9a1adb025.jpg?v=638888956155070000",
+    "skus": [
+      {
+        "sku_id": "338",
+        "sku_name": "Set sartenes 20/26cm Easy Cook Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204734/42fae2c80dcce132d80bfaf9a1adb025.jpg?v=638888956155070000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 15990.0,
+    "list_price": 24990.0,
     "on_sale": true
   },
   {
@@ -1781,27 +1907,6 @@
     "site": "Tefal Store Chile",
     "country": "Chile",
     "price": 17990.0,
-    "list_price": 21990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sárten 24 cm acero Inoxidable Primary Tefal",
-    "reference": "2100118818",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "El sartén Primary esta diseñado para ser resistente y durar en el tiempo. Esta hecho de acero inoxidable 18/10 de la mejor calidad.|\nCuenta con revestimiento antiadherente de titanio para acompañarte diariamente en tu cocina y que nada se pegue. |\nNuestra tecnología Thermo-Signal te ayudará a cocinar como chef y asar perfectamente tus carnes. Muestra la temperatura de inicio de cocción ideal para garantizar una textura, color y sabor perfectos.|\nApta para todo tipo de cocinas, incluso inducción.|\nAdemás, te invitamos a descubrir la linea completa Primary que cuenta con sartenes, wok, olla y cacerola. |\nNuestros antiadherente son seguros:  sin PFOA, plomo y cadmio.",
-    "url": "https://www.tefalstore.cl/tefal-sarten-24cm-acero-inoxidable-primary-/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206408/img-1.png?v=639241506320870000",
-    "skus": [
-      {
-        "sku_id": "307",
-        "sku_name": "Sárten 24 cm acero Inoxidable Primary",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206408/img-1.png?v=639241506320870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 16990.0,
     "list_price": 21990.0,
     "on_sale": true
   },
@@ -2289,27 +2394,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Full Auto",
-    "reference": "8000035039",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "Alto rendimiento y es fácil de usar para garantizar fácilmente su espresso perfecto. | Con 15 bares de presión que reproducen las mismas características de un barista con boquilla de vapor para obtener la espuma perfecta. | Exclusivo sistema Thermoblock que asegura la temperatura ideal y limita la formación de sarro. | Sistema de dosificación para tazas pequeñas y grandes. | Molinillo de metal incluido con capacidad 260 gr. | Potencia de 1450 W.",
-    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-full-auto/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204923/8000035039.png?v=638913884758530000",
-    "skus": [
-      {
-        "sku_id": "74",
-        "sku_name": "Cafetera Espresso Full Auto",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204923/8000035039.png?v=638913884758530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 299990.0,
-    "list_price": 499990.0,
-    "on_sale": true
-  },
-  {
     "name": "Hervidor Soleil Marfil 1,7L Moulinex",
     "reference": "7211003346",
     "brand": "Moulinex",
@@ -2412,69 +2496,6 @@
     "country": "Chile",
     "price": 51990.0,
     "list_price": 129990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cafetera Espresso Authentic Grey Krups",
-    "reference": "8010001296",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "EXTRACCIÓN DE SABOR COMPLETO: Disfruta de un auténtico espresso con crema perfecta, gracias a la presión de 15 bares y una caldera que mantiene la temperatura del agua constante para una extracción excelente.|\nFÁCIL DE USAR Y DOMINAR: Una taza, dos tazas o espuma de leche: el selector manual inclinado y frontal ofrece un control intuitivo al alcance de tu mano.|\nDISEÑO ÚNICO E INGENIOSO: KRUPS lleva su experiencia en café un paso más allá, con una estética elegante y acabado gris claro de estilo moderno, además de patas de goma grandes para mayor estabilidad y almacenamiento inteligente de los filtros.|\nESPUMA DE LECHE DELICIOSA: Espuma leche fácilmente para preparar cappuccinos cremosos y más, gracias a la boquilla de vapor integrada en la máquina.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—como parte de nuestro compromiso con el medio ambiente y la reducción de residuos.|\nDEPÓSITO DE AGUA PRÁCTICO: Disfruta taza tras taza sin necesidad de rellenar, gracias al depósito de agua de 2 L, con ventana frontal del nivel de agua y diseño desmontable para un manejo sencillo.|\nPORTAFILTRO DE FÁCIL VACIADO: Retira los restos de café con facilidad y evita perder el filtro en la basura, gracias al diseño inteligente con gancho en el portafiltro.|\nCAFÉ A TU MANERA: Elige entre café fresco o molido y utiliza uno de los dos filtros incluidos en el paquete—para una o dos tazas.|\nUSA TU TAZA FAVORITA: La taza adecuada para cada bebida: nuestra ingeniosa y compacta máquina de espresso manual se adapta a cualquier taza o pocillo que elijas.|\nCONTENIDO DE LA CAJA: Máquina de espresso manual C40 auténtica, cuchara dosificadora con prensador, filtro para una taza, filtro para dos tazas, portafiltro.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-authentic-grey-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205275/proyecto-nuevo-37.png?v=638942476975570000",
-    "skus": [
-      {
-        "sku_id": "352",
-        "sku_name": "Cafetera Espresso Authentic Gris",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205275/proyecto-nuevo-37.png?v=638942476975570000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 94990.0,
-    "list_price": 179990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Batería de cocina acero inoxidable 10 piezas Intuition Tefal",
-    "reference": "2100125824",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "La bateria Intuition de Tefal es un indispensable para preparar fáciles recetas, salsas deliciosas y  guisos que deleitarán a todos tu familia e invitados. |\nElegante y sencilla bateria de 3 Ollas 16/20/24 cm + 1 cacerola 16 cm + tapas. |\nFabricado con Acero inox duradero 18/10, esa bateria tiene garantía de 5 años. |\nLas ollas y cacerola cuentan con marcas medidoras en su interior,  bordes vertedores que no ensucian y  elegantes tapas de vidrio garantizan una experiencia culinaria sin esfuerzo ni complicaciones. |\nTiene Base Thermo-Fusion, para una cocción rápida, uniforme y un rendimiento duradero. |\nCompatible con todo tipo de cocinas, incluidas las de inducción, y apto para horno hasta 250 °C.",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-acero-inoxidable-10-piezas-intuition-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204861/proyecto-nuevo-10.png?v=638905449050330000",
-    "skus": [
-      {
-        "sku_id": "344",
-        "sku_name": "Batería de cocina acero inoxidable 10 piezas Intuition Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204861/proyecto-nuevo-10.png?v=638905449050330000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 104990.0,
-    "list_price": 137990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set sartenes 20/26cm Easy Cook Tefal",
-    "reference": "2100123667",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nAdemás, cuenta con una base difusora que permite una conducción perfecta de calor.|\nIncluye tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos|\nCompatible con todas las cocinas, excepto inducción",
-    "url": "https://www.tefalstore.cl/set-sartenes-20-26cm-easy-cook-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204734/42fae2c80dcce132d80bfaf9a1adb025.jpg?v=638888956155070000",
-    "skus": [
-      {
-        "sku_id": "338",
-        "sku_name": "Set sartenes 20/26cm Easy Cook Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204734/42fae2c80dcce132d80bfaf9a1adb025.jpg?v=638888956155070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 15990.0,
-    "list_price": 24990.0,
     "on_sale": true
   },
   {
@@ -2643,6 +2664,27 @@
     "country": "Chile",
     "price": 16990.0,
     "list_price": 24990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera Espresso Full Auto Display Blanca + Lechero",
+    "reference": "8000035488",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "Con KRUPS Essential, disfruta de todo el sabor de un café y un espresso perfectamente equilibrados.| 15 bares de presión que reproducen las mismas características de un barista, con boquilla de vapor para obtener la espuma perfecta.| Con un contenedor de granos de café de 260 gr y un depósito de agua de 1,7 Lt.| El diseño compacto de esta cafetera espresso totalmente automática no compromete la capacidad.| Pantalla LCD intuitiva extra grande.| Obtén un control perfecto, puedes ajustar la  intensidad y el tamaño del café.| Molinillo con  3 texturas de molienda. |Graba fácilmente tus configuraciones de café favoritas gracias al conveniente modo de memoria.| Incluye lechero para un delicioso café con leche y capuccino.",
+    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-full-auto-display-blanca/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204945/8000035488.png?v=638913888547370000",
+    "skus": [
+      {
+        "sku_id": "190",
+        "sku_name": "Cafetera Espresso Full Auto Display Blanca + Lechero",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204945/8000035488.png?v=638913888547370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 369990.0,
+    "list_price": 599990.0,
     "on_sale": true
   },
   {
@@ -2895,48 +2937,6 @@
     "country": "Chile",
     "price": 31990.0,
     "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Wok 28cm Excellence Cerámica FusionCore Tefal",
-    "reference": "2100137571",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
-    "url": "https://www.tefalstore.cl/wok-28cm-excellence-ceramica-fusioncore-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000",
-    "skus": [
-      {
-        "sku_id": "389",
-        "sku_name": "Wok 28 cm Excellence Cerámica FusionCore Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 39990.0,
-    "list_price": 54990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Aspiradora Vertical X-FORCE Flex 16.6 Animal Aqua Head Rowenta",
-    "reference": "2211401420",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Inalámbricas",
-    "description": "ASPIRADO EXTREMO: El motor de última generación ofrece una potencia de succión extrema de hasta 315 Air Watts* para enfrentar cualquier tipo de suciedad en una sola pasada.|\nCEPILLO DE PRIMERA CLASE: El cepillo Neo garantiza resultados perfectos en todo tipo de suelos, con luces LED azules ultrabrillantes y tecnología anti-enredos.|\nSESIONES DE LIMPIEZA ULTRA-LARGAS: Disfruta hasta 2 horas de autonomía** con una sola carga para limpiar todo tu espacio sin interrupciones.|\nLIMPIEZA PROFUNDA CÓMODA: Diseño delgado, compacto y ligero —solo 1,8 kg en modo de mano— con tecnología Flex para limpiar en todas partes sin necesidad de agacharse.|\nREPARABILIDAD DE 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más tiempo.|\nLIMPIEZA INTELIGENTE: Ajuste automático de la potencia de succión según el tipo de suelo, con uso óptimo de la energía y la autonomía gracias al sistema Smart Control Display.|\nLIMPIEZA COMPLETA: Solución 5 en 1 para aspirar en cualquier lugar, con cepillo turbo para animales que elimina el pelo de mascotas y cabezal Aerospin Aqua que aspira y lava al mismo tiempo.|\nALMACENAMIENTO PRÁCTICO: La estación de acoplamiento independiente ofrece carga y almacenamiento de accesorios.",
-    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-force-flex-16-6-animal-aqua-head-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205911/01-portada.jpg?v=639124806347730000",
-    "skus": [
-      {
-        "sku_id": "385",
-        "sku_name": "Aspiradora Vertical X FORCE Flex 16.6 Animal Aqua Head",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205911/01-portada.jpg?v=639124806347730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 549990.0,
-    "list_price": 899990.0,
     "on_sale": true
   },
   {
@@ -3633,27 +3633,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Full Auto Display Blanca + Lechero",
-    "reference": "8000035488",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "Con KRUPS Essential, disfruta de todo el sabor de un café y un espresso perfectamente equilibrados.| 15 bares de presión que reproducen las mismas características de un barista, con boquilla de vapor para obtener la espuma perfecta.| Con un contenedor de granos de café de 260 gr y un depósito de agua de 1,7 Lt.| El diseño compacto de esta cafetera espresso totalmente automática no compromete la capacidad.| Pantalla LCD intuitiva extra grande.| Obtén un control perfecto, puedes ajustar la  intensidad y el tamaño del café.| Molinillo con  3 texturas de molienda. |Graba fácilmente tus configuraciones de café favoritas gracias al conveniente modo de memoria.| Incluye lechero para un delicioso café con leche y capuccino.",
-    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-full-auto-display-blanca/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204945/8000035488.png?v=638913888547370000",
-    "skus": [
-      {
-        "sku_id": "190",
-        "sku_name": "Cafetera Espresso Full Auto Display Blanca + Lechero",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204945/8000035488.png?v=638913888547370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 369990.0,
-    "list_price": 599990.0,
-    "on_sale": true
-  },
-  {
     "name": "Batidora de Inmersión con vaso 450W Moulinex",
     "reference": "7211003509",
     "brand": "Moulinex",
@@ -4050,6 +4029,27 @@
     "country": "Chile",
     "price": 32990.0,
     "list_price": 32990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Aspiradora Vertical X-FORCE Flex 16.6 Animal Aqua Head Rowenta",
+    "reference": "2211401420",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "ASPIRADO EXTREMO: El motor de última generación ofrece una potencia de succión extrema de hasta 315 Air Watts* para enfrentar cualquier tipo de suciedad en una sola pasada.|\nCEPILLO DE PRIMERA CLASE: El cepillo Neo garantiza resultados perfectos en todo tipo de suelos, con luces LED azules ultrabrillantes y tecnología anti-enredos.|\nSESIONES DE LIMPIEZA ULTRA-LARGAS: Disfruta hasta 2 horas de autonomía** con una sola carga para limpiar todo tu espacio sin interrupciones.|\nLIMPIEZA PROFUNDA CÓMODA: Diseño delgado, compacto y ligero —solo 1,8 kg en modo de mano— con tecnología Flex para limpiar en todas partes sin necesidad de agacharse.|\nREPARABILIDAD DE 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más tiempo.|\nLIMPIEZA INTELIGENTE: Ajuste automático de la potencia de succión según el tipo de suelo, con uso óptimo de la energía y la autonomía gracias al sistema Smart Control Display.|\nLIMPIEZA COMPLETA: Solución 5 en 1 para aspirar en cualquier lugar, con cepillo turbo para animales que elimina el pelo de mascotas y cabezal Aerospin Aqua que aspira y lava al mismo tiempo.|\nALMACENAMIENTO PRÁCTICO: La estación de acoplamiento independiente ofrece carga y almacenamiento de accesorios.",
+    "url": "https://www.tefalstore.cl/aspiradora-vertical-x-force-flex-16-6-animal-aqua-head-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205911/01-portada.jpg?v=639124806347730000",
+    "skus": [
+      {
+        "sku_id": "385",
+        "sku_name": "Aspiradora Vertical X FORCE Flex 16.6 Animal Aqua Head",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205911/01-portada.jpg?v=639124806347730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 899990.0,
+    "list_price": 899990.0,
     "on_sale": false
   },
   {
