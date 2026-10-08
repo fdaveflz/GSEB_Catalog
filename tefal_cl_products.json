@@ -42,24 +42,45 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Coffee Crush Chai Krups",
-    "reference": "8010001482",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "DISFRUTA DEL SABOR DEL CAFÉ RECIÉN MOLIDO: gracias al molino de acero inoxidable, prensado automático y presión de 15 bares.|\nDISEÑO COMPACTO DE SOLO 15CM DE ANCHO: aproximadamente un 50% más pequeña que una cafetera de grano a taza clásica.|\nTU CAFÉ A TU MANERA: prepara un café intenso en un solo toque, con control intuitivo de intensidad, volumen y temperatura.|\nCOMPATIBLE CON CAFÉ MOLIDO: agrega café molido directamente al cajón portafiltro, ideal para los amantes del descafeinado.|\nPREPARACIÓN SIN COMPLICACIONES: bebidas en un solo toque de grano a taza, con molienda, prensado y extracción automáticos.|\nFÁCIL DE LIMPIAR: solo desecha los restos de café después de cada ciclo de preparación.|\nMOLINO AJUSTABLE: elige entre 3 niveles de molino para resultados perfectos en espresso, lungo y café de filtro.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-chai-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206224/mesa-de-trabajo-4.jpg?v=639196634222100000",
+    "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
+    "reference": "2100121274",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Batería de cocina Daily Cook: las innovadoras ollas de cocina de Tefal Daily Cook hacen que cocinar sea fácil y sin complicaciones.| Todo se reduce a las funciones inteligentes y convenientes de Daily Cook que ayudará que todas tus comidas diarias sean fáciles de cocinar. |Una tapa de vidrio única con un diseño articulado que garantiza una limpieza mínima y una cocina sin desorden, así como manijas ergonómicas que se mantienen frescas que ofrecen comodidad y conveniencia mientras cocina.| Las marcas de medición muy visibles en el interior de las ollas garantizan resultados perfectos y sin complicaciones. |Compatible con todas las estufas, incluida la de inducción. |Disfruta de resultados perfectos gracias a su base de inducción que garantiza una cocción uniforme",
+    "url": "https://www.tefalstore.cl/tefal-bateria-10-piezas-daily-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639232636933170000",
     "skus": [
       {
-        "sku_id": "413",
-        "sku_name": "Cafetera Espresso Coffee Crush Chai Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206224/mesa-de-trabajo-4.jpg?v=639196634222100000"
+        "sku_id": "139",
+        "sku_name": "Bateria de cocina Acero Inoxidable DailyCook 10 Piezas",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639232636933170000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 239990.0,
-    "list_price": 399990.0,
+    "price": 69990.0,
+    "list_price": 119990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
+    "reference": "2100140795",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "COCINA ANTIADHERENTE: Go Ceram es el revestimiento cerámico de nueva generación que ofrece un deslizamiento sin esfuerzo para cocinar fácilmente bajo en grasa. |\nCUERPO DE ALUMINIO 100% RECICLADO: Un enfoque de ecodiseño de Tefal con cuerpo de aluminio 100% reciclado, metal reciclable y empaque de fibra 90% reciclada. |\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve roja por completo cuando la sartén alcanza la temperatura ideal para empezar, garantizando resultados perfectos. |\nCOCCIÓN RÁPIDA Y UNIFORME: La base Thermo-Fusion asegura un calentamiento rápido y una cocción uniforme, siendo compatible con estufas de gas, eléctricas, cerámicas e inducción. |\nESENCIAL Y CONFIABLE: Su utensilio de cocina indispensable para una variedad de recetas, brindando una experiencia de cocina fluida y agradable con un acabado elegante y moderno. |\nSALSAS CASERAS: Para un sinfín de salsas caseras y postres saludables, como fudge de chocolate vegano y caramelo salado sin lácteos. |\nTAPA DE VIDRIO CON SALIDA DE VAPOR: Para una cocción segura y fácil que mantiene todo el sabor y la humedad de sus ingredientes. |\nLIMPIEZA FÁCIL: Revestimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo.",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-ceramica-antiadherente-bright-7-pcs-beige-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206285/mesa-de-trabajo-8.jpg?v=639203218121030000",
+    "skus": [
+      {
+        "sku_id": "414",
+        "sku_name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206285/mesa-de-trabajo-8.jpg?v=639203218121030000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 99990.0,
+    "list_price": 144990.0,
     "on_sale": true
   },
   {
@@ -126,6 +147,27 @@
     "on_sale": true
   },
   {
+    "name": "Set sartenes 20/24/26cm Easy COOK",
+    "reference": "2100123665",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nAdemás, cuenta con una base difusora que permite una conducción perfecta de calor.| Incluye tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.|Compatible con todas las cocinas, excepto inducción.",
+    "url": "https://www.tefalstore.cl/tefal-set-sartenes-20-24-26cm-easy-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000",
+    "skus": [
+      {
+        "sku_id": "218",
+        "sku_name": "Set sartenes 20/24/26cm Easy COOK",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 22990.0,
+    "list_price": 34990.0,
+    "on_sale": true
+  },
+  {
     "name": "Kit Limpieza Cafeteras Krups",
     "reference": "1600005026",
     "brand": "Krups",
@@ -147,24 +189,24 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Acero Inoxidable Daily Cook 10 Piezas Tefal",
-    "reference": "2100121274",
+    "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
+    "reference": "2100114427",
     "brand": "Tefal",
     "category": "Baterías de Cocina",
-    "description": "Batería de cocina Daily Cook: las innovadoras ollas de cocina de Tefal Daily Cook hacen que cocinar sea fácil y sin complicaciones.| Todo se reduce a las funciones inteligentes y convenientes de Daily Cook que ayudará que todas tus comidas diarias sean fáciles de cocinar. |Una tapa de vidrio única con un diseño articulado que garantiza una limpieza mínima y una cocina sin desorden, así como manijas ergonómicas que se mantienen frescas que ofrecen comodidad y conveniencia mientras cocina.| Las marcas de medición muy visibles en el interior de las ollas garantizan resultados perfectos y sin complicaciones. |Compatible con todas las estufas, incluida la de inducción. |Disfruta de resultados perfectos gracias a su base de inducción que garantiza una cocción uniforme",
-    "url": "https://www.tefalstore.cl/tefal-bateria-10-piezas-daily-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639232636933170000",
+    "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
+    "url": "https://www.tefalstore.cl/tefal-set-6-piezas-optispace/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000",
     "skus": [
       {
-        "sku_id": "139",
-        "sku_name": "Bateria de cocina Acero Inoxidable DailyCook 10 Piezas",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205507/2100121274.png?v=639232636933170000"
+        "sku_id": "156",
+        "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 69990.0,
-    "list_price": 119990.0,
+    "price": 62990.0,
+    "list_price": 104990.0,
     "on_sale": true
   },
   {
@@ -273,6 +315,27 @@
     "on_sale": true
   },
   {
+    "name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
+    "reference": "7211005063",
+    "brand": "Rowenta",
+    "category": "Aspiradoras de Arrastre",
+    "description": "RENDIMIENTO XXL DE LIMPIEZA: Una aspiradora sin bolsa que ofrece una succión impresionante gracias a la avanzada tecnología ciclónica y a un motor de bajo consumo de 900 W máx.* para resultados de limpieza perfectos (*según (UE) N°666/2013).| CAPACIDAD XXL: Una impresionante capacidad de 2,5 L que cubre todo tipo de espacios habitables, en una aspiradora de trineo que brinda mayor autonomía y comodidad.| DISEÑO COMPACTO: Un diseño estilizado y un formato sin bolsa altamente compacto para máxima comodidad, limpieza más fluida y fácil almacenamiento, asegurando un encaje sin esfuerzo en la mayoría de armarios y alacenas.| FILTRACIÓN EXCEPCIONAL: Un sistema de filtración de 3 niveles que garantiza una separación excepcional del aire y el polvo día tras día, capturando más del 99,98% de las partículas de polvo para un entorno hogareño puro y saludable.| REPARABILIDAD DE 15 AÑOS: Reparaciones de bajo costo y entrega rápida desde 6200 centros de servicio en todo el mundo, como parte de nuestro compromiso de proteger el medio ambiente y reducir los residuos.| COBERTURA DE SUPERFICIES GRANDES: El amplio radio de limpieza de 8,80 m cubre espacios habitables de gran tamaño sin necesidad de desenchufar, para un confort y comodidad totales.| DEPÓSITO DE POLVO DE FÁCIL VACIADO: Disfruta de una experiencia de aspirado más fluida gracias a un depósito de polvo fácil de retirar, vaciar y limpiar.| CONTENIDO DE LA CAJA: Aspiradora Compact Power XXL, cepillo para parquet, mini cepillo turbo, herramienta 2 en 1 para ranuras.",
+    "url": "https://www.tefalstore.cl/aspiradora-de-arrastre-compact-power-xxl-brown-900w-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205659/01-portada-3.png?v=639065875633800000",
+    "skus": [
+      {
+        "sku_id": "379",
+        "sku_name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205659/01-portada-3.png?v=639065875633800000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 79990.0,
+    "list_price": 109990.0,
+    "on_sale": true
+  },
+  {
     "name": "Aspiradora Trapeadora X - Clean 2 Rowenta",
     "reference": "2211401410",
     "brand": "Rowenta",
@@ -315,48 +378,6 @@
     "on_sale": true
   },
   {
-    "name": "Set sartenes 24/28cm Daily Cook",
-    "reference": "2100123828",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "Disfruta de una cocina rica y saludable con el set de sartenes 24/28 cm Daily Cook de Tefal.|\nFabricados en acero inoxidable 18/10 de primera calidad con antiadherente de titanio reforzado.| Gracias a su base de difusión que garantiza una distribución uniforme del calor para obtener resultados homogéneos. Apto para todas las cocinas, incluida las de inducción.|\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.",
-    "url": "https://www.tefalstore.cl/0/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000",
-    "skus": [
-      {
-        "sku_id": "272",
-        "sku_name": "Set sartenes 24/28cm Daily Cook",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 42990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Plancha de Vapor Eco Intelligence Rowenta",
-    "reference": "1830031693",
-    "brand": "Rowenta",
-    "category": "Planchas a Vapor",
-    "description": "La plancha a vapor Rowenta Eco Intelligence es la combinación ideal de resultados de planchado perfectos, ahorro de energía y diseño ecológico que consta de hasta un 30 % de material reciclado.| Sus características principales son: TECNOLOGÍA DE INTELIGENCIA ECO: la configuración de vapor Eco ahorra hasta un 30 % de energía sin comprometer la eficiencia. |EXCELENTES RESULTADOS DE PLANCHADO: 2700 vatios de potencia, para un calentamiento rápido y una salida de vapor continua de hasta 45 g/min para una gran eliminación de arrugas y un potente golpe de vapor de 180 g/minuto y rocíe si es necesario para suavizar perfectamente las arrugas rebeldes.| MEJOR DISTRIBUCIÓN DE VAPOR: Tecnología de suela Microsteam 400 HD 3De patentada única con 400 microagujeros para la mejor distribución de vapor del mercado. |Su estructura 3De específica optimiza el consumo de energía al concentrar el flujo de vapor a lo largo de canales microperforados. |PUNTA DE ALTA PRECISIÓN: La punta puntiaguda garantiza un fácil acceso a las zonas de difícil acceso, como bordes estrechos, costuras y cuellos, para una sesión de planchado perfecta.| REPARACIÓN DE 15 AÑOS: entrega rápida y económica desde 6200 centros de reparación en todo el mundo, como parte de nuestro compromiso de ayudar a proteger el medio ambiente y reducir los desechos.| DISEÑO ECOLÓGICO: Compuesto por hasta un 30% de material reciclado. |La plancha en sí también es reciclable en un 80 % SEGURO Y FÁCIL: Ergonomía mejorada y diseño avanzado de la plancha con sistema antigoteo que evita las manchas de agua en el tejido, incluso planchando a baja temperatura.| VAPOR VERTICAL FÁCIL: vaporizar prendas delicadas y grandes se hace fácil con la función de vapor vertical, ideal para quitar las arrugas de los trajes y otras prendas colgadas, incluso las cortinas.",
-    "url": "https://www.tefalstore.cl/rowenta-plancha-de-vapor-eco-intelligence/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206396/1830031693.jpg?v=639241506190600000",
-    "skus": [
-      {
-        "sku_id": "233",
-        "sku_name": "Plancha de Vapor ECO INTELLIGENCE",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206396/1830031693.jpg?v=639241506190600000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 89990.0,
-    "on_sale": true
-  },
-  {
     "name": "Paila con Tapa 16 cm",
     "reference": "5861029909",
     "brand": "Tefal",
@@ -375,6 +396,27 @@
     "country": "Chile",
     "price": 7990.0,
     "list_price": 8990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartenes 24/30 cm EASY COOK",
+    "reference": "2100123666",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente Easy Plus de larga duración, cuyo principal beneficio es su resistencia a las rayaduras. |Además, cuenta con una base difusora Optimal, que permite una conducción perfecta de calor. | Incluye tecnología Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.",
+    "url": "https://www.tefalstore.cl/tefal-sartenes-24-30-cm-easy-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205501/2100123484-01-318c90f5-50d7-4fcf-86dd-2aa3fef662b5.jpg?v=639035775389400000",
+    "skus": [
+      {
+        "sku_id": "231",
+        "sku_name": "Set 2 Sartenes 24/30 cm EASY COOK.",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205501/2100123484-01-318c90f5-50d7-4fcf-86dd-2aa3fef662b5.jpg?v=639035775389400000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 18990.0,
+    "list_price": 29990.0,
     "on_sale": true
   },
   {
@@ -399,24 +441,24 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
-    "reference": "2100114427",
+    "name": "Olla a Presión Secure Compact Acero Inoxidable 8L Tefal",
+    "reference": "7114000623",
     "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Las ollas de mango fijo que más ahorran espacio de Tefal ¡Ponte a cocinar y haz que tu cocina luzca elegante con OPTI'Space! No llenes más tus muebles de cocina con ollas y sartenes desordenados. OPTI'Space le permite apilar, almacenar y ahorrar espacio gracias a un diseño apilable inteligente, mangos perfectamente apilables y tapas planas. | Fabricadas con acero inoxidable de primera calidad, estas ollas y sartenes versátiles van de la estufa al horno y al refrigerador con facilidad. | Compatible con todas las estufas, incluida la de inducción, esta gama completa es perfecta para el uso diario y cuenta con asas antideslizantes que se mantienen frías para mayor comodidad y seguridad, así como marcas de medición fáciles de leer para hacer preparaciones a la perfección. Este Set de 6 piezas tiene ollas de 18/20 cm, sartenes de 24/28 cm más tapas. | ¡Con OPTI'Space, tu cocina nunca ha estado mejor!",
-    "url": "https://www.tefalstore.cl/tefal-set-6-piezas-optispace/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000",
+    "category": "Ollas a Presión",
+    "description": "¡Máxima Seguridad!| Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 8L| Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.| Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.| Compatible con todas las cocinas, incluida inducción.| Capacidad: 8L hasta 6 personas.",
+    "url": "https://www.tefalstore.cl/tefal-olla-a-presion-secure-compact-8l/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205692/7114000623.png?v=639077127727100000",
     "skus": [
       {
-        "sku_id": "156",
-        "sku_name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205530/2100114427.png?v=639238717175770000"
+        "sku_id": "168",
+        "sku_name": "Olla a Presión Secure Compact 8L Acero Inoxidable",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205692/7114000623.png?v=639077127727100000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 62990.0,
-    "list_price": 104990.0,
+    "price": 44990.0,
+    "list_price": 69990.0,
     "on_sale": true
   },
   {
@@ -462,27 +504,6 @@
     "on_sale": true
   },
   {
-    "name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
-    "reference": "2100140795",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "COCINA ANTIADHERENTE: Go Ceram es el revestimiento cerámico de nueva generación que ofrece un deslizamiento sin esfuerzo para cocinar fácilmente bajo en grasa. |\nCUERPO DE ALUMINIO 100% RECICLADO: Un enfoque de ecodiseño de Tefal con cuerpo de aluminio 100% reciclado, metal reciclable y empaque de fibra 90% reciclada. |\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve roja por completo cuando la sartén alcanza la temperatura ideal para empezar, garantizando resultados perfectos. |\nCOCCIÓN RÁPIDA Y UNIFORME: La base Thermo-Fusion asegura un calentamiento rápido y una cocción uniforme, siendo compatible con estufas de gas, eléctricas, cerámicas e inducción. |\nESENCIAL Y CONFIABLE: Su utensilio de cocina indispensable para una variedad de recetas, brindando una experiencia de cocina fluida y agradable con un acabado elegante y moderno. |\nSALSAS CASERAS: Para un sinfín de salsas caseras y postres saludables, como fudge de chocolate vegano y caramelo salado sin lácteos. |\nTAPA DE VIDRIO CON SALIDA DE VAPOR: Para una cocción segura y fácil que mantiene todo el sabor y la humedad de sus ingredientes. |\nLIMPIEZA FÁCIL: Revestimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo.",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-ceramica-antiadherente-bright-7-pcs-beige-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206285/mesa-de-trabajo-8.jpg?v=639203218121030000",
-    "skus": [
-      {
-        "sku_id": "414",
-        "sku_name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206285/mesa-de-trabajo-8.jpg?v=639203218121030000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 99990.0,
-    "list_price": 144990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sarten 26 CM Excellence Plus Fusion Core Tefal",
     "reference": "2100142106",
     "brand": "Tefal",
@@ -525,27 +546,6 @@
     "on_sale": true
   },
   {
-    "name": "Sarten 20 CM Renew Cerámica Tefal",
-    "reference": "2100144951",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "COCINA ANTIADHERENTE FÁCIL: Inoceram es el recubrimiento cerámico antiadherente de nueva generación que ofrece un deslizamiento sin esfuerzo—para una cocina fácil y baja en gras°|\n\nCUERPO DE ALUMINIO 100% RECICLADO: El enfoque de ecodiseño de Tefal con un cuerpo de aluminio 100% reciclado, metal reciclable y embalaje con un 90% de fibras recicladas|\n\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve completamente roja cuando la sartén ha alcanzado la temperatura ideal de inicio, garantizando resultados perfectos|\n\nCOMPATIBILIDAD TOTAL: Compatible con cocinas de gas, eléctricas, cerámicas e inducción|\n\nLIMPIEZA FÁCIL: Recubrimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo|\n\nFORMATO ESENCIAL: Para recetas saludables llenas de sabor, como pescado con limón y eneldo, espárragos sellados y hamburguesas vegetales crujientes sin aceite añadido|\n\nFABRICADO EN FRANCIA: Combinando innovación, conocimiento experto y materiales de primera calidad, nuestras fábricas locales exportan la excelencia francesa en todo el mundo|\n\nCOMPROMISOS DE TEFAL EN CALIDAD Y EXPERIENCIA: Inventor de las sartenes antiadherentes, Tefal fabrica sus productos con un alto nivel de calidad y experiencia",
-    "url": "https://www.tefalstore.cl/sarten-20-cm-renew-ceramica-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206064/01-portada-5bf62fb5-dca0-43eb-855a-2e3dc70c721e.jpg?v=639156153633570000",
-    "skus": [
-      {
-        "sku_id": "400",
-        "sku_name": "Sarten 20 CM Renew Cerámica Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206064/01-portada-5bf62fb5-dca0-43eb-855a-2e3dc70c721e.jpg?v=639156153633570000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 22990.0,
-    "list_price": 32990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sarten 28 CM Renew Ceramica Tefal",
     "reference": "2100144949",
     "brand": "Tefal",
@@ -567,24 +567,45 @@
     "on_sale": true
   },
   {
-    "name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
-    "reference": "2100139011",
+    "name": "Wok 28cm Excellence Cerámica FusionCore Tefal",
+    "reference": "2100137571",
     "brand": "Tefal",
     "category": "Sartenes y Woks",
-    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal |\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!|\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable! |\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!|\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
-    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-plus-fusion-core-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206240/01-imagen.jpg?v=639201689392800000",
+    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
+    "url": "https://www.tefalstore.cl/wok-28cm-excellence-ceramica-fusioncore-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000",
     "skus": [
       {
-        "sku_id": "394",
-        "sku_name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206240/01-imagen.jpg?v=639201689392800000"
+        "sku_id": "389",
+        "sku_name": "Wok 28 cm Excellence Cerámica FusionCore Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 31990.0,
-    "list_price": 44990.0,
+    "price": 39990.0,
+    "list_price": 54990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Contenedor hermetico de alimentos ONECLICK Azul 0,5/1,2/2,3L Tefal",
+    "reference": "3110601807",
+    "brand": "Tefal",
+    "category": "Contenedores de Alimentos y Bebidas",
+    "description": "Ahorro de espacio: Juego apilable para maximizar el espacio en alacenas, cajones o cocinas pequeñas. Tapas continuas que quedan planas y se apilan suavemente para una mejor eficiencia en los estantes. |\nSistema de un solo clic para conservar la frescura: Mantiene los alimentos frescos el doble de tiempo en comparación con los no envasados — científicamente comprobado.|\n100% hermético garantizado, para un almacenamiento seguro de alimentos en todo momento.|\nFácil de limpiar, para máxima higiene: La tapa de una sola pieza y el sello ajustado facilitan la limpieza — sin rincones ocultos para gérmenes.|\nRecipiente de almacenamiento de alimentos con sistema oneClick que hace que abrir y cerrar sea sencillo — resistencia probada y garantizada.|\nFabricado en Alemania, hecho para durar — elaborado con precisión y respaldado por una garantía de calidad de 30 años.|\nPerfecto para llevar: Diseño ligero y elegante con cuerpo translúcido de color que permite ver fácilmente el contenido.|\nApto para refrigerador/congelador/microondas y lavavajillas, para total comodidad y versatilidad diaria.|\nDiseño que ahorra espacio para una cocina organizada — con un aspecto moderno y colores atractivos que lucen bien en cualquier mesa.",
+    "url": "https://www.tefalstore.cl/contenedor-hermetico-de-alimentos-oneclick-azul-0-5-1-2-2-3l-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205815/01-imagen.jpg?v=639101609896830000",
+    "skus": [
+      {
+        "sku_id": "386",
+        "sku_name": "Contenedor de alimentos ONECLICK Azul 0,5/1,2/2,3L Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205815/01-imagen.jpg?v=639101609896830000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 19990.0,
+    "list_price": 34990.0,
     "on_sale": true
   },
   {
@@ -606,27 +627,6 @@
     "country": "Chile",
     "price": 49990.0,
     "list_price": 99990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
-    "reference": "7211005063",
-    "brand": "Rowenta",
-    "category": "Aspiradoras de Arrastre",
-    "description": "RENDIMIENTO XXL DE LIMPIEZA: Una aspiradora sin bolsa que ofrece una succión impresionante gracias a la avanzada tecnología ciclónica y a un motor de bajo consumo de 900 W máx.* para resultados de limpieza perfectos (*según (UE) N°666/2013).| CAPACIDAD XXL: Una impresionante capacidad de 2,5 L que cubre todo tipo de espacios habitables, en una aspiradora de trineo que brinda mayor autonomía y comodidad.| DISEÑO COMPACTO: Un diseño estilizado y un formato sin bolsa altamente compacto para máxima comodidad, limpieza más fluida y fácil almacenamiento, asegurando un encaje sin esfuerzo en la mayoría de armarios y alacenas.| FILTRACIÓN EXCEPCIONAL: Un sistema de filtración de 3 niveles que garantiza una separación excepcional del aire y el polvo día tras día, capturando más del 99,98% de las partículas de polvo para un entorno hogareño puro y saludable.| REPARABILIDAD DE 15 AÑOS: Reparaciones de bajo costo y entrega rápida desde 6200 centros de servicio en todo el mundo, como parte de nuestro compromiso de proteger el medio ambiente y reducir los residuos.| COBERTURA DE SUPERFICIES GRANDES: El amplio radio de limpieza de 8,80 m cubre espacios habitables de gran tamaño sin necesidad de desenchufar, para un confort y comodidad totales.| DEPÓSITO DE POLVO DE FÁCIL VACIADO: Disfruta de una experiencia de aspirado más fluida gracias a un depósito de polvo fácil de retirar, vaciar y limpiar.| CONTENIDO DE LA CAJA: Aspiradora Compact Power XXL, cepillo para parquet, mini cepillo turbo, herramienta 2 en 1 para ranuras.",
-    "url": "https://www.tefalstore.cl/aspiradora-de-arrastre-compact-power-xxl-brown-900w-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205659/01-portada-3.png?v=639065875633800000",
-    "skus": [
-      {
-        "sku_id": "379",
-        "sku_name": "Aspiradora de Arrastre Compact Power XXL Animal Kit 900W Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205659/01-portada-3.png?v=639065875633800000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 79990.0,
-    "list_price": 109990.0,
     "on_sale": true
   },
   {
@@ -688,7 +688,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 449990.0,
+    "price": 439990.0,
     "list_price": 699990.0,
     "on_sale": true
   },
@@ -711,6 +711,48 @@
     "country": "Chile",
     "price": 34990.0,
     "list_price": 59990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Picadora Glass Bowl XL 2LT 500W Moulinex",
+    "reference": "7211419617",
+    "brand": "Moulinex",
+    "category": "Procesador de Alimentos",
+    "description": "CAPACIDAD EXTRA GRANDE: Un bol de cristal de 2 L de capacidad XXL, perfecto para preparar cualquier receta, hasta 1 L|\nDURABILIDAD Y ROBUSTEZ: Ideal para el uso diario con un recipiente de vidrio de borosilicato ultrarresistente que ofrece resistencia a los golpes y durabilidad.|\nSAFE START ADVANCED: tecnologia de seguridad patentada, para una seguridad y durabilidad óptimas gracias a la doble detección del recipiente.|\nFÁCIL DE LIMPIAR: Piezas extraíbles aptas para lavavajillas (excluyendo la base del motor) con cuchillas desmontables para hacer la vida más fácil día tras día.|\nCONTENIDO DE LA CAJA: Picadora, almohadilla antideslizante",
+    "url": "https://www.tefalstore.cl/picadora-glass-bowl-xl-2lt-500w-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205389/01-portada-2.png?v=639015125892830000",
+    "skus": [
+      {
+        "sku_id": "368",
+        "sku_name": "Picadora Glass Bowl XL 2LT Moulinex",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205389/01-portada-2.png?v=639015125892830000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 29990.0,
+    "list_price": 49990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Hervidor Morning 1,7LT Gris Moulinex",
+    "reference": "7211419024",
+    "brand": "Moulinex",
+    "category": "Hervidores",
+    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas. |\nLA CANTIDAD PERFECTA: Indicador de nivel de agua fácil de leer, con señalización para una taza, ideal para preparar la cantidad justa de té. |\nFÁCIL DE USAR: Apertura automática con una sola mano para un vertido práctico, además de un diseño ancho que facilita el llenado y la limpieza. |\nAGUA MÁS PURA: Filtro antisarro removible que mejora la calidad del agua y el sabor de tus bebidas, y que además se limpia fácilmente. |\nREPARABILIDAD POR 15 AÑOS A PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de servicio en todo el mundo para extender su vida útil. |\nGRAN CAPACIDAD: Hervidor eléctrico con una capacidad de 1,7 L, ideal para satisfacer las necesidades de toda la familia. |\nEBULLICIÓN RÁPIDA: Potencia de 2400 W para hervir el agua en poco tiempo y disfrutar de bebidas calientes en un instante. |\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme y accesible desde cualquier ángulo. |\nTRANQUILIDAD TOTAL: Función de apagado automático para mayor seguridad y uso sin preocupaciones.",
+    "url": "https://www.tefalstore.cl/hervidor-morning-1-7lt-gris-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205252/proyecto-nuevo-31.png?v=638941730323030000",
+    "skus": [
+      {
+        "sku_id": "351",
+        "sku_name": "Hervidor Morning 1,7 L Gris",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205252/proyecto-nuevo-31.png?v=638941730323030000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 17990.0,
+    "list_price": 39990.0,
     "on_sale": true
   },
   {
@@ -774,6 +816,27 @@
     "country": "Chile",
     "price": 89990.0,
     "list_price": 169990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
+    "reference": "1830008857",
+    "brand": "Rowenta",
+    "category": "Planchas Verticales",
+    "description": "CUIDADO EFICIENTE DE PRENDAS: Emisión de vapor de hasta 20 g/min,  para un planchado y purificación eficaz.|\nSISTEMA DE CABEZAL REVERSIBLE : El Iinnovador cabezal reversible permite cambiar fácilmente entre el lado quita pelusas y el lado de terciopelo para vaporizar telas delicadas, gruesas o quitar pelitos.|\nVAPOR DESINFECTANTE: El poder natural del vapor reduce olores, refresca y elimina hasta el 99,9% de virus, bacterias y gérmenes* de tu ropa.|\nCALENTAMIENTO RÁPIDO: Siempre listo en solo 15 segundos. Ideal para usos frecuentes y retoques de último minuto—tu solución de vapor lista al instante.|                                                                                                                                                                                                       ULTRA COMPACTO Y PRACTICO : Con menos de 1kg de peso y un deposito de agua extraible de 77ml  Pure Pop es  ideal para viajes y uso en el dia a dia. Su cable mide 2 mts para mayor comodidad.|\nMODERNO Y CON ESTILO: Estética única con cuatro colores vibrantes a elección. Aparato elegante con una estructura bien equilibrada (menos de 1 kg) y cómodo de sostener.|                                                                                                                                                        REPARABILIDAD DE 15 AÑOS: Entrega rápida y piezas de bajo costo disponibles en 6200 centros de reparación en todo el mundo, como parte de nuestro compromiso con el medio ambiente y la reducción de residuos |\n¿QUÉ INCLUYE LA CAJA?: Vaporizador Rowenta Pure POP, cabezal reversible, bolsa de viaje/almacenamiento.|                                                                                                                                                         *Virus: pruebas externas, 20 sept. en BCoV-1 y Norovirus murino en algodón.|\nBacterias y gérmenes: pruebas externas en Staphylococcus aureus y Klebsiella.",
+    "url": "https://www.tefalstore.cl/vaporizador-de-prendas-pure-pop-verde-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205732/1-digital-rwt-dr2024d1-pop-h1-2326b276-d582-45e6-bf12-d8d6a7b2aa87.png?v=639090072993530000",
+    "skus": [
+      {
+        "sku_id": "332",
+        "sku_name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205732/1-digital-rwt-dr2024d1-pop-h1-2326b276-d582-45e6-bf12-d8d6a7b2aa87.png?v=639090072993530000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 28990.0,
+    "list_price": 49990.0,
     "on_sale": true
   },
   {
@@ -903,6 +966,48 @@
     "on_sale": true
   },
   {
+    "name": "Cafetera Espresso Virtuoso Steam&Pump Krups XP444C10/BA0",
+    "reference": "8010001292",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "Sistema de bomba de presión de 15 bares que garantiza una extracción total para obtener resultados óptimos.|\nSistema Thermoblock que efectúa un calentamiento para servir el espresso directamente en la taza en menos de un minuto.|\nBoquilla de vapor dual de alta calidad (para espumar y calentar la leche) ofrece infinitas posibilidades para preparar capuccinos, lattes y mucho más.|\nDepósito de agua de 1 litro.|\nPrepara hasta dos espressos a la vez.|\nBandeja de goteo extraíble con rejilla de acero inoxidable para mantener tu cafetera limpia e impecable.|\nAccesorios: Cuchara dosificadora y prensadores.|",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-virtuoso-steam-pump-krups-xp444c10-ba0/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204746/1-d6544175-ef16-4942-8387-c41cb91519bb-1-53d26f0e-2be0-43a9-92bc-dfd584a55ce5.png?v=638893134477230000",
+    "skus": [
+      {
+        "sku_id": "305",
+        "sku_name": "Cafetera Espresso Virtuoso Steam&Pump Krups XP444C10/BA0",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204746/1-d6544175-ef16-4942-8387-c41cb91519bb-1-53d26f0e-2be0-43a9-92bc-dfd584a55ce5.png?v=638893134477230000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 129990.0,
+    "list_price": 249990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Bateria de cocina Antiadherente Talent 7 Piezas Tefal",
+    "reference": "5861032934",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "\"La batería Talent es la batería perfecta para empezar a cocinar! Se encuentra disponible en color gris e incluye lo basico de la cocina con una olla 20 y24cm con tapa de vidrio, una cacerola 16cm con tapa y un sartén 24cm.|  \nEsta línea cuenta con un resistente antiadherente de tecnología Easy Plus, que permite cocinar y limpiar más falcilmente, sin que nada se pegue.|\nAdemás, cuenta con una base difusora , que permite una conducción perfecta de calor.|\nIncluye tecnología Thermo Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar para obtener resultados más jugosos, sabrosos y un color perfecto en cada comida. |\nNuestros revestimientos son libre de PFOA, cadmio y plomo. \"",
+    "url": "https://www.tefalstore.cl/tefal-bateria-de-cocina-antiadherente-talent-7-piezas-t-fal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205495/5861032934-5819500-bateria-7-pzs-grs-talent-1.jpg?v=639035775340570000",
+    "skus": [
+      {
+        "sku_id": "304",
+        "sku_name": "Bateria de cocina Antiadherente Talent 7 Piezas Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205495/5861032934-5819500-bateria-7-pzs-grs-talent-1.jpg?v=639035775340570000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 54990.0,
+    "list_price": 79990.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora PerfectMix+ 1200W Digital Moulinex",
     "reference": "7211004855",
     "brand": "Moulinex",
@@ -924,24 +1029,24 @@
     "on_sale": true
   },
   {
-    "name": "Cuchillo Santoku 18cm Ice Force Tefal",
-    "reference": "2100104354",
+    "name": "Cuchillo Chef 20cm Ice Force Tefal",
+    "reference": "2100104352",
     "brand": "Tefal",
     "category": "Cuchillos",
-    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal. |\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo Santoku 18cm es ideal para cortar pescados",
-    "url": "https://www.tefalstore.cl/cuchillo-santoku-18cm-ice-force-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204471/foto-1.jpg?v=638869974730470000",
+    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal. |\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo chef 20cm es ideal para cortar, picar y rebanar todo tipo de alimentos.",
+    "url": "https://www.tefalstore.cl/cuchillo-chef-20cm-ice-force-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000",
     "skus": [
       {
-        "sku_id": "287",
-        "sku_name": "Cuchillo Santoku 18cm Ice Force Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204471/foto-1.jpg?v=638869974730470000"
+        "sku_id": "289",
+        "sku_name": "Cuchillo Chef 20cm Ice Force Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
     "price": 13990.0,
-    "list_price": 22990.0,
+    "list_price": 24290.0,
     "on_sale": true
   },
   {
@@ -1008,6 +1113,27 @@
     "on_sale": true
   },
   {
+    "name": "Bateria de cocina Antiadherente Super cook 12 PCS Tefal",
+    "reference": "2100124204",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente Powerglide con capa de anti-rayaduras reforzada con minerales. | Posee una base Optimal, que garantiza una distribución homogénea del calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. | Compatible con todo tipo de cocinas, menos inducción. | Incluye: Sartén 22/24 cm, Wok 28 cm, Olla 22/24/28 cm con tapa, 2 Cucharas, Espátula​.",
+    "url": "https://www.tefalstore.cl/tefal-set-12-pz-super-cook-black/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206369/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=639241506064470000",
+    "skus": [
+      {
+        "sku_id": "253",
+        "sku_name": "Bateria de cocina Antiadherente Super cook 12 PCS",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206369/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=639241506064470000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 79990.0,
+    "list_price": 129990.0,
+    "on_sale": true
+  },
+  {
     "name": "Plancha de Vapor Expertis Anti Calc Rowenta",
     "reference": "1830031506",
     "brand": "Rowenta",
@@ -1026,27 +1152,6 @@
     "country": "Chile",
     "price": 66990.0,
     "list_price": 109990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartenes 24/30 cm EASY COOK",
-    "reference": "2100123666",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente Easy Plus de larga duración, cuyo principal beneficio es su resistencia a las rayaduras. |Además, cuenta con una base difusora Optimal, que permite una conducción perfecta de calor. | Incluye tecnología Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.",
-    "url": "https://www.tefalstore.cl/tefal-sartenes-24-30-cm-easy-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205501/2100123484-01-318c90f5-50d7-4fcf-86dd-2aa3fef662b5.jpg?v=639035775389400000",
-    "skus": [
-      {
-        "sku_id": "231",
-        "sku_name": "Set 2 Sartenes 24/30 cm EASY COOK.",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205501/2100123484-01-318c90f5-50d7-4fcf-86dd-2aa3fef662b5.jpg?v=639035775389400000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 18990.0,
-    "list_price": 29990.0,
     "on_sale": true
   },
   {
@@ -1092,24 +1197,24 @@
     "on_sale": true
   },
   {
-    "name": "Olla Cocotte Air 24 cm",
-    "reference": "2100127041",
+    "name": "Olla Cocotte Ovalada Air 30x23 cm",
+    "reference": "2100127039",
     "brand": "Tefal",
     "category": "Ollas",
     "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
-    "url": "https://www.tefalstore.cl/tefal-olla-cocotte-24-cm-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000",
+    "url": "https://www.tefalstore.cl/tefal-cocotte-ovalada-30x23-cm-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201205/2100127039.png?v=639228386127300000",
     "skus": [
       {
-        "sku_id": "197",
-        "sku_name": "Olla Cocotte Air 24 cm",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000"
+        "sku_id": "198",
+        "sku_name": "Olla Cocotte Ovalada Air 30x23 cm",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201205/2100127039.png?v=639228386127300000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 34990.0,
-    "list_price": 62990.0,
+    "price": 42990.0,
+    "list_price": 72990.0,
     "on_sale": true
   },
   {
@@ -1152,48 +1257,6 @@
     "country": "Chile",
     "price": 649990.0,
     "list_price": 1299990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Freidora de Aire Easy Fry & Grill Digital 4,2L Moulinex",
-    "reference": "1510002176",
-    "brand": "Moulinex",
-    "category": "Air Fryers",
-    "description": "Freidora saludable 2 en 1! Una freidora y una parrilla, todo en uno! Más que una simple freidora, su exclusiva tecnología dual también ofrece una rejilla para parrilla de aluminio fundido a presión, para carnes o verduras tiernas y jugosas cocinadas a la perfección. |Por supuesto, la función clásica de freidora de aire promete todos sus resultados dorados y crujientes con poco o ningún aceite agregado.| Con 8 programas automáticos, un control de temperatura desde 80°C a 200°C, un panel de control digital intuitivo y una conveniente función de temporizador, lograr resultados perfectos es fácil. |Incluso es posible deshidratar los alimentos para hacer deliciosos bocadillos saludables  como frutas o verduras secas.| Posee una capacidad XL 4,2L hasta 6 personas, Easy Fry & Grill Precisión para  toda la familia. |¡Es la alternativa perfecta a un horno clásico, para obtener resultados rápidos y un menor consumo de energía! ¿Qué esperas para tener la tuya?",
-    "url": "https://www.tefalstore.cl/moulinex-freidora-de-aire-easy-fry---grill-digital/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000",
-    "skus": [
-      {
-        "sku_id": "159",
-        "sku_name": "Freidora de Aire Easy Fry & Grill Digital 4,2L",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 52590.0,
-    "list_price": 129990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla a Presión Secure Compact Acero Inoxidable 6L Tefal",
-    "reference": "7114000624",
-    "brand": "Tefal",
-    "category": "Ollas a Presión",
-    "description": "¡Máxima Seguridad! Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 6L Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.|  Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.|  Compatible con todas las cocinas, incluida inducción.|  Capacidad: 6L hasta 4 personas",
-    "url": "https://www.tefalstore.cl/tefal-olla-a-presion-secure-compact-6l/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206158/7114900067-01.jpg?v=639240621864200000",
-    "skus": [
-      {
-        "sku_id": "157",
-        "sku_name": "Olla a Presión Secure Compact 6L Acero Inoxidable",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206158/7114900067-01.jpg?v=639240621864200000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 39990.0,
-    "list_price": 59990.0,
     "on_sale": true
   },
   {
@@ -1281,24 +1344,24 @@
     "on_sale": true
   },
   {
-    "name": "Wok 28cm Excellence Cerámica FusionCore Tefal",
-    "reference": "2100137571",
+    "name": "Sarten 24 CM Renew Ceramica Tefal",
+    "reference": "2100144947",
     "brand": "Tefal",
     "category": "Sartenes y Woks",
-    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
-    "url": "https://www.tefalstore.cl/wok-28cm-excellence-ceramica-fusioncore-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000",
+    "description": "COCINA ANTIADHERENTE FÁCIL: Inoceram es el recubrimiento cerámico antiadherente de nueva generación que ofrece un deslizamiento sin esfuerzo—para una cocina fácil y baja en gras°|\n\nCUERPO DE ALUMINIO 100% RECICLADO: El enfoque de ecodiseño de Tefal con un cuerpo de aluminio 100% reciclado, metal reciclable y embalaje con un 90% de fibras recicladas|\n\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve completamente roja cuando la sartén ha alcanzado la temperatura ideal de inicio, garantizando resultados perfectos|\n\nCOMPATIBILIDAD TOTAL: Compatible con cocinas de gas, eléctricas, cerámicas e inducción|\n\nLIMPIEZA FÁCIL: Recubrimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo|\n\nFORMATO ESENCIAL: Para recetas saludables llenas de sabor, como pescado con limón y eneldo, espárragos sellados y hamburguesas vegetales crujientes sin aceite añadido|\n\nFABRICADO EN FRANCIA: Combinando innovación, conocimiento experto y materiales de primera calidad, nuestras fábricas locales exportan la excelencia francesa en todo el mundo|\n\nCOMPROMISOS DE TEFAL EN CALIDAD Y EXPERIENCIA: Inventor de las sartenes antiadherentes, Tefal fabrica sus productos con un alto nivel de calidad y experiencia",
+    "url": "https://www.tefalstore.cl/sarten-24-cm-renew-ceramica-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205950/01-portada.jpg?v=639137853928330000",
     "skus": [
       {
-        "sku_id": "389",
-        "sku_name": "Wok 28 cm Excellence Cerámica FusionCore Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205835/01-portada.jpg?v=639106678433230000"
+        "sku_id": "398",
+        "sku_name": "Sarten 24 CM Renew Ceramica Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205950/01-portada.jpg?v=639137853928330000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 39990.0,
-    "list_price": 54990.0,
+    "price": 23990.0,
+    "list_price": 36990.0,
     "on_sale": true
   },
   {
@@ -1365,24 +1428,24 @@
     "on_sale": true
   },
   {
-    "name": "Picadora Glass Bowl XL 2LT 500W Moulinex",
-    "reference": "7211419617",
-    "brand": "Moulinex",
-    "category": "Procesador de Alimentos",
-    "description": "CAPACIDAD EXTRA GRANDE: Un bol de cristal de 2 L de capacidad XXL, perfecto para preparar cualquier receta, hasta 1 L|\nDURABILIDAD Y ROBUSTEZ: Ideal para el uso diario con un recipiente de vidrio de borosilicato ultrarresistente que ofrece resistencia a los golpes y durabilidad.|\nSAFE START ADVANCED: tecnologia de seguridad patentada, para una seguridad y durabilidad óptimas gracias a la doble detección del recipiente.|\nFÁCIL DE LIMPIAR: Piezas extraíbles aptas para lavavajillas (excluyendo la base del motor) con cuchillas desmontables para hacer la vida más fácil día tras día.|\nCONTENIDO DE LA CAJA: Picadora, almohadilla antideslizante",
-    "url": "https://www.tefalstore.cl/picadora-glass-bowl-xl-2lt-500w-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205389/01-portada-2.png?v=639015125892830000",
+    "name": "Cepillo de aire caliente y Secador de pelo 2 en 1 Reverso Negro Rowenta",
+    "reference": "1830009168",
+    "brand": "Rowenta",
+    "category": "Cepillos de pelo",
+    "description": "PASO 1: Presecado rápido y cómodo con el lado de secador de tu Reverso, gracias a su forma vertical ergonómica y boquilla ancha.|\nPASO 2: La exclusiva función Reverse con tecnología avanzada te permite cambiar del modo secador al modo cepillo de aire caliente con solo un clic—para un peinado y secado más fácil que nunca.|\nPASO 3: Usa Reverso en modo cepillo de aire caliente para un acabado de secado natural con total facilidad—ofrece la combinación perfecta de flujo de aire y calor, con una forma curva que facilita el peinado.|\n2 EN 1: Un secador de pelo y cepillo de aire caliente fácil de usar en un solo producto, que ofrece un pre secado rápido y cómodo, además de resultados de peinado natural con el cepillo de aire caliente.|\nRESULTADOS DE SECADO NATURAL: El 91% de las mujeres describieron su cabello con hasta 2 veces más volumen* y el 98% experimentaron hasta 2 veces más brillo*\n(*pruebas realizadas en 50 mujeres que usaron Reverso durante un mes).|\nCONTENIDO DE LA CAJA: Secador de pelo y cepillo de aire caliente Reverso 2 en 1, cubierta para el cepillo.",
+    "url": "https://www.tefalstore.cl/secador-de-pelo-y-cepillo-de-aire-caliente-2-en-1-reverso-negro-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205196/01-portada.jpg?v=638936469006130000",
     "skus": [
       {
-        "sku_id": "368",
-        "sku_name": "Picadora Glass Bowl XL 2LT Moulinex",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205389/01-portada-2.png?v=639015125892830000"
+        "sku_id": "357",
+        "sku_name": "Cepillo de aire caliente y Secador de pelo 2 en 1 Reverso",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205196/01-portada.jpg?v=638936469006130000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 29990.0,
-    "list_price": 49990.0,
+    "price": 51990.0,
+    "list_price": 129990.0,
     "on_sale": true
   },
   {
@@ -1407,27 +1470,6 @@
     "on_sale": true
   },
   {
-    "name": "Hervidor Morning 1,7LT Gris Moulinex",
-    "reference": "7211419024",
-    "brand": "Moulinex",
-    "category": "Hervidores",
-    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas. |\nLA CANTIDAD PERFECTA: Indicador de nivel de agua fácil de leer, con señalización para una taza, ideal para preparar la cantidad justa de té. |\nFÁCIL DE USAR: Apertura automática con una sola mano para un vertido práctico, además de un diseño ancho que facilita el llenado y la limpieza. |\nAGUA MÁS PURA: Filtro antisarro removible que mejora la calidad del agua y el sabor de tus bebidas, y que además se limpia fácilmente. |\nREPARABILIDAD POR 15 AÑOS A PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de servicio en todo el mundo para extender su vida útil. |\nGRAN CAPACIDAD: Hervidor eléctrico con una capacidad de 1,7 L, ideal para satisfacer las necesidades de toda la familia. |\nEBULLICIÓN RÁPIDA: Potencia de 2400 W para hervir el agua en poco tiempo y disfrutar de bebidas calientes en un instante. |\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme y accesible desde cualquier ángulo. |\nTRANQUILIDAD TOTAL: Función de apagado automático para mayor seguridad y uso sin preocupaciones.",
-    "url": "https://www.tefalstore.cl/hervidor-morning-1-7lt-gris-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205252/proyecto-nuevo-31.png?v=638941730323030000",
-    "skus": [
-      {
-        "sku_id": "351",
-        "sku_name": "Hervidor Morning 1,7 L Gris",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205252/proyecto-nuevo-31.png?v=638941730323030000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 17990.0,
-    "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
     "name": "Hervidor Morning 1,7L Eucalipto Moulinex",
     "reference": "7211419053",
     "brand": "Moulinex",
@@ -1449,6 +1491,27 @@
     "on_sale": true
   },
   {
+    "name": "Hervidor Morning 1,7L Negro Moulinex",
+    "reference": "7211419022",
+    "brand": "Moulinex",
+    "category": "Hervidores",
+    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas.|\nLA CANTIDAD PERFECTA: Indicador de una taza y marcas de nivel de agua fáciles de leer, para preparar la cantidad justa para una taza de té.|\nFÁCIL DE USAR: Apertura automática con una sola mano, ideal para servir con comodidad. Su diseño ancho facilita el llenado y la limpieza.|\nAGUA MÁS LIMPIA: Filtro antisarro para un agua más limpia y bebidas con mejor sabor, de diseño removible para una limpieza sencilla.|\nREPARABILIDAD DURANTE 15 AÑOS A PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de servicio en todo el mundo para que dure mucho más.|\nAMPLIA CAPACIDAD: Hervidor eléctrico con 1,7 L de capacidad, ideal para toda la familia y para todas tus bebidas calientes.|\nHERVIDO RÁPIDO: 2400 W de potencia para un calentamiento rápido y bebidas calientes en pocos minutos.|\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme y accesible desde cualquier ángulo.|\nTRANQUILIDAD TOTAL: Función de apagado automático, para usarlo con confianza y olvidarte sin preocupaciones.",
+    "url": "https://www.tefalstore.cl/hervidor-morning-1-7l-negro-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205046/01-portada.png?v=638924206393870000",
+    "skus": [
+      {
+        "sku_id": "349",
+        "sku_name": "Hervidor Morning 1,7L Negro",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205046/01-portada.png?v=638924206393870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 17990.0,
+    "list_price": 28990.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora PerfectMix Cook 1400W 2L Moulinex",
     "reference": "7211004631",
     "brand": "Moulinex",
@@ -1467,6 +1530,27 @@
     "country": "Chile",
     "price": 119990.0,
     "list_price": 199990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Batería de cocina antiadherente 16 piezas Culinare Champagne Tefal",
+    "reference": "2100112169",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "Revestimiento antiadherente ProGlide: Hace que nada se pegue y que la limpieza sea más fácil |\nTecnología Thermo-Signal: Indica cuándo la sartén está perfectamente precalentada para un sellado ideal. |\nDiseño anidable: Ahorra espacio en la cocina. |\nBoquillas vertedoras: Permiten un vertido limpio y sin desorden. |\nAsas ergonómicas: Brindan un agarre cómodo. |\nApto para lavavajillas y horno: Resiste hasta 176 °C. |\nCompatible con todas las cocinas, excepto inducción.",
+    "url": "https://www.tefalstore.cl/bateria-de-cocina-antiadherente-16-piezas-culinare-champagne-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204862/01-portada.png?v=638905455417170000",
+    "skus": [
+      {
+        "sku_id": "345",
+        "sku_name": "Batería de cocina antiadherente 16 piezas Culinare Champagne Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204862/01-portada.png?v=638905455417170000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 99990.0,
+    "list_price": 124990.0,
     "on_sale": true
   },
   {
@@ -1512,24 +1596,45 @@
     "on_sale": true
   },
   {
-    "name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
-    "reference": "1830008857",
-    "brand": "Rowenta",
-    "category": "Planchas Verticales",
-    "description": "CUIDADO EFICIENTE DE PRENDAS: Emisión de vapor de hasta 20 g/min,  para un planchado y purificación eficaz.|\nSISTEMA DE CABEZAL REVERSIBLE : El Iinnovador cabezal reversible permite cambiar fácilmente entre el lado quita pelusas y el lado de terciopelo para vaporizar telas delicadas, gruesas o quitar pelitos.|\nVAPOR DESINFECTANTE: El poder natural del vapor reduce olores, refresca y elimina hasta el 99,9% de virus, bacterias y gérmenes* de tu ropa.|\nCALENTAMIENTO RÁPIDO: Siempre listo en solo 15 segundos. Ideal para usos frecuentes y retoques de último minuto—tu solución de vapor lista al instante.|                                                                                                                                                                                                       ULTRA COMPACTO Y PRACTICO : Con menos de 1kg de peso y un deposito de agua extraible de 77ml  Pure Pop es  ideal para viajes y uso en el dia a dia. Su cable mide 2 mts para mayor comodidad.|\nMODERNO Y CON ESTILO: Estética única con cuatro colores vibrantes a elección. Aparato elegante con una estructura bien equilibrada (menos de 1 kg) y cómodo de sostener.|                                                                                                                                                        REPARABILIDAD DE 15 AÑOS: Entrega rápida y piezas de bajo costo disponibles en 6200 centros de reparación en todo el mundo, como parte de nuestro compromiso con el medio ambiente y la reducción de residuos |\n¿QUÉ INCLUYE LA CAJA?: Vaporizador Rowenta Pure POP, cabezal reversible, bolsa de viaje/almacenamiento.|                                                                                                                                                         *Virus: pruebas externas, 20 sept. en BCoV-1 y Norovirus murino en algodón.|\nBacterias y gérmenes: pruebas externas en Staphylococcus aureus y Klebsiella.",
-    "url": "https://www.tefalstore.cl/vaporizador-de-prendas-pure-pop-verde-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205732/1-digital-rwt-dr2024d1-pop-h1-2326b276-d582-45e6-bf12-d8d6a7b2aa87.png?v=639090072993530000",
+    "name": "Set 3 ollas antiadherente 16/18/20 cm + mango Removible Ingenio Tefal",
+    "reference": "2100134423",
+    "brand": "Tefal",
+    "category": "Ollas",
+    "description": "\"¡Simplifica tu vida con las ollas Ingenio! Gracias a su mango extraíble y su práctico sistema de un solo clic, ahora puedes cocinar en el fuego, pasar al horno, servir directamente en la mesa y guardar en el refrigerador. Todo en un mismo recipiente.!|\nAhorra hasta un 50 % de espacio: estas ollas son perfectamente apilables para lograr un almacenamiento compacto.|\nEl mango extraíble, seguro y patentado de Tefal, cuenta con tres puntos de seguridad, soporta hasta 10 kg* y tiene una garantía de 10 años.**|\nLas ollas cuentan con un revestimiento antiadherente reforzado con titanio, que facilita tanto la cocción como la limpieza.|\nNuestros recubrimientos son seguros y libres de PFOA, cadmio y plomo.|\nAptas para lavavajillas.|\nArma tu cocina inteligente y completa tu set con nuestros sartenes, wok, guisera y tapas Ingenio.\"",
+    "url": "https://www.tefalstore.cl/set-4-ollas-antiadherente-16-18-20-cm---mango-ingenio-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204156/1.-Portada.jpg.jpg?v=639244014340130000",
     "skus": [
       {
-        "sku_id": "332",
-        "sku_name": "Vaporizador de Prendas Pure Pop Verde Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205732/1-digital-rwt-dr2024d1-pop-h1-2326b276-d582-45e6-bf12-d8d6a7b2aa87.png?v=639090072993530000"
+        "sku_id": "330",
+        "sku_name": "Set 4 ollas antiadherente 16/18/20 cm + mango Ingenio Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204156/1.-Portada.jpg.jpg?v=639244014340130000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 28990.0,
-    "list_price": 49990.0,
+    "price": 54990.0,
+    "list_price": 79990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Tapa de Cristal 24 cm Ingenio Tefal",
+    "reference": "2100127840",
+    "brand": "Tefal",
+    "category": "Ollas",
+    "description": "¡Simplifica tu cocina, simplifica tu vida!  Tapas de vidrio que ofrecen una experiencia de cocina más fácil, desde la estufa hasta el refrigerador y el lavavajilla.|\nCuentan con ingeniosas asas plegables que las hacen 100% apilables|\nTotalmente compatible con los utensilios de cocina Ingenio, ofreciendo el ajuste perfecto para el mango removible Ingenio|\nAcelera tu tiempo de cocción y monitorea tu progreso con total facilidad|\nApto para lavavajillas",
+    "url": "https://www.tefalstore.cl/tapa-de-cristal-24-cm-ingenio-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205399/01-portada.jpg?v=639020070109130000",
+    "skus": [
+      {
+        "sku_id": "324",
+        "sku_name": "Tapa de Cristal 24 cm Ingenio Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205399/01-portada.jpg?v=639020070109130000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 15990.0,
+    "list_price": 24870.0,
     "on_sale": true
   },
   {
@@ -1554,45 +1659,45 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Virtuoso Steam&Pump Krups XP444C10/BA0",
-    "reference": "8010001292",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "Sistema de bomba de presión de 15 bares que garantiza una extracción total para obtener resultados óptimos.|\nSistema Thermoblock que efectúa un calentamiento para servir el espresso directamente en la taza en menos de un minuto.|\nBoquilla de vapor dual de alta calidad (para espumar y calentar la leche) ofrece infinitas posibilidades para preparar capuccinos, lattes y mucho más.|\nDepósito de agua de 1 litro.|\nPrepara hasta dos espressos a la vez.|\nBandeja de goteo extraíble con rejilla de acero inoxidable para mantener tu cafetera limpia e impecable.|\nAccesorios: Cuchara dosificadora y prensadores.|",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-virtuoso-steam-pump-krups-xp444c10-ba0/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204746/1-d6544175-ef16-4942-8387-c41cb91519bb-1-53d26f0e-2be0-43a9-92bc-dfd584a55ce5.png?v=638893134477230000",
+    "name": "Licuadora Personal Blend Up 1000W Moulinex",
+    "reference": "7211419401",
+    "brand": "Moulinex",
+    "category": "Licuadoras de Mano",
+    "description": "Nuestra Licuadora Personal Moulinex Blend Up es la primera batidora personal con programas culinarios.|\nVERSÁTIL EN SOLO 2 CLICS: 8 programas automáticos, 6 de ellos culinarios, que garantizan una velocidad y un tiempo de procesado óptimos para cada tipo de preparación, para conseguir unas texturas deliciosas en todo tipo de alimentos, desde batidos y bebidas vegetales hasta salsas y mucho más|\nALTO RENDIMIENTO: el motor de 1000 W de la batidora y las cuchillas Powelix ofrecen un rendimiento idóneo, todo ello con un diseño compacto y robusto|\nFÁCIL DE LIMPIAR: olvídate de las largas sesiones de limpieza, ya que con el modo de autolimpieza, las cuchillas extraíbles, las botellas aptas para lavavajillas y el cepillo de lavado, la limpieza de esta batidora es pan comido",
+    "url": "https://www.tefalstore.cl/licuadora-personal-moulinex-blend-up/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205237/blend-up-azul-3.png?v=638941607267530000",
     "skus": [
       {
-        "sku_id": "305",
-        "sku_name": "Cafetera Espresso Virtuoso Steam&Pump Krups XP444C10/BA0",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204746/1-d6544175-ef16-4942-8387-c41cb91519bb-1-53d26f0e-2be0-43a9-92bc-dfd584a55ce5.png?v=638893134477230000"
+        "sku_id": "316",
+        "sku_name": "Licuadora Personal Moulinex Blend Up",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205237/blend-up-azul-3.png?v=638941607267530000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 129990.0,
-    "list_price": 249990.0,
+    "price": 66990.0,
+    "list_price": 129990.0,
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Antiadherente Talent 7 Piezas Tefal",
-    "reference": "5861032934",
+    "name": "Cacerola 16 cm acero inoxidable Primary",
+    "reference": "2100120952",
     "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "\"La batería Talent es la batería perfecta para empezar a cocinar! Se encuentra disponible en color gris e incluye lo basico de la cocina con una olla 20 y24cm con tapa de vidrio, una cacerola 16cm con tapa y un sartén 24cm.|  \nEsta línea cuenta con un resistente antiadherente de tecnología Easy Plus, que permite cocinar y limpiar más falcilmente, sin que nada se pegue.|\nAdemás, cuenta con una base difusora , que permite una conducción perfecta de calor.|\nIncluye tecnología Thermo Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar para obtener resultados más jugosos, sabrosos y un color perfecto en cada comida. |\nNuestros revestimientos son libre de PFOA, cadmio y plomo. \"",
-    "url": "https://www.tefalstore.cl/tefal-bateria-de-cocina-antiadherente-talent-7-piezas-t-fal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205495/5861032934-5819500-bateria-7-pzs-grs-talent-1.jpg?v=639035775340570000",
+    "category": "Sartenes y Woks",
+    "description": "\"Hecha de acero inoxidable de alta calidad y  diseñada para una larga vida útil. | Ideales para cocinar comidas diarias como pastas o arroz, así como para cocinar a fuego lento, hervir y cocinar salsas.|\nCuenta con graduaciónes interiores para dosificar facilmente, tapa de Cristal transparente para revisar tus preparaciónes sin tener que levantar la tapa y bordes convenientes para verter y  mantener tu cocina impecable!|\nApta para todo tipo de cocinas, incluso inducción.\"",
+    "url": "https://www.tefalstore.cl/tefal-cacerola-16-cm-acero-inoxidable-primary/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204891/digital-e3082404-primary-saucepan-20cm-05ja-4428-94515206-71e3-403d-8c87-b14e782228e9.png?v=638913180580870000",
     "skus": [
       {
-        "sku_id": "304",
-        "sku_name": "Bateria de cocina Antiadherente Talent 7 Piezas Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205495/5861032934-5819500-bateria-7-pzs-grs-talent-1.jpg?v=639035775340570000"
+        "sku_id": "311",
+        "sku_name": "Cacerola 16 cm acero inoxidable Primary",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204891/digital-e3082404-primary-saucepan-20cm-05ja-4428-94515206-71e3-403d-8c87-b14e782228e9.png?v=638913180580870000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 54990.0,
-    "list_price": 79990.0,
+    "price": 17990.0,
+    "list_price": 21990.0,
     "on_sale": true
   },
   {
@@ -1638,24 +1743,24 @@
     "on_sale": true
   },
   {
-    "name": "Lechero Krups + Accesorio Capuccino",
-    "reference": "1600007276",
-    "brand": "Krups",
-    "category": "Accesorios Cafeteras",
-    "description": "\"¡Disfruta de un capuccino perfecto! Este accesorio te permitirá calentar, espumar y entregar directamente en tu taza una espuma de leche perfecta sin manipulación manual para preparar capuccinos o cafés con leche perfectos.|\nDos posiciones para obtener leche caliente o espuma de leche.|\nCompatible con Essential Display negra y Essential Display manual. Capacidad 600 ml\"",
-    "url": "https://www.tefalstore.cl/lechero-krups---accesorio-capuccino-/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205335/foto-lechero.jpg?v=638957213652600000",
+    "name": "Afilador 12,5X5,9 cm Ice Force Tefal",
+    "reference": "2100124585",
+    "brand": "Tefal",
+    "category": "Cuchillos",
+    "description": "\"El afilador retráctil de 3 ranuras Tefal Ice Force es un elemento esencial en tu cocina|\nMantiene afilados fácilmente tus cuchillos de acero inoxidable para un rendimiento de corte óptimo. |\nFácil de usar, con base antideslizante para un uso seguro y estable.\"",
+    "url": "https://www.tefalstore.cl/afilador-12-5x5-9-cm-ice-force-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206364/foto-1.jpg?v=639241506042200000",
     "skus": [
       {
-        "sku_id": "293",
-        "sku_name": "Lechero Krups + Accesorio Capuccino",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205335/foto-lechero.jpg?v=638957213652600000"
+        "sku_id": "292",
+        "sku_name": "Afilador 12,5X5,9 cm Ice Force Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206364/foto-1.jpg?v=639241506042200000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 34990.0,
-    "list_price": 49990.0,
+    "price": 10990.0,
+    "list_price": 17790.0,
     "on_sale": true
   },
   {
@@ -1680,45 +1785,24 @@
     "on_sale": true
   },
   {
-    "name": "Cuchillo Chef 20cm Ice Force Tefal",
-    "reference": "2100104352",
+    "name": "Olla 30 cm  + tapa Super Cook",
+    "reference": "2100123982",
     "brand": "Tefal",
-    "category": "Cuchillos",
-    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal. |\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo chef 20cm es ideal para cortar, picar y rebanar todo tipo de alimentos.",
-    "url": "https://www.tefalstore.cl/cuchillo-chef-20cm-ice-force-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000",
+    "category": "Ollas",
+    "description": "\"La línea Super Cook de Tefal, posee una base difusora que permite una conducción perfecta de calor. |\nAntiadherente de titanio de larga duración, cuyo beneficio es la resistencia a las rayaduras.|\nCuenta con mango ergonómico para una fácil manipulación de la olla y con tapa de vidrio para una cocción rápida de tus alimentos.|\nCompatible con todas las cocinas, excepto inducción.|\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.\"",
+    "url": "https://www.tefalstore.cl/tefal-olla-30-cm----tapa-super-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206404/foto-1-olla-30-cm-super-cook.jpg?v=639241506243070000",
     "skus": [
       {
-        "sku_id": "289",
-        "sku_name": "Cuchillo Chef 20cm Ice Force Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205526/foto-1.jpg?v=639035775596370000"
+        "sku_id": "270",
+        "sku_name": "Olla 30 cm con tapa Super Cook",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206404/foto-1-olla-30-cm-super-cook.jpg?v=639241506243070000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 13990.0,
-    "list_price": 24290.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set Sartenes ingenio 22/24/26 cm + mango",
-    "reference": "2100126163",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "\"De la cocina, al horno, a la mesa y al refrigerador, Ingenio es la respuesta a la versatilidad y apilabilidad de los utensilios de cocina.|\nSistema apilable para ahorrar espacio en tu cocina, mango seguro para intercambiar de sartén en sartén y de olla en olla. |\nRecubrimiento antiadherente de titanio para una mayor durabilidad. |\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, excepto las de inducción. |\nEste set de sartenes está compuesto por: Sartén 22/24/26 cm + mango\"",
-    "url": "https://www.tefalstore.cl/tefal-set-sartenes-ingenio-22-24-26-cm---mango/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206360/foto-1.jpg?v=639241505925100000",
-    "skus": [
-      {
-        "sku_id": "278",
-        "sku_name": "Set Sartenes ingenio 22/24/26 cm + mango",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206360/foto-1.jpg?v=639241505925100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 56990.0,
-    "list_price": 84990.0,
+    "price": 29990.0,
+    "list_price": 41990.0,
     "on_sale": true
   },
   {
@@ -1827,27 +1911,6 @@
     "on_sale": true
   },
   {
-    "name": "Bateria de cocina Antiadherente Super cook 12 PCS Tefal",
-    "reference": "2100124204",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente Powerglide con capa de anti-rayaduras reforzada con minerales. | Posee una base Optimal, que garantiza una distribución homogénea del calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el Thermo Spot, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. | Compatible con todo tipo de cocinas, menos inducción. | Incluye: Sartén 22/24 cm, Wok 28 cm, Olla 22/24/28 cm con tapa, 2 Cucharas, Espátula​.",
-    "url": "https://www.tefalstore.cl/tefal-set-12-pz-super-cook-black/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206369/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=639241506064470000",
-    "skus": [
-      {
-        "sku_id": "253",
-        "sku_name": "Bateria de cocina Antiadherente Super cook 12 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206369/2100113623-1-73b6e8bb-95e4-4ec7-a3a0-ad83ebbef078.jpg?v=639241506064470000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 79990.0,
-    "list_price": 129990.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de Vapor Promaster Excel Rowenta",
     "reference": "1830031572",
     "brand": "Rowenta",
@@ -1908,27 +1971,6 @@
     "country": "Chile",
     "price": 52990.0,
     "list_price": 94990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla Cocotte Ovalada Air 30x23 cm",
-    "reference": "2100127039",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
-    "url": "https://www.tefalstore.cl/tefal-cocotte-ovalada-30x23-cm-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201205/2100127039.png?v=639228386127300000",
-    "skus": [
-      {
-        "sku_id": "198",
-        "sku_name": "Olla Cocotte Ovalada Air 30x23 cm",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201205/2100127039.png?v=639228386127300000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 42990.0,
-    "list_price": 72990.0,
     "on_sale": true
   },
   {
@@ -2121,24 +2163,24 @@
     "on_sale": true
   },
   {
-    "name": "Contenedor hermetico de alimentos ONECLICK Azul 0,5/1,2/2,3L Tefal",
-    "reference": "3110601807",
-    "brand": "Tefal",
-    "category": "Contenedores de Alimentos y Bebidas",
-    "description": "Ahorro de espacio: Juego apilable para maximizar el espacio en alacenas, cajones o cocinas pequeñas. Tapas continuas que quedan planas y se apilan suavemente para una mejor eficiencia en los estantes. |\nSistema de un solo clic para conservar la frescura: Mantiene los alimentos frescos el doble de tiempo en comparación con los no envasados — científicamente comprobado.|\n100% hermético garantizado, para un almacenamiento seguro de alimentos en todo momento.|\nFácil de limpiar, para máxima higiene: La tapa de una sola pieza y el sello ajustado facilitan la limpieza — sin rincones ocultos para gérmenes.|\nRecipiente de almacenamiento de alimentos con sistema oneClick que hace que abrir y cerrar sea sencillo — resistencia probada y garantizada.|\nFabricado en Alemania, hecho para durar — elaborado con precisión y respaldado por una garantía de calidad de 30 años.|\nPerfecto para llevar: Diseño ligero y elegante con cuerpo translúcido de color que permite ver fácilmente el contenido.|\nApto para refrigerador/congelador/microondas y lavavajillas, para total comodidad y versatilidad diaria.|\nDiseño que ahorra espacio para una cocina organizada — con un aspecto moderno y colores atractivos que lucen bien en cualquier mesa.",
-    "url": "https://www.tefalstore.cl/contenedor-hermetico-de-alimentos-oneclick-azul-0-5-1-2-2-3l-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205815/01-imagen.jpg?v=639101609896830000",
+    "name": "Rizador de Pelo flex Curl 3 Ajustes con tecnologia sensor Rowenta",
+    "reference": "1830009371",
+    "brand": "Rowenta",
+    "category": "Planchas de pelo",
+    "description": "Rizador 3 en 1: ofrece total versatilidad y resultados perfectos en todo momento gracias a un barril ajustable que permite tres tamaños diferentes de rizos.|\nLooks para cada estilo o momento: barril ajustable (27/32/38 mm) para crear rizos definidos, con rebote o ondas sueltas con solo girar el anillo selector de rizos.|\nRizos que duran hasta 48 horas: nuestra avanzada tecnología de triple sensor garantiza una temperatura constante para lograr resultados increíbles y rizos duraderos.|\nCambio fácil: el anillo selector de rizos permite ajustar el tamaño del barril de forma suave y sencilla para un peinado perfecto y sin esfuerzo.|\n15 años de reparabilidad a un precio justo: recomendamos reparar su producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nPeinado rápido: rizos perfectos tanto para mañanas con prisa como para salidas nocturnas; un peinado fácil para lucir su mejor look en poco tiempo.|\nPeinado sin esfuerzo: experiencia de uso intuitiva con un diseño fácil de manejar y características ergonómicas que permiten un peinado preciso con total facilidad.|\nCuidado total y precisión: 4 ajustes de temperatura precisos (150-210 °C) para adaptarse a todos los tipos de cabello, incluyendo un modo de cuidado a 170 °C para obtener rizos protegidos y saludables.|\nBrillo radiante: el revestimiento cerámico reduce la electricidad estática y el frizz, dejando el cabello suave, manejable y con un brillo luminoso.",
+    "url": "https://www.tefalstore.cl/rizador-de-pelo-flex-curl-3-en-1-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205806/proyecto-nuevo-3.jpg?v=639098877607400000",
     "skus": [
       {
-        "sku_id": "386",
-        "sku_name": "Contenedor de alimentos ONECLICK Azul 0,5/1,2/2,3L Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205815/01-imagen.jpg?v=639101609896830000"
+        "sku_id": "383",
+        "sku_name": "Rizador de Pelo flex Curl 3 Ajustes con tecnologia sensor Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205806/proyecto-nuevo-3.jpg?v=639098877607400000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 19990.0,
-    "list_price": 34990.0,
+    "price": 64990.0,
+    "list_price": 129990.0,
     "on_sale": true
   },
   {
@@ -2226,27 +2268,6 @@
     "on_sale": true
   },
   {
-    "name": "Cepillo de aire caliente y Secador de pelo 2 en 1 Reverso Negro Rowenta",
-    "reference": "1830009168",
-    "brand": "Rowenta",
-    "category": "Cepillos de pelo",
-    "description": "PASO 1: Presecado rápido y cómodo con el lado de secador de tu Reverso, gracias a su forma vertical ergonómica y boquilla ancha.|\nPASO 2: La exclusiva función Reverse con tecnología avanzada te permite cambiar del modo secador al modo cepillo de aire caliente con solo un clic—para un peinado y secado más fácil que nunca.|\nPASO 3: Usa Reverso en modo cepillo de aire caliente para un acabado de secado natural con total facilidad—ofrece la combinación perfecta de flujo de aire y calor, con una forma curva que facilita el peinado.|\n2 EN 1: Un secador de pelo y cepillo de aire caliente fácil de usar en un solo producto, que ofrece un pre secado rápido y cómodo, además de resultados de peinado natural con el cepillo de aire caliente.|\nRESULTADOS DE SECADO NATURAL: El 91% de las mujeres describieron su cabello con hasta 2 veces más volumen* y el 98% experimentaron hasta 2 veces más brillo*\n(*pruebas realizadas en 50 mujeres que usaron Reverso durante un mes).|\nCONTENIDO DE LA CAJA: Secador de pelo y cepillo de aire caliente Reverso 2 en 1, cubierta para el cepillo.",
-    "url": "https://www.tefalstore.cl/secador-de-pelo-y-cepillo-de-aire-caliente-2-en-1-reverso-negro-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205196/01-portada.jpg?v=638936469006130000",
-    "skus": [
-      {
-        "sku_id": "357",
-        "sku_name": "Cepillo de aire caliente y Secador de pelo 2 en 1 Reverso",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205196/01-portada.jpg?v=638936469006130000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 51990.0,
-    "list_price": 129990.0,
-    "on_sale": true
-  },
-  {
     "name": "Cafetera Espresso Authentic Black Krups",
     "reference": "8010001295",
     "brand": "Krups",
@@ -2286,69 +2307,6 @@
     "country": "Chile",
     "price": 94990.0,
     "list_price": 179990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Hervidor Morning 1,7L Negro Moulinex",
-    "reference": "7211419022",
-    "brand": "Moulinex",
-    "category": "Hervidores",
-    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas.|\nLA CANTIDAD PERFECTA: Indicador de una taza y marcas de nivel de agua fáciles de leer, para preparar la cantidad justa para una taza de té.|\nFÁCIL DE USAR: Apertura automática con una sola mano, ideal para servir con comodidad. Su diseño ancho facilita el llenado y la limpieza.|\nAGUA MÁS LIMPIA: Filtro antisarro para un agua más limpia y bebidas con mejor sabor, de diseño removible para una limpieza sencilla.|\nREPARABILIDAD DURANTE 15 AÑOS A PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de servicio en todo el mundo para que dure mucho más.|\nAMPLIA CAPACIDAD: Hervidor eléctrico con 1,7 L de capacidad, ideal para toda la familia y para todas tus bebidas calientes.|\nHERVIDO RÁPIDO: 2400 W de potencia para un calentamiento rápido y bebidas calientes en pocos minutos.|\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme y accesible desde cualquier ángulo.|\nTRANQUILIDAD TOTAL: Función de apagado automático, para usarlo con confianza y olvidarte sin preocupaciones.",
-    "url": "https://www.tefalstore.cl/hervidor-morning-1-7l-negro-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205046/01-portada.png?v=638924206393870000",
-    "skus": [
-      {
-        "sku_id": "349",
-        "sku_name": "Hervidor Morning 1,7L Negro",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205046/01-portada.png?v=638924206393870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 17990.0,
-    "list_price": 28990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Batidora de inmersión TurboMix Moulinex",
-    "reference": "7211003569",
-    "brand": "Moulinex",
-    "category": "Licuadoras de Mano",
-    "description": "FÁCIL DE USAR: Una batidora de mano de alto rendimiento equipada con 350 W y un control de velocidad única para resultados perfectos sin esfuerzo.|\nMEZCLAS SIN SALPICADURAS: El pie anti-salpicaduras evita derrames y desorden, ofreciendo una experiencia más limpia y agradable.|\nDISEÑO CÓMODO: Mango ergonómico con textura antideslizante para un uso más fácil y confortable, ideal para un uso frecuente.|\nDURABILIDAD TOTAL: 2 cuchillas ZELKROM que garantizan un rendimiento duradero.|\nREPARABILIDAD POR 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nFÁCIL DE LIMPIAR: Piezas desmontables aptas para lavavajillas, para un uso diario sin complicaciones.",
-    "url": "https://www.tefalstore.cl/batidora-de-inmmersion-turbomix-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205776/01-portada.png?v=639095480500730000",
-    "skus": [
-      {
-        "sku_id": "347",
-        "sku_name": "Licuadora de Inmersión con vaso Turbomix",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205776/01-portada.png?v=639095480500730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 16990.0,
-    "list_price": 29990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Batería de cocina antiadherente 16 piezas Culinare Champagne Tefal",
-    "reference": "2100112169",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "Revestimiento antiadherente ProGlide: Hace que nada se pegue y que la limpieza sea más fácil |\nTecnología Thermo-Signal: Indica cuándo la sartén está perfectamente precalentada para un sellado ideal. |\nDiseño anidable: Ahorra espacio en la cocina. |\nBoquillas vertedoras: Permiten un vertido limpio y sin desorden. |\nAsas ergonómicas: Brindan un agarre cómodo. |\nApto para lavavajillas y horno: Resiste hasta 176 °C. |\nCompatible con todas las cocinas, excepto inducción.",
-    "url": "https://www.tefalstore.cl/bateria-de-cocina-antiadherente-16-piezas-culinare-champagne-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204862/01-portada.png?v=638905455417170000",
-    "skus": [
-      {
-        "sku_id": "345",
-        "sku_name": "Batería de cocina antiadherente 16 piezas Culinare Champagne Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204862/01-portada.png?v=638905455417170000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 99990.0,
-    "list_price": 124990.0,
     "on_sale": true
   },
   {
@@ -2415,24 +2373,24 @@
     "on_sale": true
   },
   {
-    "name": "Set 3 ollas antiadherente 16/18/20 cm + mango Removible Ingenio Tefal",
-    "reference": "2100134423",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "\"¡Simplifica tu vida con las ollas Ingenio! Gracias a su mango extraíble y su práctico sistema de un solo clic, ahora puedes cocinar en el fuego, pasar al horno, servir directamente en la mesa y guardar en el refrigerador. Todo en un mismo recipiente.!|\nAhorra hasta un 50 % de espacio: estas ollas son perfectamente apilables para lograr un almacenamiento compacto.|\nEl mango extraíble, seguro y patentado de Tefal, cuenta con tres puntos de seguridad, soporta hasta 10 kg* y tiene una garantía de 10 años.**|\nLas ollas cuentan con un revestimiento antiadherente reforzado con titanio, que facilita tanto la cocción como la limpieza.|\nNuestros recubrimientos son seguros y libres de PFOA, cadmio y plomo.|\nAptas para lavavajillas.|\nArma tu cocina inteligente y completa tu set con nuestros sartenes, wok, guisera y tapas Ingenio.\"",
-    "url": "https://www.tefalstore.cl/set-4-ollas-antiadherente-16-18-20-cm---mango-ingenio-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204156/1.-Portada.jpg.jpg?v=639244014340130000",
+    "name": "Vaporizador Prendas Manual Pure Pop Amarillo Rowenta",
+    "reference": "1830008859",
+    "brand": "Rowenta",
+    "category": "Planchas Verticales",
+    "description": "CUIDADO EFICIENTE DE PRENDAS: Emisión de vapor de hasta 20 g/min,  para un planchado y purificación eficaz.|\nSISTEMA DE CABEZAL REVERSIBLE : El innovador cabezal reversible permite cambiar fácilmente entre el lado quita pelusas y el lado de terciopelo para vaporizar telas delicadas, gruesas o quitar pelitos.|\nVAPOR DESINFECTANTE: El poder natural del vapor reduce olores, refresca y elimina hasta el 99,9% de virus, bacterias y gérmenes* de tu ropa.|\nCALENTAMIENTO RÁPIDO: Siempre listo en solo 15 segundos. Ideal para usos frecuentes y retoques de último minuto—tu solución de vapor lista al instante.|                                                                                                                                                                                                       ULTRA COMPACTO Y PRACTICO : Con menos de 1kg de peso y un deposito de agua extraible de 70ml  Pure Pop es  ideal para viajes y uso en el dia a dia. Su cable mide 2 mts para mayor comodidad.|\nMODERNO Y CON ESTILO: Estética única con cuatro colores vibrantes a elección. Aparato elegante con una estructura bien equilibrada (menos de 1 kg) y cómodo de sostener.|                                                                                                                                                        REPARABILIDAD DE 15 AÑOS: Entrega rápida y piezas de bajo costo disponibles en 6200 centros de reparación en todo el mundo, como parte de nuestro compromiso con el medio ambiente y la reducción de residuos |\n¿QUÉ INCLUYE LA CAJA?: Vaporizador Rowenta Pure POP, cabezal reversible, bolsa de viaje/almacenamiento.|                                                                                                                                                         *Virus: pruebas externas, 20 sept. en BCoV-1 y Norovirus murino en algodón.|\nBacterias y gérmenes: pruebas externas en Staphylococcus aureus y Klebsiella.",
+    "url": "https://www.tefalstore.cl/vaporizador-prendas-manual-pure-pop-amarillo-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206526/1-digital-rwt-dr2026d1-pop-h1.png?v=639270076362800000",
     "skus": [
       {
-        "sku_id": "330",
-        "sku_name": "Set 4 ollas antiadherente 16/18/20 cm + mango Ingenio Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204156/1.-Portada.jpg.jpg?v=639244014340130000"
+        "sku_id": "328",
+        "sku_name": "Vaporizador de Prendas Pure Pop Amarillo Rowenta",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206526/1-digital-rwt-dr2026d1-pop-h1.png?v=639270076362800000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 54990.0,
-    "list_price": 79990.0,
+    "price": 28990.0,
+    "list_price": 49990.0,
     "on_sale": true
   },
   {
@@ -2454,27 +2412,6 @@
     "country": "Chile",
     "price": 28990.0,
     "list_price": 49990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Tapa de Cristal 24 cm Ingenio Tefal",
-    "reference": "2100127840",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "¡Simplifica tu cocina, simplifica tu vida!  Tapas de vidrio que ofrecen una experiencia de cocina más fácil, desde la estufa hasta el refrigerador y el lavavajilla.|\nCuentan con ingeniosas asas plegables que las hacen 100% apilables|\nTotalmente compatible con los utensilios de cocina Ingenio, ofreciendo el ajuste perfecto para el mango removible Ingenio|\nAcelera tu tiempo de cocción y monitorea tu progreso con total facilidad|\nApto para lavavajillas",
-    "url": "https://www.tefalstore.cl/tapa-de-cristal-24-cm-ingenio-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205399/01-portada.jpg?v=639020070109130000",
-    "skus": [
-      {
-        "sku_id": "324",
-        "sku_name": "Tapa de Cristal 24 cm Ingenio Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205399/01-portada.jpg?v=639020070109130000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 15990.0,
-    "list_price": 24870.0,
     "on_sale": true
   },
   {
@@ -2520,27 +2457,6 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora Personal Blend Up 1000W Moulinex",
-    "reference": "7211419401",
-    "brand": "Moulinex",
-    "category": "Licuadoras de Mano",
-    "description": "Nuestra Licuadora Personal Moulinex Blend Up es la primera batidora personal con programas culinarios.|\nVERSÁTIL EN SOLO 2 CLICS: 8 programas automáticos, 6 de ellos culinarios, que garantizan una velocidad y un tiempo de procesado óptimos para cada tipo de preparación, para conseguir unas texturas deliciosas en todo tipo de alimentos, desde batidos y bebidas vegetales hasta salsas y mucho más|\nALTO RENDIMIENTO: el motor de 1000 W de la batidora y las cuchillas Powelix ofrecen un rendimiento idóneo, todo ello con un diseño compacto y robusto|\nFÁCIL DE LIMPIAR: olvídate de las largas sesiones de limpieza, ya que con el modo de autolimpieza, las cuchillas extraíbles, las botellas aptas para lavavajillas y el cepillo de lavado, la limpieza de esta batidora es pan comido",
-    "url": "https://www.tefalstore.cl/licuadora-personal-moulinex-blend-up/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205237/blend-up-azul-3.png?v=638941607267530000",
-    "skus": [
-      {
-        "sku_id": "316",
-        "sku_name": "Licuadora Personal Moulinex Blend Up",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205237/blend-up-azul-3.png?v=638941607267530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 66990.0,
-    "list_price": 129990.0,
-    "on_sale": true
-  },
-  {
     "name": "Freidora de Aire Easy Fry Digital Max Forest 5L Moulinex",
     "reference": "7211419110",
     "brand": "Moulinex",
@@ -2559,27 +2475,6 @@
     "country": "Chile",
     "price": 64990.0,
     "list_price": 119990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cacerola 16 cm acero inoxidable Primary",
-    "reference": "2100120952",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "\"Hecha de acero inoxidable de alta calidad y  diseñada para una larga vida útil. | Ideales para cocinar comidas diarias como pastas o arroz, así como para cocinar a fuego lento, hervir y cocinar salsas.|\nCuenta con graduaciónes interiores para dosificar facilmente, tapa de Cristal transparente para revisar tus preparaciónes sin tener que levantar la tapa y bordes convenientes para verter y  mantener tu cocina impecable!|\nApta para todo tipo de cocinas, incluso inducción.\"",
-    "url": "https://www.tefalstore.cl/tefal-cacerola-16-cm-acero-inoxidable-primary/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204891/digital-e3082404-primary-saucepan-20cm-05ja-4428-94515206-71e3-403d-8c87-b14e782228e9.png?v=638913180580870000",
-    "skus": [
-      {
-        "sku_id": "311",
-        "sku_name": "Cacerola 16 cm acero inoxidable Primary",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204891/digital-e3082404-primary-saucepan-20cm-05ja-4428-94515206-71e3-403d-8c87-b14e782228e9.png?v=638913180580870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 17990.0,
-    "list_price": 21990.0,
     "on_sale": true
   },
   {
@@ -2604,24 +2499,24 @@
     "on_sale": true
   },
   {
-    "name": "Afilador 12,5X5,9 cm Ice Force Tefal",
-    "reference": "2100124585",
+    "name": "Set Sartenes Ingenio 22/26 cm + mango",
+    "reference": "2100125616",
     "brand": "Tefal",
-    "category": "Cuchillos",
-    "description": "\"El afilador retráctil de 3 ranuras Tefal Ice Force es un elemento esencial en tu cocina|\nMantiene afilados fácilmente tus cuchillos de acero inoxidable para un rendimiento de corte óptimo. |\nFácil de usar, con base antideslizante para un uso seguro y estable.\"",
-    "url": "https://www.tefalstore.cl/afilador-12-5x5-9-cm-ice-force-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206364/foto-1.jpg?v=639241506042200000",
+    "category": "Sartenes y Woks",
+    "description": "\"De la cocina, al horno, a la mesa y al refrigerador, Ingenio es la respuesta a la versatilidad y apilabilidad de los utensilios de cocina.|\nSistema apilable para ahorrar espacio en tu cocina, mango seguro para intercambiar de sartén en sartén y de olla en olla. |\nRecubrimiento antiadherente de titanio para una mayor durabilidad. |\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, excepto las de inducción. |\nEste set de sartenes está compuesto por: Sartén 22/26 cm + mango\"",
+    "url": "https://www.tefalstore.cl/tefal-set-sartenes-ingenio-22-26-cm---mango/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206339/foto-1.jpg?v=639241505717270000",
     "skus": [
       {
-        "sku_id": "292",
-        "sku_name": "Afilador 12,5X5,9 cm Ice Force Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206364/foto-1.jpg?v=639241506042200000"
+        "sku_id": "277",
+        "sku_name": "Set Sartenes Ingenio 22/26 cm + mango",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206339/foto-1.jpg?v=639241505717270000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 10990.0,
-    "list_price": 17790.0,
+    "price": 44990.0,
+    "list_price": 62990.0,
     "on_sale": true
   },
   {
@@ -2643,27 +2538,6 @@
     "country": "Chile",
     "price": 89990.0,
     "list_price": 139990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla 30 cm  + tapa Super Cook",
-    "reference": "2100123982",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "\"La línea Super Cook de Tefal, posee una base difusora que permite una conducción perfecta de calor. |\nAntiadherente de titanio de larga duración, cuyo beneficio es la resistencia a las rayaduras.|\nCuenta con mango ergonómico para una fácil manipulación de la olla y con tapa de vidrio para una cocción rápida de tus alimentos.|\nCompatible con todas las cocinas, excepto inducción.|\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.\"",
-    "url": "https://www.tefalstore.cl/tefal-olla-30-cm----tapa-super-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206404/foto-1-olla-30-cm-super-cook.jpg?v=639241506243070000",
-    "skus": [
-      {
-        "sku_id": "270",
-        "sku_name": "Olla 30 cm con tapa Super Cook",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206404/foto-1-olla-30-cm-super-cook.jpg?v=639241506243070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 41990.0,
     "on_sale": true
   },
   {
@@ -2856,6 +2730,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén 28 cm XL Intense",
+    "reference": "2100124840",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "Descubre el sartén perfecto: la gama XL Intense de Tefal ha sido diseñada para satisfacer tus necesidades diarias en la cocina, combinando un rendimiento de larga duración con una gran capacidad para preparar cantidades abundantes de comida. | Tefal pone todo lo que necesitas para preparar unos platos deliciosos y saludables al alcance de tu mano: un revestimiento antiadherente Titanium x2 altamente resistente, una durabilidad excepcional, así como un menaje de cocina respetuoso con el medioambiente gracias al ahorro de energía durante la cocción y de agua durante su limpieza. | Gracias a la tecnología Thermo-Signal™, podrás obtener resultados exquisitos sin necesidad de ser un experto en la cocina, y la base difusora del calor garantiza una cocción perfectamente homogénea. Todo ello, en un formato XL de gran capacidad. | Este sartén fácil de usar aportará un toque saludable a tus comidas diarias: prepara un pollo a la plancha para una deliciosa ensalada César, unas quesadillas irresistibles, unos huevos revueltos para tus brunch de domingo y mucho más. XL Intense te ofrece una cocina casera versátil y saludable, sin dejar de lado el sabor.",
+    "url": "https://www.tefalstore.cl/tefal-sarten-28-cm-xl-intense/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206453/2100121068-01.jpg?v=639241507009730000",
+    "skus": [
+      {
+        "sku_id": "121",
+        "sku_name": "Sartén 28 cm XL Intense",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206453/2100121068-01.jpg?v=639241507009730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 21990.0,
+    "list_price": 28990.0,
+    "on_sale": true
+  },
+  {
     "name": "Bateria de cocina Antiadherente Platinum Negro 12 Piezas Tefal",
     "reference": "2100110382",
     "brand": "Tefal",
@@ -2877,24 +2772,24 @@
     "on_sale": true
   },
   {
-    "name": "Rizador de Pelo flex Curl 3 Ajustes con tecnologia sensor Rowenta",
-    "reference": "1830009371",
-    "brand": "Rowenta",
-    "category": "Planchas de pelo",
-    "description": "Rizador 3 en 1: ofrece total versatilidad y resultados perfectos en todo momento gracias a un barril ajustable que permite tres tamaños diferentes de rizos.|\nLooks para cada estilo o momento: barril ajustable (27/32/38 mm) para crear rizos definidos, con rebote o ondas sueltas con solo girar el anillo selector de rizos.|\nRizos que duran hasta 48 horas: nuestra avanzada tecnología de triple sensor garantiza una temperatura constante para lograr resultados increíbles y rizos duraderos.|\nCambio fácil: el anillo selector de rizos permite ajustar el tamaño del barril de forma suave y sencilla para un peinado perfecto y sin esfuerzo.|\n15 años de reparabilidad a un precio justo: recomendamos reparar su producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nPeinado rápido: rizos perfectos tanto para mañanas con prisa como para salidas nocturnas; un peinado fácil para lucir su mejor look en poco tiempo.|\nPeinado sin esfuerzo: experiencia de uso intuitiva con un diseño fácil de manejar y características ergonómicas que permiten un peinado preciso con total facilidad.|\nCuidado total y precisión: 4 ajustes de temperatura precisos (150-210 °C) para adaptarse a todos los tipos de cabello, incluyendo un modo de cuidado a 170 °C para obtener rizos protegidos y saludables.|\nBrillo radiante: el revestimiento cerámico reduce la electricidad estática y el frizz, dejando el cabello suave, manejable y con un brillo luminoso.",
-    "url": "https://www.tefalstore.cl/rizador-de-pelo-flex-curl-3-en-1-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205806/proyecto-nuevo-3.jpg?v=639098877607400000",
+    "name": "Mango Ingenio Rojo Tefal",
+    "reference": "2100125066",
+    "brand": "Tefal",
+    "category": "Contenedores de Alimentos y Bebidas",
+    "description": "¡Mango Ingenio, simplifica tu vida! Mango removible ingenio, perfecto para tus ollas y sartenes ingenio y  pasar facilmente de la cocina a la mesa y al refrigerador. | Mecanismo simple de un clic para fijar y con un sistema de seguridad de 3 puntos.",
+    "url": "https://www.tefalstore.cl/mango-ingenio-rojo-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206102/medium-ingenio-poignee-surprise-red-37aa-5382.jpg?v=639158790333370000",
     "skus": [
       {
-        "sku_id": "383",
-        "sku_name": "Rizador de Pelo flex Curl 3 Ajustes con tecnologia sensor Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205806/proyecto-nuevo-3.jpg?v=639098877607400000"
+        "sku_id": "408",
+        "sku_name": "Mango Ingenio Rojo Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206102/medium-ingenio-poignee-surprise-red-37aa-5382.jpg?v=639158790333370000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 64990.0,
-    "list_price": 129990.0,
+    "price": 16990.0,
+    "list_price": 19990.0,
     "on_sale": true
   },
   {
@@ -2919,24 +2814,66 @@
     "on_sale": true
   },
   {
-    "name": "Vaporizador Prendas Manual Pure Pop Amarillo Rowenta",
-    "reference": "1830008859",
-    "brand": "Rowenta",
-    "category": "Planchas Verticales",
-    "description": "CUIDADO EFICIENTE DE PRENDAS: Emisión de vapor de hasta 20 g/min,  para un planchado y purificación eficaz.|\nSISTEMA DE CABEZAL REVERSIBLE : El innovador cabezal reversible permite cambiar fácilmente entre el lado quita pelusas y el lado de terciopelo para vaporizar telas delicadas, gruesas o quitar pelitos.|\nVAPOR DESINFECTANTE: El poder natural del vapor reduce olores, refresca y elimina hasta el 99,9% de virus, bacterias y gérmenes* de tu ropa.|\nCALENTAMIENTO RÁPIDO: Siempre listo en solo 15 segundos. Ideal para usos frecuentes y retoques de último minuto—tu solución de vapor lista al instante.|                                                                                                                                                                                                       ULTRA COMPACTO Y PRACTICO : Con menos de 1kg de peso y un deposito de agua extraible de 70ml  Pure Pop es  ideal para viajes y uso en el dia a dia. Su cable mide 2 mts para mayor comodidad.|\nMODERNO Y CON ESTILO: Estética única con cuatro colores vibrantes a elección. Aparato elegante con una estructura bien equilibrada (menos de 1 kg) y cómodo de sostener.|                                                                                                                                                        REPARABILIDAD DE 15 AÑOS: Entrega rápida y piezas de bajo costo disponibles en 6200 centros de reparación en todo el mundo, como parte de nuestro compromiso con el medio ambiente y la reducción de residuos |\n¿QUÉ INCLUYE LA CAJA?: Vaporizador Rowenta Pure POP, cabezal reversible, bolsa de viaje/almacenamiento.|                                                                                                                                                         *Virus: pruebas externas, 20 sept. en BCoV-1 y Norovirus murino en algodón.|\nBacterias y gérmenes: pruebas externas en Staphylococcus aureus y Klebsiella.",
-    "url": "https://www.tefalstore.cl/vaporizador-prendas-manual-pure-pop-amarillo-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204090/1-digital-rwt-dr2026d1-pop-h1.png?v=638815486867070000",
+    "name": "Molde Tarta Desmontable 25cm Delibake Tefal",
+    "reference": "2100104749",
+    "brand": "Tefal",
+    "category": "Accesorios",
+    "description": "LIBERACIÓN SIN ESFUERZO: El cinturón desmontable garantiza una liberación perfecta incluso para las creaciones más delicadas.|\nBASE SOBREDIMENSIONADA: El molde desmontable cuenta con una base ampliada con un borde generoso para evitar derrames.|\nLIMPIEZA SIN ESFUERZO: Un molde para pasteles que facilita la repostería diaria gracias a nuestro exclusivo recubrimiento antiadherente.|\nCALIDAD PREMIUM: Un molde desmontable fabricado con acero al carbono de alta calidad, diseñado para durar|\nFABRICADO EN ALEMANIA: Diseñado con el conocimiento y la artesanía alemana.",
+    "url": "https://www.tefalstore.cl/molde-tarta-desmontable-25cm-delibake-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205370/foto-1.png?v=639014980984900000",
     "skus": [
       {
-        "sku_id": "328",
-        "sku_name": "Vaporizador de Prendas Pure Pop Amarillo Rowenta",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204090/1-digital-rwt-dr2026d1-pop-h1.png?v=638815486867070000"
+        "sku_id": "364",
+        "sku_name": "Molde Tarta Desmontable 25cm Delibake Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205370/foto-1.png?v=639014980984900000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 28990.0,
-    "list_price": 49990.0,
+    "price": 14990.0,
+    "list_price": 29990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Jarra Térmica Ponza 1,9L Blanco Tefal",
+    "reference": "3100518605",
+    "brand": "Tefal",
+    "category": "Contenedores de Alimentos y Bebidas",
+    "description": "Termo de aire ultra moderno y elegante para servir café a grandes grupos|\nTecnología Comfort Press que permite un servicio sin esfuerzo con un volumen generoso por bombeo, brindando control total sobre la cantidad|\nEstética versátil y estilizada que se integra perfectamente en cualquier entorno|\nCaracterísticas prácticas para facilitar la limpieza, el llenado, el transporte y el almacenamiento, incluyendo bandeja antigoteo removible y asa de fácil transporte|\nMantiene las bebidas a la temperatura perfecta: líquidos calientes hasta por 12 horas y fríos hasta por 24 horas|\nCapacidad ideal de 1,9 litros, perfecta para una amplia variedad de ocasiones\"",
+    "url": "https://www.tefalstore.cl/jarra-termica-ponza-1-9l-blanco-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205880/01.png?v=639117016796730000",
+    "skus": [
+      {
+        "sku_id": "362",
+        "sku_name": "Termo Sifón Ponza 1,9L Blanco Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205880/01.png?v=639117016796730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 33490.0,
+    "list_price": 33490.0,
+    "on_sale": false
+  },
+  {
+    "name": "Batidora de inmersión TurboMix Moulinex",
+    "reference": "7211003569",
+    "brand": "Moulinex",
+    "category": "Licuadoras de Mano",
+    "description": "FÁCIL DE USAR: Una batidora de mano de alto rendimiento equipada con 350 W y un control de velocidad única para resultados perfectos sin esfuerzo.|\nMEZCLAS SIN SALPICADURAS: El pie anti-salpicaduras evita derrames y desorden, ofreciendo una experiencia más limpia y agradable.|\nDISEÑO CÓMODO: Mango ergonómico con textura antideslizante para un uso más fácil y confortable, ideal para un uso frecuente.|\nDURABILIDAD TOTAL: 2 cuchillas ZELKROM que garantizan un rendimiento duradero.|\nREPARABILIDAD POR 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nFÁCIL DE LIMPIAR: Piezas desmontables aptas para lavavajillas, para un uso diario sin complicaciones.",
+    "url": "https://www.tefalstore.cl/batidora-de-inmmersion-turbomix-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205776/01-portada.png?v=639095480500730000",
+    "skus": [
+      {
+        "sku_id": "347",
+        "sku_name": "Licuadora de Inmersión con vaso Turbomix",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205776/01-portada.png?v=639095480500730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 16990.0,
+    "list_price": 29990.0,
     "on_sale": true
   },
   {
@@ -2982,27 +2919,6 @@
     "on_sale": true
   },
   {
-    "name": "Set Sartenes Ingenio 22/26 cm + mango",
-    "reference": "2100125616",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "\"De la cocina, al horno, a la mesa y al refrigerador, Ingenio es la respuesta a la versatilidad y apilabilidad de los utensilios de cocina.|\nSistema apilable para ahorrar espacio en tu cocina, mango seguro para intercambiar de sartén en sartén y de olla en olla. |\nRecubrimiento antiadherente de titanio para una mayor durabilidad. |\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, excepto las de inducción. |\nEste set de sartenes está compuesto por: Sartén 22/26 cm + mango\"",
-    "url": "https://www.tefalstore.cl/tefal-set-sartenes-ingenio-22-26-cm---mango/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206339/foto-1.jpg?v=639241505717270000",
-    "skus": [
-      {
-        "sku_id": "277",
-        "sku_name": "Set Sartenes Ingenio 22/26 cm + mango",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206339/foto-1.jpg?v=639241505717270000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 44990.0,
-    "list_price": 62990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Antiadherente Easy Care 20 PCS Rojo Tefal",
     "reference": "2100124693",
     "brand": "Tefal",
@@ -3021,6 +2937,27 @@
     "country": "Chile",
     "price": 84990.0,
     "list_price": 139990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Licuadora Personal Tritan Mix & Move 300W Moulinex",
+    "reference": "7211004943",
+    "brand": "Moulinex",
+    "category": "Licuadoras de Mano",
+    "description": "Licuadora personal Mix & move de Moulinex, ofrece una mezcla excepcional en todos tus batidos favoritos.| Dos prácticas botellas para llevar con capacidad de 0,6L cada una.| Cuchillas extraíbles y fáciles de limpiar, 300W de potencia.",
+    "url": "https://www.tefalstore.cl/moulinex-licuadora-personal-tritan-mix---move-300w/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205727/foto-1.jpg?v=639233671436000000",
+    "skus": [
+      {
+        "sku_id": "250",
+        "sku_name": "Licuadora Personal Tritan Mix & Move 300W Moulinex",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205727/foto-1.jpg?v=639233671436000000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 29990.0,
+    "list_price": 44990.0,
     "on_sale": true
   },
   {
@@ -3087,27 +3024,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén 28 cm XL Intense",
-    "reference": "2100124840",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "Descubre el sartén perfecto: la gama XL Intense de Tefal ha sido diseñada para satisfacer tus necesidades diarias en la cocina, combinando un rendimiento de larga duración con una gran capacidad para preparar cantidades abundantes de comida. | Tefal pone todo lo que necesitas para preparar unos platos deliciosos y saludables al alcance de tu mano: un revestimiento antiadherente Titanium x2 altamente resistente, una durabilidad excepcional, así como un menaje de cocina respetuoso con el medioambiente gracias al ahorro de energía durante la cocción y de agua durante su limpieza. | Gracias a la tecnología Thermo-Signal™, podrás obtener resultados exquisitos sin necesidad de ser un experto en la cocina, y la base difusora del calor garantiza una cocción perfectamente homogénea. Todo ello, en un formato XL de gran capacidad. | Este sartén fácil de usar aportará un toque saludable a tus comidas diarias: prepara un pollo a la plancha para una deliciosa ensalada César, unas quesadillas irresistibles, unos huevos revueltos para tus brunch de domingo y mucho más. XL Intense te ofrece una cocina casera versátil y saludable, sin dejar de lado el sabor.",
-    "url": "https://www.tefalstore.cl/tefal-sarten-28-cm-xl-intense/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206453/2100121068-01.jpg?v=639241507009730000",
-    "skus": [
-      {
-        "sku_id": "121",
-        "sku_name": "Sartén 28 cm XL Intense",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206453/2100121068-01.jpg?v=639241507009730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 21990.0,
-    "list_price": 28990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sartén 20 cm Super Cook",
     "reference": "2100123983",
     "brand": "Tefal",
@@ -3126,6 +3042,27 @@
     "country": "Chile",
     "price": 10990.0,
     "list_price": 14990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Licuadora Blendforce 5V + Pulse 800W Moulinex",
+    "reference": "7211004072",
+    "brand": "Moulinex",
+    "category": "Licuadoras",
+    "description": "Desde bebidas heladas hasta sopas, salsas y más, la licuadora Blendforce de Moulinex proporciona un control total para obtener resultados perfectamente personalizados. | ¡Con 6 cuchillas con tecnología Powelix y sus 3 acciones combinadas, esta licuadora ofrece cinco velocidades, así como una función de pulso, para un rendimiento potente que es hasta un 30% más rápido! | Con un Cuerpo de acero inoxidable de primera calidad que se ve genial en cualquier cocina. | Blendforce es la licuadora perfecta para batidos y bebidas heladas, también cuenta con una función dedicada para triturar hielo. | Cuenta con un sistema de refrigeración por aire y una base de ventosa estable.",
+    "url": "https://www.tefalstore.cl/moulinex-licuadora-blendforce/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204930/7211004072.jpg?v=638913885836070000",
+    "skus": [
+      {
+        "sku_id": "81",
+        "sku_name": "Licuadora Blendforce 5V + Pulse 800W",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204930/7211004072.jpg?v=638913885836070000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 34990.0,
+    "list_price": 79990.0,
     "on_sale": true
   },
   {
@@ -3192,27 +3129,6 @@
     "on_sale": true
   },
   {
-    "name": "Mango Ingenio Rojo Tefal",
-    "reference": "2100125066",
-    "brand": "Tefal",
-    "category": "Contenedores de Alimentos y Bebidas",
-    "description": "¡Mango Ingenio, simplifica tu vida! Mango removible ingenio, perfecto para tus ollas y sartenes ingenio y  pasar facilmente de la cocina a la mesa y al refrigerador. | Mecanismo simple de un clic para fijar y con un sistema de seguridad de 3 puntos.",
-    "url": "https://www.tefalstore.cl/mango-ingenio-rojo-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206102/medium-ingenio-poignee-surprise-red-37aa-5382.jpg?v=639158790333370000",
-    "skus": [
-      {
-        "sku_id": "408",
-        "sku_name": "Mango Ingenio Rojo Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206102/medium-ingenio-poignee-surprise-red-37aa-5382.jpg?v=639158790333370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 16990.0,
-    "list_price": 19990.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Portátil Light Mix Amarillo 0,3L Moulinex",
     "reference": "8010001303",
     "brand": "Moulinex",
@@ -3231,6 +3147,48 @@
     "country": "Chile",
     "price": 34990.0,
     "list_price": 49990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
+    "reference": "2100139002",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
+    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-ceramica-fusioncore-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000",
+    "skus": [
+      {
+        "sku_id": "395",
+        "sku_name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 29990.0,
+    "list_price": 39990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sarten 20 cm Excellence Cerámica Fusioncore Tefal",
+    "reference": "2100139003",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
+    "url": "https://www.tefalstore.cl/sarten-20-cm-excellence-ceramica-fusioncore-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206246/01-portada.jpg?v=639201705057570000",
+    "skus": [
+      {
+        "sku_id": "388",
+        "sku_name": "Sarten 20 CM Excellence Ceramica Fusioncore Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206246/01-portada.jpg?v=639201705057570000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24990.0,
+    "list_price": 32990.0,
     "on_sale": true
   },
   {
@@ -3253,48 +3211,6 @@
     "price": 129990.0,
     "list_price": 249990.0,
     "on_sale": true
-  },
-  {
-    "name": "Molde Tarta Desmontable 25cm Delibake Tefal",
-    "reference": "2100104749",
-    "brand": "Tefal",
-    "category": "Accesorios",
-    "description": "LIBERACIÓN SIN ESFUERZO: El cinturón desmontable garantiza una liberación perfecta incluso para las creaciones más delicadas.|\nBASE SOBREDIMENSIONADA: El molde desmontable cuenta con una base ampliada con un borde generoso para evitar derrames.|\nLIMPIEZA SIN ESFUERZO: Un molde para pasteles que facilita la repostería diaria gracias a nuestro exclusivo recubrimiento antiadherente.|\nCALIDAD PREMIUM: Un molde desmontable fabricado con acero al carbono de alta calidad, diseñado para durar|\nFABRICADO EN ALEMANIA: Diseñado con el conocimiento y la artesanía alemana.",
-    "url": "https://www.tefalstore.cl/molde-tarta-desmontable-25cm-delibake-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205370/foto-1.png?v=639014980984900000",
-    "skus": [
-      {
-        "sku_id": "364",
-        "sku_name": "Molde Tarta Desmontable 25cm Delibake Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205370/foto-1.png?v=639014980984900000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 14990.0,
-    "list_price": 29990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Jarra Térmica Ponza 1,9L Blanco Tefal",
-    "reference": "3100518605",
-    "brand": "Tefal",
-    "category": "Contenedores de Alimentos y Bebidas",
-    "description": "Termo de aire ultra moderno y elegante para servir café a grandes grupos|\nTecnología Comfort Press que permite un servicio sin esfuerzo con un volumen generoso por bombeo, brindando control total sobre la cantidad|\nEstética versátil y estilizada que se integra perfectamente en cualquier entorno|\nCaracterísticas prácticas para facilitar la limpieza, el llenado, el transporte y el almacenamiento, incluyendo bandeja antigoteo removible y asa de fácil transporte|\nMantiene las bebidas a la temperatura perfecta: líquidos calientes hasta por 12 horas y fríos hasta por 24 horas|\nCapacidad ideal de 1,9 litros, perfecta para una amplia variedad de ocasiones\"",
-    "url": "https://www.tefalstore.cl/jarra-termica-ponza-1-9l-blanco-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205880/01.png?v=639117016796730000",
-    "skus": [
-      {
-        "sku_id": "362",
-        "sku_name": "Termo Sifón Ponza 1,9L Blanco Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205880/01.png?v=639117016796730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 33490.0,
-    "list_price": 33490.0,
-    "on_sale": false
   },
   {
     "name": "Jarra Térmica Ponza 1,9L Gris Tefal",
@@ -3336,27 +3252,6 @@
     "country": "Chile",
     "price": 24990.0,
     "list_price": 37990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Aspiradora Vertical X-Pert 7.60 Allergy Rowenta",
-    "reference": "7211005174",
-    "brand": "Rowenta",
-    "category": "Aspiradoras Inalámbricas",
-    "description": "POTENTE SUCCIÓN: Aspiradora escoba inalámbrica equipada con 140 W de potencia para un hogar impecable, gracias a una succión de limpieza profunda desde el suelo hasta el techo y en todo tipo de superficies.|\nEXCEPCIONALMENTE LIGERA: Tecnología optimizada en un diseño delgado y liviano—solo 1,2 kg en modo de mano y 2 kg como aspiradora escoba—para una limpieza sin cables con total comodidad.|\nEXPERIENCIA INALÁMBRICA DURADERA: La batería de larga duración ofrece hasta 45 minutos* de rendimiento constante, sin pérdida de potencia, para una limpieza completa sin apuros (*cuando se usa en modo manual con la posición Eco potente).|\nEFICAZ EN TODAS PARTES: Cepillo de succión rotativo de alta velocidad con cerdas de nailon que proporciona una limpieza altamente eficiente en todo tipo de pisos, alfombras y tapetes, con luces LED para detectar el polvo en cualquier rincón.|\nREPARABILIDAD POR 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para una reparación rápida durante muchos años—parte de nuestro compromiso con el medio ambiente y la reducción de residuos.|\nCEPILLO PARA SOFÁS: Diseñado para ofrecer una limpieza impecable de piso a techo, el cepillo para sofás permite limpiar fácilmente textiles del hogar, superficies, muebles e incluso el interior del auto.|\nBOQUILLA RINCONERA: Limpieza profunda y versátil en cada rincón, con una boquilla especial para recoger fácilmente el polvo en áreas de difícil acceso como esquinas, entre muebles, zócalos y más. |\nINCLUYE: Aspiradora inalámbrica X-PERT 7.60 (con filtro), base de carga con soporte para accesorios, 2 cepillos Easy, boquilla rinconera, cepillo para sofá.",
-    "url": "https://www.tefalstore.cl/aspiradora-vertical-rowenta-x-pert-7-60-allergy-rowenta/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205077/01-portada.png?v=638924454055070000",
-    "skus": [
-      {
-        "sku_id": "353",
-        "sku_name": "Aspiradora Vertical Rowenta X-Pert 7.60 Allergy",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205077/01-portada.png?v=638924454055070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 99990.0,
-    "list_price": 189990.0,
     "on_sale": true
   },
   {
@@ -3486,48 +3381,6 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora Personal Tritan Mix & Move 300W Moulinex",
-    "reference": "7211004943",
-    "brand": "Moulinex",
-    "category": "Licuadoras de Mano",
-    "description": "Licuadora personal Mix & move de Moulinex, ofrece una mezcla excepcional en todos tus batidos favoritos.| Dos prácticas botellas para llevar con capacidad de 0,6L cada una.| Cuchillas extraíbles y fáciles de limpiar, 300W de potencia.",
-    "url": "https://www.tefalstore.cl/moulinex-licuadora-personal-tritan-mix---move-300w/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205727/foto-1.jpg?v=639233671436000000",
-    "skus": [
-      {
-        "sku_id": "250",
-        "sku_name": "Licuadora Personal Tritan Mix & Move 300W Moulinex",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205727/foto-1.jpg?v=639233671436000000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 44990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set 2 Mini-Cocotte Air 11 cm",
-    "reference": "2100127042",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Solo apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
-    "url": "https://www.tefalstore.cl/tefal-set-2-mini-cocotte-11-cm-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201232/2100127042.png?v=639228385763100000",
-    "skus": [
-      {
-        "sku_id": "199",
-        "sku_name": "Set 2 Mini-Cocotte Air 11 cm",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201232/2100127042.png?v=639228385763100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
     "name": "Freidora de Aire Easy Fry & Grill Mecánica 4,2L Moulinex",
     "reference": "1510002174",
     "brand": "Moulinex",
@@ -3612,27 +3465,6 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora Blendforce 5V + Pulse 800W Moulinex",
-    "reference": "7211004072",
-    "brand": "Moulinex",
-    "category": "Licuadoras",
-    "description": "Desde bebidas heladas hasta sopas, salsas y más, la licuadora Blendforce de Moulinex proporciona un control total para obtener resultados perfectamente personalizados. | ¡Con 6 cuchillas con tecnología Powelix y sus 3 acciones combinadas, esta licuadora ofrece cinco velocidades, así como una función de pulso, para un rendimiento potente que es hasta un 30% más rápido! | Con un Cuerpo de acero inoxidable de primera calidad que se ve genial en cualquier cocina. | Blendforce es la licuadora perfecta para batidos y bebidas heladas, también cuenta con una función dedicada para triturar hielo. | Cuenta con un sistema de refrigeración por aire y una base de ventosa estable.",
-    "url": "https://www.tefalstore.cl/moulinex-licuadora-blendforce/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204930/7211004072.jpg?v=638913885836070000",
-    "skus": [
-      {
-        "sku_id": "81",
-        "sku_name": "Licuadora Blendforce 5V + Pulse 800W",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204930/7211004072.jpg?v=638913885836070000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 34990.0,
-    "list_price": 79990.0,
-    "on_sale": true
-  },
-  {
     "name": "Freidora de Aire Easy Fry Deluxe 4,2L Moulinex",
     "reference": "1510001540",
     "brand": "Moulinex",
@@ -3654,45 +3486,45 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Coffee Crush Experience Krups",
-    "reference": "8010001480",
+    "name": "Cafetera Espresso Coffee Crush Chai Krups",
+    "reference": "8010001482",
     "brand": "Krups",
     "category": "Cafeteras Automáticas",
-    "description": "SABOR A CAFÉ RECIÉN MOLIDO: Disfruta de un café perfectamente preparado, lleno de aroma, gracias a la presión de 15 bares.|\nDISEÑO ULTRACOMPACTO: Con un ancho ultradelgado de solo 15 cm, este equipo es aproximadamente un 50% más compacto que una cafetera automática tradicional.|\nEXPLORA VARIEDADES DE CAFÉ: Ve más allá del espresso y el lungo con opciones excepcionales como cold brew, café filtrado, capuchino, agua caliente para té y mucho más.|\nTU CAFÉ EN UN SOLO TOQUE: Disfruta de un café intenso hecho con granos recién molidos con solo presionar un botón, con control intuitivo de intensidad, volumen y temperatura.|\nCAMBIA A CAFÉ MOLIDO: Añade café molido directamente en el compartimento—ideal para quienes prefieren café descafeinado.|\nFÁCIL DE LIMPIAR: Solo desecha los posos de café después de cada preparación y tu máquina estará lista para la siguiente taza.|\nAJUSTA EL NIVEL DE MOLIENDA: Elige entre 5 niveles de molienda, de grueso a extrafino, para lograr la taza perfecta según cada receta.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-experience-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206479/Krups_COFFEE CRUSH EXPERIENCE LIONESS_8010001480_TikTok.png?v=639250061221170000",
+    "description": "DISFRUTA DEL SABOR DEL CAFÉ RECIÉN MOLIDO: gracias al molino de acero inoxidable, prensado automático y presión de 15 bares.|\nDISEÑO COMPACTO DE SOLO 15CM DE ANCHO: aproximadamente un 50% más pequeña que una cafetera de grano a taza clásica.|\nTU CAFÉ A TU MANERA: prepara un café intenso en un solo toque, con control intuitivo de intensidad, volumen y temperatura.|\nCOMPATIBLE CON CAFÉ MOLIDO: agrega café molido directamente al cajón portafiltro, ideal para los amantes del descafeinado.|\nPREPARACIÓN SIN COMPLICACIONES: bebidas en un solo toque de grano a taza, con molienda, prensado y extracción automáticos.|\nFÁCIL DE LIMPIAR: solo desecha los restos de café después de cada ciclo de preparación.|\nMOLINO AJUSTABLE: elige entre 3 niveles de molino para resultados perfectos en espresso, lungo y café de filtro.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-coffee-crush-chai-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206224/mesa-de-trabajo-4.jpg?v=639196634222100000",
     "skus": [
       {
-        "sku_id": "409",
-        "sku_name": "Cafetera Espresso Coffee Crush Experience Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206479/Krups_COFFEE CRUSH EXPERIENCE LIONESS_8010001480_TikTok.png?v=639250061221170000"
+        "sku_id": "413",
+        "sku_name": "Cafetera Espresso Coffee Crush Chai Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206224/mesa-de-trabajo-4.jpg?v=639196634222100000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 449990.0,
-    "list_price": 449990.0,
+    "price": 399990.0,
+    "list_price": 399990.0,
     "on_sale": false
   },
   {
-    "name": "Set sartenes 20/24/26cm Easy COOK",
-    "reference": "2100123665",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "La línea Easy Cook cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nAdemás, cuenta con una base difusora que permite una conducción perfecta de calor.| Incluye tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.|Compatible con todas las cocinas, excepto inducción.",
-    "url": "https://www.tefalstore.cl/tefal-set-sartenes-20-24-26cm-easy-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000",
+    "name": "Plancha de Vapor Eco Intelligence Rowenta",
+    "reference": "1830031693",
+    "brand": "Rowenta",
+    "category": "Planchas a Vapor",
+    "description": "La plancha a vapor Rowenta Eco Intelligence es la combinación ideal de resultados de planchado perfectos, ahorro de energía y diseño ecológico que consta de hasta un 30 % de material reciclado.| Sus características principales son: TECNOLOGÍA DE INTELIGENCIA ECO: la configuración de vapor Eco ahorra hasta un 30 % de energía sin comprometer la eficiencia. |EXCELENTES RESULTADOS DE PLANCHADO: 2700 vatios de potencia, para un calentamiento rápido y una salida de vapor continua de hasta 45 g/min para una gran eliminación de arrugas y un potente golpe de vapor de 180 g/minuto y rocíe si es necesario para suavizar perfectamente las arrugas rebeldes.| MEJOR DISTRIBUCIÓN DE VAPOR: Tecnología de suela Microsteam 400 HD 3De patentada única con 400 microagujeros para la mejor distribución de vapor del mercado. |Su estructura 3De específica optimiza el consumo de energía al concentrar el flujo de vapor a lo largo de canales microperforados. |PUNTA DE ALTA PRECISIÓN: La punta puntiaguda garantiza un fácil acceso a las zonas de difícil acceso, como bordes estrechos, costuras y cuellos, para una sesión de planchado perfecta.| REPARACIÓN DE 15 AÑOS: entrega rápida y económica desde 6200 centros de reparación en todo el mundo, como parte de nuestro compromiso de ayudar a proteger el medio ambiente y reducir los desechos.| DISEÑO ECOLÓGICO: Compuesto por hasta un 30% de material reciclado. |La plancha en sí también es reciclable en un 80 % SEGURO Y FÁCIL: Ergonomía mejorada y diseño avanzado de la plancha con sistema antigoteo que evita las manchas de agua en el tejido, incluso planchando a baja temperatura.| VAPOR VERTICAL FÁCIL: vaporizar prendas delicadas y grandes se hace fácil con la función de vapor vertical, ideal para quitar las arrugas de los trajes y otras prendas colgadas, incluso las cortinas.",
+    "url": "https://www.tefalstore.cl/rowenta-plancha-de-vapor-eco-intelligence/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206396/1830031693.jpg?v=639241506190600000",
     "skus": [
       {
-        "sku_id": "218",
-        "sku_name": "Set sartenes 20/24/26cm Easy COOK",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/199416/label-1.jpg?v=638367116631500000"
+        "sku_id": "233",
+        "sku_name": "Plancha de Vapor ECO INTELLIGENCE",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206396/1830031693.jpg?v=639241506190600000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 34990.0,
-    "list_price": 34990.0,
+    "price": 89990.0,
+    "list_price": 89990.0,
     "on_sale": false
   },
   {
@@ -3714,6 +3546,48 @@
     "country": "Chile",
     "price": 99990.0,
     "list_price": 99990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Sarten 20 CM Renew Cerámica Tefal",
+    "reference": "2100144951",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "COCINA ANTIADHERENTE FÁCIL: Inoceram es el recubrimiento cerámico antiadherente de nueva generación que ofrece un deslizamiento sin esfuerzo—para una cocina fácil y baja en gras°|\n\nCUERPO DE ALUMINIO 100% RECICLADO: El enfoque de ecodiseño de Tefal con un cuerpo de aluminio 100% reciclado, metal reciclable y embalaje con un 90% de fibras recicladas|\n\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve completamente roja cuando la sartén ha alcanzado la temperatura ideal de inicio, garantizando resultados perfectos|\n\nCOMPATIBILIDAD TOTAL: Compatible con cocinas de gas, eléctricas, cerámicas e inducción|\n\nLIMPIEZA FÁCIL: Recubrimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo|\n\nFORMATO ESENCIAL: Para recetas saludables llenas de sabor, como pescado con limón y eneldo, espárragos sellados y hamburguesas vegetales crujientes sin aceite añadido|\n\nFABRICADO EN FRANCIA: Combinando innovación, conocimiento experto y materiales de primera calidad, nuestras fábricas locales exportan la excelencia francesa en todo el mundo|\n\nCOMPROMISOS DE TEFAL EN CALIDAD Y EXPERIENCIA: Inventor de las sartenes antiadherentes, Tefal fabrica sus productos con un alto nivel de calidad y experiencia",
+    "url": "https://www.tefalstore.cl/sarten-20-cm-renew-ceramica-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206064/01-portada-5bf62fb5-dca0-43eb-855a-2e3dc70c721e.jpg?v=639156153633570000",
+    "skus": [
+      {
+        "sku_id": "400",
+        "sku_name": "Sarten 20 CM Renew Cerámica Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206064/01-portada-5bf62fb5-dca0-43eb-855a-2e3dc70c721e.jpg?v=639156153633570000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 32990.0,
+    "list_price": 32990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
+    "reference": "2100139011",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "INQUEBRANTABLE: Experimenta FUSIONCORE—la revolución anti-rayaduras de Tefal. Núcleo de matriz infusionado para una resistencia imbatible contra utensilios de metal |\nCOCINA EXCEPCIONAL: Antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos con el tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡para el placer de compartir!|\nCALENTAMIENTO DEFINITIVO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier tipo de cocina (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" es útil? Thermo-Signal se vuelve rojo sólido cuando tu sartén está lista para cocinar—¡logra un sellado impecable! |\nAPTO PARA HORNO, POSIBILIDADES DE COCCIÓN INFINITAS: Este utensilio de cocina es apto para horno hasta 250°C - ¡cocina, asa, sirve!|\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el número 1 mundial en utensilios de cocina. Calidad en la que puedes confiar, en cada comida",
+    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-plus-fusion-core-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206240/01-imagen.jpg?v=639201689392800000",
+    "skus": [
+      {
+        "sku_id": "394",
+        "sku_name": "Sarten 24 CM Excellence Plus Fusion Core Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206240/01-imagen.jpg?v=639201689392800000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 44990.0,
+    "list_price": 44990.0,
     "on_sale": false
   },
   {
@@ -3759,6 +3633,48 @@
     "on_sale": false
   },
   {
+    "name": "Set sartenes 24/28cm Daily Cook",
+    "reference": "2100123828",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "Disfruta de una cocina rica y saludable con el set de sartenes 24/28 cm Daily Cook de Tefal.|\nFabricados en acero inoxidable 18/10 de primera calidad con antiadherente de titanio reforzado.| Gracias a su base de difusión que garantiza una distribución uniforme del calor para obtener resultados homogéneos. Apto para todas las cocinas, incluida las de inducción.|\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.",
+    "url": "https://www.tefalstore.cl/0/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000",
+    "skus": [
+      {
+        "sku_id": "272",
+        "sku_name": "Set sartenes 24/28cm Daily Cook",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205457/foto-1.jpg?v=639035774881100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 42990.0,
+    "list_price": 42990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Olla Cocotte Air 24 cm",
+    "reference": "2100127041",
+    "brand": "Tefal",
+    "category": "Ollas",
+    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
+    "url": "https://www.tefalstore.cl/tefal-olla-cocotte-24-cm-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000",
+    "skus": [
+      {
+        "sku_id": "197",
+        "sku_name": "Olla Cocotte Air 24 cm",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 62990.0,
+    "list_price": 62990.0,
+    "on_sale": false
+  },
+  {
     "name": "Eversharp Cuchillo con Afilador",
     "reference": "2100119195",
     "brand": "Tefal",
@@ -3777,6 +3693,27 @@
     "country": "Chile",
     "price": 21990.0,
     "list_price": 21990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Olla a Presión Secure Compact Acero Inoxidable 6L Tefal",
+    "reference": "7114000624",
+    "brand": "Tefal",
+    "category": "Ollas a Presión",
+    "description": "¡Máxima Seguridad! Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 6L Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.|  Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.|  Compatible con todas las cocinas, incluida inducción.|  Capacidad: 6L hasta 4 personas",
+    "url": "https://www.tefalstore.cl/tefal-olla-a-presion-secure-compact-6l/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206158/7114900067-01.jpg?v=639240621864200000",
+    "skus": [
+      {
+        "sku_id": "157",
+        "sku_name": "Olla a Presión Secure Compact 6L Acero Inoxidable",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206158/7114900067-01.jpg?v=639240621864200000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 59990.0,
+    "list_price": 59990.0,
     "on_sale": false
   },
   {
@@ -3801,24 +3738,66 @@
     "on_sale": false
   },
   {
-    "name": "Olla a Presión Secure Compact Acero Inoxidable 8L Tefal",
-    "reference": "7114000623",
-    "brand": "Tefal",
-    "category": "Ollas a Presión",
-    "description": "¡Máxima Seguridad!| Satisface todas tus necesidades culinarias con la olla a presión Secure Compact de 8L| Disfruta de una cocina saludable que conserva las vitaminas y los nutrientes de tus alimentos, todo en un diseño fácil de usar que hace de la seguridad una prioridad (5 niveles de seguridad).| Con  dos niveles de presión, cocina alimentos duros o blandos en su punto.| Sistema seguro de cierre de Tapa que permite bloquear de manera óptima la olla a presión durante el proceso de cocción.| Compatible con todas las cocinas, incluida inducción.| Capacidad: 8L hasta 6 personas.",
-    "url": "https://www.tefalstore.cl/tefal-olla-a-presion-secure-compact-8l/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205692/7114000623.png?v=639077127727100000",
+    "name": "Lechero Krups + Accesorio Capuccino",
+    "reference": "1600007276",
+    "brand": "Krups",
+    "category": "Accesorios Cafeteras",
+    "description": "\"¡Disfruta de un capuccino perfecto! Este accesorio te permitirá calentar, espumar y entregar directamente en tu taza una espuma de leche perfecta sin manipulación manual para preparar capuccinos o cafés con leche perfectos.|\nDos posiciones para obtener leche caliente o espuma de leche.|\nCompatible con Essential Display negra y Essential Display manual. Capacidad 600 ml\"",
+    "url": "https://www.tefalstore.cl/lechero-krups---accesorio-capuccino-/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205335/foto-lechero.jpg?v=638957213652600000",
     "skus": [
       {
-        "sku_id": "168",
-        "sku_name": "Olla a Presión Secure Compact 8L Acero Inoxidable",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205692/7114000623.png?v=639077127727100000"
+        "sku_id": "293",
+        "sku_name": "Lechero Krups + Accesorio Capuccino",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205335/foto-lechero.jpg?v=638957213652600000"
       }
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 69990.0,
-    "list_price": 69990.0,
+    "price": 49990.0,
+    "list_price": 49990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Cuchillo Santoku 18cm Ice Force Tefal",
+    "reference": "2100104354",
+    "brand": "Tefal",
+    "category": "Cuchillos",
+    "description": "Disfruta de la experiencia de corte óptima con los cuchillos de cocina Ice Force de Tefal. |\nIce Force es una colección de cuchillos imprescindible para todas tus necesidades de corte, desde rebanar verduras hasta cortar en cubitos y picar.|\nLa tecnología de Ice Force se basa en un proceso criogénico que enfría las hojas del cuchillo a -120°C para proporcionar durabilidad, rendimiento y calidad.|\nEl cuchillo Santoku 18cm es ideal para cortar pescados",
+    "url": "https://www.tefalstore.cl/cuchillo-santoku-18cm-ice-force-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204471/foto-1.jpg?v=638869974730470000",
+    "skus": [
+      {
+        "sku_id": "287",
+        "sku_name": "Cuchillo Santoku 18cm Ice Force Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204471/foto-1.jpg?v=638869974730470000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 22990.0,
+    "list_price": 22990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Freidora de Aire Easy Fry & Grill Digital 4,2L Moulinex",
+    "reference": "1510002176",
+    "brand": "Moulinex",
+    "category": "Air Fryers",
+    "description": "Freidora saludable 2 en 1! Una freidora y una parrilla, todo en uno! Más que una simple freidora, su exclusiva tecnología dual también ofrece una rejilla para parrilla de aluminio fundido a presión, para carnes o verduras tiernas y jugosas cocinadas a la perfección. |Por supuesto, la función clásica de freidora de aire promete todos sus resultados dorados y crujientes con poco o ningún aceite agregado.| Con 8 programas automáticos, un control de temperatura desde 80°C a 200°C, un panel de control digital intuitivo y una conveniente función de temporizador, lograr resultados perfectos es fácil. |Incluso es posible deshidratar los alimentos para hacer deliciosos bocadillos saludables  como frutas o verduras secas.| Posee una capacidad XL 4,2L hasta 6 personas, Easy Fry & Grill Precisión para  toda la familia. |¡Es la alternativa perfecta a un horno clásico, para obtener resultados rápidos y un menor consumo de energía! ¿Qué esperas para tener la tuya?",
+    "url": "https://www.tefalstore.cl/moulinex-freidora-de-aire-easy-fry---grill-digital/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000",
+    "skus": [
+      {
+        "sku_id": "159",
+        "sku_name": "Freidora de Aire Easy Fry & Grill Digital 4,2L",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201554/1510002176.jpg?v=638732671514530000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 129990.0,
+    "list_price": 129990.0,
     "on_sale": false
   },
   {
@@ -3840,27 +3819,6 @@
     "country": "Chile",
     "price": 21990.0,
     "list_price": 21990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sarten 24 CM Renew Ceramica Tefal",
-    "reference": "2100144947",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "COCINA ANTIADHERENTE FÁCIL: Inoceram es el recubrimiento cerámico antiadherente de nueva generación que ofrece un deslizamiento sin esfuerzo—para una cocina fácil y baja en gras°|\n\nCUERPO DE ALUMINIO 100% RECICLADO: El enfoque de ecodiseño de Tefal con un cuerpo de aluminio 100% reciclado, metal reciclable y embalaje con un 90% de fibras recicladas|\n\nCOCINA SALUDABLE Y SABROSA: La tecnología Thermo-Signal se vuelve completamente roja cuando la sartén ha alcanzado la temperatura ideal de inicio, garantizando resultados perfectos|\n\nCOMPATIBILIDAD TOTAL: Compatible con cocinas de gas, eléctricas, cerámicas e inducción|\n\nLIMPIEZA FÁCIL: Recubrimiento antiadherente por dentro y por fuera para una limpieza sin esfuerzo|\n\nFORMATO ESENCIAL: Para recetas saludables llenas de sabor, como pescado con limón y eneldo, espárragos sellados y hamburguesas vegetales crujientes sin aceite añadido|\n\nFABRICADO EN FRANCIA: Combinando innovación, conocimiento experto y materiales de primera calidad, nuestras fábricas locales exportan la excelencia francesa en todo el mundo|\n\nCOMPROMISOS DE TEFAL EN CALIDAD Y EXPERIENCIA: Inventor de las sartenes antiadherentes, Tefal fabrica sus productos con un alto nivel de calidad y experiencia",
-    "url": "https://www.tefalstore.cl/sarten-24-cm-renew-ceramica-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205950/01-portada.jpg?v=639137853928330000",
-    "skus": [
-      {
-        "sku_id": "398",
-        "sku_name": "Sarten 24 CM Renew Ceramica Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205950/01-portada.jpg?v=639137853928330000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 36990.0,
-    "list_price": 36990.0,
     "on_sale": false
   },
   {
@@ -3906,6 +3864,27 @@
     "on_sale": false
   },
   {
+    "name": "Set Sartenes ingenio 22/24/26 cm + mango",
+    "reference": "2100126163",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "\"De la cocina, al horno, a la mesa y al refrigerador, Ingenio es la respuesta a la versatilidad y apilabilidad de los utensilios de cocina.|\nSistema apilable para ahorrar espacio en tu cocina, mango seguro para intercambiar de sartén en sartén y de olla en olla. |\nRecubrimiento antiadherente de titanio para una mayor durabilidad. |\nCuenta con tecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nApto para todas las cocinas, excepto las de inducción. |\nEste set de sartenes está compuesto por: Sartén 22/24/26 cm + mango\"",
+    "url": "https://www.tefalstore.cl/tefal-set-sartenes-ingenio-22-24-26-cm---mango/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206360/foto-1.jpg?v=639241505925100000",
+    "skus": [
+      {
+        "sku_id": "278",
+        "sku_name": "Set Sartenes ingenio 22/24/26 cm + mango",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206360/foto-1.jpg?v=639241505925100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 84990.0,
+    "list_price": 84990.0,
+    "on_sale": false
+  },
+  {
     "name": "Sartén 28cm Excellence Cerámica Fusioncore Tefal",
     "reference": "2100137574",
     "brand": "Tefal",
@@ -3924,6 +3903,69 @@
     "country": "Chile",
     "price": 46990.0,
     "list_price": 46990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Aspiradora Vertical X-Pert 7.60 Allergy Rowenta",
+    "reference": "7211005174",
+    "brand": "Rowenta",
+    "category": "Aspiradoras Inalámbricas",
+    "description": "POTENTE SUCCIÓN: Aspiradora escoba inalámbrica equipada con 140 W de potencia para un hogar impecable, gracias a una succión de limpieza profunda desde el suelo hasta el techo y en todo tipo de superficies.|\nEXCEPCIONALMENTE LIGERA: Tecnología optimizada en un diseño delgado y liviano—solo 1,2 kg en modo de mano y 2 kg como aspiradora escoba—para una limpieza sin cables con total comodidad.|\nEXPERIENCIA INALÁMBRICA DURADERA: La batería de larga duración ofrece hasta 45 minutos* de rendimiento constante, sin pérdida de potencia, para una limpieza completa sin apuros (*cuando se usa en modo manual con la posición Eco potente).|\nEFICAZ EN TODAS PARTES: Cepillo de succión rotativo de alta velocidad con cerdas de nailon que proporciona una limpieza altamente eficiente en todo tipo de pisos, alfombras y tapetes, con luces LED para detectar el polvo en cualquier rincón.|\nREPARABILIDAD POR 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para una reparación rápida durante muchos años—parte de nuestro compromiso con el medio ambiente y la reducción de residuos.|\nCEPILLO PARA SOFÁS: Diseñado para ofrecer una limpieza impecable de piso a techo, el cepillo para sofás permite limpiar fácilmente textiles del hogar, superficies, muebles e incluso el interior del auto.|\nBOQUILLA RINCONERA: Limpieza profunda y versátil en cada rincón, con una boquilla especial para recoger fácilmente el polvo en áreas de difícil acceso como esquinas, entre muebles, zócalos y más. |\nINCLUYE: Aspiradora inalámbrica X-PERT 7.60 (con filtro), base de carga con soporte para accesorios, 2 cepillos Easy, boquilla rinconera, cepillo para sofá.",
+    "url": "https://www.tefalstore.cl/aspiradora-vertical-rowenta-x-pert-7-60-allergy-rowenta/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205077/01-portada.png?v=638924454055070000",
+    "skus": [
+      {
+        "sku_id": "353",
+        "sku_name": "Aspiradora Vertical Rowenta X-Pert 7.60 Allergy",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205077/01-portada.png?v=638924454055070000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 189990.0,
+    "list_price": 189990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Set 2 Mini-Cocotte Air 11 cm",
+    "reference": "2100127042",
+    "brand": "Tefal",
+    "category": "Ollas",
+    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Solo apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
+    "url": "https://www.tefalstore.cl/tefal-set-2-mini-cocotte-11-cm-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201232/2100127042.png?v=639228385763100000",
+    "skus": [
+      {
+        "sku_id": "199",
+        "sku_name": "Set 2 Mini-Cocotte Air 11 cm",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201232/2100127042.png?v=639228385763100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 39990.0,
+    "list_price": 39990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
+    "reference": "8010001305",
+    "brand": "Moulinex",
+    "category": "Licuadoras",
+    "description": "LLÉVALO A TODAS PARTES: La licuadora portátil ligera, compacta y fácil de transportar, con asa de silicona suave y capacidad de 300 ml—ideal para mezclar y beber en el parque, en el gimnasio o donde quieras.|\nPOTENTE PERO SILENCIOSA: Mezcla de alto rendimiento y silenciosa—para resultados sobresalientes y sin molestias en solo 40 segundos, gracias a dos cuchillas de acero inoxidable de alta calidad.|\nMUCHO MÁS QUE BATIDOS: Más que una licuadora de batidos, prepara desde batidos de proteínas y sopas frías hasta deliciosos dips, salsas y aderezos—todos llenos de vitaminas y nutrientes.|\nFIABLE: El vaso totalmente hermético de 300 ml está diseñado en Tritan irrompible—llévalo en tu bolso con total tranquilidad.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—parte de nuestro compromiso de proteger el medioambiente y reducir residuos.|\nAUTONOMÍA DURADERA: Disfruta hasta 11 ciclos de mezcla por carga gracias a una batería de litio-ion de 1.200 mAh de alta calidad y un cable de carga incluido con conector magnético y salida USB.|\nSIN ESFUERZO: Simplemente añade tus ingredientes con un poco de agua o leche, luego presiona el botón de encendido dos veces—Lightmix se detiene automáticamente después de 40 segundos.|\nFÁCIL DE LIMPIAR: Solo llena con agua y una gota de detergente, inicia el ciclo de mezcla y listo—o para una limpieza más profunda, disfruta de cuchillas desmontables y un vaso apto para lavavajillas.|\nSEGURO: Lightmix solo funciona cuando su tapa está correctamente enroscada, garantizando total seguridad para ti y tus seres queridos.|\nQUÉ INCLUYE LA CAJA: Base del motor Lightmix con 2 cuchillas de acero inoxidable, vaso Tritan On-the-Go de 300 ml, cable de carga USB con conector magnético.",
+    "url": "https://www.tefalstore.cl/licuadora-portatil-light-mix-azul-0-3l-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205985/mesa-de-trabajo-3.jpg?v=639143726554830000",
+    "skus": [
+      {
+        "sku_id": "403",
+        "sku_name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205985/mesa-de-trabajo-3.jpg?v=639143726554830000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 49990.0,
+    "list_price": 49990.0,
     "on_sale": false
   },
   {
@@ -3966,69 +4008,6 @@
     "country": "Chile",
     "price": 150000.0,
     "list_price": 150000.0,
-    "on_sale": false
-  },
-  {
-    "name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
-    "reference": "8010001305",
-    "brand": "Moulinex",
-    "category": "Licuadoras",
-    "description": "LLÉVALO A TODAS PARTES: La licuadora portátil ligera, compacta y fácil de transportar, con asa de silicona suave y capacidad de 300 ml—ideal para mezclar y beber en el parque, en el gimnasio o donde quieras.|\nPOTENTE PERO SILENCIOSA: Mezcla de alto rendimiento y silenciosa—para resultados sobresalientes y sin molestias en solo 40 segundos, gracias a dos cuchillas de acero inoxidable de alta calidad.|\nMUCHO MÁS QUE BATIDOS: Más que una licuadora de batidos, prepara desde batidos de proteínas y sopas frías hasta deliciosos dips, salsas y aderezos—todos llenos de vitaminas y nutrientes.|\nFIABLE: El vaso totalmente hermético de 300 ml está diseñado en Tritan irrompible—llévalo en tu bolso con total tranquilidad.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—parte de nuestro compromiso de proteger el medioambiente y reducir residuos.|\nAUTONOMÍA DURADERA: Disfruta hasta 11 ciclos de mezcla por carga gracias a una batería de litio-ion de 1.200 mAh de alta calidad y un cable de carga incluido con conector magnético y salida USB.|\nSIN ESFUERZO: Simplemente añade tus ingredientes con un poco de agua o leche, luego presiona el botón de encendido dos veces—Lightmix se detiene automáticamente después de 40 segundos.|\nFÁCIL DE LIMPIAR: Solo llena con agua y una gota de detergente, inicia el ciclo de mezcla y listo—o para una limpieza más profunda, disfruta de cuchillas desmontables y un vaso apto para lavavajillas.|\nSEGURO: Lightmix solo funciona cuando su tapa está correctamente enroscada, garantizando total seguridad para ti y tus seres queridos.|\nQUÉ INCLUYE LA CAJA: Base del motor Lightmix con 2 cuchillas de acero inoxidable, vaso Tritan On-the-Go de 300 ml, cable de carga USB con conector magnético.",
-    "url": "https://www.tefalstore.cl/licuadora-portatil-light-mix-azul-0-3l-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205985/mesa-de-trabajo-3.jpg?v=639143726554830000",
-    "skus": [
-      {
-        "sku_id": "403",
-        "sku_name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205985/mesa-de-trabajo-3.jpg?v=639143726554830000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 49990.0,
-    "list_price": 49990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
-    "reference": "2100139002",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
-    "url": "https://www.tefalstore.cl/sarten-24-cm-excellence-ceramica-fusioncore-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000",
-    "skus": [
-      {
-        "sku_id": "395",
-        "sku_name": "Sarten 24 CM Excellence Ceramica Fusioncore Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205915/proyecto-nuevo.jpg?v=639125677555230000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 39990.0,
-    "list_price": 39990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sarten 20 cm Excellence Cerámica Fusioncore Tefal",
-    "reference": "2100139003",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "IRROMPIBLE: Experimenta FUSIONCORE—la revolución de Tefal a prueba de arañazos. Núcleo de matriz infusionada para una resistencia imbatible a los utensilios de metal |\nCOCCIÓN EXCEPCIONAL: Revestimiento cerámico antiadherente extremadamente resistente y de alto rendimiento para resultados de cocción 100% perfectos a lo largo del tiempo. ¡Bon appétit! |\nSARTÉN PROFUNDA: Una forma profunda, robusta y versátil para cocinar de manera audaz y generosa, ¡por el placer de compartir! |\nCALENTAMIENTO MÁXIMO: Experiencia de cocción definitiva gracias a una base de inducción de alta eficiencia para un calentamiento rápido y uniforme en cualquier placa (gas, inducción, etc.) |\nSELLADO PERFECTO: ¿Sabías que el punto rojo \"T\" era útil? Thermo-Signal se vuelve rojo sólido cuando tu utensilio de cocina está listo para cocinar—¡logra un sellado impecable! |\nNÚMERO UNO: Diseñado y fabricado en Francia por Tefal, el n.º 1 del mundo en utensilios de cocina. Calidad en la que puedes confiar, en cada comida.",
-    "url": "https://www.tefalstore.cl/sarten-20-cm-excellence-ceramica-fusioncore-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206246/01-portada.jpg?v=639201705057570000",
-    "skus": [
-      {
-        "sku_id": "388",
-        "sku_name": "Sarten 20 CM Excellence Ceramica Fusioncore Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206246/01-portada.jpg?v=639201705057570000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 32990.0,
-    "list_price": 32990.0,
     "on_sale": false
   },
   {

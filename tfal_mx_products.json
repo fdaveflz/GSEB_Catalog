@@ -798,25 +798,25 @@
     "on_sale": false
   },
   {
-    "name": "Batidora de Inmersión Turbomix",
-    "reference": "8010000736",
+    "name": "Extractor de Jugo Frutelia",
+    "reference": "8010000550",
     "brand": "T-fal",
-    "category": "Batidoras",
-    "description": "* POTENCIA DE 400W PARA TODO TIPO DE PREPARACIÓN: Con esta batidora de inmersión, podrás batir, moler y mezclar una gran variedad de alimentos con su potente motor de 400W, garantizando resultados eficientes y rápidos en cada uso.\n* VERSATILIDAD CON TECNOLOGÍA TURBOMIX: Disfruta de la funcionalidad de una licuadora, batidora y picador en un solo dispositivo. Turbomix te permite cocinar rápido y fácilmente sin necesidad de múltiples aparatos.\n* COMPACTO Y FÁCIL DE TRANSPORTAR: Su diseño compacto encaja perfectamente en cualquier cocina y es fácil de mover de un lugar a otro, sin ocupar espacio excesivo en tus estantes o mostradores.\n* FÁCIL Y SEGURO DE USAR: Gracias a su diseño innovador y tecnología avanzada, podrás usarla directamente en ollas, cazos y sartenes sin preocuparte por dañarlos, haciendo la cocina más práctica y cómoda.\n* INNOVACIÓN T-FAL PARA MEJORAR TU DÍA A DÍA: Como líder en soluciones de cocina, T-FAL incorpora esta batidora con características que facilitan tu rutina en la cocina, proporcionando una experiencia en cocinar más satisfactoria y eficiente.",
-    "url": "https://www.t-fal.com.mx/batidora-de-inmersion-turbomix/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158269/8010000736_HB2B18MX_TurbomixMax_-1-.jpg?v=638942346381430000",
+    "category": "Exprimidores y extractores de jugo",
+    "description": "* Empieza cada mañana con el mejor aliado T-Fal “Frutelia” Extractor de Jugos con el poder de 350W, 2 velocidades y función pulso para cortar, exprimir y licuar cualquier fruta o verdura y obtener lo mejor de cada ingrediente.\n* Su depósito de pulpa de 950 ml tiene la capacidad perfecta para cualquier ocasión, tanto para un uso diario como para cuando tengas invitados: este tamaño te permitirá alargar tu sesiones de exprimido y extracción.\n* Posee un motor de alto rendimiento de 350w de potencia.\n* Su diseño coincide con la calidad de sus resultados, cuenta con estabilidad, base antideslizante para mantener el extractor fijo en la superficie sin riesgo de deslizamiento ni caída y dos asas ergonómicas de bloqueo fácil para un cómodo transporte y de cómodo almacenamiento.\n* Frutelia es el extractor ideal para consumir las vitaminas y minerales del día a día.",
+    "url": "https://www.t-fal.com.mx/extractor-de-jugo-frutelia/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA-PLUS-METAL-400W-00.webp?v=639244116646500000",
     "skus": [
       {
-        "sku_id": "983",
-        "sku_name": "Batidora de Inmersión Turbomix",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158269/8010000736_HB2B18MX_TurbomixMax_-1-.jpg?v=638942346381430000"
+        "sku_id": "990",
+        "sku_name": "Extractor de Jugo Frutelia",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA-PLUS-METAL-400W-00.webp?v=639244116646500000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 499.0,
-    "list_price": 499.0,
-    "on_sale": false
+    "price": 1299.0,
+    "list_price": 1849.0,
+    "on_sale": true
   },
   {
     "name": "Sartén 30cm Emotion SS",
@@ -861,27 +861,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería Excite Bronze 14 pzas antiadherente",
-    "reference": "2100108568",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Recubrimiento antiadherente de alta resistencia que permite cocinar con menos grasa y asegura una limpieza sencilla tras cada uso. \n* Tapas de vidrio con salida de vapor. \n* Diseñadas para controlar el proceso de cocción sin necesidad de levantarlas ni perder calor. \n* Base difusora que distribuye el calor uniformemente. \n* Evitando puntos calientes y garantizando resultados homogéneos en cada preparación. \n* Incluye utensilios prácticos como escurridor y cucharas medidoras. \n* libres de BPA y resistentes al calor para mayor seguridad. \n* Compatible con todas las cocinas excepto inducción y apta para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/bateria-excite-bronze-14-pzas-antiadherente/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000",
-    "skus": [
-      {
-        "sku_id": "966",
-        "sku_name": "Batería Excite Bronze 14 pzas antiadherente",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
-    "on_sale": false
-  },
-  {
     "name": "Vaporizador Origin Travel, plegable y portátil",
     "reference": "1830009412",
     "brand": "T-fal",
@@ -901,6 +880,27 @@
     "price": 699.0,
     "list_price": 699.0,
     "on_sale": false
+  },
+  {
+    "name": "Sartén 28cm Daily expert rojo",
+    "reference": "2100129935",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Sartén de 28 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
+    "url": "https://www.t-fal.com.mx/sarten-28cm-daily-expert-rojo-929/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158452/2100129935_C2890602_SARTEN28CMDAILYEXPERT-1-.jpg?v=638950306320600000",
+    "skus": [
+      {
+        "sku_id": "929",
+        "sku_name": "Sartén 28cm Daily expert rojo",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158452/2100129935_C2890602_SARTEN28CMDAILYEXPERT-1-.jpg?v=638950306320600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1009.0,
+    "list_price": 1299.0,
+    "on_sale": true
   },
   {
     "name": "Plancha de vapor Ultragliss Plus Wine Gray, máximo vapor",
@@ -2604,27 +2604,6 @@
     "on_sale": false
   },
   {
-    "name": "Extractor de Jugo Frutelia",
-    "reference": "8010000550",
-    "brand": "T-fal",
-    "category": "Exprimidores y extractores de jugo",
-    "description": "* Empieza cada mañana con el mejor aliado T-Fal “Frutelia” Extractor de Jugos con el poder de 350W, 2 velocidades y función pulso para cortar, exprimir y licuar cualquier fruta o verdura y obtener lo mejor de cada ingrediente.\n* Su depósito de pulpa de 950 ml tiene la capacidad perfecta para cualquier ocasión, tanto para un uso diario como para cuando tengas invitados: este tamaño te permitirá alargar tu sesiones de exprimido y extracción.\n* Posee un motor de alto rendimiento de 350w de potencia.\n* Su diseño coincide con la calidad de sus resultados, cuenta con estabilidad, base antideslizante para mantener el extractor fijo en la superficie sin riesgo de deslizamiento ni caída y dos asas ergonómicas de bloqueo fácil para un cómodo transporte y de cómodo almacenamiento.\n* Frutelia es el extractor ideal para consumir las vitaminas y minerales del día a día.",
-    "url": "https://www.t-fal.com.mx/extractor-de-jugo-frutelia/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA-PLUS-METAL-400W-00.webp?v=639244116646500000",
-    "skus": [
-      {
-        "sku_id": "990",
-        "sku_name": "Extractor de Jugo Frutelia",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159653/8010000550_ZE420DMX_FRUTELIA-PLUS-METAL-400W-00.webp?v=639244116646500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1299.0,
-    "list_price": 1849.0,
-    "on_sale": true
-  },
-  {
     "name": "Exprimidor de jugo Citrus Press Pro",
     "reference": "8010000421",
     "brand": "T-fal",
@@ -2706,6 +2685,27 @@
     "country": "México",
     "price": 1199.0,
     "list_price": 1199.0,
+    "on_sale": false
+  },
+  {
+    "name": "Batidora de Inmersión Turbomix",
+    "reference": "8010000736",
+    "brand": "T-fal",
+    "category": "Batidoras",
+    "description": "* POTENCIA DE 400W PARA TODO TIPO DE PREPARACIÓN: Con esta batidora de inmersión, podrás batir, moler y mezclar una gran variedad de alimentos con su potente motor de 400W, garantizando resultados eficientes y rápidos en cada uso.\n* VERSATILIDAD CON TECNOLOGÍA TURBOMIX: Disfruta de la funcionalidad de una licuadora, batidora y picador en un solo dispositivo. Turbomix te permite cocinar rápido y fácilmente sin necesidad de múltiples aparatos.\n* COMPACTO Y FÁCIL DE TRANSPORTAR: Su diseño compacto encaja perfectamente en cualquier cocina y es fácil de mover de un lugar a otro, sin ocupar espacio excesivo en tus estantes o mostradores.\n* FÁCIL Y SEGURO DE USAR: Gracias a su diseño innovador y tecnología avanzada, podrás usarla directamente en ollas, cazos y sartenes sin preocuparte por dañarlos, haciendo la cocina más práctica y cómoda.\n* INNOVACIÓN T-FAL PARA MEJORAR TU DÍA A DÍA: Como líder en soluciones de cocina, T-FAL incorpora esta batidora con características que facilitan tu rutina en la cocina, proporcionando una experiencia en cocinar más satisfactoria y eficiente.",
+    "url": "https://www.t-fal.com.mx/batidora-de-inmersion-turbomix/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158269/8010000736_HB2B18MX_TurbomixMax_-1-.jpg?v=638942346381430000",
+    "skus": [
+      {
+        "sku_id": "983",
+        "sku_name": "Batidora de Inmersión Turbomix",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158269/8010000736_HB2B18MX_TurbomixMax_-1-.jpg?v=638942346381430000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 499.0,
+    "list_price": 499.0,
     "on_sale": false
   },
   {
@@ -2833,6 +2833,27 @@
     "price": 489.0,
     "list_price": 699.0,
     "on_sale": true
+  },
+  {
+    "name": "Batería Excite Bronze 14 pzas antiadherente",
+    "reference": "2100108568",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Recubrimiento antiadherente de alta resistencia que permite cocinar con menos grasa y asegura una limpieza sencilla tras cada uso. \n* Tapas de vidrio con salida de vapor. \n* Diseñadas para controlar el proceso de cocción sin necesidad de levantarlas ni perder calor. \n* Base difusora que distribuye el calor uniformemente. \n* Evitando puntos calientes y garantizando resultados homogéneos en cada preparación. \n* Incluye utensilios prácticos como escurridor y cucharas medidoras. \n* libres de BPA y resistentes al calor para mayor seguridad. \n* Compatible con todas las cocinas excepto inducción y apta para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/bateria-excite-bronze-14-pzas-antiadherente/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000",
+    "skus": [
+      {
+        "sku_id": "966",
+        "sku_name": "Batería Excite Bronze 14 pzas antiadherente",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158045/2100108568_B036SE64_EXCITE_NONSTICK_BRONZE_14pzas-1-.jpg?v=638932145390670000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
+    "on_sale": false
   },
   {
     "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
@@ -3063,27 +3084,6 @@
     "country": "México",
     "price": 1149.0,
     "list_price": 1499.0,
-    "on_sale": true
-  },
-  {
-    "name": "Sartén 28cm Daily expert rojo",
-    "reference": "2100129935",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Sartén de 28 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
-    "url": "https://www.t-fal.com.mx/sarten-28cm-daily-expert-rojo-929/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158452/2100129935_C2890602_SARTEN28CMDAILYEXPERT-1-.jpg?v=638950306320600000",
-    "skus": [
-      {
-        "sku_id": "929",
-        "sku_name": "Sartén 28cm Daily expert rojo",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158452/2100129935_C2890602_SARTEN28CMDAILYEXPERT-1-.jpg?v=638950306320600000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1009.0,
-    "list_price": 1299.0,
     "on_sale": true
   },
   {
@@ -3712,8 +3712,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
+    "price": null,
+    "list_price": null,
     "on_sale": false
   },
   {
@@ -3754,8 +3754,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 369.0,
-    "list_price": 369.0,
+    "price": null,
+    "list_price": null,
     "on_sale": false
   },
   {
