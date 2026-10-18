@@ -294,6 +294,27 @@
     "on_sale": true
   },
   {
+    "name": "Aniversario 70 Años Tefal",
+    "reference": "MKT_ARTICULO_VIRTUAL",
+    "brand": "Tefal",
+    "category": "Accesorios",
+    "description": "Un Regalo Excepcional para celebrar el aniversario de 70 Años de nuestra marca Tefal",
+    "url": "https://www.tefalstore.cl/regalo-aniversario-70-años-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000",
+    "skus": [
+      {
+        "sku_id": "419",
+        "sku_name": "Aniversario 70 Años Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 1.0,
+    "list_price": 1.0,
+    "on_sale": false
+  },
+  {
     "name": "Cafetera Espresso Full Auto My Coffee Steam Digital Krups",
     "reference": "8010001466",
     "brand": "Krups",
@@ -546,27 +567,6 @@
     "on_sale": true
   },
   {
-    "name": "Plancha de Vapor Expertis Anti Calc Rowenta",
-    "reference": "1830031506",
-    "brand": "Rowenta",
-    "category": "Planchas a Vapor",
-    "description": "Con la plancha de vapor Rowenta Expertis Anticalc, disfrute de un rendimiento de vapor duradero para un planchado exitoso día tras día. Sus características principales son:| • Colector de cal extraíble patentado: para un fácil mantenimiento y una eficiencia óptima.| • Planchado ultrarrápido: gracias a la alta distribución de vapor de la suela Microsteam 400HD. |• Excelentes resultados: lo mejor en salida de vapor para sesiones de planchado efectivas incluso en las arrugas más difíciles.| • Punta de precisión: para abordar los detalles más pequeños.| • Fácil recarga: gracias a la ventana transparente del depósito de agua.| • Largas sesiones: gracias a un gran depósito de agua.|• Mango ergonómico: para un uso cómodo.| • Aerosol: para eliminar las arrugas difíciles con facilidad.",
-    "url": "https://www.tefalstore.cl/rowenta-plancha-de-vapor-expertis-anti-calc/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205453/1830031506.jpg?v=639035774838430000",
-    "skus": [
-      {
-        "sku_id": "236",
-        "sku_name": "Plancha de Vapor EXPERTIS ANTI CALC",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205453/1830031506.jpg?v=639035774838430000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 109990.0,
-    "on_sale": true
-  },
-  {
     "name": "Paila con Tapa 16 cm",
     "reference": "5861029909",
     "brand": "Tefal",
@@ -648,27 +648,6 @@
     "country": "Chile",
     "price": 44990.0,
     "list_price": 62990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla Cocotte Air 20 cm",
-    "reference": "2100127040",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
-    "url": "https://www.tefalstore.cl/tefal-olla-cocotte-20-cm-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205413/2100127040.png?v=639035774393300000",
-    "skus": [
-      {
-        "sku_id": "196",
-        "sku_name": "Olla Cocotte Air 20 cm",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205413/2100127040.png?v=639035774393300000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 36990.0,
-    "list_price": 52990.0,
     "on_sale": true
   },
   {
@@ -817,27 +796,6 @@
     "price": 349990.0,
     "list_price": 499990.0,
     "on_sale": true
-  },
-  {
-    "name": "Aniversario 70 Años Tefal",
-    "reference": "MKT_ARTICULO_VIRTUAL",
-    "brand": "Tefal",
-    "category": "Accesorios",
-    "description": "Un Regalo Excepcional para celebrar el aniversario de 70 Años de nuestra marca Tefal",
-    "url": "https://www.tefalstore.cl/regalo-aniversario-70-años-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000",
-    "skus": [
-      {
-        "sku_id": "419",
-        "sku_name": "Aniversario 70 Años Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 1.0,
-    "list_price": 1.0,
-    "on_sale": false
   },
   {
     "name": "Freidora de Aire Easy Fry Infra Red 7L Moulinex",
@@ -1404,6 +1362,27 @@
     "country": "Chile",
     "price": 49990.0,
     "list_price": 72990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla Cocotte Air 20 cm",
+    "reference": "2100127040",
+    "brand": "Tefal",
+    "category": "Ollas",
+    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
+    "url": "https://www.tefalstore.cl/tefal-olla-cocotte-20-cm-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205413/2100127040.png?v=639035774393300000",
+    "skus": [
+      {
+        "sku_id": "196",
+        "sku_name": "Olla Cocotte Air 20 cm",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205413/2100127040.png?v=639035774393300000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 36990.0,
+    "list_price": 52990.0,
     "on_sale": true
   },
   {
@@ -2037,27 +2016,6 @@
     "on_sale": true
   },
   {
-    "name": "Horno Freidora de aire Easy Fry & Grill digital 11 L 9 en 1 Moulinex",
-    "reference": "1510002169",
-    "brand": "Moulinex",
-    "category": "Air Fryers",
-    "description": "Easy Fry Oven & Grill 9 en 1 de Moulinex: | Disfruta de  alimentos extra crujientes hasta un excelente sabor al grill, al horno y a la parrilla. La súper freidora de aire 9 en 1 de Moulinex lo hace todo.| Cuenta con 9 funciones: freír, asar, asar a la parrilla, hornear, deshidratar, tostar y recalentar. 8 programas preestablecidos: papas fritas, pollo, carne, pescado, pizza, pastel, deshidratar y parrilla. | Capacidad de 11 litros (hasta 6 porciones). Cocina hasta 3 comidas a la vez gracias a sus múltiples bandejas. | Control de temperatura desde 45 ° C a 200 ° C para resultados perfectos. Temporizador hasta 60 minutos de cocción conveniente o 12 horas en modo deshidratado.|  7 accesorios: 2 rejillas, cesta para papas fritas, bandeja de goteo, tenedor para pollo, rejilla para recoger y parrilla con asa extraíble (piezas aptas para lavavajillas)",
-    "url": "https://www.tefalstore.cl/moulinex-moulinex-horno-freidora-de-aire-easy-fry-11-lt-9-en-1/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200577/label-1.jpg?v=638732672051870000",
-    "skus": [
-      {
-        "sku_id": "254",
-        "sku_name": "Horno Freidora de aire Easy Fry & Grill digital 11 L 9 en 1",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200577/label-1.jpg?v=638732672051870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 99990.0,
-    "list_price": 179990.0,
-    "on_sale": true
-  },
-  {
     "name": "Plancha de Vapor Promaster Excel Rowenta",
     "reference": "1830031572",
     "brand": "Rowenta",
@@ -2478,27 +2436,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Authentic Black Krups",
-    "reference": "8010001295",
-    "brand": "Krups",
-    "category": "Cafeteras Espresso",
-    "description": "EXTRACCIÓN DE SABOR COMPLETO Disfruta de un auténtico espresso con crema perfecta, gracias a la presión de 15 bares y una caldera que mantiene la temperatura del agua constante para una extracción excelente.|\nFÁCIL DE USAR Y DOMINAR Una taza, dos tazas o espuma de leche: el selector manual inclinado y frontal ofrece un control intuitivo al alcance de tu mano.|\nREPARABILIDAD DE 15 AÑOS Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—como parte de nuestro compromiso con el medio ambiente y la reducción de residuos.|\nDEPÓSITO DE AGUA PRÁCTICO Disfruta taza tras taza sin necesidad de rellenar, gracias al depósito de agua de 2 L, con ventana frontal del nivel de agua y diseño desmontable para un manejo sencillo.|\nPORTAFILTRO DE FÁCIL VACIADO Retira los restos de café con facilidad y evita perder el filtro en la basura, gracias al diseño inteligente con gancho en el portafiltro.|\nCONTENIDO DE LA CAJA Máquina de espresso manual C40 auténtica, cuchara dosificadora con prensador, filtro para una taza, filtro para dos tazas, portafiltro.",
-    "url": "https://www.tefalstore.cl/cafetera-espresso-authentic-black-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205130/01-portada.jpg?v=638929621484370000",
-    "skus": [
-      {
-        "sku_id": "354",
-        "sku_name": "Cafetera Espresso Authentic Black",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205130/01-portada.jpg?v=638929621484370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 109990.0,
-    "list_price": 179990.0,
-    "on_sale": true
-  },
-  {
     "name": "Batería de cocina antiadherente 16 piezas Culinare Champagne Tefal",
     "reference": "2100112169",
     "brand": "Tefal",
@@ -2706,6 +2643,27 @@
     "country": "Chile",
     "price": 149990.0,
     "list_price": 219990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Horno Freidora de aire Easy Fry & Grill digital 11 L 9 en 1 Moulinex",
+    "reference": "1510002169",
+    "brand": "Moulinex",
+    "category": "Air Fryers",
+    "description": "Easy Fry Oven & Grill 9 en 1 de Moulinex: | Disfruta de  alimentos extra crujientes hasta un excelente sabor al grill, al horno y a la parrilla. La súper freidora de aire 9 en 1 de Moulinex lo hace todo.| Cuenta con 9 funciones: freír, asar, asar a la parrilla, hornear, deshidratar, tostar y recalentar. 8 programas preestablecidos: papas fritas, pollo, carne, pescado, pizza, pastel, deshidratar y parrilla. | Capacidad de 11 litros (hasta 6 porciones). Cocina hasta 3 comidas a la vez gracias a sus múltiples bandejas. | Control de temperatura desde 45 ° C a 200 ° C para resultados perfectos. Temporizador hasta 60 minutos de cocción conveniente o 12 horas en modo deshidratado.|  7 accesorios: 2 rejillas, cesta para papas fritas, bandeja de goteo, tenedor para pollo, rejilla para recoger y parrilla con asa extraíble (piezas aptas para lavavajillas)",
+    "url": "https://www.tefalstore.cl/moulinex-moulinex-horno-freidora-de-aire-easy-fry-11-lt-9-en-1/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200577/label-1.jpg?v=638732672051870000",
+    "skus": [
+      {
+        "sku_id": "254",
+        "sku_name": "Horno Freidora de aire Easy Fry & Grill digital 11 L 9 en 1",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/200577/label-1.jpg?v=638732672051870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 99990.0,
+    "list_price": 179990.0,
     "on_sale": true
   },
   {
@@ -3003,6 +2961,27 @@
     "on_sale": true
   },
   {
+    "name": "Cafetera Espresso Authentic Black Krups",
+    "reference": "8010001295",
+    "brand": "Krups",
+    "category": "Cafeteras Espresso",
+    "description": "EXTRACCIÓN DE SABOR COMPLETO Disfruta de un auténtico espresso con crema perfecta, gracias a la presión de 15 bares y una caldera que mantiene la temperatura del agua constante para una extracción excelente.|\nFÁCIL DE USAR Y DOMINAR Una taza, dos tazas o espuma de leche: el selector manual inclinado y frontal ofrece un control intuitivo al alcance de tu mano.|\nREPARABILIDAD DE 15 AÑOS Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—como parte de nuestro compromiso con el medio ambiente y la reducción de residuos.|\nDEPÓSITO DE AGUA PRÁCTICO Disfruta taza tras taza sin necesidad de rellenar, gracias al depósito de agua de 2 L, con ventana frontal del nivel de agua y diseño desmontable para un manejo sencillo.|\nPORTAFILTRO DE FÁCIL VACIADO Retira los restos de café con facilidad y evita perder el filtro en la basura, gracias al diseño inteligente con gancho en el portafiltro.|\nCONTENIDO DE LA CAJA Máquina de espresso manual C40 auténtica, cuchara dosificadora con prensador, filtro para una taza, filtro para dos tazas, portafiltro.",
+    "url": "https://www.tefalstore.cl/cafetera-espresso-authentic-black-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205130/01-portada.jpg?v=638929621484370000",
+    "skus": [
+      {
+        "sku_id": "354",
+        "sku_name": "Cafetera Espresso Authentic Black",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205130/01-portada.jpg?v=638929621484370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 109990.0,
+    "list_price": 179990.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora Optimix Negra 2V 500W Moulinex",
     "reference": "5861035938",
     "brand": "Moulinex",
@@ -3150,6 +3129,27 @@
     "on_sale": true
   },
   {
+    "name": "Bolso Negro Cuisine Companion XL",
+    "reference": "8010000716",
+    "brand": "Moulinex",
+    "category": "Accesorios",
+    "description": "Bolso de transporte, porque un fiel acompañante siempre viaja contigo, ya sea de vacaciones, en casa de un amigo o fuera durante el fin de semana, ¡disfrute de comidas caseras cocinadas en su Companion! Gracias a esta bolsa de transporte dedicada, su procesador de alimentos para cocinar Companion o iCompanion viaja con usted con total seguridad.. |Su diseño funcional ofrece dos bolsillos para hasta cuatro accesorios: la caja de accesorios, la báscula conectada, el libro de recetas y la espátula, así como un interior acolchado de espuma y un fondo reforzado para una seguridad total.. |Con dos asas reforzadas de gran tamaño para un transporte cómodo, se limpia fácilmente con una esponja húmeda y se pliega rápidamente para guardarlo, listo en cualquier momento.. |¡Porque un Compañero fiel siempre viaja contigo!",
+    "url": "https://www.tefalstore.cl/moulinex-bolso-negro-cuisine-companion-xl/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206440/8010000716-1.jpg?v=639241506894770000",
+    "skus": [
+      {
+        "sku_id": "96",
+        "sku_name": "Bolso Negro Cuisine Companion XL",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206440/8010000716-1.jpg?v=639241506894770000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 19990.0,
+    "list_price": 69990.0,
+    "on_sale": true
+  },
+  {
     "name": "Sartén 20 cm Super Cook",
     "reference": "2100123983",
     "brand": "Tefal",
@@ -3210,6 +3210,27 @@
     "country": "Chile",
     "price": 18990.0,
     "list_price": 26990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Máquina de Sopa Easy Soup 1,2L Moulinex",
+    "reference": "7211002728",
+    "brand": "Moulinex",
+    "category": "Máquinas de Sopa",
+    "description": "Ahorra tiempo en la cocina, usa la Easy Soup de Moulinex para cocinar las más deliciosas sopas y compotas caseras. | Sencilla y rápida, tus preparaciones en 2 clics. | Cuenta con programas automáticos para preparar cremas, sopas, compotas y preparaciones frías. | Gran capacidad total de 1,2 litros. | Cuenta con la mejor tecnología de aislamiento de temperaturas.",
+    "url": "https://www.tefalstore.cl/moulinex-maquina-de-sopa-easy-soup/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000",
+    "skus": [
+      {
+        "sku_id": "3",
+        "sku_name": "Máquina de Sopa Easy Soup",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 69990.0,
+    "list_price": 99990.0,
     "on_sale": true
   },
   {
@@ -3444,27 +3465,6 @@
     "on_sale": true
   },
   {
-    "name": "Bolso Negro Cuisine Companion XL",
-    "reference": "8010000716",
-    "brand": "Moulinex",
-    "category": "Accesorios",
-    "description": "Bolso de transporte, porque un fiel acompañante siempre viaja contigo, ya sea de vacaciones, en casa de un amigo o fuera durante el fin de semana, ¡disfrute de comidas caseras cocinadas en su Companion! Gracias a esta bolsa de transporte dedicada, su procesador de alimentos para cocinar Companion o iCompanion viaja con usted con total seguridad.. |Su diseño funcional ofrece dos bolsillos para hasta cuatro accesorios: la caja de accesorios, la báscula conectada, el libro de recetas y la espátula, así como un interior acolchado de espuma y un fondo reforzado para una seguridad total.. |Con dos asas reforzadas de gran tamaño para un transporte cómodo, se limpia fácilmente con una esponja húmeda y se pliega rápidamente para guardarlo, listo en cualquier momento.. |¡Porque un Compañero fiel siempre viaja contigo!",
-    "url": "https://www.tefalstore.cl/moulinex-bolso-negro-cuisine-companion-xl/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206440/8010000716-1.jpg?v=639241506894770000",
-    "skus": [
-      {
-        "sku_id": "96",
-        "sku_name": "Bolso Negro Cuisine Companion XL",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206440/8010000716-1.jpg?v=639241506894770000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 19990.0,
-    "list_price": 69990.0,
-    "on_sale": true
-  },
-  {
     "name": "Kit de pastelería Cuisine Companion XL",
     "reference": "8010000235",
     "brand": "Moulinex",
@@ -3504,27 +3504,6 @@
     "country": "Chile",
     "price": 69990.0,
     "list_price": 104990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Máquina de Sopa Easy Soup 1,2L Moulinex",
-    "reference": "7211002728",
-    "brand": "Moulinex",
-    "category": "Máquinas de Sopa",
-    "description": "Ahorra tiempo en la cocina, usa la Easy Soup de Moulinex para cocinar las más deliciosas sopas y compotas caseras. | Sencilla y rápida, tus preparaciones en 2 clics. | Cuenta con programas automáticos para preparar cremas, sopas, compotas y preparaciones frías. | Gran capacidad total de 1,2 litros. | Cuenta con la mejor tecnología de aislamiento de temperaturas.",
-    "url": "https://www.tefalstore.cl/moulinex-maquina-de-sopa-easy-soup/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000",
-    "skus": [
-      {
-        "sku_id": "3",
-        "sku_name": "Máquina de Sopa Easy Soup",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 99990.0,
     "on_sale": true
   },
   {
@@ -3735,6 +3714,27 @@
     "country": "Chile",
     "price": 42990.0,
     "list_price": 42990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Plancha de Vapor Expertis Anti Calc Rowenta",
+    "reference": "1830031506",
+    "brand": "Rowenta",
+    "category": "Planchas a Vapor",
+    "description": "Con la plancha de vapor Rowenta Expertis Anticalc, disfrute de un rendimiento de vapor duradero para un planchado exitoso día tras día. Sus características principales son:| • Colector de cal extraíble patentado: para un fácil mantenimiento y una eficiencia óptima.| • Planchado ultrarrápido: gracias a la alta distribución de vapor de la suela Microsteam 400HD. |• Excelentes resultados: lo mejor en salida de vapor para sesiones de planchado efectivas incluso en las arrugas más difíciles.| • Punta de precisión: para abordar los detalles más pequeños.| • Fácil recarga: gracias a la ventana transparente del depósito de agua.| • Largas sesiones: gracias a un gran depósito de agua.|• Mango ergonómico: para un uso cómodo.| • Aerosol: para eliminar las arrugas difíciles con facilidad.",
+    "url": "https://www.tefalstore.cl/rowenta-plancha-de-vapor-expertis-anti-calc/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205453/1830031506.jpg?v=639035774838430000",
+    "skus": [
+      {
+        "sku_id": "236",
+        "sku_name": "Plancha de Vapor EXPERTIS ANTI CALC",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205453/1830031506.jpg?v=639035774838430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 109990.0,
+    "list_price": 109990.0,
     "on_sale": false
   },
   {
