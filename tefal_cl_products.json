@@ -84,6 +84,27 @@
     "on_sale": true
   },
   {
+    "name": "Aniversario 70 Años Tefal",
+    "reference": "MKT_ARTICULO_VIRTUAL",
+    "brand": "Tefal",
+    "category": "Accesorios",
+    "description": "Un Regalo Excepcional para celebrar el aniversario de 70 Años de nuestra marca Tefal",
+    "url": "https://www.tefalstore.cl/regalo-aniversario-70-años-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000",
+    "skus": [
+      {
+        "sku_id": "419",
+        "sku_name": "Aniversario 70 Años Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 1.0,
+    "list_price": 1.0,
+    "on_sale": false
+  },
+  {
     "name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
     "reference": "2100140795",
     "brand": "Tefal",
@@ -252,27 +273,6 @@
     "on_sale": true
   },
   {
-    "name": "Kit Limpieza Cafeteras Krups",
-    "reference": "1600005026",
-    "brand": "Krups",
-    "category": "Accesorios Cafeteras",
-    "description": "Para prolongar la vida útil de tu molinillo de café Máquina espresso y conservar el auténtico sabor de tu café.| Este kit de limpieza  incluye: 2 sobres de desincrustante con dureza del agua para eliminar los depósitos de cal que puedan afectar al sabor del café.| 10 pastillas limpiadoras y desengrasantes para eliminar residuos grasos y depósitos de café. Garantiza que se conserve el sabor de tus bebidas. (alrededor de 3 años de limpieza).| 1 cartucho de filtro para garantizar la longevidad de tu máquina. Elimina todos los rastros de cal para obtener agua purificada y un café más sabroso",
-    "url": "https://www.tefalstore.cl/kit-limpieza-krups/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205549/1600005026-1.jpg?v=639035775726370000",
-    "skus": [
-      {
-        "sku_id": "165",
-        "sku_name": "Kit Limpieza Krups",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205549/1600005026-1.jpg?v=639035775726370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 29990.0,
-    "on_sale": true
-  },
-  {
     "name": "Bateria de cocina Acero Inoxidable Optispace 6 PCS Tefal",
     "reference": "2100114427",
     "brand": "Tefal",
@@ -334,27 +334,6 @@
     "price": 379990.0,
     "list_price": 549990.0,
     "on_sale": true
-  },
-  {
-    "name": "Aniversario 70 Años Tefal",
-    "reference": "MKT_ARTICULO_VIRTUAL",
-    "brand": "Tefal",
-    "category": "Accesorios",
-    "description": "Un Regalo Excepcional para celebrar el aniversario de 70 Años de nuestra marca Tefal",
-    "url": "https://www.tefalstore.cl/regalo-aniversario-70-años-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000",
-    "skus": [
-      {
-        "sku_id": "419",
-        "sku_name": "Aniversario 70 Años Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 1.0,
-    "list_price": 1.0,
-    "on_sale": false
   },
   {
     "name": "Cafetera Espresso Full Auto My Coffee Steam Digital Krups",
@@ -521,6 +500,27 @@
     "site": "Tefal Store Chile",
     "country": "Chile",
     "price": 89990.0,
+    "list_price": 109990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
+    "reference": "2100139800",
+    "brand": "Tefal",
+    "category": "Cuchillos",
+    "description": "AFILADO HOY, AFILADO MAÑANA: Redescubre el corte perfecto día tras día, año tras año, ya que tu cuchillo se afila automáticamente antes de cada uso | LA MEJOR TECNOLOGÍA DE AFILADO AUTOMÁTICO A LO LARGO DEL TIEMPO*: Oculto en el bloque, un sistema patentado guía las hojas y las afila completamente con la presión adecuada |AFILADO SIN ESFUERZO: Desliza tu cuchillo en el bloque de cuchillos después de su uso y estará afilado de nuevo, con un proceso automático sin manos y sin esfuerzo | AFILADOR INTEGRADO: Afilado fácil dentro del propio bloque de cuchillos | RESULTADOS DE CORTE AFILADOS: Disfruta del corte perfecto en todo momento, ya sea carpaccio de piña, pollo asado o una coliflor entera asada | HOJAS AFILADAS DE ACERO INOXIDABLE ALEMÁN: La hoja de acero inoxidable alemán de alta calidad aporta una durabilidad superior, resistencia al óxido y un afilado duradero | CONTROL TOTAL PARA UN CORTE AFILADO: Con un diseño perfectamente equilibrado, protector de dedos para seguridad y mango ergonómico, cortar nunca ha sido tan placentero | 10 AÑOS DE GARANTÍA: Calidad respaldada por una garantía de 10 años en la hoja y el mecanismo de afilado.",
+    "url": "https://www.tefalstore.cl/set-taco-de-5-cuchillos-con-afilador-eversharp-pro-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000",
+    "skus": [
+      {
+        "sku_id": "378",
+        "sku_name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 84990.0,
     "list_price": 109990.0,
     "on_sale": true
   },
@@ -1066,7 +1066,7 @@
     ],
     "site": "Tefal Store Chile",
     "country": "Chile",
-    "price": 109990.0,
+    "price": 104990.0,
     "list_price": 159990.0,
     "on_sale": true
   },
@@ -1173,27 +1173,6 @@
     "country": "Chile",
     "price": 59990.0,
     "list_price": 99990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
-    "reference": "2100139800",
-    "brand": "Tefal",
-    "category": "Cuchillos",
-    "description": "AFILADO HOY, AFILADO MAÑANA: Redescubre el corte perfecto día tras día, año tras año, ya que tu cuchillo se afila automáticamente antes de cada uso | LA MEJOR TECNOLOGÍA DE AFILADO AUTOMÁTICO A LO LARGO DEL TIEMPO*: Oculto en el bloque, un sistema patentado guía las hojas y las afila completamente con la presión adecuada |AFILADO SIN ESFUERZO: Desliza tu cuchillo en el bloque de cuchillos después de su uso y estará afilado de nuevo, con un proceso automático sin manos y sin esfuerzo | AFILADOR INTEGRADO: Afilado fácil dentro del propio bloque de cuchillos | RESULTADOS DE CORTE AFILADOS: Disfruta del corte perfecto en todo momento, ya sea carpaccio de piña, pollo asado o una coliflor entera asada | HOJAS AFILADAS DE ACERO INOXIDABLE ALEMÁN: La hoja de acero inoxidable alemán de alta calidad aporta una durabilidad superior, resistencia al óxido y un afilado duradero | CONTROL TOTAL PARA UN CORTE AFILADO: Con un diseño perfectamente equilibrado, protector de dedos para seguridad y mango ergonómico, cortar nunca ha sido tan placentero | 10 AÑOS DE GARANTÍA: Calidad respaldada por una garantía de 10 años en la hoja y el mecanismo de afilado.",
-    "url": "https://www.tefalstore.cl/set-taco-de-5-cuchillos-con-afilador-eversharp-pro-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000",
-    "skus": [
-      {
-        "sku_id": "378",
-        "sku_name": "Set taco de 5 Cuchillos Con Afilador Eversharp Pro Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205625/01-portada.jpg?v=639053126665030000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 84990.0,
-    "list_price": 109990.0,
     "on_sale": true
   },
   {
@@ -1341,6 +1320,27 @@
     "country": "Chile",
     "price": 69990.0,
     "list_price": 99990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Set 3 Tapas de vidrio 16/18/20 cm Ingenio Tefal",
+    "reference": "2100127978",
+    "brand": "Tefal",
+    "category": "Ollas",
+    "description": "¡Simplifica tu cocina, simplifica tu vida! Tapas de cristal que ofrecen una experiencia de cocción más fácil desde la estufa hasta el refrigerador y el lavavajilla.|\nCuentan con ingeniosas asas plegables que las hacen 100% apilables|\nTotalmente compatible con los utensilios de cocina Ingenio, ofreciendo el ajuste perfecto para el mango removible Ingenio|\nAcelera tu tiempo de cocción y controla el progreso con total facilidad.|\nAptas para lavavajilla",
+    "url": "https://www.tefalstore.cl/set-3-tapas-de-vidrio-16-18-20-cm-ingenio-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203833/01-portada.jpg?v=638803499226670000",
+    "skus": [
+      {
+        "sku_id": "318",
+        "sku_name": "Set 3 Tapas de vidrio 16/18/20 cm Ingenio Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203833/01-portada.jpg?v=638803499226670000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 29990.0,
+    "list_price": 37990.0,
     "on_sale": true
   },
   {
@@ -1698,6 +1698,27 @@
     "country": "Chile",
     "price": 649990.0,
     "list_price": 1299990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén 30 cm Super Cook",
+    "reference": "2100123987",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.| Posee una base difusora que permite una conducción perfecta de calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el  nuevo sistema Thermo-Signal,   indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |Compatible con todo tipo de cocinas, excepto inducción.",
+    "url": "https://www.tefalstore.cl/tefal-sarten-30-cm-super-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205577/super-cook1.jpg?v=639077987284200000",
+    "skus": [
+      {
+        "sku_id": "370",
+        "sku_name": "Sartén 30 cm Aluminio Super Cook Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205577/super-cook1.jpg?v=639077987284200000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 16990.0,
+    "list_price": 21990.0,
     "on_sale": true
   },
   {
@@ -2121,27 +2142,6 @@
     "on_sale": true
   },
   {
-    "name": "Set 3 Tapas de vidrio 16/18/20 cm Ingenio Tefal",
-    "reference": "2100127978",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "¡Simplifica tu cocina, simplifica tu vida! Tapas de cristal que ofrecen una experiencia de cocción más fácil desde la estufa hasta el refrigerador y el lavavajilla.|\nCuentan con ingeniosas asas plegables que las hacen 100% apilables|\nTotalmente compatible con los utensilios de cocina Ingenio, ofreciendo el ajuste perfecto para el mango removible Ingenio|\nAcelera tu tiempo de cocción y controla el progreso con total facilidad.|\nAptas para lavavajilla",
-    "url": "https://www.tefalstore.cl/set-3-tapas-de-vidrio-16-18-20-cm-ingenio-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203833/01-portada.jpg?v=638803499226670000",
-    "skus": [
-      {
-        "sku_id": "318",
-        "sku_name": "Set 3 Tapas de vidrio 16/18/20 cm Ingenio Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/203833/01-portada.jpg?v=638803499226670000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 29990.0,
-    "list_price": 37990.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Personal Blend Up 1000W Moulinex",
     "reference": "7211419401",
     "brand": "Moulinex",
@@ -2181,27 +2181,6 @@
     "country": "Chile",
     "price": 64990.0,
     "list_price": 119990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Cacerola 16 cm acero inoxidable Primary",
-    "reference": "2100120952",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "\"Hecha de acero inoxidable de alta calidad y  diseñada para una larga vida útil. | Ideales para cocinar comidas diarias como pastas o arroz, así como para cocinar a fuego lento, hervir y cocinar salsas.|\nCuenta con graduaciónes interiores para dosificar facilmente, tapa de Cristal transparente para revisar tus preparaciónes sin tener que levantar la tapa y bordes convenientes para verter y  mantener tu cocina impecable!|\nApta para todo tipo de cocinas, incluso inducción.\"",
-    "url": "https://www.tefalstore.cl/tefal-cacerola-16-cm-acero-inoxidable-primary/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204891/digital-e3082404-primary-saucepan-20cm-05ja-4428-94515206-71e3-403d-8c87-b14e782228e9.png?v=638913180580870000",
-    "skus": [
-      {
-        "sku_id": "311",
-        "sku_name": "Cacerola 16 cm acero inoxidable Primary",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204891/digital-e3082404-primary-saucepan-20cm-05ja-4428-94515206-71e3-403d-8c87-b14e782228e9.png?v=638913180580870000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 18990.0,
-    "list_price": 21990.0,
     "on_sale": true
   },
   {
@@ -2583,6 +2562,27 @@
     "on_sale": true
   },
   {
+    "name": "Máquina de Sopa Easy Soup 1,2L Moulinex",
+    "reference": "7211002728",
+    "brand": "Moulinex",
+    "category": "Máquinas de Sopa",
+    "description": "Ahorra tiempo en la cocina, usa la Easy Soup de Moulinex para cocinar las más deliciosas sopas y compotas caseras. | Sencilla y rápida, tus preparaciones en 2 clics. | Cuenta con programas automáticos para preparar cremas, sopas, compotas y preparaciones frías. | Gran capacidad total de 1,2 litros. | Cuenta con la mejor tecnología de aislamiento de temperaturas.",
+    "url": "https://www.tefalstore.cl/moulinex-maquina-de-sopa-easy-soup/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000",
+    "skus": [
+      {
+        "sku_id": "3",
+        "sku_name": "Máquina de Sopa Easy Soup",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 69990.0,
+    "list_price": 99990.0,
+    "on_sale": true
+  },
+  {
     "name": "Mango Ingenio Rojo Tefal",
     "reference": "2100125066",
     "brand": "Tefal",
@@ -2874,6 +2874,27 @@
     "country": "Chile",
     "price": 24990.0,
     "list_price": 28990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cacerola 16 cm acero inoxidable Primary",
+    "reference": "2100120952",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "\"Hecha de acero inoxidable de alta calidad y  diseñada para una larga vida útil. | Ideales para cocinar comidas diarias como pastas o arroz, así como para cocinar a fuego lento, hervir y cocinar salsas.|\nCuenta con graduaciónes interiores para dosificar facilmente, tapa de Cristal transparente para revisar tus preparaciónes sin tener que levantar la tapa y bordes convenientes para verter y  mantener tu cocina impecable!|\nApta para todo tipo de cocinas, incluso inducción.\"",
+    "url": "https://www.tefalstore.cl/tefal-cacerola-16-cm-acero-inoxidable-primary/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204891/digital-e3082404-primary-saucepan-20cm-05ja-4428-94515206-71e3-403d-8c87-b14e782228e9.png?v=638913180580870000",
+    "skus": [
+      {
+        "sku_id": "311",
+        "sku_name": "Cacerola 16 cm acero inoxidable Primary",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204891/digital-e3082404-primary-saucepan-20cm-05ja-4428-94515206-71e3-403d-8c87-b14e782228e9.png?v=638913180580870000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 18990.0,
+    "list_price": 21990.0,
     "on_sale": true
   },
   {
@@ -3171,27 +3192,6 @@
     "on_sale": true
   },
   {
-    "name": "Máquina de Sopa Easy Soup 1,2L Moulinex",
-    "reference": "7211002728",
-    "brand": "Moulinex",
-    "category": "Máquinas de Sopa",
-    "description": "Ahorra tiempo en la cocina, usa la Easy Soup de Moulinex para cocinar las más deliciosas sopas y compotas caseras. | Sencilla y rápida, tus preparaciones en 2 clics. | Cuenta con programas automáticos para preparar cremas, sopas, compotas y preparaciones frías. | Gran capacidad total de 1,2 litros. | Cuenta con la mejor tecnología de aislamiento de temperaturas.",
-    "url": "https://www.tefalstore.cl/moulinex-maquina-de-sopa-easy-soup/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000",
-    "skus": [
-      {
-        "sku_id": "3",
-        "sku_name": "Máquina de Sopa Easy Soup",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205282/7211002728.jpg?v=638943151941300000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 69990.0,
-    "list_price": 99990.0,
-    "on_sale": true
-  },
-  {
     "name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
     "reference": "8010001305",
     "brand": "Moulinex",
@@ -3294,27 +3294,6 @@
     "country": "Chile",
     "price": 109990.0,
     "list_price": 179990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Batidora de inmersión TurboMix Moulinex",
-    "reference": "7211003569",
-    "brand": "Moulinex",
-    "category": "Licuadoras de Mano",
-    "description": "FÁCIL DE USAR: Una batidora de mano de alto rendimiento equipada con 350 W y un control de velocidad única para resultados perfectos sin esfuerzo.|\nMEZCLAS SIN SALPICADURAS: El pie anti-salpicaduras evita derrames y desorden, ofreciendo una experiencia más limpia y agradable.|\nDISEÑO CÓMODO: Mango ergonómico con textura antideslizante para un uso más fácil y confortable, ideal para un uso frecuente.|\nDURABILIDAD TOTAL: 2 cuchillas ZELKROM que garantizan un rendimiento duradero.|\nREPARABILIDAD POR 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nFÁCIL DE LIMPIAR: Piezas desmontables aptas para lavavajillas, para un uso diario sin complicaciones.",
-    "url": "https://www.tefalstore.cl/batidora-de-inmmersion-turbomix-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205776/01-portada.png?v=639095480500730000",
-    "skus": [
-      {
-        "sku_id": "347",
-        "sku_name": "Licuadora de Inmersión con vaso Turbomix",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205776/01-portada.png?v=639095480500730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 17990.0,
-    "list_price": 29990.0,
     "on_sale": true
   },
   {
@@ -3696,6 +3675,27 @@
     "on_sale": true
   },
   {
+    "name": "Batidora de inmersión TurboMix Moulinex",
+    "reference": "7211003569",
+    "brand": "Moulinex",
+    "category": "Licuadoras de Mano",
+    "description": "FÁCIL DE USAR: Una batidora de mano de alto rendimiento equipada con 350 W y un control de velocidad única para resultados perfectos sin esfuerzo.|\nMEZCLAS SIN SALPICADURAS: El pie anti-salpicaduras evita derrames y desorden, ofreciendo una experiencia más limpia y agradable.|\nDISEÑO CÓMODO: Mango ergonómico con textura antideslizante para un uso más fácil y confortable, ideal para un uso frecuente.|\nDURABILIDAD TOTAL: 2 cuchillas ZELKROM que garantizan un rendimiento duradero.|\nREPARABILIDAD POR 15 AÑOS A UN PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para prolongar su vida útil.|\nFÁCIL DE LIMPIAR: Piezas desmontables aptas para lavavajillas, para un uso diario sin complicaciones.",
+    "url": "https://www.tefalstore.cl/batidora-de-inmmersion-turbomix-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205776/01-portada.png?v=639095480500730000",
+    "skus": [
+      {
+        "sku_id": "347",
+        "sku_name": "Licuadora de Inmersión con vaso Turbomix",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205776/01-portada.png?v=639095480500730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 17990.0,
+    "list_price": 29990.0,
+    "on_sale": true
+  },
+  {
     "name": "Hervidor Subito 5 1,7 L Inox Negro Moulinex",
     "reference": "7211419517",
     "brand": "Moulinex",
@@ -3864,6 +3864,27 @@
     "on_sale": false
   },
   {
+    "name": "Kit Limpieza Cafeteras Krups",
+    "reference": "1600005026",
+    "brand": "Krups",
+    "category": "Accesorios Cafeteras",
+    "description": "Para prolongar la vida útil de tu molinillo de café Máquina espresso y conservar el auténtico sabor de tu café.| Este kit de limpieza  incluye: 2 sobres de desincrustante con dureza del agua para eliminar los depósitos de cal que puedan afectar al sabor del café.| 10 pastillas limpiadoras y desengrasantes para eliminar residuos grasos y depósitos de café. Garantiza que se conserve el sabor de tus bebidas. (alrededor de 3 años de limpieza).| 1 cartucho de filtro para garantizar la longevidad de tu máquina. Elimina todos los rastros de cal para obtener agua purificada y un café más sabroso",
+    "url": "https://www.tefalstore.cl/kit-limpieza-krups/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205549/1600005026-1.jpg?v=639035775726370000",
+    "skus": [
+      {
+        "sku_id": "165",
+        "sku_name": "Kit Limpieza Krups",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205549/1600005026-1.jpg?v=639035775726370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 29990.0,
+    "list_price": 29990.0,
+    "on_sale": false
+  },
+  {
     "name": "Mango Ingenio",
     "reference": "2100125708",
     "brand": "Tefal",
@@ -3969,27 +3990,6 @@
     "on_sale": false
   },
   {
-    "name": "Set 2 Mini-Cocotte Air 11 cm",
-    "reference": "2100127042",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Solo apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
-    "url": "https://www.tefalstore.cl/tefal-set-2-mini-cocotte-11-cm-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201232/2100127042.png?v=639228385763100000",
-    "skus": [
-      {
-        "sku_id": "199",
-        "sku_name": "Set 2 Mini-Cocotte Air 11 cm",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/201232/2100127042.png?v=639228385763100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 39990.0,
-    "list_price": 39990.0,
-    "on_sale": false
-  },
-  {
     "name": "Vaporera Cuisine Companion XL",
     "reference": "8000035584",
     "brand": "Moulinex",
@@ -4008,27 +4008,6 @@
     "country": "Chile",
     "price": 99990.0,
     "list_price": 99990.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sartén 30 cm Super Cook",
-    "reference": "2100123987",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.| Posee una base difusora que permite una conducción perfecta de calor. | No solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el  nuevo sistema Thermo-Signal,   indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos. |Compatible con todo tipo de cocinas, excepto inducción.",
-    "url": "https://www.tefalstore.cl/tefal-sarten-30-cm-super-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205577/super-cook1.jpg?v=639077987284200000",
-    "skus": [
-      {
-        "sku_id": "370",
-        "sku_name": "Sartén 30 cm Aluminio Super Cook Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205577/super-cook1.jpg?v=639077987284200000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 21990.0,
-    "list_price": 21990.0,
     "on_sale": false
   },
   {
