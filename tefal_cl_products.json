@@ -84,27 +84,6 @@
     "on_sale": true
   },
   {
-    "name": "Aniversario 70 Años Tefal",
-    "reference": "MKT_ARTICULO_VIRTUAL",
-    "brand": "Tefal",
-    "category": "Accesorios",
-    "description": "Un Regalo Excepcional para celebrar el aniversario de 70 Años de nuestra marca Tefal",
-    "url": "https://www.tefalstore.cl/regalo-aniversario-70-años-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000",
-    "skus": [
-      {
-        "sku_id": "419",
-        "sku_name": "Aniversario 70 Años Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 1.0,
-    "list_price": 1.0,
-    "on_sale": false
-  },
-  {
     "name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
     "reference": "2100140795",
     "brand": "Tefal",
@@ -525,27 +504,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Espresso Full Auto Sensation Milk + Kit Accesorios",
-    "reference": "8010001435",
-    "brand": "Krups",
-    "category": "Cafeteras Automáticas",
-    "description": "SABOR PERFECTO: 6 bebidas únicas de café y latte elaboradas con granos de café recién molidos, optimizadas por las tecnologías Barista Inside y Milk Maestro para garantizar una calidad excepcional.|\nTECNOLOGÍA MILK MAESTRO: Máquina de café automática equipada con tecnología exclusiva que ofrece espuma caliente perfecta con solo un toque—para preparar cafés y lattes con calidad de barista de forma sencilla.|\nFÁCIL DE USAR Y PERSONALIZAR: Selección directa de bebidas y acceso sencillo a los ajustes—elige el volumen, la intensidad y la cantidad de espuma caliente, desde ligera hasta generosa.|\nFÁCIL DE LIMPIAR: Proceso de limpieza automática completo tres veces al año con pastilla limpiadora, para una limpieza sin esfuerzo.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—como parte de nuestro compromiso con el medio ambiente y la reducción de residuos.|\n100 % APTA PARA LAVAVAJILLAS: Además de la limpieza automática, todas las piezas del recipiente de leche son desmontables y aptas para lavavajillas, lo que garantiza una limpieza sencilla, higiene perfecta y resultados deliciosos—taza tras taza.|\nMANTENIMIENTO FÁCIL: La cafetera automática te guía mediante alertas luminosas.|\nDISEÑO COMPACTO: Diseño que ahorra espacio y se adapta discretamente a cualquier lugar.|\nCONTENIDO DE LA CAJA: Máquina de café automática Sensation Milk, recipiente de leche Milk Maestro, 10 pastillas limpiadoras, 4 descalcificadores, 2 cartuchos de filtro.",
-    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-full-auto-sensation-milk---kit-accesorios/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205615/01-portada.png?v=639051227130100000",
-    "skus": [
-      {
-        "sku_id": "376",
-        "sku_name": "Cafetera Espresso Full Auto Sensation Milk + Kit Accesorios",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205615/01-portada.png?v=639051227130100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 549990.0,
-    "list_price": 699990.0,
-    "on_sale": true
-  },
-  {
     "name": "Aspiradora Trapeadora X - Clean 4 Rowenta",
     "reference": "2211401351",
     "brand": "Rowenta",
@@ -837,27 +795,6 @@
     "country": "Chile",
     "price": 22990.0,
     "list_price": 29990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Olla Cocotte Air 24 cm",
-    "reference": "2100127041",
-    "brand": "Tefal",
-    "category": "Ollas",
-    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
-    "url": "https://www.tefalstore.cl/tefal-olla-cocotte-24-cm-roja/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000",
-    "skus": [
-      {
-        "sku_id": "197",
-        "sku_name": "Olla Cocotte Air 24 cm",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 44990.0,
-    "list_price": 62990.0,
     "on_sale": true
   },
   {
@@ -1194,6 +1131,27 @@
     "country": "Chile",
     "price": 84990.0,
     "list_price": 129990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera Espresso Full Auto Sensation Milk + Kit Accesorios",
+    "reference": "8010001435",
+    "brand": "Krups",
+    "category": "Cafeteras Automáticas",
+    "description": "SABOR PERFECTO: 6 bebidas únicas de café y latte elaboradas con granos de café recién molidos, optimizadas por las tecnologías Barista Inside y Milk Maestro para garantizar una calidad excepcional.|\nTECNOLOGÍA MILK MAESTRO: Máquina de café automática equipada con tecnología exclusiva que ofrece espuma caliente perfecta con solo un toque—para preparar cafés y lattes con calidad de barista de forma sencilla.|\nFÁCIL DE USAR Y PERSONALIZAR: Selección directa de bebidas y acceso sencillo a los ajustes—elige el volumen, la intensidad y la cantidad de espuma caliente, desde ligera hasta generosa.|\nFÁCIL DE LIMPIAR: Proceso de limpieza automática completo tres veces al año con pastilla limpiadora, para una limpieza sin esfuerzo.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—como parte de nuestro compromiso con el medio ambiente y la reducción de residuos.|\n100 % APTA PARA LAVAVAJILLAS: Además de la limpieza automática, todas las piezas del recipiente de leche son desmontables y aptas para lavavajillas, lo que garantiza una limpieza sencilla, higiene perfecta y resultados deliciosos—taza tras taza.|\nMANTENIMIENTO FÁCIL: La cafetera automática te guía mediante alertas luminosas.|\nDISEÑO COMPACTO: Diseño que ahorra espacio y se adapta discretamente a cualquier lugar.|\nCONTENIDO DE LA CAJA: Máquina de café automática Sensation Milk, recipiente de leche Milk Maestro, 10 pastillas limpiadoras, 4 descalcificadores, 2 cartuchos de filtro.",
+    "url": "https://www.tefalstore.cl/krups-cafetera-espresso-full-auto-sensation-milk---kit-accesorios/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205615/01-portada.png?v=639051227130100000",
+    "skus": [
+      {
+        "sku_id": "376",
+        "sku_name": "Cafetera Espresso Full Auto Sensation Milk + Kit Accesorios",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205615/01-portada.png?v=639051227130100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 549990.0,
+    "list_price": 699990.0,
     "on_sale": true
   },
   {
@@ -1656,6 +1614,27 @@
     "country": "Chile",
     "price": 49990.0,
     "list_price": 72990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Olla Cocotte Air 24 cm",
+    "reference": "2100127041",
+    "brand": "Tefal",
+    "category": "Ollas",
+    "description": "Hecha de aluminio fundido resistente, es un 60 % más liviana que las ollas de hierro fundido tradicionales de Tefal para un uso diario conveniente que va directamente de la cocina a la mesa.| Descubre una olla  cocotte que es muy fácil de limpiar, gracias a un diseño apto para lavavajillas. | ¡Compatible con todas las estufas y apto para horno, también cuenta con una tapa de condensación para obtener resultados tiernos y jugosos y una variedad infinita de recetas!",
+    "url": "https://www.tefalstore.cl/tefal-olla-cocotte-24-cm-roja/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000",
+    "skus": [
+      {
+        "sku_id": "197",
+        "sku_name": "Olla Cocotte Air 24 cm",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/202604/2100127041.png?v=638784418221430000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 44990.0,
+    "list_price": 62990.0,
     "on_sale": true
   },
   {
@@ -3154,7 +3133,7 @@
     "reference": "2100124840",
     "brand": "Tefal",
     "category": "Sartenes y Woks",
-    "description": "Descubre el sartén perfecto: la gama XL Intense de Tefal ha sido diseñada para satisfacer tus necesidades diarias en la cocina, combinando un rendimiento de larga duración con una gran capacidad para preparar cantidades abundantes de comida. | Tefal pone todo lo que necesitas para preparar unos platos deliciosos y saludables al alcance de tu mano: un revestimiento antiadherente Titanium x2 altamente resistente, una durabilidad excepcional, así como un menaje de cocina respetuoso con el medioambiente gracias al ahorro de energía durante la cocción y de agua durante su limpieza. | Gracias a la tecnología Thermo-Signal™, podrás obtener resultados exquisitos sin necesidad de ser un experto en la cocina, y la base difusora del calor garantiza una cocción perfectamente homogénea. Todo ello, en un formato XL de gran capacidad. | Este sartén fácil de usar aportará un toque saludable a tus comidas diarias: prepara un pollo a la plancha para una deliciosa ensalada César, unas quesadillas irresistibles, unos huevos revueltos para tus brunch de domingo y mucho más. XL Intense te ofrece una cocina casera versátil y saludable, sin dejar de lado el sabor.",
+    "description": "Descubre el sartén perfecto: la gama XL Intense de Tefal ha sido diseñada para satisfacer tus necesidades diarias en la cocina, combinando un rendimiento de larga duración con una gran capacidad para preparar cantidades abundantes de comida. | Tefal pone todo lo que necesitas para preparar unos platos deliciosos y saludables al alcance de tu mano: un revestimiento antiadherente Titanium x2 altamente resistente, una durabilidad excepcional, así como un menaje de cocina respetuoso con el medioambiente gracias al ahorro de energía durante la cocción y de agua durante su limpieza. | Gracias a la tecnología Thermo-Signal, podrás obtener resultados exquisitos sin necesidad de ser un experto en la cocina, y la base difusora del calor garantiza una cocción perfectamente homogénea. Todo ello, en un formato XL de gran capacidad. | Este sartén fácil de usar aportará un toque saludable a tus comidas diarias: prepara un pollo a la plancha para una deliciosa ensalada César, unas quesadillas irresistibles, unos huevos revueltos para tus brunch de domingo y mucho más. XL Intense te ofrece una cocina casera versátil y saludable, sin dejar de lado el sabor.",
     "url": "https://www.tefalstore.cl/tefal-sarten-28-cm-xl-intense/p",
     "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206453/2100121068-01.jpg?v=639241507009730000",
     "skus": [
@@ -3399,27 +3378,6 @@
     "country": "Chile",
     "price": 39990.0,
     "list_price": 59990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Licuadora Powermix 8V + Pulse 550W Moulinex",
-    "reference": "5861031867",
-    "brand": "Moulinex",
-    "category": "Licuadoras",
-    "description": "Tritura hasta los ingredientes más duros. | Cuenta con sistema Facilic el cual asegura que el vaso se ajuste 100% a la base. | 8 velocidades con función de pulso para obtener diferentes consistencias en todas tus preparaciones. | Jarra de vidrio de 1,75 litros la cual permitirá que tus preparaciones queden mezcladas de manera perfecta. | Gran potencia de 550W permite una mayor eficiencia y mejores resultados",
-    "url": "https://www.tefalstore.cl/moulinex-licuadora-powermix-8v/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205174/5861031867-01.jpg?v=638932188482370000",
-    "skus": [
-      {
-        "sku_id": "130",
-        "sku_name": "Licuadora Powermix 8V + Pulse 550W",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205174/5861031867-01.jpg?v=638932188482370000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 27990.0,
-    "list_price": 37990.0,
     "on_sale": true
   },
   {
@@ -3801,6 +3759,27 @@
     "on_sale": true
   },
   {
+    "name": "Licuadora Powermix 8V + Pulse 550W Moulinex",
+    "reference": "5861031867",
+    "brand": "Moulinex",
+    "category": "Licuadoras",
+    "description": "Tritura hasta los ingredientes más duros. | Cuenta con sistema Facilic el cual asegura que el vaso se ajuste 100% a la base. | 8 velocidades con función de pulso para obtener diferentes consistencias en todas tus preparaciones. | Jarra de vidrio de 1,75 litros la cual permitirá que tus preparaciones queden mezcladas de manera perfecta. | Gran potencia de 550W permite una mayor eficiencia y mejores resultados",
+    "url": "https://www.tefalstore.cl/moulinex-licuadora-powermix-8v/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205174/5861031867-01.jpg?v=638932188482370000",
+    "skus": [
+      {
+        "sku_id": "130",
+        "sku_name": "Licuadora Powermix 8V + Pulse 550W",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205174/5861031867-01.jpg?v=638932188482370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 27990.0,
+    "list_price": 37990.0,
+    "on_sale": true
+  },
+  {
     "name": "Freidora de Aire Easy Fry Deluxe 4,2L Moulinex",
     "reference": "1510001540",
     "brand": "Moulinex",
@@ -3906,27 +3885,6 @@
     "on_sale": false
   },
   {
-    "name": "Batería de cocina Antiadherente Super Cook 5 PCS Tefal",
-    "reference": "2100124203",
-    "brand": "Tefal",
-    "category": "Baterías de Cocina",
-    "description": "\"La línea Super Cook de Tefal, posee una base difusora que permite una conducción perfecta de calor. |\nAntiadherente de titanio de larga duración, cuyo beneficio es la resistencia a las rayaduras.|\nTecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos para cocinar garantizando mantener sus nutrientes, vitaminas y minerales.|\nCuenta con mango ergonómico para una fácil manipulación de la olla y con tapa de vidrio para una cocción rápida de tus alimentos.|\nCompatible con todas las cocinas, excepto inducción.|\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nEste set de 5 piezas, está compuesto por: Sartenes 20/24 cm/ Olla 24 cm + tapa/ Espátula.\"",
-    "url": "https://www.tefalstore.cl/tefal-set-5-piezas-super-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204374/foto-1-bateria-5-piezas-super-cook.jpg?v=638863695428530000",
-    "skus": [
-      {
-        "sku_id": "294",
-        "sku_name": "Bateria de cocina Antiadherente Super Cook 5 PCS",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204374/foto-1-bateria-5-piezas-super-cook.jpg?v=638863695428530000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 79990.0,
-    "list_price": 79990.0,
-    "on_sale": false
-  },
-  {
     "name": "Lechero Krups + Accesorio Capuccino",
     "reference": "1600007276",
     "brand": "Krups",
@@ -4029,6 +3987,27 @@
     "country": "Chile",
     "price": 46990.0,
     "list_price": 46990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Batería de cocina Antiadherente Super Cook 5 PCS Tefal",
+    "reference": "2100124203",
+    "brand": "Tefal",
+    "category": "Baterías de Cocina",
+    "description": "\"La línea Super Cook de Tefal, posee una base difusora que permite una conducción perfecta de calor. |\nAntiadherente de titanio de larga duración, cuyo beneficio es la resistencia a las rayaduras.|\nTecnología Thermo-Signal, indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos para cocinar garantizando mantener sus nutrientes, vitaminas y minerales.|\nCuenta con mango ergonómico para una fácil manipulación de la olla y con tapa de vidrio para una cocción rápida de tus alimentos.|\nCompatible con todas las cocinas, excepto inducción.|\nTodos nuestros antiadherentes son libres de PFOA, cadmio y plomo.|\nEste set de 5 piezas, está compuesto por: Sartenes 20/24 cm/ Olla 24 cm + tapa/ Espátula.\"",
+    "url": "https://www.tefalstore.cl/tefal-set-5-piezas-super-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204374/foto-1-bateria-5-piezas-super-cook.jpg?v=638863695428530000",
+    "skus": [
+      {
+        "sku_id": "294",
+        "sku_name": "Bateria de cocina Antiadherente Super Cook 5 PCS",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/204374/foto-1-bateria-5-piezas-super-cook.jpg?v=638863695428530000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 79990.0,
+    "list_price": 79990.0,
     "on_sale": false
   },
   {
