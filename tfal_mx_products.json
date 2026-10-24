@@ -42,27 +42,6 @@
     "on_sale": true
   },
   {
-    "name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
-    "reference": "9100057309",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/empaque-junta-para-ollas-de-presion-de-aluminio-de-12--16-y-22-litros-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159409/9100057309_SS-7129901057M_EMPOAPALU121622-01-.jpg?v=639119678273700000",
-    "skus": [
-      {
-        "sku_id": "1086",
-        "sku_name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159409/9100057309_SS-7129901057M_EMPOAPALU121622-01-.jpg?v=639119678273700000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 69.0,
-    "list_price": 69.0,
-    "on_sale": false
-  },
-  {
     "name": "Jarra para cafetera CM223DMX original de repuesto",
     "reference": "9100036277",
     "brand": "T-fal",
@@ -81,6 +60,27 @@
     "country": "México",
     "price": 139.0,
     "list_price": 139.0,
+    "on_sale": false
+  },
+  {
+    "name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
+    "reference": "9100057309",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/empaque-junta-para-ollas-de-presion-de-aluminio-de-12--16-y-22-litros-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159409/9100057309_SS-7129901057M_EMPOAPALU121622-01-.jpg?v=639119678273700000",
+    "skus": [
+      {
+        "sku_id": "1086",
+        "sku_name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159409/9100057309_SS-7129901057M_EMPOAPALU121622-01-.jpg?v=639119678273700000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 69.0,
+    "list_price": 69.0,
     "on_sale": false
   },
   {
@@ -273,6 +273,27 @@
     "on_sale": true
   },
   {
+    "name": "Tapa para cafetera compatible de repuesto universal",
+    "reference": "9100036276",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/tapa-para-cafetera-compatible-de-repuesto-universal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000",
+    "skus": [
+      {
+        "sku_id": "1106",
+        "sku_name": "Tapa para cafetera compatible de repuesto universal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 59.0,
+    "list_price": 59.0,
+    "on_sale": false
+  },
+  {
     "name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
     "reference": "5861036615",
     "brand": "T-fal",
@@ -396,27 +417,6 @@
     "country": "México",
     "price": 3199.0,
     "list_price": 3199.0,
-    "on_sale": false
-  },
-  {
-    "name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
-    "reference": "3110600762",
-    "brand": "T-fal",
-    "category": "Contenedores de vidrio y plástico",
-    "description": "* El set de 3 contenedores de vidrio Master Seal Glass de 0.450L está diseñado con silicón inyectado para máxima seguridad contra derrames y conservación eficaz de tus alimentos. \n* Estos contenedores de vidrio son ideales para un almacenamiento duradero. \n* Ofreciendo una gran resistencia y manteniendo tus alimentos frescos por más tiempo. \n* Gracias a su cierre hermético. \n* Estos recipientes se convierten en una herramienta esencial para mejorar la organización y garantizar la frescura en tu cocina.",
-    "url": "https://www.t-fal.com.mx/set-de-3-contenedores-de-vidrio-0-450-l-master-seal-glass/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000",
-    "skus": [
-      {
-        "sku_id": "986",
-        "sku_name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 669.0,
-    "list_price": 669.0,
     "on_sale": false
   },
   {
@@ -606,27 +606,6 @@
     "country": "México",
     "price": 2999.0,
     "list_price": 2999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Tapa para cafetera compatible de repuesto universal",
-    "reference": "9100036276",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/tapa-para-cafetera-compatible-de-repuesto-universal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000",
-    "skus": [
-      {
-        "sku_id": "1106",
-        "sku_name": "Tapa para cafetera compatible de repuesto universal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 59.0,
-    "list_price": 59.0,
     "on_sale": false
   },
   {
@@ -1194,6 +1173,27 @@
     "country": "México",
     "price": 3499.0,
     "list_price": 3499.0,
+    "on_sale": false
+  },
+  {
+    "name": "Mini Procesador de Alimentos Actimix",
+    "reference": "8010001453",
+    "brand": "T-fal",
+    "category": "Licuadoras personales",
+    "description": "* MÁXIMA VERSATILIDAD: el Actimix reúne licuadora, procesador, batidora y molinillo en un solo producto, ofreciendo un sinfín de opciones para tus recetas.<br> * ACCESORIOS DE ALTO RENDIMIENTO: cuenta con una licuadora de 0,75 L, un vaso para llevar que también funciona como batidora, un miniprocesador y un molinillo para diversos usos.<br> * RESULTADOS PERFECTOS: excelente para preparar guacamole, pico de gallo, hummus y otras salsas, así como batidos deliciosos y nutritivos para tu día.<br> * CALIDAD DURADERA: fabricada con un cuerpo de acero inoxidable, asegura un rendimiento duradero y seguro, con un sistema de cierre de un cuarto de vuelta.<br> * FACILIDAD DE USO: la licuadora Actimix se controla con un solo botón, haciéndola perfecta para dominar una variedad de recetas de manera fácil y rápida.",
+    "url": "https://www.t-fal.com.mx/mini-procesador-de-alimentos-actimix-1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159789/8010001453_BL1BK8X0_PLB-ACTIMIX-BLACK-120V-MX-01.webp?v=639155996194900000",
+    "skus": [
+      {
+        "sku_id": "1117",
+        "sku_name": "Mini Procesador de Alimentos Actimix",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159789/8010001453_BL1BK8X0_PLB-ACTIMIX-BLACK-120V-MX-01.webp?v=639155996194900000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1399.0,
+    "list_price": 1399.0,
     "on_sale": false
   },
   {
@@ -2940,6 +2940,27 @@
     "on_sale": false
   },
   {
+    "name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
+    "reference": "3110600762",
+    "brand": "T-fal",
+    "category": "Contenedores de vidrio y plástico",
+    "description": "* El set de 3 contenedores de vidrio Master Seal Glass de 0.450L está diseñado con silicón inyectado para máxima seguridad contra derrames y conservación eficaz de tus alimentos. \n* Estos contenedores de vidrio son ideales para un almacenamiento duradero. \n* Ofreciendo una gran resistencia y manteniendo tus alimentos frescos por más tiempo. \n* Gracias a su cierre hermético. \n* Estos recipientes se convierten en una herramienta esencial para mejorar la organización y garantizar la frescura en tu cocina.",
+    "url": "https://www.t-fal.com.mx/set-de-3-contenedores-de-vidrio-0-450-l-master-seal-glass/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000",
+    "skus": [
+      {
+        "sku_id": "986",
+        "sku_name": "Set de 3 contenedores de vidrio 0.450 L Master Seal Glass",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158255/3110600762_N1051110_SET-3PZS-.450L-MASTERSEAL-GLASS--1-.jpg?v=638962972511670000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 669.0,
+    "list_price": 669.0,
+    "on_sale": false
+  },
+  {
     "name": "Batidora de Inmersión Daily Chef",
     "reference": "7211419771",
     "brand": "T-fal",
@@ -3945,27 +3966,6 @@
     "country": "México",
     "price": null,
     "list_price": null,
-    "on_sale": false
-  },
-  {
-    "name": "Mini Procesador de Alimentos Actimix",
-    "reference": "8010001453",
-    "brand": "T-fal",
-    "category": "Licuadoras personales",
-    "description": "* MÁXIMA VERSATILIDAD: el Actimix reúne licuadora, procesador, batidora y molinillo en un solo producto, ofreciendo un sinfín de opciones para tus recetas.<br> * ACCESORIOS DE ALTO RENDIMIENTO: cuenta con una licuadora de 0,75 L, un vaso para llevar que también funciona como batidora, un miniprocesador y un molinillo para diversos usos.<br> * RESULTADOS PERFECTOS: excelente para preparar guacamole, pico de gallo, hummus y otras salsas, así como batidos deliciosos y nutritivos para tu día.<br> * CALIDAD DURADERA: fabricada con un cuerpo de acero inoxidable, asegura un rendimiento duradero y seguro, con un sistema de cierre de un cuarto de vuelta.<br> * FACILIDAD DE USO: la licuadora Actimix se controla con un solo botón, haciéndola perfecta para dominar una variedad de recetas de manera fácil y rápida.",
-    "url": "https://www.t-fal.com.mx/mini-procesador-de-alimentos-actimix-1/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159789/8010001453_BL1BK8X0_PLB-ACTIMIX-BLACK-120V-MX-01.webp?v=639155996194900000",
-    "skus": [
-      {
-        "sku_id": "1117",
-        "sku_name": "Mini Procesador de Alimentos Actimix",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159789/8010001453_BL1BK8X0_PLB-ACTIMIX-BLACK-120V-MX-01.webp?v=639155996194900000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1399.0,
-    "list_price": 1399.0,
     "on_sale": false
   },
   {
