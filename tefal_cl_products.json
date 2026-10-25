@@ -1890,6 +1890,27 @@
     "on_sale": true
   },
   {
+    "name": "Jarra Térmica Ponza 1,9L Gris Tefal",
+    "reference": "3100518604",
+    "brand": "Tefal",
+    "category": "Contenedores de Alimentos y Bebidas",
+    "description": "Termo de aire ultra moderno y elegante para servir café a grupos grandes|\nTecnología Comfort Press que permite servir sin esfuerzo, con un volumen generoso por bombeo para controlar fácilmente la cantidad|\nEstética versátil y estilizada que se adapta perfectamente a cualquier entorno|\nCaracterísticas prácticas para facilitar la limpieza, el llenado, el transporte y el almacenamiento, incluyendo bandeja antigoteo removible y asa de fácil agarre|\nMantiene las bebidas a la temperatura ideal: líquidos calientes hasta por 12 horas y fríos hasta por 24 horas|\nCapacidad perfecta de 1,9 litros, ideal para una amplia variedad de ocasiones",
+    "url": "https://www.tefalstore.cl/jarra-termica-ponza-1-9l-gris-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205318/01-portada-2.png?v=638953698773100000",
+    "skus": [
+      {
+        "sku_id": "360",
+        "sku_name": "Termo Sifón Ponza 1,9L Gris Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205318/01-portada-2.png?v=638953698773100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24990.0,
+    "list_price": 33490.0,
+    "on_sale": true
+  },
+  {
     "name": "Cepillo de aire caliente y Secador de pelo 2 en 1 Reverso Negro Rowenta",
     "reference": "1830009168",
     "brand": "Rowenta",
@@ -2623,27 +2644,6 @@
     "price": 29990.0,
     "list_price": 29990.0,
     "on_sale": false
-  },
-  {
-    "name": "Jarra Térmica Ponza 1,9L Gris Tefal",
-    "reference": "3100518604",
-    "brand": "Tefal",
-    "category": "Contenedores de Alimentos y Bebidas",
-    "description": "Termo de aire ultra moderno y elegante para servir café a grupos grandes|\nTecnología Comfort Press que permite servir sin esfuerzo, con un volumen generoso por bombeo para controlar fácilmente la cantidad|\nEstética versátil y estilizada que se adapta perfectamente a cualquier entorno|\nCaracterísticas prácticas para facilitar la limpieza, el llenado, el transporte y el almacenamiento, incluyendo bandeja antigoteo removible y asa de fácil agarre|\nMantiene las bebidas a la temperatura ideal: líquidos calientes hasta por 12 horas y fríos hasta por 24 horas|\nCapacidad perfecta de 1,9 litros, ideal para una amplia variedad de ocasiones",
-    "url": "https://www.tefalstore.cl/jarra-termica-ponza-1-9l-gris-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205318/01-portada-2.png?v=638953698773100000",
-    "skus": [
-      {
-        "sku_id": "360",
-        "sku_name": "Termo Sifón Ponza 1,9L Gris Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205318/01-portada-2.png?v=638953698773100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 33490.0,
-    "on_sale": true
   },
   {
     "name": "Alisador de pelo Thermocare 5 Niveles Rowenta",
