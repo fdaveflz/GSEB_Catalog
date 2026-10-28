@@ -84,6 +84,27 @@
     "on_sale": true
   },
   {
+    "name": "Aniversario 70 Años Tefal",
+    "reference": "MKT_ARTICULO_VIRTUAL",
+    "brand": "Tefal",
+    "category": "Accesorios",
+    "description": "Un Regalo Excepcional para celebrar el aniversario de 70 Años de nuestra marca Tefal",
+    "url": "https://www.tefalstore.cl/regalo-aniversario-70-años-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000",
+    "skus": [
+      {
+        "sku_id": "419",
+        "sku_name": "Aniversario 70 Años Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/206541/logo-70-años-rojo-v1.png?v=639275112457370000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 1.0,
+    "list_price": 1.0,
+    "on_sale": false
+  },
+  {
     "name": "Bateria De Cocina Ceramica Antiadherente Bright 7 PCS Beige Tefal",
     "reference": "2100140795",
     "brand": "Tefal",
@@ -1176,27 +1197,6 @@
     "on_sale": true
   },
   {
-    "name": "Hervidor Morning 1,7LT Gris Moulinex",
-    "reference": "7211419024",
-    "brand": "Moulinex",
-    "category": "Hervidores",
-    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas. |\nLA CANTIDAD PERFECTA: Indicador de nivel de agua fácil de leer, con señalización para una taza, ideal para preparar la cantidad justa de té. |\nFÁCIL DE USAR: Apertura automática con una sola mano para un vertido práctico, además de un diseño ancho que facilita el llenado y la limpieza. |\nAGUA MÁS PURA: Filtro antisarro removible que mejora la calidad del agua y el sabor de tus bebidas, y que además se limpia fácilmente. |\nREPARABILIDAD POR 15 AÑOS A PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de servicio en todo el mundo para extender su vida útil. |\nGRAN CAPACIDAD: Hervidor eléctrico con una capacidad de 1,7 L, ideal para satisfacer las necesidades de toda la familia. |\nEBULLICIÓN RÁPIDA: Potencia de 2400 W para hervir el agua en poco tiempo y disfrutar de bebidas calientes en un instante. |\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme y accesible desde cualquier ángulo. |\nTRANQUILIDAD TOTAL: Función de apagado automático para mayor seguridad y uso sin preocupaciones.",
-    "url": "https://www.tefalstore.cl/hervidor-morning-1-7lt-gris-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205252/proyecto-nuevo-31.png?v=638941730323030000",
-    "skus": [
-      {
-        "sku_id": "351",
-        "sku_name": "Hervidor Morning 1,7 L Gris",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205252/proyecto-nuevo-31.png?v=638941730323030000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 22990.0,
-    "list_price": 39990.0,
-    "on_sale": true
-  },
-  {
     "name": "Freidora de Aire Easy Fry XL Surface 4L Moulinex",
     "reference": "1510002932",
     "brand": "Moulinex",
@@ -1425,6 +1425,27 @@
     "country": "Chile",
     "price": 69990.0,
     "list_price": 119990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Lechero Krups + Accesorio Capuccino",
+    "reference": "1600007276",
+    "brand": "Krups",
+    "category": "Accesorios Cafeteras",
+    "description": "\"¡Disfruta de un capuccino perfecto! Este accesorio te permitirá calentar, espumar y entregar directamente en tu taza una espuma de leche perfecta sin manipulación manual para preparar capuccinos o cafés con leche perfectos.|\nDos posiciones para obtener leche caliente o espuma de leche.|\nCompatible con Essential Display negra y Essential Display manual. Capacidad 600 ml\"",
+    "url": "https://www.tefalstore.cl/lechero-krups---accesorio-capuccino-/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205335/foto-lechero.jpg?v=638957213652600000",
+    "skus": [
+      {
+        "sku_id": "293",
+        "sku_name": "Lechero Krups + Accesorio Capuccino",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205335/foto-lechero.jpg?v=638957213652600000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 39990.0,
+    "list_price": 49990.0,
     "on_sale": true
   },
   {
@@ -1890,27 +1911,6 @@
     "on_sale": true
   },
   {
-    "name": "Jarra Térmica Ponza 1,9L Gris Tefal",
-    "reference": "3100518604",
-    "brand": "Tefal",
-    "category": "Contenedores de Alimentos y Bebidas",
-    "description": "Termo de aire ultra moderno y elegante para servir café a grupos grandes|\nTecnología Comfort Press que permite servir sin esfuerzo, con un volumen generoso por bombeo para controlar fácilmente la cantidad|\nEstética versátil y estilizada que se adapta perfectamente a cualquier entorno|\nCaracterísticas prácticas para facilitar la limpieza, el llenado, el transporte y el almacenamiento, incluyendo bandeja antigoteo removible y asa de fácil agarre|\nMantiene las bebidas a la temperatura ideal: líquidos calientes hasta por 12 horas y fríos hasta por 24 horas|\nCapacidad perfecta de 1,9 litros, ideal para una amplia variedad de ocasiones",
-    "url": "https://www.tefalstore.cl/jarra-termica-ponza-1-9l-gris-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205318/01-portada-2.png?v=638953698773100000",
-    "skus": [
-      {
-        "sku_id": "360",
-        "sku_name": "Termo Sifón Ponza 1,9L Gris Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205318/01-portada-2.png?v=638953698773100000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 33490.0,
-    "on_sale": true
-  },
-  {
     "name": "Cepillo de aire caliente y Secador de pelo 2 en 1 Reverso Negro Rowenta",
     "reference": "1830009168",
     "brand": "Rowenta",
@@ -1950,6 +1950,27 @@
     "country": "Chile",
     "price": 99990.0,
     "list_price": 179990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Hervidor Morning 1,7LT Gris Moulinex",
+    "reference": "7211419024",
+    "brand": "Moulinex",
+    "category": "Hervidores",
+    "description": "DISEÑO ATRACTIVO: Una silueta moderna, suave y acogedora que aporta un toque de estilo a tus mañanas. |\nLA CANTIDAD PERFECTA: Indicador de nivel de agua fácil de leer, con señalización para una taza, ideal para preparar la cantidad justa de té. |\nFÁCIL DE USAR: Apertura automática con una sola mano para un vertido práctico, además de un diseño ancho que facilita el llenado y la limpieza. |\nAGUA MÁS PURA: Filtro antisarro removible que mejora la calidad del agua y el sabor de tus bebidas, y que además se limpia fácilmente. |\nREPARABILIDAD POR 15 AÑOS A PRECIO JUSTO: Recomendamos reparar tu producto en nuestra red de 6.200 centros de servicio en todo el mundo para extender su vida útil. |\nGRAN CAPACIDAD: Hervidor eléctrico con una capacidad de 1,7 L, ideal para satisfacer las necesidades de toda la familia. |\nEBULLICIÓN RÁPIDA: Potencia de 2400 W para hervir el agua en poco tiempo y disfrutar de bebidas calientes en un instante. |\nPRÁCTICO: Base giratoria de 360° que mantiene el hervidor inalámbrico firme y accesible desde cualquier ángulo. |\nTRANQUILIDAD TOTAL: Función de apagado automático para mayor seguridad y uso sin preocupaciones.",
+    "url": "https://www.tefalstore.cl/hervidor-morning-1-7lt-gris-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205252/proyecto-nuevo-31.png?v=638941730323030000",
+    "skus": [
+      {
+        "sku_id": "351",
+        "sku_name": "Hervidor Morning 1,7 L Gris",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205252/proyecto-nuevo-31.png?v=638941730323030000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 22990.0,
+    "list_price": 39990.0,
     "on_sale": true
   },
   {
@@ -2223,48 +2244,6 @@
     "country": "Chile",
     "price": 59990.0,
     "list_price": 89990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Freidora de aire Easy Fry & Grill Digital Dual 8,3L Moulinex",
-    "reference": "1510002391",
-    "brand": "Moulinex",
-    "category": "Air Fryers",
-    "description": "Prepara una comida completa de una sola vez, gracias a la gran capacidad de Easy Fry & Grill de 8.3L con dos gabetas, una con capacidad de 5,2L perfecta para cocinar carnes, pollos y  pescados y otra de 3,1L para un rico acompañamiento como papas crujientes, verduras asadas y más. |\nDisfruta de las 8 funciones preestablecidos para cocinar papas fritas, pollo, verduras, pescado, postres, deshidratar, modo manual y modo sync para tener lista dos comidas al mismo tiempo| incluye una exclusiva rejilla grill  para cocinar  deliciosas carnes y pollo a la parrilla.",
-    "url": "https://www.tefalstore.cl/moulinex-freidora-de-aire-easy-fry---grill-dual-8-3l/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205219/foto1-dual.png?v=638941536280200000",
-    "skus": [
-      {
-        "sku_id": "296",
-        "sku_name": "Freidora de aire Easy Fry & Grill Digital Dual 8,3L",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205219/foto1-dual.png?v=638941536280200000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 139990.0,
-    "list_price": 219990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Lechero Krups + Accesorio Capuccino",
-    "reference": "1600007276",
-    "brand": "Krups",
-    "category": "Accesorios Cafeteras",
-    "description": "\"¡Disfruta de un capuccino perfecto! Este accesorio te permitirá calentar, espumar y entregar directamente en tu taza una espuma de leche perfecta sin manipulación manual para preparar capuccinos o cafés con leche perfectos.|\nDos posiciones para obtener leche caliente o espuma de leche.|\nCompatible con Essential Display negra y Essential Display manual. Capacidad 600 ml\"",
-    "url": "https://www.tefalstore.cl/lechero-krups---accesorio-capuccino-/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205335/foto-lechero.jpg?v=638957213652600000",
-    "skus": [
-      {
-        "sku_id": "293",
-        "sku_name": "Lechero Krups + Accesorio Capuccino",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205335/foto-lechero.jpg?v=638957213652600000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 39990.0,
-    "list_price": 49990.0,
     "on_sale": true
   },
   {
@@ -2709,6 +2688,48 @@
     "on_sale": false
   },
   {
+    "name": "Jarra Térmica Ponza 1,9L Blanco Tefal",
+    "reference": "3100518605",
+    "brand": "Tefal",
+    "category": "Contenedores de Alimentos y Bebidas",
+    "description": "Termo de aire ultra moderno y elegante para servir café a grandes grupos|\nTecnología Comfort Press que permite un servicio sin esfuerzo con un volumen generoso por bombeo, brindando control total sobre la cantidad|\nEstética versátil y estilizada que se integra perfectamente en cualquier entorno|\nCaracterísticas prácticas para facilitar la limpieza, el llenado, el transporte y el almacenamiento, incluyendo bandeja antigoteo removible y asa de fácil transporte|\nMantiene las bebidas a la temperatura perfecta: líquidos calientes hasta por 12 horas y fríos hasta por 24 horas|\nCapacidad ideal de 1,9 litros, perfecta para una amplia variedad de ocasiones\"",
+    "url": "https://www.tefalstore.cl/jarra-termica-ponza-1-9l-blanco-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205880/01.png?v=639117016796730000",
+    "skus": [
+      {
+        "sku_id": "362",
+        "sku_name": "Termo Sifón Ponza 1,9L Blanco Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205880/01.png?v=639117016796730000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24990.0,
+    "list_price": 33490.0,
+    "on_sale": true
+  },
+  {
+    "name": "Jarra Térmica Ponza 1,9L Gris Tefal",
+    "reference": "3100518604",
+    "brand": "Tefal",
+    "category": "Contenedores de Alimentos y Bebidas",
+    "description": "Termo de aire ultra moderno y elegante para servir café a grupos grandes|\nTecnología Comfort Press que permite servir sin esfuerzo, con un volumen generoso por bombeo para controlar fácilmente la cantidad|\nEstética versátil y estilizada que se adapta perfectamente a cualquier entorno|\nCaracterísticas prácticas para facilitar la limpieza, el llenado, el transporte y el almacenamiento, incluyendo bandeja antigoteo removible y asa de fácil agarre|\nMantiene las bebidas a la temperatura ideal: líquidos calientes hasta por 12 horas y fríos hasta por 24 horas|\nCapacidad perfecta de 1,9 litros, ideal para una amplia variedad de ocasiones",
+    "url": "https://www.tefalstore.cl/jarra-termica-ponza-1-9l-gris-tefal/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205318/01-portada-2.png?v=638953698773100000",
+    "skus": [
+      {
+        "sku_id": "360",
+        "sku_name": "Termo Sifón Ponza 1,9L Gris Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205318/01-portada-2.png?v=638953698773100000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 24990.0,
+    "list_price": 33490.0,
+    "on_sale": true
+  },
+  {
     "name": "Alisador de pelo Thermocare 5 Niveles Rowenta",
     "reference": "1830009197",
     "brand": "Rowenta",
@@ -2916,6 +2937,27 @@
     "country": "Chile",
     "price": 79990.0,
     "list_price": 109990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Freidora de aire Easy Fry & Grill Digital Dual 8,3L Moulinex",
+    "reference": "1510002391",
+    "brand": "Moulinex",
+    "category": "Air Fryers",
+    "description": "Prepara una comida completa de una sola vez, gracias a la gran capacidad de Easy Fry & Grill de 8.3L con dos gabetas, una con capacidad de 5,2L perfecta para cocinar carnes, pollos y  pescados y otra de 3,1L para un rico acompañamiento como papas crujientes, verduras asadas y más. |\nDisfruta de las 8 funciones preestablecidos para cocinar papas fritas, pollo, verduras, pescado, postres, deshidratar, modo manual y modo sync para tener lista dos comidas al mismo tiempo| incluye una exclusiva rejilla grill  para cocinar  deliciosas carnes y pollo a la parrilla.",
+    "url": "https://www.tefalstore.cl/moulinex-freidora-de-aire-easy-fry---grill-dual-8-3l/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205219/foto1-dual.png?v=638941536280200000",
+    "skus": [
+      {
+        "sku_id": "296",
+        "sku_name": "Freidora de aire Easy Fry & Grill Digital Dual 8,3L",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205219/foto1-dual.png?v=638941536280200000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 139990.0,
+    "list_price": 219990.0,
     "on_sale": true
   },
   {
@@ -3150,27 +3192,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén 24 cm Super Cook",
-    "reference": "2100123984",
-    "brand": "Tefal",
-    "category": "Sartenes y Woks",
-    "description": "\"La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nPosee una base difusora que permite una conducción perfecta de calor.|\nNo solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el  nuevo sistema Thermo-Signal,   indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.|\nCompatible con todo tipo de cocinas, excepto inducción.\"",
-    "url": "https://www.tefalstore.cl/tefal-sarten-24-cm-super-cook/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205573/sarten-24cm-super-cook-g6.jpg?v=639044342708970000",
-    "skus": [
-      {
-        "sku_id": "122",
-        "sku_name": "Sartén 24 cm Aluminio Super Cook Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205573/sarten-24cm-super-cook-g6.jpg?v=639044342708970000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 12990.0,
-    "list_price": 15990.0,
-    "on_sale": true
-  },
-  {
     "name": "Sartén 28 cm XL Intense",
     "reference": "2100124840",
     "brand": "Tefal",
@@ -3213,27 +3234,6 @@
     "on_sale": true
   },
   {
-    "name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
-    "reference": "8010001305",
-    "brand": "Moulinex",
-    "category": "Licuadoras",
-    "description": "LLÉVALO A TODAS PARTES: La licuadora portátil ligera, compacta y fácil de transportar, con asa de silicona suave y capacidad de 300 ml—ideal para mezclar y beber en el parque, en el gimnasio o donde quieras.|\nPOTENTE PERO SILENCIOSA: Mezcla de alto rendimiento y silenciosa—para resultados sobresalientes y sin molestias en solo 40 segundos, gracias a dos cuchillas de acero inoxidable de alta calidad.|\nMUCHO MÁS QUE BATIDOS: Más que una licuadora de batidos, prepara desde batidos de proteínas y sopas frías hasta deliciosos dips, salsas y aderezos—todos llenos de vitaminas y nutrientes.|\nFIABLE: El vaso totalmente hermético de 300 ml está diseñado en Tritan irrompible—llévalo en tu bolso con total tranquilidad.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—parte de nuestro compromiso de proteger el medioambiente y reducir residuos.|\nAUTONOMÍA DURADERA: Disfruta hasta 11 ciclos de mezcla por carga gracias a una batería de litio-ion de 1.200 mAh de alta calidad y un cable de carga incluido con conector magnético y salida USB.|\nSIN ESFUERZO: Simplemente añade tus ingredientes con un poco de agua o leche, luego presiona el botón de encendido dos veces—Lightmix se detiene automáticamente después de 40 segundos.|\nFÁCIL DE LIMPIAR: Solo llena con agua y una gota de detergente, inicia el ciclo de mezcla y listo—o para una limpieza más profunda, disfruta de cuchillas desmontables y un vaso apto para lavavajillas.|\nSEGURO: Lightmix solo funciona cuando su tapa está correctamente enroscada, garantizando total seguridad para ti y tus seres queridos.|\nQUÉ INCLUYE LA CAJA: Base del motor Lightmix con 2 cuchillas de acero inoxidable, vaso Tritan On-the-Go de 300 ml, cable de carga USB con conector magnético.",
-    "url": "https://www.tefalstore.cl/licuadora-portatil-light-mix-azul-0-3l-moulinex/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205985/mesa-de-trabajo-3.jpg?v=639143726554830000",
-    "skus": [
-      {
-        "sku_id": "403",
-        "sku_name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205985/mesa-de-trabajo-3.jpg?v=639143726554830000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 39990.0,
-    "list_price": 49990.0,
-    "on_sale": true
-  },
-  {
     "name": "Secador de Pelo Maestria For You Rowenta",
     "reference": "1830009601",
     "brand": "Rowenta",
@@ -3273,27 +3273,6 @@
     "country": "Chile",
     "price": 109990.0,
     "list_price": 169990.0,
-    "on_sale": true
-  },
-  {
-    "name": "Jarra Térmica Ponza 1,9L Blanco Tefal",
-    "reference": "3100518605",
-    "brand": "Tefal",
-    "category": "Contenedores de Alimentos y Bebidas",
-    "description": "Termo de aire ultra moderno y elegante para servir café a grandes grupos|\nTecnología Comfort Press que permite un servicio sin esfuerzo con un volumen generoso por bombeo, brindando control total sobre la cantidad|\nEstética versátil y estilizada que se integra perfectamente en cualquier entorno|\nCaracterísticas prácticas para facilitar la limpieza, el llenado, el transporte y el almacenamiento, incluyendo bandeja antigoteo removible y asa de fácil transporte|\nMantiene las bebidas a la temperatura perfecta: líquidos calientes hasta por 12 horas y fríos hasta por 24 horas|\nCapacidad ideal de 1,9 litros, perfecta para una amplia variedad de ocasiones\"",
-    "url": "https://www.tefalstore.cl/jarra-termica-ponza-1-9l-blanco-tefal/p",
-    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205880/01.png?v=639117016796730000",
-    "skus": [
-      {
-        "sku_id": "362",
-        "sku_name": "Termo Sifón Ponza 1,9L Blanco Tefal",
-        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205880/01.png?v=639117016796730000"
-      }
-    ],
-    "site": "Tefal Store Chile",
-    "country": "Chile",
-    "price": 24990.0,
-    "list_price": 33490.0,
     "on_sale": true
   },
   {
@@ -3399,6 +3378,27 @@
     "country": "Chile",
     "price": 34990.0,
     "list_price": 44990.0,
+    "on_sale": true
+  },
+  {
+    "name": "Sartén 24 cm Super Cook",
+    "reference": "2100123984",
+    "brand": "Tefal",
+    "category": "Sartenes y Woks",
+    "description": "\"La línea Super Cook de Tefal, cuenta con el exclusivo antiadherente de Titanio de larga duración, cuyo principal beneficio es su resistencia a las rayaduras.|\nPosee una base difusora que permite una conducción perfecta de calor.|\nNo solo tendrás excelentes resultados gracias a sus beneficios, también contarás con el  nuevo sistema Thermo-Signal,   indicador de temperatura de Tefal, que muestra el momento exacto en el que puedes poner tus alimentos a cocinar con lo que mantendrás los nutrientes, vitaminas y minerales de todos tus alimentos.|\nCompatible con todo tipo de cocinas, excepto inducción.\"",
+    "url": "https://www.tefalstore.cl/tefal-sarten-24-cm-super-cook/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205573/sarten-24cm-super-cook-g6.jpg?v=639044342708970000",
+    "skus": [
+      {
+        "sku_id": "122",
+        "sku_name": "Sartén 24 cm Aluminio Super Cook Tefal",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205573/sarten-24cm-super-cook-g6.jpg?v=639044342708970000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 12990.0,
+    "list_price": 15990.0,
     "on_sale": true
   },
   {
@@ -4008,6 +4008,27 @@
     "country": "Chile",
     "price": 79990.0,
     "list_price": 79990.0,
+    "on_sale": false
+  },
+  {
+    "name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
+    "reference": "8010001305",
+    "brand": "Moulinex",
+    "category": "Licuadoras",
+    "description": "LLÉVALO A TODAS PARTES: La licuadora portátil ligera, compacta y fácil de transportar, con asa de silicona suave y capacidad de 300 ml—ideal para mezclar y beber en el parque, en el gimnasio o donde quieras.|\nPOTENTE PERO SILENCIOSA: Mezcla de alto rendimiento y silenciosa—para resultados sobresalientes y sin molestias en solo 40 segundos, gracias a dos cuchillas de acero inoxidable de alta calidad.|\nMUCHO MÁS QUE BATIDOS: Más que una licuadora de batidos, prepara desde batidos de proteínas y sopas frías hasta deliciosos dips, salsas y aderezos—todos llenos de vitaminas y nutrientes.|\nFIABLE: El vaso totalmente hermético de 300 ml está diseñado en Tritan irrompible—llévalo en tu bolso con total tranquilidad.|\nREPARABILIDAD DE 15 AÑOS: Piezas de bajo costo disponibles en nuestros 6200 centros de reparación en todo el mundo, para reparaciones rápidas durante muchos años—parte de nuestro compromiso de proteger el medioambiente y reducir residuos.|\nAUTONOMÍA DURADERA: Disfruta hasta 11 ciclos de mezcla por carga gracias a una batería de litio-ion de 1.200 mAh de alta calidad y un cable de carga incluido con conector magnético y salida USB.|\nSIN ESFUERZO: Simplemente añade tus ingredientes con un poco de agua o leche, luego presiona el botón de encendido dos veces—Lightmix se detiene automáticamente después de 40 segundos.|\nFÁCIL DE LIMPIAR: Solo llena con agua y una gota de detergente, inicia el ciclo de mezcla y listo—o para una limpieza más profunda, disfruta de cuchillas desmontables y un vaso apto para lavavajillas.|\nSEGURO: Lightmix solo funciona cuando su tapa está correctamente enroscada, garantizando total seguridad para ti y tus seres queridos.|\nQUÉ INCLUYE LA CAJA: Base del motor Lightmix con 2 cuchillas de acero inoxidable, vaso Tritan On-the-Go de 300 ml, cable de carga USB con conector magnético.",
+    "url": "https://www.tefalstore.cl/licuadora-portatil-light-mix-azul-0-3l-moulinex/p",
+    "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205985/mesa-de-trabajo-3.jpg?v=639143726554830000",
+    "skus": [
+      {
+        "sku_id": "403",
+        "sku_name": "Licuadora Portátil Light Mix Azul 0,3L Moulinex",
+        "image": "https://tefalstorecl.vteximg.com.br/arquivos/ids/205985/mesa-de-trabajo-3.jpg?v=639143726554830000"
+      }
+    ],
+    "site": "Tefal Store Chile",
+    "country": "Chile",
+    "price": 49990.0,
+    "list_price": 49990.0,
     "on_sale": false
   },
   {
