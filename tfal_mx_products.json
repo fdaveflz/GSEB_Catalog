@@ -504,27 +504,6 @@
     "on_sale": false
   },
   {
-    "name": "Batería Red Supercook 26 piezas",
-    "reference": "2100131913",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Antiadherente Titanium de larga duración que evita que los alimentos se peguen y permite cocinar con poco aceite. * Tecnología Thermo-Signal en las sartenes que indica el momento exacto para comenzar la cocción. * Base difusora que distribuye el calor de manera uniforme. * Garantizando cocciones homogéneas y evitando puntos de sobrecalentamiento. * Incluye sartenes. * Ollas* cacerolas. * Wok* crepera y utensilios libres de BPA. * Ideal para recetas variadas en el hogar. * Compatible con todas las cocinas excepto inducción apta para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/bateria-red-supercook-26-piezas-955/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157873/2100131913_B464SZ84_BATERIA26PCSREDSUPERCOOK-1-.jpg?v=638930441360530000",
-    "skus": [
-      {
-        "sku_id": "955",
-        "sku_name": "Batería Red Supercook 26 piezas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157873/2100131913_B464SZ84_BATERIA26PCSREDSUPERCOOK-1-.jpg?v=638930441360530000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2999.0,
-    "list_price": 2999.0,
-    "on_sale": false
-  },
-  {
     "name": "Sartén Excellence+ 20cm Fusion Core",
     "reference": "2100139014",
     "brand": "T-fal",
@@ -901,27 +880,6 @@
     "price": 5669.0,
     "list_price": 7999.0,
     "on_sale": true
-  },
-  {
-    "name": "Tostador Ultra Toaster 2 ranuras",
-    "reference": "8010000214",
-    "brand": "T-fal",
-    "category": "Tostadores",
-    "description": "* CUERPO DE ACERO INOXIDABLE: Fabricado con materiales de acero inoxidable que ofrecen mayor durabilidad y una apariencia moderna que combina con cualquier cocina. \n* RANURAS AMPLIAS: Sus ranuras extra anchas permiten tostar todo tipo de pan. \n* Desde rebanadas gruesas hasta panecillos o bagels. \n* Con resultados uniformes. \n* BANDEJA RECOGEMIGAS: Cuenta con una bandeja recogemigas deslizable que facilita la limpieza diaria y mantiene tu espacio libre de restos de pan. \n* 6 NIVELES DE TOSTADO: Ofrece 6 niveles de tostado ajustables para lograr el punto perfecto. \n* Sesde un dorado ligero hasta un tostado más crujiente. \n* Adaptándose a todos los gustos.",
-    "url": "https://www.t-fal.com.mx/tostador-ultra-toaster-2-ranuras-955/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157937/8010000214_TT330DMX_ULTRATOASTERINOX6LEVELSTOAST-01-.jpg?v=638930547942730000",
-    "skus": [
-      {
-        "sku_id": "965",
-        "sku_name": "Tostador Ultra Toaster 2 ranuras",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157937/8010000214_TT330DMX_ULTRATOASTERINOX6LEVELSTOAST-01-.jpg?v=638930547942730000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 499.0,
-    "list_price": 499.0,
-    "on_sale": false
   },
   {
     "name": "Parrilla Panini Inicio Compact",
@@ -3654,6 +3612,48 @@
     "on_sale": true
   },
   {
+    "name": "Batería Red Supercook 26 piezas",
+    "reference": "2100131913",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Antiadherente Titanium de larga duración que evita que los alimentos se peguen y permite cocinar con poco aceite. * Tecnología Thermo-Signal en las sartenes que indica el momento exacto para comenzar la cocción. * Base difusora que distribuye el calor de manera uniforme. * Garantizando cocciones homogéneas y evitando puntos de sobrecalentamiento. * Incluye sartenes. * Ollas* cacerolas. * Wok* crepera y utensilios libres de BPA. * Ideal para recetas variadas en el hogar. * Compatible con todas las cocinas excepto inducción apta para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/bateria-red-supercook-26-piezas-955/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157873/2100131913_B464SZ84_BATERIA26PCSREDSUPERCOOK-1-.jpg?v=638930441360530000",
+    "skus": [
+      {
+        "sku_id": "955",
+        "sku_name": "Batería Red Supercook 26 piezas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157873/2100131913_B464SZ84_BATERIA26PCSREDSUPERCOOK-1-.jpg?v=638930441360530000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2999.0,
+    "list_price": 2999.0,
+    "on_sale": false
+  },
+  {
+    "name": "Tostador Ultra Toaster 2 ranuras",
+    "reference": "8010000214",
+    "brand": "T-fal",
+    "category": "Tostadores",
+    "description": "* CUERPO DE ACERO INOXIDABLE: Fabricado con materiales de acero inoxidable que ofrecen mayor durabilidad y una apariencia moderna que combina con cualquier cocina. \n* RANURAS AMPLIAS: Sus ranuras extra anchas permiten tostar todo tipo de pan. \n* Desde rebanadas gruesas hasta panecillos o bagels. \n* Con resultados uniformes. \n* BANDEJA RECOGEMIGAS: Cuenta con una bandeja recogemigas deslizable que facilita la limpieza diaria y mantiene tu espacio libre de restos de pan. \n* 6 NIVELES DE TOSTADO: Ofrece 6 niveles de tostado ajustables para lograr el punto perfecto. \n* Sesde un dorado ligero hasta un tostado más crujiente. \n* Adaptándose a todos los gustos.",
+    "url": "https://www.t-fal.com.mx/tostador-ultra-toaster-2-ranuras-955/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157937/8010000214_TT330DMX_ULTRATOASTERINOX6LEVELSTOAST-01-.jpg?v=638930547942730000",
+    "skus": [
+      {
+        "sku_id": "965",
+        "sku_name": "Tostador Ultra Toaster 2 ranuras",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157937/8010000214_TT330DMX_ULTRATOASTERINOX6LEVELSTOAST-01-.jpg?v=638930547942730000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 499.0,
+    "list_price": 499.0,
+    "on_sale": false
+  },
+  {
     "name": "Espresseria Manual Máquina de Café",
     "reference": "8010001049",
     "brand": "T-fal",
@@ -3891,12 +3891,12 @@
     "category": "Vaporizadores de mano",
     "description": "* LISTO CUANDO LO NECESITAS: Gracias a su calentamiento ultrarrápido de solo 25 segundos, Steamy está listo para ayudarte a lucir impecable en minutos. Solo conecta, vaporiza y continúa con tu día, sin instalaciones complicadas ni necesidad de tabla de planchar.<br> * VAPOR POTENTE PARA EL DÍA A DÍA: Con hasta 25 g/min de vapor y 1500 W de potencia, elimina arrugas de forma rápida y eficiente en todo tipo de telas aptas para planchar, facilitando el cuidado diario de tus prendas.<br> * COMPACTO Y LISTO PARA VIAJAR: Su diseño plegable, compacto y ultraligero de solo 0.79 Kg facilita guardarlo en espacios reducidos o llevarlo contigo en viajes, para mantener tus prendas listas donde las necesites.<br> * MÁS PRENDAS, MENOS INTERRUPCIONES: El tanque removible de 160 ml proporciona hasta 6 minutos de vapor continuo, suficiente para vaporizar aproximadamente 2 prendas antes de recargar, haciendo más práctica tu rutina.<br> * PRÁCTICO, SEGURO Y CONFIABLE: Disfruta de una temperatura ideal para vaporizar tus prendas con confianza y de apagado automático después de 8 minutos sin uso. Además, el vapor ayuda a reducir olores y refrescar la ropa para que luzca y se sienta mejor.",
     "url": "https://www.t-fal.com.mx/vaporizador-de-mano-t-fal-steamy-plegable/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159975/1830010058_DT2510U0_T-fal-Vaporizador-Steamy-Plegable-1.webp?v=639287274678800000",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159988/1830010058_DT2510U0_T-fal-Vaporizador-Steamy-Plegable-1-20261028-155545.webp?v=639288160230630000",
     "skus": [
       {
         "sku_id": "1139",
         "sku_name": "Vaporizador de Mano T-fal Steam Xpress Blue Salt",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159975/1830010058_DT2510U0_T-fal-Vaporizador-Steamy-Plegable-1.webp?v=639287274678800000"
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159988/1830010058_DT2510U0_T-fal-Vaporizador-Steamy-Plegable-1-20261028-155545.webp?v=639288160230630000"
       }
     ],
     "site": "T-Fal México",
@@ -3985,8 +3985,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": null,
-    "list_price": null,
+    "price": 369.0,
+    "list_price": 369.0,
     "on_sale": false
   },
   {
