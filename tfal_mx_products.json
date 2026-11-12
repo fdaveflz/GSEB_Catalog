@@ -168,6 +168,27 @@
     "on_sale": false
   },
   {
+    "name": "Licuadora Personal Lightmix",
+    "reference": "8010001377",
+    "brand": "T-fal",
+    "category": "Licuadoras personales",
+    "description": "* LICUADORA PORTÁTIL Y FÁCIL DE LLEVAR: La Lightmix es ligera, compacta y viene con asa de silicona, ofreciendo practicidad para disfrutar de licuados saludables en cualquier lugar.\n* RÁPIDA Y SILENCIOSA: Obtén resultados extraordinarios en solo 40 segundos gracias a sus cuchillas dobles de acero inoxidable, garantizando una experiencia de mezclado sin ruido.\n* MÁS QUE UNA LICUADORA: Prepara desde batidos de proteína hasta licuados, llenos de nutrientes y vitaminas, para una dieta variada y saludable.\n* VASO SEGURO Y ROBUSTO: El vaso hermético de 300 ml, hecho de Tritán irrompible, te permite transportarlo con confianza y tranquilidad, ideal para llevarlo en tu bolsa.\n* AUTONOMÍA PROLONGADA Y LIMPIO SIN ESFUERZO: Con hasta 11 ciclos de licuado por carga y fácil limpieza al llenar con agua y jabón, este dispositivo ofrece conveniencia y uso prolongado con su batería de ion-litio.",
+    "url": "https://www.t-fal.com.mx/licuadora-personal-lightmix-1011/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159753/8010001376_BL1C02X0_LIGHTMIX PERSONAL BLENDER EUCALIPTO 00.webp?v=639150825541270000",
+    "skus": [
+      {
+        "sku_id": "1011",
+        "sku_name": "Licuadora Personal Lightmix",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159753/8010001376_BL1C02X0_LIGHTMIX PERSONAL BLENDER EUCALIPTO 00.webp?v=639150825541270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 799.0,
+    "list_price": 999.0,
+    "on_sale": true
+  },
+  {
     "name": "Batería Lichen Supercook 26 pzas",
     "reference": "2100131910",
     "brand": "T-fal",
@@ -210,6 +231,27 @@
     "on_sale": false
   },
   {
+    "name": "Sartén Excellence+ 20cm Fusion Core",
+    "reference": "2100139014",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
+    "url": "https://www.t-fal.com.mx/sarten-excellence--20cm-fusion-core/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000",
+    "skus": [
+      {
+        "sku_id": "1094",
+        "sku_name": "Sartén Excellence+ 20cm Fusion Core",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1199.0,
+    "list_price": 1499.0,
+    "on_sale": true
+  },
+  {
     "name": "Licuadora 2 V Vaso Vidrio Power Mix",
     "reference": "5861030995",
     "brand": "T-fal",
@@ -228,6 +270,27 @@
     "country": "México",
     "price": 699.0,
     "list_price": 699.0,
+    "on_sale": false
+  },
+  {
+    "name": "Sartén Renew On 20 cm cerámico, base de inducción y diseño ecológico",
+    "reference": "2100128297",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas * Fabricado en Francia con diseño ecológico",
+    "url": "https://www.t-fal.com.mx/sarten-renew-on-20-cm-ceramico-base-de-induccion-y-diseno-ecologico/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158325/2100128297_C4270232_Sarten_Renew_On_20cm-1-.jpg?v=638944268375270000",
+    "skus": [
+      {
+        "sku_id": "1039",
+        "sku_name": "Sartén Renew On 20 cm cerámico, base de inducción y diseño ecológico",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158325/2100128297_C4270232_Sarten_Renew_On_20cm-1-.jpg?v=638944268375270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 849.0,
+    "list_price": 849.0,
     "on_sale": false
   },
   {
@@ -292,6 +355,27 @@
     "price": 1749.0,
     "list_price": 1799.0,
     "on_sale": true
+  },
+  {
+    "name": "Vaporizador de Mano AeroSteam Twist con succión",
+    "reference": "7211005601",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* PODER QUE ATRAE: La tecnología OptiFlow combina vapor y succión 360° para atraer la tela hacia la suela y lograr prendas lisas con resultados impecables en cada pasada.<br>* SIN TABLA. SIN ESFUERZO: Olvídate de instalar una tabla de planchar. Su diseño ligero y ergonómico permite vaporizar y alisar prendas cómodamente con una sola mano, ideal para el uso diario.<br>* LISTO EN SOLO 35 SEGUNDOS: Comienza a vaporizar rápidamente gracias a su calentamiento rápido. Su suela caliente reduce la humedad para dejar las prendas secas y listas para usar al instante.<br>* SE ADAPTA A CADA TELA: Elige entre vapor para prendas delicadas o vapor con succión en modo Suave o Turbo para telas más gruesas como camisas, pantalones o mezclilla.<br>* DISEÑADO PARA DURAR: Disfruta hasta 14 minutos de vapor continuo, un filtro que captura pelusa y residuos para mantener un desempeño óptimo y reparabilidad de hasta 15 años.",
+    "url": "https://www.t-fal.com.mx/vaporizador-de-mano-t-fal-aerosteam-twist-con-succion-7211005601/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159918/7211005601_DT9334IX_T-falAeroSteamTwist-01-.webp?v=639258731083670000",
+    "skus": [
+      {
+        "sku_id": "1136",
+        "sku_name": "Vaporizador de Mano AeroSteam Twist con succión",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159918/7211005601_DT9334IX_T-falAeroSteamTwist-01-.webp?v=639258731083670000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 1999.0,
+    "on_sale": false
   },
   {
     "name": "Removedor de Pelusas para Ropa y Telas",
@@ -396,27 +480,6 @@
     "country": "México",
     "price": 179.0,
     "list_price": 179.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sartén Renew On 20 cm cerámico, base de inducción y diseño ecológico",
-    "reference": "2100128297",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Revestimiento cerámico Inoceram antiadherente * Base difusora para calor uniforme * Compatible con todas las fuentes incluida inducción * Apto para lavavajillas * Fabricado en Francia con diseño ecológico",
-    "url": "https://www.t-fal.com.mx/sarten-renew-on-20-cm-ceramico-base-de-induccion-y-diseno-ecologico/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158325/2100128297_C4270232_Sarten_Renew_On_20cm-1-.jpg?v=638944268375270000",
-    "skus": [
-      {
-        "sku_id": "1039",
-        "sku_name": "Sartén Renew On 20 cm cerámico, base de inducción y diseño ecológico",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158325/2100128297_C4270232_Sarten_Renew_On_20cm-1-.jpg?v=638944268375270000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 849.0,
-    "list_price": 849.0,
     "on_sale": false
   },
   {
@@ -609,27 +672,6 @@
     "on_sale": false
   },
   {
-    "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
-    "reference": "7211005234",
-    "brand": "T-fal",
-    "category": "Vaporizadores verticales",
-    "description": "* SOPORTE INTEGRADO: Este vaporizador vertical tiene un back incluido, el cual ofrece mayor comodidad al colgar tus prendas directamente en el vaporizador, permitiéndote alisar vestidos, camisas o abrigos sin necesidad de buscar dónde apoyarlos, haciendo cada sesión más práctica y ordenada.\n* VAPOR PARA TODAS LAS TELAS: Sus 3 niveles de vapor permiten cuidar desde prendas delicadas hasta telas más gruesas, siempre con resultados perfectos.\n* PERCHERO INTEGRADO: Su diseño tipo perchero con soporte trasero permite colgar prendas largas como vestidos o abrigos, haciéndolo más práctico y cómodo.\n* REFRESCA Y SANITIZA: El poder del vapor no solo elimina arrugas, también ayuda a reducir olores y bacterias, ofreciendo ropa fresca y cuidada.\n* DISEÑO ESTÉTICO Y FUNCIONAL: Su estilo minimalista combina con cualquier espacio del hogar, mientras que el tanque removible facilita su uso diario.",
-    "url": "https://www.t-fal.com.mx/vaporizador-vertical-con-back-origin-home-prendas-siempre-listas-919/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000",
-    "skus": [
-      {
-        "sku_id": "919",
-        "sku_name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2149.0,
-    "list_price": 2499.0,
-    "on_sale": true
-  },
-  {
     "name": "Vaporizador Origin Travel, plegable y portátil",
     "reference": "1830009412",
     "brand": "T-fal",
@@ -670,48 +712,6 @@
     "price": 1149.0,
     "list_price": 1499.0,
     "on_sale": true
-  },
-  {
-    "name": "Sartén 20cm Daily expert rojo",
-    "reference": "2100129936",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Sartén de 20 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
-    "url": "https://www.t-fal.com.mx/sarten-20cm-daily-expert-rojo-931/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158432/2100129936_C2890202_SARTEN20CMDAILYEXPERT-1-.jpg?v=638950302804570000",
-    "skus": [
-      {
-        "sku_id": "931",
-        "sku_name": "Sartén 20cm Daily expert rojo",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158432/2100129936_C2890202_SARTEN20CMDAILYEXPERT-1-.jpg?v=638950302804570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 659.0,
-    "list_price": 849.0,
-    "on_sale": true
-  },
-  {
-    "name": "Plancha Puregliss Black and Gold, planchado impecable",
-    "reference": "1830008915",
-    "brand": "T-fal",
-    "category": "Planchas de vapor",
-    "description": "* TRIPLE PROTECCIÓN CONTRA MANCHAS: El sistema exclusivo anti-sarro evita manchas y conserva el rendimiento de vapor por más tiempo, cuidando cada tejido de manera eficaz.\n* SUELA DURILIUM AIRGLIDE AUTOCLEAN: La suela Durilium Airglide ofrece un deslizamiento superior, amplia difusión de vapor y resistencia a rayaduras para un planchado sin esfuerzo. Además,  la tecnología Autoclean mantiene la suela siempre limpia, libre de pelusas y bolitas de la ropa. \n* ELIMINA TODAS LAS ARRUGAS: Con un golpe de vapor de 190 g/min, hasta las arrugas más rebeldes desaparecen, dejando tu ropa impecable y lista en segundos.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* HIGIENE PERFECTA: Su poder de vapor no solo elimina arrugas, también ayuda a eliminar hasta el 99.99% de bacterias en las telas, para un cuidado más saludable.",
-    "url": "https://www.t-fal.com.mx/plancha-puregliss-black-and-gold-planchado-impecable-937/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157879/1830008915_FV8064X0_PUREGLISSBLACKANDGOLD-1-.jpg?v=638930443743100000",
-    "skus": [
-      {
-        "sku_id": "937",
-        "sku_name": "Plancha Puregliss Black and Gold, planchado impecable",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157879/1830008915_FV8064X0_PUREGLISSBLACKANDGOLD-1-.jpg?v=638930443743100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2149.0,
-    "list_price": 2149.0,
-    "on_sale": false
   },
   {
     "name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
@@ -1278,6 +1278,27 @@
     "country": "México",
     "price": 1999.0,
     "list_price": 2499.0,
+    "on_sale": true
+  },
+  {
+    "name": "Plancha Puregliss Black and Silver, planchado impecable",
+    "reference": "1830009672",
+    "brand": "T-fal",
+    "category": "Planchas de vapor",
+    "description": "* Cartucho anti-sarro mantiene alto rendimiento.<br>* Suela Durilium Airglide Autoclean: La mejor suela de T-fal.<br>* Golpe de vapor elimina arrugas difíciles.<br>* Auto off brinda seguridad al planchar.",
+    "url": "https://www.t-fal.com.mx/plancha-puregliss-black-and-silver--planchado-impecable/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159495/1830009672_FV8067X0_PureglissSilver-01-.jpg?v=639123224084030000",
+    "skus": [
+      {
+        "sku_id": "1095",
+        "sku_name": "Plancha Puregliss Black and Silver, planchado impecable",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159495/1830009672_FV8067X0_PureglissSilver-01-.jpg?v=639123224084030000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1999.0,
+    "list_price": 2149.0,
     "on_sale": true
   },
   {
@@ -3045,6 +3066,27 @@
     "on_sale": false
   },
   {
+    "name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
+    "reference": "7211005234",
+    "brand": "T-fal",
+    "category": "Vaporizadores verticales",
+    "description": "* SOPORTE INTEGRADO: Este vaporizador vertical tiene un back incluido, el cual ofrece mayor comodidad al colgar tus prendas directamente en el vaporizador, permitiéndote alisar vestidos, camisas o abrigos sin necesidad de buscar dónde apoyarlos, haciendo cada sesión más práctica y ordenada.\n* VAPOR PARA TODAS LAS TELAS: Sus 3 niveles de vapor permiten cuidar desde prendas delicadas hasta telas más gruesas, siempre con resultados perfectos.\n* PERCHERO INTEGRADO: Su diseño tipo perchero con soporte trasero permite colgar prendas largas como vestidos o abrigos, haciéndolo más práctico y cómodo.\n* REFRESCA Y SANITIZA: El poder del vapor no solo elimina arrugas, también ayuda a reducir olores y bacterias, ofreciendo ropa fresca y cuidada.\n* DISEÑO ESTÉTICO Y FUNCIONAL: Su estilo minimalista combina con cualquier espacio del hogar, mientras que el tanque removible facilita su uso diario.",
+    "url": "https://www.t-fal.com.mx/vaporizador-vertical-con-back-origin-home-prendas-siempre-listas-919/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000",
+    "skus": [
+      {
+        "sku_id": "919",
+        "sku_name": "Vaporizador vertical con back Origin Home, prendas siempre listas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159154/7211005234_IT3280X1_ORIGINHOME_WITHBACKING_-1-.jpg?v=638965716807930000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2149.0,
+    "list_price": 2499.0,
+    "on_sale": true
+  },
+  {
     "name": "Vaporizador Pure Pop Verde, con estilo en cualquier lugar",
     "reference": "1830009127",
     "brand": "T-fal",
@@ -3192,6 +3234,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén 20cm Daily expert rojo",
+    "reference": "2100129936",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Sartén de 20 cm Daily Expert con recubrimiento antiadherente. \n* Diseñado para resistir el uso diario y facilitar la limpieza después de cada preparación. \n* Base difusora que distribuye el calor de manera uniforme. \n* Evitando puntos calientes y asegurando cocciones homogéneas en todo momento. \n* Mango ergonómico que brinda un agarre firme y cómodo. \n* Incluso durante sesiones largas de cocina. \n* Compatible con todas las cocinas. \n* Incluida la inducción. \n* Ofreciendo versatilidad para adaptarse a distintos tipos de estufa sin comprometer el rendimiento. \n* Fabricada con materiales de alta calidad que garantizan durabilidad. \n* Eficiencia y un rendimiento óptimo en la cocina cotidiana.",
+    "url": "https://www.t-fal.com.mx/sarten-20cm-daily-expert-rojo-931/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158432/2100129936_C2890202_SARTEN20CMDAILYEXPERT-1-.jpg?v=638950302804570000",
+    "skus": [
+      {
+        "sku_id": "931",
+        "sku_name": "Sartén 20cm Daily expert rojo",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158432/2100129936_C2890202_SARTEN20CMDAILYEXPERT-1-.jpg?v=638950302804570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 659.0,
+    "list_price": 849.0,
+    "on_sale": true
+  },
+  {
     "name": "Pozolera Supercook 26 cm con tapa vidrio",
     "reference": "9100055917",
     "brand": "T-fal",
@@ -3273,6 +3336,27 @@
     "country": "México",
     "price": 1099.0,
     "list_price": 1099.0,
+    "on_sale": false
+  },
+  {
+    "name": "Plancha Puregliss Black and Gold, planchado impecable",
+    "reference": "1830008915",
+    "brand": "T-fal",
+    "category": "Planchas de vapor",
+    "description": "* TRIPLE PROTECCIÓN CONTRA MANCHAS: El sistema exclusivo anti-sarro evita manchas y conserva el rendimiento de vapor por más tiempo, cuidando cada tejido de manera eficaz.\n* SUELA DURILIUM AIRGLIDE AUTOCLEAN: La suela Durilium Airglide ofrece un deslizamiento superior, amplia difusión de vapor y resistencia a rayaduras para un planchado sin esfuerzo. Además,  la tecnología Autoclean mantiene la suela siempre limpia, libre de pelusas y bolitas de la ropa. \n* ELIMINA TODAS LAS ARRUGAS: Con un golpe de vapor de 190 g/min, hasta las arrugas más rebeldes desaparecen, dejando tu ropa impecable y lista en segundos.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* HIGIENE PERFECTA: Su poder de vapor no solo elimina arrugas, también ayuda a eliminar hasta el 99.99% de bacterias en las telas, para un cuidado más saludable.",
+    "url": "https://www.t-fal.com.mx/plancha-puregliss-black-and-gold-planchado-impecable-937/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157879/1830008915_FV8064X0_PUREGLISSBLACKANDGOLD-1-.jpg?v=638930443743100000",
+    "skus": [
+      {
+        "sku_id": "937",
+        "sku_name": "Plancha Puregliss Black and Gold, planchado impecable",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157879/1830008915_FV8064X0_PUREGLISSBLACKANDGOLD-1-.jpg?v=638930443743100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2149.0,
+    "list_price": 2149.0,
     "on_sale": false
   },
   {
@@ -3759,27 +3843,6 @@
     "on_sale": false
   },
   {
-    "name": "Jarra para cafetera CM223DMX original de repuesto",
-    "reference": "9100036277",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
-    "skus": [
-      {
-        "sku_id": "1108",
-        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 139.0,
-    "list_price": 139.0,
-    "on_sale": false
-  },
-  {
     "name": "Set de cuchillas para licuadoras vaso vidrio del rango Optimix, Powermix e Infinyforce",
     "reference": "5861036616",
     "brand": "T-fal",
@@ -3798,6 +3861,27 @@
     "country": "México",
     "price": 59.0,
     "list_price": 59.0,
+    "on_sale": false
+  },
+  {
+    "name": "Jarra para cafetera CM223DMX original de repuesto",
+    "reference": "9100036277",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/jarra-para-cafetera-cm223dmx-original-de-repuesto/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000",
+    "skus": [
+      {
+        "sku_id": "1108",
+        "sku_name": "Jarra para cafetera CM223DMX original de repuesto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159610/9100036277_FS-9100036277_JARRA-SOLA-CM223DMX-01.jpg?v=639131799660100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 139.0,
+    "list_price": 139.0,
     "on_sale": false
   },
   {
@@ -3840,69 +3924,6 @@
     "country": "México",
     "price": 34.0,
     "list_price": 34.0,
-    "on_sale": false
-  },
-  {
-    "name": "Licuadora Personal Lightmix",
-    "reference": "8010001377",
-    "brand": "T-fal",
-    "category": "Licuadoras personales",
-    "description": "* LICUADORA PORTÁTIL Y FÁCIL DE LLEVAR: La Lightmix es ligera, compacta y viene con asa de silicona, ofreciendo practicidad para disfrutar de licuados saludables en cualquier lugar.\n* RÁPIDA Y SILENCIOSA: Obtén resultados extraordinarios en solo 40 segundos gracias a sus cuchillas dobles de acero inoxidable, garantizando una experiencia de mezclado sin ruido.\n* MÁS QUE UNA LICUADORA: Prepara desde batidos de proteína hasta licuados, llenos de nutrientes y vitaminas, para una dieta variada y saludable.\n* VASO SEGURO Y ROBUSTO: El vaso hermético de 300 ml, hecho de Tritán irrompible, te permite transportarlo con confianza y tranquilidad, ideal para llevarlo en tu bolsa.\n* AUTONOMÍA PROLONGADA Y LIMPIO SIN ESFUERZO: Con hasta 11 ciclos de licuado por carga y fácil limpieza al llenar con agua y jabón, este dispositivo ofrece conveniencia y uso prolongado con su batería de ion-litio.",
-    "url": "https://www.t-fal.com.mx/licuadora-personal-lightmix-1011/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159753/8010001376_BL1C02X0_LIGHTMIX PERSONAL BLENDER EUCALIPTO 00.webp?v=639150825541270000",
-    "skus": [
-      {
-        "sku_id": "1011",
-        "sku_name": "Licuadora Personal Lightmix",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159753/8010001376_BL1C02X0_LIGHTMIX PERSONAL BLENDER EUCALIPTO 00.webp?v=639150825541270000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Sartén Excellence+ 20cm Fusion Core",
-    "reference": "2100139014",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "Haciendo honor a su nombre, Excellence tiene el recubrimiento más resistente en la historia de Tefal. Gracias a la tecnología FusionCore, el recubrimiento está diseñado para resistir el uso de utensilios metálicos y el desgaste diario, permitiéndote cocinar con absoluta tranquilidad. Para asegurar resultados perfectos, la tecnología Thermo-Signal™ te indica el momento exacto para comenzar: el sello central se vuelve rojo intenso cuando la temperatura es ideal, dejando atrás las dudas. Además, Excellence redefine la eficiencia en tu hogar con el diseño Space+, que optimiza hasta un 40% de espacio en comparación con baterías convencionales. Su superficie de fácil limpieza, su uso para horno hasta 175°C, su compatibilidad total con todo tipo de estufas —incluyendo inducción— garantizan versatilidad. Con una conducción de calor superior para cocciones perfectamente homogéneas, Excellence representa el equilibrio definitivo entre durabilidad extrema y practicidad en la cocina moderna.",
-    "url": "https://www.t-fal.com.mx/sarten-excellence--20cm-fusion-core/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000",
-    "skus": [
-      {
-        "sku_id": "1094",
-        "sku_name": "Sartén Excellence+ 20cm Fusion Core",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159465/2100139014_G3300202_SARTEN20CMCCEXCELLENCE--01-.jpg?v=639123224385570000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1499.0,
-    "list_price": 1499.0,
-    "on_sale": false
-  },
-  {
-    "name": "Vaporizador de Mano AeroSteam Twist con succión",
-    "reference": "7211005601",
-    "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* PODER QUE ATRAE: La tecnología OptiFlow combina vapor y succión 360° para atraer la tela hacia la suela y lograr prendas lisas con resultados impecables en cada pasada.<br>* SIN TABLA. SIN ESFUERZO: Olvídate de instalar una tabla de planchar. Su diseño ligero y ergonómico permite vaporizar y alisar prendas cómodamente con una sola mano, ideal para el uso diario.<br>* LISTO EN SOLO 35 SEGUNDOS: Comienza a vaporizar rápidamente gracias a su calentamiento rápido. Su suela caliente reduce la humedad para dejar las prendas secas y listas para usar al instante.<br>* SE ADAPTA A CADA TELA: Elige entre vapor para prendas delicadas o vapor con succión en modo Suave o Turbo para telas más gruesas como camisas, pantalones o mezclilla.<br>* DISEÑADO PARA DURAR: Disfruta hasta 14 minutos de vapor continuo, un filtro que captura pelusa y residuos para mantener un desempeño óptimo y reparabilidad de hasta 15 años.",
-    "url": "https://www.t-fal.com.mx/vaporizador-de-mano-t-fal-aerosteam-twist-con-succion-7211005601/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159918/7211005601_DT9334IX_T-falAeroSteamTwist-01-.webp?v=639258731083670000",
-    "skus": [
-      {
-        "sku_id": "1136",
-        "sku_name": "Vaporizador de Mano AeroSteam Twist con succión",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159918/7211005601_DT9334IX_T-falAeroSteamTwist-01-.webp?v=639258731083670000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1999.0,
-    "list_price": 1999.0,
     "on_sale": false
   },
   {
@@ -4008,27 +4029,6 @@
     "country": "México",
     "price": 199.0,
     "list_price": 199.0,
-    "on_sale": false
-  },
-  {
-    "name": "Plancha Puregliss Black and Silver, planchado impecable",
-    "reference": "1830009672",
-    "brand": "T-fal",
-    "category": "Planchas de vapor",
-    "description": "* Cartucho anti-sarro mantiene alto rendimiento.<br>* Suela Durilium Airglide Autoclean: La mejor suela de T-fal.<br>* Golpe de vapor elimina arrugas difíciles.<br>* Auto off brinda seguridad al planchar.",
-    "url": "https://www.t-fal.com.mx/plancha-puregliss-black-and-silver--planchado-impecable/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159495/1830009672_FV8067X0_PureglissSilver-01-.jpg?v=639123224084030000",
-    "skus": [
-      {
-        "sku_id": "1095",
-        "sku_name": "Plancha Puregliss Black and Silver, planchado impecable",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159495/1830009672_FV8067X0_PureglissSilver-01-.jpg?v=639123224084030000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2149.0,
-    "list_price": 2149.0,
     "on_sale": false
   },
   {
