@@ -126,27 +126,6 @@
     "on_sale": false
   },
   {
-    "name": "Tapa para cafetera compatible de repuesto universal",
-    "reference": "9100036276",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/tapa-para-cafetera-compatible-de-repuesto-universal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000",
-    "skus": [
-      {
-        "sku_id": "1106",
-        "sku_name": "Tapa para cafetera compatible de repuesto universal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 59.0,
-    "list_price": 59.0,
-    "on_sale": false
-  },
-  {
     "name": "Sartén Excellence+ 30cm Fusion Core",
     "reference": "2100139013",
     "brand": "T-fal",
@@ -252,6 +231,27 @@
     "on_sale": true
   },
   {
+    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+    "reference": "5861032684",
+    "brand": "T-fal",
+    "category": "Ventiladores",
+    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
+    "skus": [
+      {
+        "sku_id": "916",
+        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1749.0,
+    "list_price": 1799.0,
+    "on_sale": true
+  },
+  {
     "name": "Batería Lichen Supercook 26 pzas",
     "reference": "2100131910",
     "brand": "T-fal",
@@ -270,6 +270,48 @@
     "country": "México",
     "price": 2999.0,
     "list_price": 2999.0,
+    "on_sale": false
+  },
+  {
+    "name": "Removedor de Pelusas para Ropa y Telas",
+    "reference": "1830007640",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "",
+    "url": "https://www.t-fal.com.mx/removedor-de-pelusas-para-ropa-y-telas-jb1011q0/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159903/1830007640_JB1011Q0_Lint-Remover-01.webp?v=639208671014800000",
+    "skus": [
+      {
+        "sku_id": "1135",
+        "sku_name": "Removedor de Pelusas para Ropa y Telas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159903/1830007640_JB1011Q0_Lint-Remover-01.webp?v=639208671014800000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 349.0,
+    "list_price": 349.0,
+    "on_sale": false
+  },
+  {
+    "name": "Tapa para cafetera compatible de repuesto universal",
+    "reference": "9100036276",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/tapa-para-cafetera-compatible-de-repuesto-universal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000",
+    "skus": [
+      {
+        "sku_id": "1106",
+        "sku_name": "Tapa para cafetera compatible de repuesto universal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159618/9100036276_FS-9100036276_Tapa-cafetera-01.jpg?v=639131799907330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 59.0,
+    "list_price": 59.0,
     "on_sale": false
   },
   {
@@ -292,6 +334,48 @@
     "price": 1199.0,
     "list_price": 1499.0,
     "on_sale": true
+  },
+  {
+    "name": "Batería 12 piezas Refresh Ceramic Warm Beige",
+    "reference": "2100140958",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
+    "url": "https://www.t-fal.com.mx/bateria-12-piezas-refresh-ceramic-warm-beige/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000",
+    "skus": [
+      {
+        "sku_id": "1089",
+        "sku_name": "Batería 12 piezas Refresh Ceramic Warm Beige",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2699.0,
+    "list_price": 2699.0,
+    "on_sale": false
+  },
+  {
+    "name": "Válvula de control para ollas a presión de alumino de 4, 6, 8, 12 y 16 litros.",
+    "reference": "9100057187",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/valvula-de-control-para-ollas-a-presion-de-alumino-de-4--6--8--12-y-16-litros-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159384/9100057187_SS-7129901025M_VALVCONTOAPALU4-6-8-12-16-01-.jpg?v=639119569063600000",
+    "skus": [
+      {
+        "sku_id": "1085",
+        "sku_name": "Válvula de control para ollas a presión de alumino de 4, 6, 8, 12 y 16 litros.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159384/9100057187_SS-7129901025M_VALVCONTOAPALU4-6-8-12-16-01-.jpg?v=639119569063600000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 99.0,
+    "list_price": 99.0,
+    "on_sale": false
   },
   {
     "name": "Licuadora 2 V Vaso Vidrio Power Mix",
@@ -399,25 +483,25 @@
     "on_sale": true
   },
   {
-    "name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-    "reference": "5861032684",
+    "name": "Set Hard Titanium Plus 20, 24 y 30 cm antiadherente 2X y Termo-Señal",
+    "reference": "2100133152",
     "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de Pedestal T-Fal Silence Force con Control Remoto: Ultra potente y silencioso al alcance de tu mano.\n* Eficiencia que combina la forma cóncava de las 6 aspas que impulsan mejor el viento, el diseño aerodinámico de las mallas de 18\" que optimizan la distribución del viento y la fuerza del motor 90W con la energia precisa para refrescar tu espacio.\n* Tecnología Silence Force que reduce el ruido generado, permitiéndote dormir o desarrollar cualquier actividad sin interferencias. \n* El flujo de aire ideal para cada momento: Posibilidad de ajustar las 3 diferentes velocidades del aire sin necesidad de levantarte, gracias al control remoto (y cuenta además con panel táctil de velocidades).\n* Versatilidad de alcance gracias al ajuste de inclinación vertical con sistema fácil y seguro, y la oscilación horizontal de 90° para una óptima distribución del aire.\n* Fabricado con materiales de alta calidad, fáciles de limpiar y guardar, no se corroen, ni se oxidan, prolongando su vida útil.\n* Garantia de 2 años contra defectos de materiales o fabricación.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--silence-force-de-18-con-control-remoto-916/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000",
+    "category": "Sets de sartenes",
+    "description": "* Recubrimiento Titanium 2X más duradero. * Termo-Señal para cocción precisa. * Ideal para cocina diaria.<br>",
+    "url": "https://www.t-fal.com.mx/set-hard-titanium-plus-20-24-y-30-cm-antiadherente-2x-y-termo-senal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159313/2100133152_C3829083_JGO202430HARDTITANIUMPLUS-1-.jpg?v=639102353037300000",
     "skus": [
       {
-        "sku_id": "916",
-        "sku_name": "Ventilador de Pedestal  Silence Force de 18\" con Control Remoto",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159333/5861032684-VE7752X0-VENT-SIL-FORCE-CONTROL-18-NG-01.jpg?v=639102360111570000"
+        "sku_id": "976",
+        "sku_name": "Set Hard Titanium Plus 20, 24 y 30 cm antiadherente 2X y Termo-Señal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159313/2100133152_C3829083_JGO202430HARDTITANIUMPLUS-1-.jpg?v=639102353037300000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1749.0,
-    "list_price": 1799.0,
-    "on_sale": true
+    "price": 2399.0,
+    "list_price": 2399.0,
+    "on_sale": false
   },
   {
     "name": "Generador de vapor Express Anti-calcio, resultados perfectos",
@@ -438,27 +522,6 @@
     "country": "México",
     "price": 3999.0,
     "list_price": 3999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Removedor de Pelusas para Ropa y Telas",
-    "reference": "1830007640",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "",
-    "url": "https://www.t-fal.com.mx/removedor-de-pelusas-para-ropa-y-telas-jb1011q0/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159903/1830007640_JB1011Q0_Lint-Remover-01.webp?v=639208671014800000",
-    "skus": [
-      {
-        "sku_id": "1135",
-        "sku_name": "Removedor de Pelusas para Ropa y Telas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159903/1830007640_JB1011Q0_Lint-Remover-01.webp?v=639208671014800000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 349.0,
-    "list_price": 349.0,
     "on_sale": false
   },
   {
@@ -483,25 +546,25 @@
     "on_sale": false
   },
   {
-    "name": "Válvula de control para ollas a presión de alumino de 4, 6, 8, 12 y 16 litros.",
-    "reference": "9100057187",
+    "name": "Freidora de Aire 6 L Infrared",
+    "reference": "7211419910",
     "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/valvula-de-control-para-ollas-a-presion-de-alumino-de-4--6--8--12-y-16-litros-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159384/9100057187_SS-7129901025M_VALVCONTOAPALU4-6-8-12-16-01-.jpg?v=639119569063600000",
+    "category": "Freidoras de aire y aceite",
+    "description": "* Experimenta la freidora de aire más avanzada con la nueva tecnología Infrared, la cual penetra tus alimentos desde el centro <br>* Esta freidora garantiza resultados deliciosos y crujientes sin esfuerzo.<br>* Elemento calefactor rápido: Alcanza 400 °C en tan solo 45 segundos, proporcionando una cocción rápida y eficiente.<br>* Acabado perfecto: Penetración de calor Infrared que asegura carnes jugosas por dentro y textura crujiente por fuera.<br>* Ventana iluminada: Observa el proceso de cocción sin perder el calor, garantizando alimentos perfectamente cocinados.<br>* Ingenioso diseño de flujo de aire: No requiere agitar los alimentos, incluso hasta 300 g de patatas fritas congeladas se cocinan uniformemente.<br>* Fácil de usar: Siéntate y disfruta de comidas deliciosas con facilidad, gracias a la tecnología avanzada y diseño intuitivo.",
+    "url": "https://www.t-fal.com.mx/freidora-de-aire-6-l-infrared-1/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159533/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639124828850100000",
     "skus": [
       {
-        "sku_id": "1085",
-        "sku_name": "Válvula de control para ollas a presión de alumino de 4, 6, 8, 12 y 16 litros.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159384/9100057187_SS-7129901025M_VALVCONTOAPALU4-6-8-12-16-01-.jpg?v=639119569063600000"
+        "sku_id": "1098",
+        "sku_name": "Freidora de Aire 6 L Infrared",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159533/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639124828850100000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 99.0,
-    "list_price": 99.0,
-    "on_sale": false
+    "price": 2399.0,
+    "list_price": 2999.0,
+    "on_sale": true
   },
   {
     "name": "Vaso de vidrio de 1.75Lts para licuadoras del rango Optimix, Powermix e Infinyforce",
@@ -607,27 +670,6 @@
     "price": 1299.0,
     "list_price": 1849.0,
     "on_sale": true
-  },
-  {
-    "name": "Set Hard Titanium Plus 20, 24 y 30 cm antiadherente 2X y Termo-Señal",
-    "reference": "2100133152",
-    "brand": "T-fal",
-    "category": "Sets de sartenes",
-    "description": "* Recubrimiento Titanium 2X más duradero. * Termo-Señal para cocción precisa. * Ideal para cocina diaria.<br>",
-    "url": "https://www.t-fal.com.mx/set-hard-titanium-plus-20-24-y-30-cm-antiadherente-2x-y-termo-senal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159313/2100133152_C3829083_JGO202430HARDTITANIUMPLUS-1-.jpg?v=639102353037300000",
-    "skus": [
-      {
-        "sku_id": "976",
-        "sku_name": "Set Hard Titanium Plus 20, 24 y 30 cm antiadherente 2X y Termo-Señal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159313/2100133152_C3829083_JGO202430HARDTITANIUMPLUS-1-.jpg?v=639102353037300000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2399.0,
-    "list_price": 2399.0,
-    "on_sale": false
   },
   {
     "name": "Milkpot Opti’Space 16 cm de acero con tapa",
@@ -754,27 +796,6 @@
     "price": 1599.0,
     "list_price": 1999.0,
     "on_sale": true
-  },
-  {
-    "name": "Plancha de vapor Ultragliss Plus Wine Gray, máximo vapor",
-    "reference": "1830008079",
-    "brand": "T-fal",
-    "category": "Planchas de vapor",
-    "description": "* SUELA DURILIUM: Su tecnología Durilium Airglide ofrece el mejor deslizamiento de T-fal, mayor cobertura y resistencia para un planchado más rápido y cómodo.\n* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor extra fuerte, desaparecen hasta los pliegues más rebeldes, dejando tu ropa suave y lista en poco tiempo.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* COMODIDAD DIARIA: Con su tanque y cable XL, podrás planchar sin interrupciones ni limitaciones, disfrutando de total practicidad.\n* AHORRA ENERGÍA SIN PERDER RESULTADOS: El modo ECO reduce el consumo de energía hasta en un 20%, manteniendo un rendimiento de vapor potente para eliminar arrugas con la misma eficacia.",
-    "url": "https://www.t-fal.com.mx/plancha-de-vapor-ultragliss-plus-wine-gray-maximo-vapor-939/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157949/1830008079_FV6822X0_ULTRAGLISSPLUSWINEGREY-1-.jpg?v=638930553569500000",
-    "skus": [
-      {
-        "sku_id": "939",
-        "sku_name": "Plancha de vapor Ultragliss Plus Wine Gray, máximo vapor",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157949/1830008079_FV6822X0_ULTRAGLISSPLUSWINEGREY-1-.jpg?v=638930553569500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1399.0,
-    "list_price": 1399.0,
-    "on_sale": false
   },
   {
     "name": "Olla a presión Compact Easy 8L inox., compacta y segura",
@@ -1218,27 +1239,6 @@
     "on_sale": false
   },
   {
-    "name": "Freidora de Aire 6 L Infrared",
-    "reference": "7211419910",
-    "brand": "T-fal",
-    "category": "Freidoras de aire y aceite",
-    "description": "* Experimenta la freidora de aire más avanzada con la nueva tecnología Infrared, la cual penetra tus alimentos desde el centro <br>* Esta freidora garantiza resultados deliciosos y crujientes sin esfuerzo.<br>* Elemento calefactor rápido: Alcanza 400 °C en tan solo 45 segundos, proporcionando una cocción rápida y eficiente.<br>* Acabado perfecto: Penetración de calor Infrared que asegura carnes jugosas por dentro y textura crujiente por fuera.<br>* Ventana iluminada: Observa el proceso de cocción sin perder el calor, garantizando alimentos perfectamente cocinados.<br>* Ingenioso diseño de flujo de aire: No requiere agitar los alimentos, incluso hasta 300 g de patatas fritas congeladas se cocinan uniformemente.<br>* Fácil de usar: Siéntate y disfruta de comidas deliciosas con facilidad, gracias a la tecnología avanzada y diseño intuitivo.",
-    "url": "https://www.t-fal.com.mx/freidora-de-aire-6-l-infrared-1/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159533/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639124828850100000",
-    "skus": [
-      {
-        "sku_id": "1098",
-        "sku_name": "Freidora de Aire 6 L Infrared",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159533/7211419336_EY8228U0_T-falFreidoraInfrared6L-1-.jpg?v=639124828850100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2399.0,
-    "list_price": 2999.0,
-    "on_sale": true
-  },
-  {
     "name": "Sartén 26 cm Pro Tri-Ply SS Acero Inoxidable",
     "reference": "2100134122",
     "brand": "T-fal",
@@ -1342,27 +1342,6 @@
     "price": 1599.0,
     "list_price": 1999.0,
     "on_sale": true
-  },
-  {
-    "name": "Batería 12 piezas Refresh Ceramic Warm Beige",
-    "reference": "2100140958",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "Ceramic Refresh es la fusión perfecta entre estética de vanguardia y rendimiento superior, diseñada específicamente para quienes buscan integrar un estilo de vida saludable en su cocina. Esta línea no solo destaca por sus colores de tendencia, sino por su compromiso con el bienestar al incorporar el antiadherente cerámico InoCeram, una tecnología de alto desempeño totalmente libre de PFOA, plomo y cadmio. Para garantizar resultados óptimos, cuenta con la exclusiva tecnología Thermo-Signal™, que cambia de color para indicar el momento preciso en que la temperatura es ideal para comenzar a cocinar. Su versatilidad es excepcional, permitiendo finalizar preparaciones directamente en el horno (hasta 175°C) y ofreciendo compatibilidad con todos tipos de estufas, excepto inducción. Gracias a su base de difusión de calor, se logra una distribución térmica uniforme para cocciones siempre homogéneas, convirtiéndola en la aliada perfecta para quienes desean transformar su alimentación y proyectar una imagen moderna en su hogar.",
-    "url": "https://www.t-fal.com.mx/bateria-12-piezas-refresh-ceramic-warm-beige/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000",
-    "skus": [
-      {
-        "sku_id": "1089",
-        "sku_name": "Batería 12 piezas Refresh Ceramic Warm Beige",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159453/2100140958_C487SC74_T-REFRESHCERAMIC12PCSETWARMBEIGE-01-.jpg?v=639123224166100000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2699.0,
-    "list_price": 2699.0,
-    "on_sale": false
   },
   {
     "name": "Cronometro para ollas a presión de la gama Clipso.",
@@ -3357,6 +3336,27 @@
     "country": "México",
     "price": 1099.0,
     "list_price": 1099.0,
+    "on_sale": false
+  },
+  {
+    "name": "Plancha de vapor Ultragliss Plus Wine Gray, máximo vapor",
+    "reference": "1830008079",
+    "brand": "T-fal",
+    "category": "Planchas de vapor",
+    "description": "* SUELA DURILIUM: Su tecnología Durilium Airglide ofrece el mejor deslizamiento de T-fal, mayor cobertura y resistencia para un planchado más rápido y cómodo.\n* ELIMINA TODAS LAS ARRUGAS: Con su golpe de vapor extra fuerte, desaparecen hasta los pliegues más rebeldes, dejando tu ropa suave y lista en poco tiempo.\n* SEGURIDAD GARANTIZADA: La función Auto off apaga automáticamente la plancha cuando queda desatendida, brindándote tranquilidad en cada uso.\n* COMODIDAD DIARIA: Con su tanque y cable XL, podrás planchar sin interrupciones ni limitaciones, disfrutando de total practicidad.\n* AHORRA ENERGÍA SIN PERDER RESULTADOS: El modo ECO reduce el consumo de energía hasta en un 20%, manteniendo un rendimiento de vapor potente para eliminar arrugas con la misma eficacia.",
+    "url": "https://www.t-fal.com.mx/plancha-de-vapor-ultragliss-plus-wine-gray-maximo-vapor-939/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157949/1830008079_FV6822X0_ULTRAGLISSPLUSWINEGREY-1-.jpg?v=638930553569500000",
+    "skus": [
+      {
+        "sku_id": "939",
+        "sku_name": "Plancha de vapor Ultragliss Plus Wine Gray, máximo vapor",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157949/1830008079_FV6822X0_ULTRAGLISSPLUSWINEGREY-1-.jpg?v=638930553569500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1399.0,
+    "list_price": 1399.0,
     "on_sale": false
   },
   {
