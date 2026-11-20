@@ -1,26 +1,5 @@
 [
   {
-    "name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
-    "reference": "9100057309",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/empaque-junta-para-ollas-de-presion-de-aluminio-de-12--16-y-22-litros-/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159409/9100057309_SS-7129901057M_EMPOAPALU121622-01-.jpg?v=639119678273700000",
-    "skus": [
-      {
-        "sku_id": "1086",
-        "sku_name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159409/9100057309_SS-7129901057M_EMPOAPALU121622-01-.jpg?v=639119678273700000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 69.0,
-    "list_price": 69.0,
-    "on_sale": false
-  },
-  {
     "name": "Válvula de seguridad para olla a presión de aluminio de 22 litros.",
     "reference": "9100057191",
     "brand": "T-fal",
@@ -42,27 +21,6 @@
     "on_sale": false
   },
   {
-    "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
-    "reference": "7114900087",
-    "brand": "T-fal",
-    "category": "Ollas a Presión",
-    "description": "* Con una generosa capacidad de 22 litros, esta olla a presión está especialmente diseñada para realizar grandes preparaciones garantizando máxima seguridad y facilidad de uso.\n* Equipada con 5 sistemas de seguridad integrados que proporcionan una experiencia de cocina sin riesgos, asegurando que prepares grandes cantidad de comidas eficientemente.\n* Su construcción en aluminio ofrece un manejo liviano y fácil, permitiendo que puedas moverla y utilizarla sin esfuerzo incluso durante largas jornadas de cocina.\n* Su versatilidad excepcional es perfecta para una variead de recetas, destacando por su capacidad de satisfacer diferentes necesidades culinarias con gran facilidad.\n* La elección ideal para quienes necesitan cocinar grandes volúmenes de alimentos rápidamente, asegurando la frescura y calidad en cada preparación.",
-    "url": "https://www.t-fal.com.mx/olla-a-presion-de-22-l-de-aluminio-segura-y-facil-de-utilizar/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000",
-    "skus": [
-      {
-        "sku_id": "1017",
-        "sku_name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1899.0,
-    "list_price": 2799.0,
-    "on_sale": true
-  },
-  {
     "name": "Generador de vapor Express Easy, resultados impecables",
     "reference": "1830009002",
     "brand": "T-fal",
@@ -79,9 +37,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2499.0,
-    "list_price": 2499.0,
-    "on_sale": false
+    "price": 3374.25,
+    "list_price": 4499.0,
+    "on_sale": true
   },
   {
     "name": "Juego de sartenes 24/30 cm Excellence+",
@@ -269,7 +227,28 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1649.25,
-    "list_price": 1799.0,
+    "list_price": 2199.0,
+    "on_sale": true
+  },
+  {
+    "name": "Vaporizador Access Steam Easy, elimina arrugas rápido",
+    "reference": "1830008832",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* LISTO EN SEGUNDOS: Con solo 15 segundos de calentamiento, el vaporizador está preparado para eliminar arrugas y refrescar tus prendas en el momento que lo necesitas.\n* DISEÑO ESTABLE Y PRÁCTICO: El sistema self-standing permite apoyarlo con seguridad mientras lo usas o lo dejas en reposo, facilitando el planchado continuo.\n* OLVÍDATE DE LA TABLA: Su función de vapor vertical te permite alisar prendas directamente la ropa colgada o incluso refrescar cortinas, peluches y textiles del hogar.\n* REFRESCA TUS PRENDAS: El poder natural del vapor elimina arrugas y reduce olores, dejando la ropa fresca y con un aspecto impecable durante todo el día.\n* CUIDADO HIGIÉNICO: El vapor elimina hasta el 99.99% de bacterias y virus, ofreciendo no solo prendas lisas sino también más limpias y seguras para ti y tu familia.",
+    "url": "https://www.t-fal.com.mx/vaporizador-access-steam-easy-elimina-arrugas-rapido-923/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157821/1830008832_DT7111X1_ACCESS_STEAMEASY_-1-.jpg?v=638930414517830000",
+    "skus": [
+      {
+        "sku_id": "923",
+        "sku_name": "Vaporizador Access Steam Easy, elimina arrugas rápido",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157821/1830008832_DT7111X1_ACCESS_STEAMEASY_-1-.jpg?v=638930414517830000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1049.26,
+    "list_price": 1399.01,
     "on_sale": true
   },
   {
@@ -289,29 +268,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 3999.0,
-    "list_price": 3999.0,
-    "on_sale": false
-  },
-  {
-    "name": "Batería Lichen Supercook 26 pzas",
-    "reference": "2100131910",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Recubrimiento Easy Plus antiadherente de larga duración que evita que los alimentos se peguen y facilita la limpieza después de cada uso.\n* Tecnología Thermo-Signal que cambia de color indicando la temperatura óptima para cocinar.\n* Garantizando resultados más precisos y mejor sabor.\n* Base difusora que distribuye el calor de forma uniforme.\n* Asegurando una cocción homogénea y evitando puntos de sobrecalentamiento.\n* Set completo que incluye sartenes.\n* Cacerolas.\n* Olla.\n* Wok.\n* Crepera y utensilios esenciales libres de BPA.\n* Diseñados para el uso diario.\n* Compatible con todas las cocinas excepto inducción.\n*Apta para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/bateria-lichen-supercook-26-pzas-954/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158039/2100131910_B929SZ84_BATERIA26PCSLICHENSUPERCOOK-1-.jpg?v=638930565232500000",
-    "skus": [
-      {
-        "sku_id": "954",
-        "sku_name": "Batería Lichen Supercook 26 pzas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158039/2100131910_B929SZ84_BATERIA26PCSLICHENSUPERCOOK-1-.jpg?v=638930565232500000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1899.0,
-    "list_price": 2999.0,
+    "price": 5249.19,
+    "list_price": 6998.92,
     "on_sale": true
   },
   {
@@ -462,6 +420,27 @@
     "on_sale": true
   },
   {
+    "name": "Sartén 30cm Emotion SS",
+    "reference": "2100117989",
+    "brand": "T-fal",
+    "category": "Sartenes y ollas individuales",
+    "description": "* Sartén Emotion de 30 cm fabricada en acero inoxidable de gran calidad. \n* resistente al uso diario y con acabado elegante que aporta estilo a tu cocina. \n* Tecnología Thermo-Signal en el centro de la sartén. \n* que cambia de color para indicar el momento óptimo de inicio de la cocción. \n* Su base de inducción ofrece un calentamiento rápido y uniforme. \n* Asegurando cocciones homogéneas y evitando puntos calientes. \n* Mango ergonómico con inserto de acero que garantiza un agarre seguro y cómodo. \n* Incluso a altas temperaturas y durante el uso prolongado. \n* Compatible con todas las fuentes de calor. \n* Incluida inducción. \n* Apta para horno y lavavajillas.",
+    "url": "https://www.t-fal.com.mx/sarten-30cm-emotion-ss/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158065/2100117989_E3000704_Sarten_30cm_Emotion_SS-1-.jpg?v=638932150849300000",
+    "skus": [
+      {
+        "sku_id": "971",
+        "sku_name": "Sartén 30cm Emotion SS",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158065/2100117989_E3000704_Sarten_30cm_Emotion_SS-1-.jpg?v=638932150849300000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 499.0,
+    "list_price": 699.0,
+    "on_sale": true
+  },
+  {
     "name": "Plancha Ultragliss Anti-calc Plus blue, máximo vapor",
     "reference": "1830008083",
     "brand": "T-fal",
@@ -479,7 +458,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1649.26,
-    "list_price": 1999.0,
+    "list_price": 2199.01,
     "on_sale": true
   },
   {
@@ -499,9 +478,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2799.0,
-    "list_price": 2799.0,
-    "on_sale": false
+    "price": 2999.25,
+    "list_price": 3999.0,
+    "on_sale": true
   },
   {
     "name": "Batería Red Supercook 26 piezas",
@@ -522,6 +501,27 @@
     "country": "México",
     "price": 1899.0,
     "list_price": 2999.0,
+    "on_sale": true
+  },
+  {
+    "name": "Cafetera Filtro Heliora Petit 4 tazas",
+    "reference": "1500636903",
+    "brand": "T-fal",
+    "category": "Cafeteras y Hervidores",
+    "description": "* PRÁCTICA Y COMPACTA: Su diseño compacto y funcional la hace ideal para cualquier cocina. Ocupando el mínimo espacio sin sacrificar rendimiento ni estilo. * SISTEMA ANTI GOTEO: Equipado con un sistema anti goteo que asegura que no haya derrames ni goteos después de servir. Manteniendo tu cocina limpia y sin desorden. * CAPACIDAD PARA 4 TAZAS: Con una capacidad de hasta 4 tazas. Es perfecta para disfrutar de un buen café en solitario o compartirlo con alguien más. * FILTRO PERMANENTE: Gracias a su filtro permanente. No necesitarás filtros desechables. Lo que la convierte en una opción más económica y amigable con el medio ambiente. * CUCHARA MEDIDORA INCLUIDA: Viene con una cuchara medidora para ayudarte a usar la cantidad exacta de café molido. Garantizando la intensidad perfecta para tu bebida. * SE ADECUA A CUALQUIER ESPACIO: Su tamaño compacto permite que se ajuste fácilmente a cualquier rincón de tu cocina. Sin ocupar demasiado espacio ni perder funcionalidad.",
+    "url": "https://www.t-fal.com.mx/cafetera-filtro-heliora-petit-4-tazas-951/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000",
+    "skus": [
+      {
+        "sku_id": "961",
+        "sku_name": "Cafetera Filtro Heliora Petit 4 tazas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 134.25,
+    "list_price": 179.0,
     "on_sale": true
   },
   {
@@ -584,7 +584,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1874.25,
-    "list_price": 2149.0,
+    "list_price": 2499.0,
     "on_sale": true
   },
   {
@@ -648,27 +648,6 @@
     "country": "México",
     "price": 2049.0,
     "list_price": 3219.0,
-    "on_sale": true
-  },
-  {
-    "name": "Freidora de Aceite 3.5 L Oleo Clean Pro",
-    "reference": "7211001726",
-    "brand": "T-fal",
-    "category": "Freidoras de aire y aceite",
-    "description": "* Disfruta de una experiencia de fritura revolucionaria con la Freidora de Aceite Oleo Clean Pro. Con tecnología avanzada y un diseño intuitivo, esta freidora garantiza resultados perfectos cada vez, haciendo la limpieza y el uso fáciles y sin esfuerzo. Ideal para familias y amantes de la cocina que buscan calidad y practicidad. * Tecnología patentada de filtración de aceite: Filtra y almacena automáticamente el aceite usado en la caja proporcionada, manteniendo tu cocina libre de olores intensos y cochambre, y asegurando una fácil limpieza. * Control preciso de temperatura: Ajusta la temperatura de 135 °C a 190 °C para resultados de fritura óptimos, garantizando que tu comida se fríe a la perfección y conserva los sabores auténticos. * Capacidad generosa: Con capacidad de aceite de 3.5 litros y comida de 2.5 libras, esta freidora ofrece calentamiento uniforme y resultados dorados, ideal para preparar alimentos para hasta 6 personas. * Fritura segura y sin esfuerzo: Incluye tapa de bloqueo, ventana de visualización, asas de tacto frío y apagado automático, proporcionando tranquilidad y seguridad durante la fritura. * Limpieza ultra fácil: Componentes aptos para lavaplatos, incluyendo cesta de cocina, tazón, tapa y caja de aceite. Disfruta de la comodidad de una fritura profesional en casa sin complicaciones",
-    "url": "https://www.t-fal.com.mx/freidora-de-aceite-3-5-l-oleo-clean-pro/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158562/7211001726_FR800050_FREIDORA_OLEOCLEANPRO-1-.jpg?v=638950331678630000",
-    "skus": [
-      {
-        "sku_id": "991",
-        "sku_name": "Freidora de Aceite 3.5 L Oleo Clean Pro",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158562/7211001726_FR800050_FREIDORA_OLEOCLEANPRO-1-.jpg?v=638950331678630000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1449.0,
-    "list_price": 2309.0,
     "on_sale": true
   },
   {
@@ -756,24 +735,24 @@
     "on_sale": true
   },
   {
-    "name": "Vaporizador Origin Travel, plegable y portátil",
-    "reference": "1830009412",
+    "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
+    "reference": "4100000837",
     "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* DISEÑO PLEGABLE Y PORTÁTIL: Su cabezal plegable lo hace súper compacto y práctico, ideal para guardarlo en la maleta o tenerlo siempre a mano en casa.\n* REFRESCA Y ELIMINA ARRUGAS: El poder del vapor alisa rápidamente las arrugas y ayuda a refrescar los tejidos, devolviendo a tu ropa un aspecto limpio y cuidado.\n* LISTO EN SEGUNDOS: Con un calentamiento de solo 25 segundos, tu vaporizador está siempre preparado para dejar tu ropa sin arrugas en cualquier momento.\n* CUIDADO FÁCIL Y SEGURO: Su diseño intuitivo y ligero permite usarlo sin complicaciones, asegurando una experiencia rápida, práctica y sin riesgos para tus prendas.\n* ACCESORIOS ÚTILES: Incluye cepillo para telas gruesas y bolsa de viaje, ofreciéndote más versatilidad y comodidad en cualquier lugar.",
-    "url": "https://www.t-fal.com.mx/vaporizador-origin-travel-plegable-y-portatil-920/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157803/1830009412_DT1031X0_ORIGINTRAVEL_-1-.jpg?v=638930412038470000",
+    "category": "Ventiladores",
+    "description": "* Ventilador de pedestal T-Fal Air Pro: Gran potencia y durabilidad gracias a sus mallas metálicas extragrandes de 22\" y su eficiente motor de 95W. \n* Es resistente al calor y la humedad e ideal para lugares amplios.\n* Fabricado con materiales de alta calidad, es fácil de limpiar y cuenta con una base de gran estabilidad.\n* Cuenta con sistema de altura ajustable hasta 1.45m, inclinación vertical ajustable y oscilación horizontal automática para tu comodidad.\n* Garantía de 2 años contra defectos de materiales o fabricación e incluye instructivo para su uso.",
+    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--air-pro-con-mallas-metalicas-de-22-914/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159319/4100000837_VF2253X0_FAN-AIR-PRO-STAND-BL-T-FAL-01.jpg?v=639102358122630000",
     "skus": [
       {
-        "sku_id": "920",
-        "sku_name": "Vaporizador Origin Travel, plegable y portátil",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157803/1830009412_DT1031X0_ORIGINTRAVEL_-1-.jpg?v=638930412038470000"
+        "sku_id": "914",
+        "sku_name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159319/4100000837_VF2253X0_FAN-AIR-PRO-STAND-BL-T-FAL-01.jpg?v=639102358122630000"
       }
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 599.0,
-    "list_price": 699.0,
+    "price": 1249.0,
+    "list_price": 1999.0,
     "on_sale": true
   },
   {
@@ -941,7 +920,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1499.25,
-    "list_price": 2999.0,
+    "list_price": 1999.0,
     "on_sale": true
   },
   {
@@ -962,7 +941,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1529.25,
-    "list_price": 1999.0,
+    "list_price": 2039.0,
     "on_sale": true
   },
   {
@@ -1004,7 +983,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 4499.25,
-    "list_price": 4999.0,
+    "list_price": 5999.0,
     "on_sale": true
   },
   {
@@ -1108,9 +1087,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1399.0,
+    "price": 1259.0,
     "list_price": 1399.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batidora Bake Easy, Compacta y Fácil de Usar",
@@ -1129,9 +1108,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1999.0,
+    "price": 1799.0,
     "list_price": 1999.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Batería 10 pzas Pro Tri-Ply Acero inoxidable",
@@ -1570,9 +1549,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1599.0,
+    "price": 1049.0,
     "list_price": 1599.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Licuadora 2v vaso vidrio Ultraforce+",
@@ -1801,9 +1780,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1899.0,
+    "price": 1709.0,
     "list_price": 1899.0,
-    "on_sale": false
+    "on_sale": true
   },
   {
     "name": "Bloque de 5 cuchillos Ice Force de acero inoxidable",
@@ -1844,7 +1823,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 2399.25,
-    "list_price": 2999.0,
+    "list_price": 3199.0,
     "on_sale": true
   },
   {
@@ -1928,7 +1907,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1236.75,
-    "list_price": 1289.0,
+    "list_price": 1649.0,
     "on_sale": true
   },
   {
@@ -1949,7 +1928,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 936.75,
-    "list_price": 1009.0,
+    "list_price": 1249.0,
     "on_sale": true
   },
   {
@@ -2096,7 +2075,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 681.97,
-    "list_price": 1049.0,
+    "list_price": 909.3,
     "on_sale": true
   },
   {
@@ -2158,9 +2137,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1499.0,
-    "list_price": 1499.0,
-    "on_sale": false
+    "price": 1499.25,
+    "list_price": 1999.0,
+    "on_sale": true
   },
   {
     "name": "Procesador de Alimentos Chopper Power Max",
@@ -2222,7 +2201,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 2024.25,
-    "list_price": 2099.0,
+    "list_price": 2699.0,
     "on_sale": true
   },
   {
@@ -2264,7 +2243,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 4499.25,
-    "list_price": 4799.0,
+    "list_price": 5999.0,
     "on_sale": true
   },
   {
@@ -2285,7 +2264,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 2099.25,
-    "list_price": 2749.0,
+    "list_price": 2799.0,
     "on_sale": true
   },
   {
@@ -2432,7 +2411,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 3749.25,
-    "list_price": 4599.0,
+    "list_price": 4999.0,
     "on_sale": true
   },
   {
@@ -2474,7 +2453,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 899.25,
-    "list_price": 909.0,
+    "list_price": 1199.0,
     "on_sale": true
   },
   {
@@ -2558,7 +2537,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1949.25,
-    "list_price": 2999.0,
+    "list_price": 2599.0,
     "on_sale": true
   },
   {
@@ -2706,6 +2685,27 @@
     "country": "México",
     "price": 2024.25,
     "list_price": 2699.0,
+    "on_sale": true
+  },
+  {
+    "name": "Freidora de Aceite 3.5 L Oleo Clean Pro",
+    "reference": "7211001726",
+    "brand": "T-fal",
+    "category": "Freidoras de aire y aceite",
+    "description": "* Disfruta de una experiencia de fritura revolucionaria con la Freidora de Aceite Oleo Clean Pro. Con tecnología avanzada y un diseño intuitivo, esta freidora garantiza resultados perfectos cada vez, haciendo la limpieza y el uso fáciles y sin esfuerzo. Ideal para familias y amantes de la cocina que buscan calidad y practicidad. * Tecnología patentada de filtración de aceite: Filtra y almacena automáticamente el aceite usado en la caja proporcionada, manteniendo tu cocina libre de olores intensos y cochambre, y asegurando una fácil limpieza. * Control preciso de temperatura: Ajusta la temperatura de 135 °C a 190 °C para resultados de fritura óptimos, garantizando que tu comida se fríe a la perfección y conserva los sabores auténticos. * Capacidad generosa: Con capacidad de aceite de 3.5 litros y comida de 2.5 libras, esta freidora ofrece calentamiento uniforme y resultados dorados, ideal para preparar alimentos para hasta 6 personas. * Fritura segura y sin esfuerzo: Incluye tapa de bloqueo, ventana de visualización, asas de tacto frío y apagado automático, proporcionando tranquilidad y seguridad durante la fritura. * Limpieza ultra fácil: Componentes aptos para lavaplatos, incluyendo cesta de cocina, tazón, tapa y caja de aceite. Disfruta de la comodidad de una fritura profesional en casa sin complicaciones",
+    "url": "https://www.t-fal.com.mx/freidora-de-aceite-3-5-l-oleo-clean-pro/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158562/7211001726_FR800050_FREIDORA_OLEOCLEANPRO-1-.jpg?v=638950331678630000",
+    "skus": [
+      {
+        "sku_id": "991",
+        "sku_name": "Freidora de Aceite 3.5 L Oleo Clean Pro",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158562/7211001726_FR800050_FREIDORA_OLEOCLEANPRO-1-.jpg?v=638950331678630000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 1449.0,
+    "list_price": 2309.0,
     "on_sale": true
   },
   {
@@ -2893,9 +2893,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2999.0,
-    "list_price": 2999.0,
-    "on_sale": false
+    "price": 2999.29,
+    "list_price": 3999.06,
+    "on_sale": true
   },
   {
     "name": "Set de 2 termos de 0.350 L Essential Mug para bebidas",
@@ -2940,27 +2940,6 @@
     "on_sale": true
   },
   {
-    "name": "Sartén 30cm Emotion SS",
-    "reference": "2100117989",
-    "brand": "T-fal",
-    "category": "Sartenes y ollas individuales",
-    "description": "* Sartén Emotion de 30 cm fabricada en acero inoxidable de gran calidad. \n* resistente al uso diario y con acabado elegante que aporta estilo a tu cocina. \n* Tecnología Thermo-Signal en el centro de la sartén. \n* que cambia de color para indicar el momento óptimo de inicio de la cocción. \n* Su base de inducción ofrece un calentamiento rápido y uniforme. \n* Asegurando cocciones homogéneas y evitando puntos calientes. \n* Mango ergonómico con inserto de acero que garantiza un agarre seguro y cómodo. \n* Incluso a altas temperaturas y durante el uso prolongado. \n* Compatible con todas las fuentes de calor. \n* Incluida inducción. \n* Apta para horno y lavavajillas.",
-    "url": "https://www.t-fal.com.mx/sarten-30cm-emotion-ss/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158065/2100117989_E3000704_Sarten_30cm_Emotion_SS-1-.jpg?v=638932150849300000",
-    "skus": [
-      {
-        "sku_id": "971",
-        "sku_name": "Sartén 30cm Emotion SS",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158065/2100117989_E3000704_Sarten_30cm_Emotion_SS-1-.jpg?v=638932150849300000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 499.0,
-    "list_price": 699.0,
-    "on_sale": true
-  },
-  {
     "name": "Exprimidor de Jugo Basic Citrus Press",
     "reference": "8010000416",
     "brand": "T-fal",
@@ -2999,28 +2978,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 6749.25,
-    "list_price": 8499.0,
-    "on_sale": true
-  },
-  {
-    "name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
-    "reference": "4100000837",
-    "brand": "T-fal",
-    "category": "Ventiladores",
-    "description": "* Ventilador de pedestal T-Fal Air Pro: Gran potencia y durabilidad gracias a sus mallas metálicas extragrandes de 22\" y su eficiente motor de 95W. \n* Es resistente al calor y la humedad e ideal para lugares amplios.\n* Fabricado con materiales de alta calidad, es fácil de limpiar y cuenta con una base de gran estabilidad.\n* Cuenta con sistema de altura ajustable hasta 1.45m, inclinación vertical ajustable y oscilación horizontal automática para tu comodidad.\n* Garantía de 2 años contra defectos de materiales o fabricación e incluye instructivo para su uso.",
-    "url": "https://www.t-fal.com.mx/ventilador-de-pedestal--air-pro-con-mallas-metalicas-de-22-914/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159319/4100000837_VF2253X0_FAN-AIR-PRO-STAND-BL-T-FAL-01.jpg?v=639102358122630000",
-    "skus": [
-      {
-        "sku_id": "914",
-        "sku_name": "Ventilador de Pedestal  Air Pro con mallas metálicas de 22\"",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159319/4100000837_VF2253X0_FAN-AIR-PRO-STAND-BL-T-FAL-01.jpg?v=639102358122630000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 1249.0,
-    "list_price": 1999.0,
+    "list_price": 8999.0,
     "on_sale": true
   },
   {
@@ -3083,7 +3041,28 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 2399.25,
-    "list_price": 2499.0,
+    "list_price": 3199.0,
+    "on_sale": true
+  },
+  {
+    "name": "Vaporizador Origin Travel, plegable y portátil",
+    "reference": "1830009412",
+    "brand": "T-fal",
+    "category": "Vaporizadores de mano",
+    "description": "* DISEÑO PLEGABLE Y PORTÁTIL: Su cabezal plegable lo hace súper compacto y práctico, ideal para guardarlo en la maleta o tenerlo siempre a mano en casa.\n* REFRESCA Y ELIMINA ARRUGAS: El poder del vapor alisa rápidamente las arrugas y ayuda a refrescar los tejidos, devolviendo a tu ropa un aspecto limpio y cuidado.\n* LISTO EN SEGUNDOS: Con un calentamiento de solo 25 segundos, tu vaporizador está siempre preparado para dejar tu ropa sin arrugas en cualquier momento.\n* CUIDADO FÁCIL Y SEGURO: Su diseño intuitivo y ligero permite usarlo sin complicaciones, asegurando una experiencia rápida, práctica y sin riesgos para tus prendas.\n* ACCESORIOS ÚTILES: Incluye cepillo para telas gruesas y bolsa de viaje, ofreciéndote más versatilidad y comodidad en cualquier lugar.",
+    "url": "https://www.t-fal.com.mx/vaporizador-origin-travel-plegable-y-portatil-920/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157803/1830009412_DT1031X0_ORIGINTRAVEL_-1-.jpg?v=638930412038470000",
+    "skus": [
+      {
+        "sku_id": "920",
+        "sku_name": "Vaporizador Origin Travel, plegable y portátil",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157803/1830009412_DT1031X0_ORIGINTRAVEL_-1-.jpg?v=638930412038470000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 599.0,
+    "list_price": 699.0,
     "on_sale": true
   },
   {
@@ -3125,29 +3104,8 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1424.25,
-    "list_price": 1499.0,
+    "list_price": 1899.0,
     "on_sale": true
-  },
-  {
-    "name": "Vaporizador Access Steam Easy, elimina arrugas rápido",
-    "reference": "1830008832",
-    "brand": "T-fal",
-    "category": "Vaporizadores de mano",
-    "description": "* LISTO EN SEGUNDOS: Con solo 15 segundos de calentamiento, el vaporizador está preparado para eliminar arrugas y refrescar tus prendas en el momento que lo necesitas.\n* DISEÑO ESTABLE Y PRÁCTICO: El sistema self-standing permite apoyarlo con seguridad mientras lo usas o lo dejas en reposo, facilitando el planchado continuo.\n* OLVÍDATE DE LA TABLA: Su función de vapor vertical te permite alisar prendas directamente la ropa colgada o incluso refrescar cortinas, peluches y textiles del hogar.\n* REFRESCA TUS PRENDAS: El poder natural del vapor elimina arrugas y reduce olores, dejando la ropa fresca y con un aspecto impecable durante todo el día.\n* CUIDADO HIGIÉNICO: El vapor elimina hasta el 99.99% de bacterias y virus, ofreciendo no solo prendas lisas sino también más limpias y seguras para ti y tu familia.",
-    "url": "https://www.t-fal.com.mx/vaporizador-access-steam-easy-elimina-arrugas-rapido-923/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157821/1830008832_DT7111X1_ACCESS_STEAMEASY_-1-.jpg?v=638930414517830000",
-    "skus": [
-      {
-        "sku_id": "923",
-        "sku_name": "Vaporizador Access Steam Easy, elimina arrugas rápido",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157821/1830008832_DT7111X1_ACCESS_STEAMEASY_-1-.jpg?v=638930414517830000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 999.0,
-    "list_price": 999.0,
-    "on_sale": false
   },
   {
     "name": "Vaporizador Pure Pop Naranja, con estilo en cualquier lugar",
@@ -3272,7 +3230,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 1799.25,
-    "list_price": 2299.0,
+    "list_price": 2399.0,
     "on_sale": true
   },
   {
@@ -3334,9 +3292,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 1399.0,
-    "list_price": 1399.0,
-    "on_sale": false
+    "price": 1424.18,
+    "list_price": 1898.91,
+    "on_sale": true
   },
   {
     "name": "Plancha Virtuo Auto Off, resultados impecables",
@@ -3418,9 +3376,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 2519.0,
-    "list_price": 2519.0,
-    "on_sale": false
+    "price": 2699.25,
+    "list_price": 3599.0,
+    "on_sale": true
   },
   {
     "name": "Batería Ingenio XL Force 12 pzas, antiadherente, apilable",
@@ -3586,9 +3544,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 499.0,
-    "list_price": 499.0,
-    "on_sale": false
+    "price": 524.25,
+    "list_price": 699.0,
+    "on_sale": true
   },
   {
     "name": "Espresseria Manual Máquina de Café",
@@ -3628,9 +3586,9 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 4799.0,
-    "list_price": 4799.0,
-    "on_sale": false
+    "price": 4499.25,
+    "list_price": 5999.0,
+    "on_sale": true
   },
   {
     "name": "Cafetera Filtro Grand Cafe 1.8L",
@@ -3654,27 +3612,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Filtro Heliora Petit 4 tazas",
-    "reference": "1500636903",
-    "brand": "T-fal",
-    "category": "Cafeteras y Hervidores",
-    "description": "* PRÁCTICA Y COMPACTA: Su diseño compacto y funcional la hace ideal para cualquier cocina. Ocupando el mínimo espacio sin sacrificar rendimiento ni estilo. * SISTEMA ANTI GOTEO: Equipado con un sistema anti goteo que asegura que no haya derrames ni goteos después de servir. Manteniendo tu cocina limpia y sin desorden. * CAPACIDAD PARA 4 TAZAS: Con una capacidad de hasta 4 tazas. Es perfecta para disfrutar de un buen café en solitario o compartirlo con alguien más. * FILTRO PERMANENTE: Gracias a su filtro permanente. No necesitarás filtros desechables. Lo que la convierte en una opción más económica y amigable con el medio ambiente. * CUCHARA MEDIDORA INCLUIDA: Viene con una cuchara medidora para ayudarte a usar la cantidad exacta de café molido. Garantizando la intensidad perfecta para tu bebida. * SE ADECUA A CUALQUIER ESPACIO: Su tamaño compacto permite que se ajuste fácilmente a cualquier rincón de tu cocina. Sin ocupar demasiado espacio ni perder funcionalidad.",
-    "url": "https://www.t-fal.com.mx/cafetera-filtro-heliora-petit-4-tazas-951/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000",
-    "skus": [
-      {
-        "sku_id": "961",
-        "sku_name": "Cafetera Filtro Heliora Petit 4 tazas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 134.25,
-    "list_price": 449.0,
-    "on_sale": true
-  },
-  {
     "name": "Cafetera Filtro Elegance 7 tazas",
     "reference": "8010000623",
     "brand": "T-fal",
@@ -3692,7 +3629,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 636.75,
-    "list_price": 699.0,
+    "list_price": 849.0,
     "on_sale": true
   },
   {
@@ -3776,7 +3713,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 674.25,
-    "list_price": 699.0,
+    "list_price": 899.0,
     "on_sale": true
   },
   {
@@ -3797,7 +3734,7 @@
     "site": "T-Fal México",
     "country": "México",
     "price": 374.25,
-    "list_price": 899.0,
+    "list_price": 499.0,
     "on_sale": true
   },
   {
@@ -3864,6 +3801,27 @@
     "on_sale": false
   },
   {
+    "name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
+    "reference": "9100057309",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/empaque-junta-para-ollas-de-presion-de-aluminio-de-12--16-y-22-litros-/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159409/9100057309_SS-7129901057M_EMPOAPALU121622-01-.jpg?v=639119678273700000",
+    "skus": [
+      {
+        "sku_id": "1086",
+        "sku_name": "Empaque/Junta para ollas de presión de aluminio de 12, 16 y 22 litros.",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159409/9100057309_SS-7129901057M_EMPOAPALU121622-01-.jpg?v=639119678273700000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 69.0,
+    "list_price": 69.0,
+    "on_sale": false
+  },
+  {
     "name": "Empaque/Junta para licuadoras vaso vidiro del rango Infinyforce xl y Ultraforce+",
     "reference": "5861032672",
     "brand": "T-fal",
@@ -3882,6 +3840,48 @@
     "country": "México",
     "price": 34.0,
     "list_price": 34.0,
+    "on_sale": false
+  },
+  {
+    "name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
+    "reference": "7114900087",
+    "brand": "T-fal",
+    "category": "Ollas a Presión",
+    "description": "* Con una generosa capacidad de 22 litros, esta olla a presión está especialmente diseñada para realizar grandes preparaciones garantizando máxima seguridad y facilidad de uso.\n* Equipada con 5 sistemas de seguridad integrados que proporcionan una experiencia de cocina sin riesgos, asegurando que prepares grandes cantidad de comidas eficientemente.\n* Su construcción en aluminio ofrece un manejo liviano y fácil, permitiendo que puedas moverla y utilizarla sin esfuerzo incluso durante largas jornadas de cocina.\n* Su versatilidad excepcional es perfecta para una variead de recetas, destacando por su capacidad de satisfacer diferentes necesidades culinarias con gran facilidad.\n* La elección ideal para quienes necesitan cocinar grandes volúmenes de alimentos rápidamente, asegurando la frescura y calidad en cada preparación.",
+    "url": "https://www.t-fal.com.mx/olla-a-presion-de-22-l-de-aluminio-segura-y-facil-de-utilizar/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000",
+    "skus": [
+      {
+        "sku_id": "1017",
+        "sku_name": "Olla a presión de 22 L de aluminio, segura y fácil de utilizar",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158692/7114900087_P3105231_ALUCANNERPC22QT-1-.jpg?v=638950351298270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2799.0,
+    "list_price": 2799.0,
+    "on_sale": false
+  },
+  {
+    "name": "Batería Lichen Supercook 26 pzas",
+    "reference": "2100131910",
+    "brand": "T-fal",
+    "category": "Baterías de cocina",
+    "description": "* Recubrimiento Easy Plus antiadherente de larga duración que evita que los alimentos se peguen y facilita la limpieza después de cada uso.\n* Tecnología Thermo-Signal que cambia de color indicando la temperatura óptima para cocinar.\n* Garantizando resultados más precisos y mejor sabor.\n* Base difusora que distribuye el calor de forma uniforme.\n* Asegurando una cocción homogénea y evitando puntos de sobrecalentamiento.\n* Set completo que incluye sartenes.\n* Cacerolas.\n* Olla.\n* Wok.\n* Crepera y utensilios esenciales libres de BPA.\n* Diseñados para el uso diario.\n* Compatible con todas las cocinas excepto inducción.\n*Apta para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/bateria-lichen-supercook-26-pzas-954/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158039/2100131910_B929SZ84_BATERIA26PCSLICHENSUPERCOOK-1-.jpg?v=638930565232500000",
+    "skus": [
+      {
+        "sku_id": "954",
+        "sku_name": "Batería Lichen Supercook 26 pzas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158039/2100131910_B929SZ84_BATERIA26PCSLICHENSUPERCOOK-1-.jpg?v=638930565232500000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2999.0,
+    "list_price": 2999.0,
     "on_sale": false
   },
   {
@@ -3985,8 +3985,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": null,
-    "list_price": null,
+    "price": 369.0,
+    "list_price": 369.0,
     "on_sale": false
   },
   {
@@ -4006,8 +4006,8 @@
     ],
     "site": "T-Fal México",
     "country": "México",
-    "price": 4375.0,
-    "list_price": 4375.0,
+    "price": 6499.0,
+    "list_price": 6499.0,
     "on_sale": false
   },
   {
