@@ -504,27 +504,6 @@
     "on_sale": true
   },
   {
-    "name": "Cafetera Filtro Heliora Petit 4 tazas",
-    "reference": "1500636903",
-    "brand": "T-fal",
-    "category": "Cafeteras y Hervidores",
-    "description": "* PRÁCTICA Y COMPACTA: Su diseño compacto y funcional la hace ideal para cualquier cocina. Ocupando el mínimo espacio sin sacrificar rendimiento ni estilo. * SISTEMA ANTI GOTEO: Equipado con un sistema anti goteo que asegura que no haya derrames ni goteos después de servir. Manteniendo tu cocina limpia y sin desorden. * CAPACIDAD PARA 4 TAZAS: Con una capacidad de hasta 4 tazas. Es perfecta para disfrutar de un buen café en solitario o compartirlo con alguien más. * FILTRO PERMANENTE: Gracias a su filtro permanente. No necesitarás filtros desechables. Lo que la convierte en una opción más económica y amigable con el medio ambiente. * CUCHARA MEDIDORA INCLUIDA: Viene con una cuchara medidora para ayudarte a usar la cantidad exacta de café molido. Garantizando la intensidad perfecta para tu bebida. * SE ADECUA A CUALQUIER ESPACIO: Su tamaño compacto permite que se ajuste fácilmente a cualquier rincón de tu cocina. Sin ocupar demasiado espacio ni perder funcionalidad.",
-    "url": "https://www.t-fal.com.mx/cafetera-filtro-heliora-petit-4-tazas-951/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000",
-    "skus": [
-      {
-        "sku_id": "961",
-        "sku_name": "Cafetera Filtro Heliora Petit 4 tazas",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 134.25,
-    "list_price": 179.0,
-    "on_sale": true
-  },
-  {
     "name": "Set de sartenes de 20, 24 y 26cm Easy cook negro",
     "reference": "9100064330",
     "brand": "T-fal",
@@ -537,6 +516,27 @@
         "sku_id": "1122",
         "sku_name": "Set de sartenes de 20, 24 y 26cm Easy cook negro",
         "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159820/9100058603_B4440482COL_JGOSTN202426CMNGOEASYCOOK-1-.jpg?v=639173299165270000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 629.0,
+    "list_price": 699.0,
+    "on_sale": true
+  },
+  {
+    "name": "Moldes y rejillas para cocinar en air fryer y hornos",
+    "reference": "1510001776",
+    "brand": "T-fal",
+    "category": "Accesorios Y Repuestos",
+    "description": "<br>",
+    "url": "https://www.t-fal.com.mx/moldes-y-rejillas-para-cocinar-en-air-fryer-t-fal/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159570/1510001776_XA112050_ACCESORIOSEASYFRY-01-.jpg?v=639125730997870000",
+    "skus": [
+      {
+        "sku_id": "1100",
+        "sku_name": "Moldes y rejillas para cocinar en air fryer T-fal",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159570/1510001776_XA112050_ACCESORIOSEASYFRY-01-.jpg?v=639125730997870000"
       }
     ],
     "site": "T-Fal México",
@@ -669,6 +669,27 @@
     "country": "México",
     "price": 769.0,
     "list_price": 849.0,
+    "on_sale": true
+  },
+  {
+    "name": "Freidora de Aire 8 L Easy Fry & Grill Dual",
+    "reference": "1510002723",
+    "brand": "T-fal",
+    "category": "Freidoras de aire y aceite",
+    "description": "* Descubre la versatilidad y eficiencia de la Freidora de Aire Digital Easy Fry & Grill Dual. Con tecnología avanzada, esta freidora te permite asar y cocinar una amplia variedad de alimentos utilizando sus programas automáticos y diseño innovador, y lo mejor de todo, puedes cocinar con poco o nada de aceite. Ideal para quienes buscan calidad, comodidad y resultados perfectos. * Acabado a la parrilla: Dale a tus alimentos un acabado de asado gracias a la rejilla de aluminio incorporada. * 8 programas automáticos: Prepara papas fritas, pollo, pescado, panque, carne, camarón, grill, pizza con facilidad usando los menús precargados. * Capacidad XL: Con 8.3 L de capacidad (canasta de 5.2 L y 3.1 L), temporizador de 60 minutos, hasta 200°C y potencia de 1400 W, es perfecta para grandes comidas. * Tecnología antiadherente: La rejilla de aluminio y la canastilla cuentan con recubrimiento antiadherente, asegurando que los alimentos no se peguen. * Fácil limpieza: Su diseño innovador permite una limpieza rápida y sencilla, con componentes aptos para lavavajillas.",
+    "url": "https://www.t-fal.com.mx/freidora-de-aire-8-easy-fry-i-grill-dual/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158602/1510002723_EY905N50_FREIDORA_AIRE8L_EASYFRY_GRILLDUAL-1-.jpg?v=638950337084070000",
+    "skus": [
+      {
+        "sku_id": "995",
+        "sku_name": "Freidora de Aire 8 L Easy Fry & Grill Dual",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158602/1510002723_EY905N50_FREIDORA_AIRE8L_EASYFRY_GRILLDUAL-1-.jpg?v=638950337084070000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 2699.0,
+    "list_price": 3989.0,
     "on_sale": true
   },
   {
@@ -1362,27 +1383,6 @@
     "country": "México",
     "price": 2249.0,
     "list_price": 2499.0,
-    "on_sale": true
-  },
-  {
-    "name": "Moldes y rejillas para cocinar en air fryer y hornos",
-    "reference": "1510001776",
-    "brand": "T-fal",
-    "category": "Accesorios Y Repuestos",
-    "description": "<br>",
-    "url": "https://www.t-fal.com.mx/moldes-y-rejillas-para-cocinar-en-air-fryer-t-fal/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159570/1510001776_XA112050_ACCESORIOSEASYFRY-01-.jpg?v=639125730997870000",
-    "skus": [
-      {
-        "sku_id": "1100",
-        "sku_name": "Moldes y rejillas para cocinar en air fryer T-fal",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159570/1510001776_XA112050_ACCESORIOSEASYFRY-01-.jpg?v=639125730997870000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 629.0,
-    "list_price": 699.0,
     "on_sale": true
   },
   {
@@ -2835,27 +2835,6 @@
     "on_sale": true
   },
   {
-    "name": "Freidora de Aire 8 L Easy Fry & Grill Dual",
-    "reference": "1510002723",
-    "brand": "T-fal",
-    "category": "Freidoras de aire y aceite",
-    "description": "* Descubre la versatilidad y eficiencia de la Freidora de Aire Digital Easy Fry & Grill Dual. Con tecnología avanzada, esta freidora te permite asar y cocinar una amplia variedad de alimentos utilizando sus programas automáticos y diseño innovador, y lo mejor de todo, puedes cocinar con poco o nada de aceite. Ideal para quienes buscan calidad, comodidad y resultados perfectos. * Acabado a la parrilla: Dale a tus alimentos un acabado de asado gracias a la rejilla de aluminio incorporada. * 8 programas automáticos: Prepara papas fritas, pollo, pescado, panque, carne, camarón, grill, pizza con facilidad usando los menús precargados. * Capacidad XL: Con 8.3 L de capacidad (canasta de 5.2 L y 3.1 L), temporizador de 60 minutos, hasta 200°C y potencia de 1400 W, es perfecta para grandes comidas. * Tecnología antiadherente: La rejilla de aluminio y la canastilla cuentan con recubrimiento antiadherente, asegurando que los alimentos no se peguen. * Fácil limpieza: Su diseño innovador permite una limpieza rápida y sencilla, con componentes aptos para lavavajillas.",
-    "url": "https://www.t-fal.com.mx/freidora-de-aire-8-easy-fry-i-grill-dual/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158602/1510002723_EY905N50_FREIDORA_AIRE8L_EASYFRY_GRILLDUAL-1-.jpg?v=638950337084070000",
-    "skus": [
-      {
-        "sku_id": "995",
-        "sku_name": "Freidora de Aire 8 L Easy Fry & Grill Dual",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/158602/1510002723_EY905N50_FREIDORA_AIRE8L_EASYFRY_GRILLDUAL-1-.jpg?v=638950337084070000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 2699.0,
-    "list_price": 3989.0,
-    "on_sale": true
-  },
-  {
     "name": "Freidora de Aire XL Surface",
     "reference": "1510002874",
     "brand": "T-fal",
@@ -3717,27 +3696,6 @@
     "on_sale": true
   },
   {
-    "name": "Batería Delight 10 pzas Mineralia+ inducción",
-    "reference": "9100051441",
-    "brand": "T-fal",
-    "category": "Baterías de cocina",
-    "description": "* Antiadherente Mineralia+ antiadherente reforzado con partículas minerales.\n* Tecnología Thermo-Signal que cambia de color para indicar el momento exacto de iniciar la cocción, logrando resultados óptimos en cada receta.\n* Base compatible con inducción que distribuye de manera uniforme el calor evitando puntos calientes y asegurando una cocción homogénea en todos los platillos.\n* Incluye utensilios de silicón resistentes al calor y libres de BPA, ideales para cuidar el recubrimiento y facilitar la preparación de alimentos.\n* Compatible con todas las cocinas, incluida inducción, apta para lavavajillas y fabricada en Francia con un diseño moderno y confiable.",
-    "url": "https://www.t-fal.com.mx/bateria-delight-10-pzas-mineralia-induccion-956/p",
-    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157755/9100051441_G2930BAT_BATERIA10PCSDELIGHT-01-.jpg?v=638930377955830000",
-    "skus": [
-      {
-        "sku_id": "956",
-        "sku_name": "Batería Delight 10 pzas Mineralia+ inducción",
-        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157755/9100051441_G2930BAT_BATERIA10PCSDELIGHT-01-.jpg?v=638930377955830000"
-      }
-    ],
-    "site": "T-Fal México",
-    "country": "México",
-    "price": 4999.0,
-    "list_price": 7999.0,
-    "on_sale": true
-  },
-  {
     "name": "Tostador Ultra Toaster 2 ranuras",
     "reference": "8010000214",
     "brand": "T-fal",
@@ -4074,6 +4032,27 @@
     "on_sale": false
   },
   {
+    "name": "Cafetera Filtro Heliora Petit 4 tazas",
+    "reference": "1500636903",
+    "brand": "T-fal",
+    "category": "Cafeteras y Hervidores",
+    "description": "* PRÁCTICA Y COMPACTA: Su diseño compacto y funcional la hace ideal para cualquier cocina. Ocupando el mínimo espacio sin sacrificar rendimiento ni estilo. * SISTEMA ANTI GOTEO: Equipado con un sistema anti goteo que asegura que no haya derrames ni goteos después de servir. Manteniendo tu cocina limpia y sin desorden. * CAPACIDAD PARA 4 TAZAS: Con una capacidad de hasta 4 tazas. Es perfecta para disfrutar de un buen café en solitario o compartirlo con alguien más. * FILTRO PERMANENTE: Gracias a su filtro permanente. No necesitarás filtros desechables. Lo que la convierte en una opción más económica y amigable con el medio ambiente. * CUCHARA MEDIDORA INCLUIDA: Viene con una cuchara medidora para ayudarte a usar la cantidad exacta de café molido. Garantizando la intensidad perfecta para tu bebida. * SE ADECUA A CUALQUIER ESPACIO: Su tamaño compacto permite que se ajuste fácilmente a cualquier rincón de tu cocina. Sin ocupar demasiado espacio ni perder funcionalidad.",
+    "url": "https://www.t-fal.com.mx/cafetera-filtro-heliora-petit-4-tazas-951/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000",
+    "skus": [
+      {
+        "sku_id": "961",
+        "sku_name": "Cafetera Filtro Heliora Petit 4 tazas",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/157911/1500636903_CM3218MX_CAFETERAHELIORAPETITE-1-.jpg?v=638930546319330000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": 179.0,
+    "list_price": 179.0,
+    "on_sale": false
+  },
+  {
     "name": "Juego de 3 Utensilios Proflex Rojos",
     "reference": "9100034882",
     "brand": "T-fal",
@@ -4113,6 +4092,27 @@
     "country": "México",
     "price": 559.0,
     "list_price": 559.0,
+    "on_sale": false
+  },
+  {
+    "name": "Tapa de vidrio templado de 26 cm con válvula de liberación de presión",
+    "reference": "2028097612",
+    "brand": "T-fal",
+    "category": "Tapas de vidrio",
+    "description": "El vidrio templado de Exception, con un espacio de ventilación para liberar presión y un borde de acero inoxidable, te permite monitorear el progreso de la cocción de tus platillos sin retrasar la preparación ni afectar la temperatura con aperturas innecesarias. Perfecto para utilizarlo con sartenes, ollas y cacerolas. Apto para lavavajillas, lo que hace más sencilla su limpieza.",
+    "url": "https://www.t-fal.com.mx/tapa-de-vidrio-templado-de-26-cm-con-valvula-de-liberacion-de-presion/p",
+    "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159850/2028097612_28097612_TapadevidrioSize26-01-.webp?v=639184531366130000",
+    "skus": [
+      {
+        "sku_id": "1126",
+        "sku_name": "Tapa de vidrio templado de 26 cm con válvula de liberación de presión",
+        "image": "https://tfalmx.vteximg.com.br/arquivos/ids/159850/2028097612_28097612_TapadevidrioSize26-01-.webp?v=639184531366130000"
+      }
+    ],
+    "site": "T-Fal México",
+    "country": "México",
+    "price": null,
+    "list_price": null,
     "on_sale": false
   },
   {
